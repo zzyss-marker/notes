@@ -121,9 +121,9 @@
 - [kekingcn / kkFileView](https://github.com/kekingcn / kkFileView) - Universal File Online Preview Project based on Spring-Boot
 
 ### 📚 技术文章精选
-- [AI+游戏开发：如何用 DeepSeek 打造高性能贪吃蛇游戏](https://blog.csdn.net/qq_32682301/article/details/146171988)
-- [DeepSeek、Kimi、文心一言、通义千问：AI 大语言模型的对比分析](https://blog.csdn.net/BuluAI/article/details/145615978)
-- [AI大模型应用全解析：50+案例带你走进智能时代](https://blog.csdn.net/m0_63171455/article/details/145215045)
+- [【花雕学编程】Arduino动手做（248）---ESP-AI 开放平台之新增超体艾米一号](https://blog.csdn.net/weixin_41659040/article/details/145667307)
+- [10大超好用ai软件，2024办公学习必备！](https://blog.csdn.net/HJS123456780/article/details/144291287)
+- [深入解析人工智能中的协同过滤算法及其在推荐系统中的应用与优化](https://blog.csdn.net/weixin_66401877/article/details/145249813)
 
 ### 🛡️ 安全资讯
 - [基于 AI 代码助手 DeepSeek R1 分析 OOM 问题](https://cloud.tencent.com/developer/article/2506215)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
