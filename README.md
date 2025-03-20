@@ -121,13 +121,18 @@
 - [kekingcn / kkFileView](https://github.com/kekingcn / kkFileView) - Universal File Online Preview Project based on Spring-Boot
 
 ### 📚 技术文章精选
-- [ACARS Drama](https://acarsdrama.com/)
-- [The Last Drops of Mexico City](https://mexicocitywater.longlead.com)
-- [Powers of 2 with all even digits](https://oeis.org/A068994)
+- [AI+游戏开发：如何用 DeepSeek 打造高性能贪吃蛇游戏](https://blog.csdn.net/qq_32682301/article/details/146171988)
+- [DeepSeek、Kimi、文心一言、通义千问：AI 大语言模型的对比分析](https://blog.csdn.net/BuluAI/article/details/145615978)
+- [AI大模型应用全解析：50+案例带你走进智能时代](https://blog.csdn.net/m0_63171455/article/details/145215045)
 
 ### 🛡️ 安全资讯
+- [基于 AI 代码助手 DeepSeek R1 分析 OOM 问题](https://cloud.tencent.com/developer/article/2506215)
+- [腾讯TAPD&信通院 金融研发管理交流会：AI赋能金融研发管理的智能跃迁](https://cloud.tencent.com/developer/article/2506249)
+- [【限时返场3.28】DeepSeek 重构金融研发管理！腾讯×信通院闭门会限量开放！](https://cloud.tencent.com/developer/article/2506248)
 
+### 🌟 知乎每日精选
+获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
