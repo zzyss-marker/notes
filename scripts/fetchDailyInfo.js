@@ -40,11 +40,21 @@ class DailyInfoFetcher {
         }
     }
 
+    async fetchZhihuDaily() {
+        try {
+            const feed = await parser.parseURL('https://www.zhihu.com/rss');
+            return feed.items.slice(0, 3).map(item => `- [${item.title}](${item.link})`);
+        } catch (error) {
+            return ['获取知乎每日精选失败'];
+        }
+    }
+
     async generateDailyInfo() {
-        const [githubTrends, csdnArticles, securityNews] = await Promise.all([
+        const [githubTrends, csdnArticles, securityNews, zhihuDaily] = await Promise.all([
             this.fetchGithubTrending(),
             this.fetchCSDNArticles(),
-            this.fetchSecurityNews()
+            this.fetchSecurityNews(),
+            this.fetchZhihuDaily()
         ]);
 
         return `
@@ -58,6 +68,9 @@ ${csdnArticles.join('\n')}
 
 ### 🛡️ 安全资讯
 ${securityNews.join('\n')}
+
+### 🌟 知乎每日精选
+${zhihuDaily.join('\n')}
 
 ### 💡 每日一句
 ${this.getRandomQuote()}
