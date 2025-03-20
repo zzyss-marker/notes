@@ -121,9 +121,9 @@
 - [kekingcn / kkFileView](https://github.com/kekingcn / kkFileView) - Universal File Online Preview Project based on Spring-Boot
 
 ### 📚 技术文章精选
-- [【人工智能】GPT-4 vs DeepSeek-R1：谁主导了2025年的AI技术竞争？](https://blog.csdn.net/2401_87848736/article/details/145966498)
-- [DeepSeek：开启AI联动与模型微调的无限可能](https://blog.csdn.net/beautifulmemory/article/details/145979694)
-- [【V0.dev】AI驱动的用户界面代码生成工具深度解析](https://blog.csdn.net/luomao2012/article/details/144359628)
+- [本地化部署Chatglm和防踩坑攻略](https://blog.csdn.net/2401_84495872/article/details/140736140)
+- [2026年北京邮电大学计算机考研最全经验贴（计算机、软件、网安、人工智能介绍、考情分析、初试复习、复试复习）](https://blog.csdn.net/Allen975/article/details/145271588)
+- [什么是AI模型训练？到底在训练什么？今天一次讲清楚！](https://blog.csdn.net/2401_85375186/article/details/145468594)
 
 ### 🛡️ 安全资讯
 - [基于 AI 代码助手 DeepSeek R1 分析 OOM 问题](https://cloud.tencent.com/developer/article/2506215)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
