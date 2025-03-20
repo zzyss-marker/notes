@@ -121,9 +121,9 @@
 - [kekingcn / kkFileView](https://github.com/kekingcn / kkFileView) - Universal File Online Preview Project based on Spring-Boot
 
 ### 📚 技术文章精选
-- [【花雕学编程】Arduino动手做（248）---ESP-AI 开放平台之新增超体艾米一号](https://blog.csdn.net/weixin_41659040/article/details/145667307)
-- [10大超好用ai软件，2024办公学习必备！](https://blog.csdn.net/HJS123456780/article/details/144291287)
-- [深入解析人工智能中的协同过滤算法及其在推荐系统中的应用与优化](https://blog.csdn.net/weixin_66401877/article/details/145249813)
+- [具身智能（Embodied AI）的概念、核心要素、难点及突破性进展](https://blog.csdn.net/penriver/article/details/136287650)
+- [用 LoRA 微调 Stable Diffusion：拆开炼丹炉，动手实现你的第一次 AI 绘画](https://blog.csdn.net/weixin_42426841/article/details/142670977)
+- [Ollama + DeepSeek + Dify私有化部署自己的AI Agent，收藏这一篇就够了！！](https://blog.csdn.net/Android23333/article/details/145851469)
 
 ### 🛡️ 安全资讯
 - [基于 AI 代码助手 DeepSeek R1 分析 OOM 问题](https://cloud.tencent.com/developer/article/2506215)
