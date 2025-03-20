@@ -16,7 +16,7 @@ class DailyInfoFetcher {
             
             return trends;
         } catch (error) {
-            return ['获取 GitHub 趋势失败: ' + error.message];
+            return ['获取 GitHub 趋势失败'];
         }
     }
 
@@ -28,7 +28,7 @@ class DailyInfoFetcher {
                 `- [${article.article_info.title}](https://juejin.cn/post/${article.article_info.article_id})`
             );
         } catch (error) {
-            return ['获取掘金文章失败: ' + error.message];
+            return ['获取掘金文章失败'];
         }
     }
 
@@ -46,7 +46,7 @@ class DailyInfoFetcher {
             
             return news;
         } catch (error) {
-            return ['获取安全资讯失败: ' + error.message];
+            return ['获取安全资讯失败'];
         }
     }
 
