@@ -38,19 +38,19 @@ jobs:
           # 更新日历
           CALENDAR=$(cat temp_calendar.txt)
           awk -v cal="$CALENDAR" '
-          /<!-- CALENDAR_START -->/{p=1; print; print cal; next}
-          /<!-- CALENDAR_END -->/{p=1}
-          !p{print}
-          ' README.md > README.tmp
+          BEGIN {p=1}
+          /<!-- CALENDAR_START -->/ {print; print cal; p=0}
+          /<!-- CALENDAR_END -->/ {p=1}
+          p' README.md > README.tmp
           mv README.tmp README.md
 
           # 更新每日资讯
           DAILY_INFO=$(cat temp_daily.txt)
           awk -v info="$DAILY_INFO" '
-          /<!-- DAILY_INFO_START -->/{p=1; print; print info; next}
-          /<!-- DAILY_INFO_END -->/{p=1}
-          !p{print}
-          ' README.md > README.tmp
+          BEGIN {p=1}
+          /<!-- DAILY_INFO_START -->/ {print; print info; p=0}
+          /<!-- DAILY_INFO_END -->/ {p=1}
+          p' README.md > README.tmp
           mv README.tmp README.md
           
       - name: Commit changes
