@@ -20,15 +20,18 @@ class DailyInfoFetcher {
         }
     }
 
-    async fetchJuejinPosts() {
+    async fetchHackerNews() {
         try {
-            const response = await this.httpGet('https://api.juejin.cn/recommend_api/v1/article/recommend_all_feed');
-            const articles = JSON.parse(response).data.filter(item => item.item_type === 2).slice(0, 3);
-            return articles.map(article => 
-                `- [${article.item_info.article_info.title}](https://juejin.cn/post/${article.item_info.article_id})`
-            );
+            const response = await this.httpGet('https://hacker-news.firebaseio.com/v0/topstories.json');
+            const topStoryIds = JSON.parse(response).slice(0, 3);
+            const stories = await Promise.all(topStoryIds.map(async (id) => {
+                const storyResponse = await this.httpGet(`https://hacker-news.firebaseio.com/v0/item/${id}.json`);
+                const story = JSON.parse(storyResponse);
+                return `- [${story.title}](${story.url})`;
+            }));
+            return stories;
         } catch (error) {
-            return ['获取掘金文章失败'];
+            return ['获取 Hacker News 失败'];
         }
     }
 
@@ -51,9 +54,9 @@ class DailyInfoFetcher {
     }
 
     async generateDailyInfo() {
-        const [githubTrends, juejinPosts, securityNews] = await Promise.all([
+        const [githubTrends, hackerNews, securityNews] = await Promise.all([
             this.fetchGithubTrending(),
-            this.fetchJuejinPosts(),
+            this.fetchHackerNews(),
             this.fetchSecurityNews()
         ]);
 
@@ -64,7 +67,7 @@ class DailyInfoFetcher {
 ${githubTrends.join('\n')}
 
 ### 📚 技术文章精选
-${juejinPosts.join('\n')}
+${hackerNews.join('\n')}
 
 ### 🛡️ 安全资讯
 ${securityNews.join('\n')}
