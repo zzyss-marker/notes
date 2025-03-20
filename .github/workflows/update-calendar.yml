@@ -28,10 +28,10 @@ jobs:
           
       - name: Update README
         run: |
-          # 读取新生成的日历
-          CALENDAR=$(cat temp_calendar.txt)
-          # 更新 README.md
-          sed -i "/<!-- CALENDAR_PLACEHOLDER -->/c\\${CALENDAR}" README.md
+          # 读取新生成的日历并转义特殊字符
+          CALENDAR=$(cat temp_calendar.txt | sed 's/[\/&]/\\&/g')
+          # 使用 perl 替换而不是 sed，以更好地处理特殊字符
+          perl -i -pe "s/<!-- CALENDAR_PLACEHOLDER -->/$CALENDAR/g" README.md
           
       - name: Commit changes
         run: |
