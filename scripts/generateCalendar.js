@@ -3,6 +3,7 @@ const CheckInSystem = require('./checkIn');
 function generateCalendar() {
     const checkInSystem = new CheckInSystem();
     const stats = checkInSystem.getStats();
+    const history = checkInSystem.getHistory();
     const today = new Date();
     const currentMonth = today.getMonth();
     const currentYear = today.getFullYear();
@@ -14,6 +15,12 @@ function generateCalendar() {
     
     const calendar = [];
     const weekDays = ['日', '一', '二', '三', '四', '五', '六'];
+    
+    // 创建打卡记录查找表
+    const checkInMap = {};
+    history.forEach(record => {
+        checkInMap[record.date] = record.status;
+    });
     
     // 生成日历头部
     let header = '📅 ' + currentYear + '年' + (currentMonth + 1) + '月打卡日历\n';
@@ -31,7 +38,10 @@ function generateCalendar() {
     
     // 填充日期
     for (let day = 1; day <= lastDay.getDate(); day++) {
-        currentWeek.push(day.toString().padStart(2));
+        const date = `${currentYear}-${String(currentMonth + 1).padStart(2, '0')}-${String(day).padStart(2, '0')}`;
+        const status = checkInMap[date];
+        const dayStr = status ? status : day.toString().padStart(2);
+        currentWeek.push(dayStr);
         
         if (currentWeek.length === 7) {
             calendar.push(currentWeek);
@@ -65,6 +75,11 @@ function generateCalendar() {
 🔥 当前连续: ${stats.currentStreak}天
 🏆 最长连续: ${stats.longestStreak}天
 ─────────────────────────
+
+最近打卡记录:
+${history.slice(-3).reverse().map(record => 
+    `${record.date} ${record.status} ${record.message}`
+).join('\n')}
 `;
 
     return header + calendarStr + statsInfo;
