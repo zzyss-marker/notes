@@ -52,6 +52,15 @@ jobs:
           /<!-- DAILY_INFO_END -->/ {p=1}
           p' README.md > README.tmp
           mv README.tmp README.md
+
+          # 更新打卡统计
+          CHECKIN_STATS=$(node scripts/generateCheckinStats.js)
+          awk -v stats="$CHECKIN_STATS" '
+          BEGIN {p=1}
+          /<!-- CHECKIN_STATS_START -->/ {print; print stats; p=0}
+          /<!-- CHECKIN_STATS_END -->/ {p=1}
+          p' README.md > README.tmp
+          mv README.tmp README.md
           
       - name: Commit changes
         run: |
