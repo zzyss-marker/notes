@@ -24,7 +24,7 @@ class DailyInfoFetcher {
 
     async fetchCSDNArticles() {
         try {
-            const feed = await parser.parseURL('https://rss.csdn.net/blog/rss');
+            const feed = await parser.parseURL('https://api.dbot.pp.ua/v1/rss/csdn/ai');
             return feed.items.slice(0, 3).map(item => `- [${item.title}](${item.link})`);
         } catch (error) {
             return ['获取 CSDN 文章失败'];
@@ -33,17 +33,8 @@ class DailyInfoFetcher {
 
     async fetchSecurityNews() {
         try {
-            const response = await this.httpGet('https://www.freebuf.com/');
-            const $ = cheerio.load(response);
-            const news = [];
-            
-            $('.news-info').slice(0, 3).each((i, elem) => {
-                const title = $(elem).find('a').text().trim();
-                const link = $(elem).find('a').attr('href');
-                news.push(`- [${title}](${link})`);
-            });
-            
-            return news;
+            const feed = await parser.parseURL('https://api.dbot.pp.ua/v1/rss/tencent_cloud');
+            return feed.items.slice(0, 3).map(item => `- [${item.title}](${item.link})`);
         } catch (error) {
             return ['获取安全资讯失败'];
         }
