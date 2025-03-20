@@ -121,9 +121,9 @@
 - [kekingcn / kkFileView](https://github.com/kekingcn / kkFileView) - Universal File Online Preview Project based on Spring-Boot
 
 ### 📚 技术文章精选
-- [基于 DeepSeek + Gemeni 打造 AI+前端的多人聊天室](https://blog.csdn.net/roamingcode/article/details/145792402)
-- [【Python 入门基础】—— 人工智能“超级引擎”，AI界的“瑞士军刀”，](https://blog.csdn.net/bite_zwy/article/details/145833851)
-- [让你工作效率起飞的 5 个 VSCode AI智能插件](https://blog.csdn.net/fengshi_fengshi/article/details/142930564)
+- [LangChain——Embedding 智谱AI](https://blog.csdn.net/huoshanshaohui/article/details/142881265)
+- [【机器学习】多模态AI——融合多种数据源的智能系统](https://blog.csdn.net/2202_76097976/article/details/142260951)
+- [DeepSeek AI 指南：V2、V3 和 R1 模型](https://blog.csdn.net/qq_39132095/article/details/145532313)
 
 ### 🛡️ 安全资讯
 - [基于 AI 代码助手 DeepSeek R1 分析 OOM 问题](https://cloud.tencent.com/developer/article/2506215)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
