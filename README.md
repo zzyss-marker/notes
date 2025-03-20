@@ -121,11 +121,13 @@
 - [kekingcn / kkFileView](https://github.com/kekingcn / kkFileView) - Universal File Online Preview Project based on Spring-Boot
 
 ### 📚 技术文章精选
-获取掘金文章失败
+- [ACARS Drama](https://acarsdrama.com/)
+- [The Last Drops of Mexico City](https://mexicocitywater.longlead.com)
+- [Powers of 2 with all even digits](https://oeis.org/A068994)
 
 ### 🛡️ 安全资讯
 
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
