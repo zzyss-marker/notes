@@ -1,5 +1,7 @@
 const https = require('https');
 const cheerio = require('cheerio');
+const Parser = require('rss-parser');
+const parser = new Parser();
 
 class DailyInfoFetcher {
     async fetchGithubTrending() {
@@ -20,18 +22,12 @@ class DailyInfoFetcher {
         }
     }
 
-    async fetchHackerNews() {
+    async fetchCSDNArticles() {
         try {
-            const response = await this.httpGet('https://hacker-news.firebaseio.com/v0/topstories.json');
-            const topStoryIds = JSON.parse(response).slice(0, 3);
-            const stories = await Promise.all(topStoryIds.map(async (id) => {
-                const storyResponse = await this.httpGet(`https://hacker-news.firebaseio.com/v0/item/${id}.json`);
-                const story = JSON.parse(storyResponse);
-                return `- [${story.title}](${story.url})`;
-            }));
-            return stories;
+            const feed = await parser.parseURL('https://rss.csdn.net/blog/rss');
+            return feed.items.slice(0, 3).map(item => `- [${item.title}](${item.link})`);
         } catch (error) {
-            return ['获取 Hacker News 失败'];
+            return ['获取 CSDN 文章失败'];
         }
     }
 
@@ -54,9 +50,9 @@ class DailyInfoFetcher {
     }
 
     async generateDailyInfo() {
-        const [githubTrends, hackerNews, securityNews] = await Promise.all([
+        const [githubTrends, csdnArticles, securityNews] = await Promise.all([
             this.fetchGithubTrending(),
-            this.fetchHackerNews(),
+            this.fetchCSDNArticles(),
             this.fetchSecurityNews()
         ]);
 
@@ -67,7 +63,7 @@ class DailyInfoFetcher {
 ${githubTrends.join('\n')}
 
 ### 📚 技术文章精选
-${hackerNews.join('\n')}
+${csdnArticles.join('\n')}
 
 ### 🛡️ 安全资讯
 ${securityNews.join('\n')}
