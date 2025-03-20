@@ -121,9 +121,9 @@
 - [kekingcn / kkFileView](https://github.com/kekingcn / kkFileView) - Universal File Online Preview Project based on Spring-Boot
 
 ### 📚 技术文章精选
-- [具身智能（Embodied AI）的概念、核心要素、难点及突破性进展](https://blog.csdn.net/penriver/article/details/136287650)
-- [用 LoRA 微调 Stable Diffusion：拆开炼丹炉，动手实现你的第一次 AI 绘画](https://blog.csdn.net/weixin_42426841/article/details/142670977)
-- [Ollama + DeepSeek + Dify私有化部署自己的AI Agent，收藏这一篇就够了！！](https://blog.csdn.net/Android23333/article/details/145851469)
+- [基于 DeepSeek + Gemeni 打造 AI+前端的多人聊天室](https://blog.csdn.net/roamingcode/article/details/145792402)
+- [【Python 入门基础】—— 人工智能“超级引擎”，AI界的“瑞士军刀”，](https://blog.csdn.net/bite_zwy/article/details/145833851)
+- [让你工作效率起飞的 5 个 VSCode AI智能插件](https://blog.csdn.net/fengshi_fengshi/article/details/142930564)
 
 ### 🛡️ 安全资讯
 - [基于 AI 代码助手 DeepSeek R1 分析 OOM 问题](https://cloud.tencent.com/developer/article/2506215)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
