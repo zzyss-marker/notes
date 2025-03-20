@@ -3,7 +3,7 @@ name: Update Calendar
 on:
   schedule:
     # 以下是一些常用的 cron 设置示例：
-    - cron: '0 0 * * *'    # 每天午夜 00:00
+    - cron: '0 * * * *'    # 每小时运行一次
     # - cron: '0 16 * * *'   # 每天北京时间 00:00 (UTC+8)
     # - cron: '0 */6 * * *'  # 每6小时
     # - cron: '0 8,20 * * *' # 每天 8:00 和 20:00
@@ -14,13 +14,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0    # 获取完整历史记录用于统计
       
       - name: Setup Node.js
         uses: actions/setup-node@v2
         with:
           node-version: '14'
           
-      - name: Generate Calendar
+      - name: Generate Calendar and Stats
         run: |
           node scripts/generateCalendar.js > temp_calendar.txt
           

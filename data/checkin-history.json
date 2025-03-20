@@ -1,0 +1,10 @@
+{
+  "history": [],
+  "stats": {
+    "totalDays": 0,
+    "currentStreak": 0,
+    "longestStreak": 0,
+    "lastCheckIn": null
+  },
+  "monthlyStats": {}
+} 

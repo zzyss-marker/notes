@@ -1,4 +1,8 @@
+const CheckInSystem = require('./checkIn');
+
 function generateCalendar() {
+    const checkInSystem = new CheckInSystem();
+    const stats = checkInSystem.getStats();
     const today = new Date();
     const currentMonth = today.getMonth();
     const currentYear = today.getFullYear();
@@ -53,7 +57,17 @@ function generateCalendar() {
     }
     calendarStr += '└────┴────┴────┴────┴────┴────┴────┘\n';
     
-    return header + calendarStr;
+    // 添加统计信息
+    const statsInfo = `
+📊 打卡统计
+─────────────────────────
+📅 总打卡天数: ${stats.totalDays}
+🔥 当前连续: ${stats.currentStreak}天
+🏆 最长连续: ${stats.longestStreak}天
+─────────────────────────
+`;
+
+    return header + calendarStr + statsInfo;
 }
 
 console.log(generateCalendar()); 
