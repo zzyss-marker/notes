@@ -1,6 +1,31 @@
 function generateCalendar() {
-    // Use the existing generateCalendar function logic
-    const calendarStr = `...`; // Replace with actual calendar generation logic
+    const today = new Date();
+    const currentMonth = today.getMonth();
+    const currentYear = today.getFullYear();
+    
+    const firstDay = new Date(currentYear, currentMonth, 1);
+    const lastDay = new Date(currentYear, currentMonth + 1, 0);
+    
+    const weekDays = ['日', '一', '二', '三', '四', '五', '六'];
+    
+    let calendarStr = '<table><tr>';
+    weekDays.forEach(day => calendarStr += `<th>${day}</th>`);
+    calendarStr += '</tr><tr>';
+    
+    for (let i = 0; i < firstDay.getDay(); i++) {
+        calendarStr += '<td></td>';
+    }
+    
+    for (let day = 1; day <= lastDay.getDate(); day++) {
+        const isToday = day === today.getDate();
+        calendarStr += `<td${isToday ? ' class="today"' : ''}>${day}</td>`;
+        
+        if ((day + firstDay.getDay()) % 7 === 0) {
+            calendarStr += '</tr><tr>';
+        }
+    }
+    
+    calendarStr += '</tr></table>';
     document.getElementById('calendar').innerHTML = calendarStr;
 }
 
