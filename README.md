@@ -121,9 +121,9 @@
 - [kekingcn / kkFileView](https://github.com/kekingcn / kkFileView) - Universal File Online Preview Project based on Spring-Boot
 
 ### 📚 技术文章精选
-- [本地化部署Chatglm和防踩坑攻略](https://blog.csdn.net/2401_84495872/article/details/140736140)
-- [2026年北京邮电大学计算机考研最全经验贴（计算机、软件、网安、人工智能介绍、考情分析、初试复习、复试复习）](https://blog.csdn.net/Allen975/article/details/145271588)
-- [什么是AI模型训练？到底在训练什么？今天一次讲清楚！](https://blog.csdn.net/2401_85375186/article/details/145468594)
+- [如何在Home Assistant中部署AI语音助手(Gemini、DeepSeek、ChatGPT都可)](https://blog.csdn.net/Slaven230101/article/details/145668356)
+- [解锁AIGC新时代：通义万相2.1与蓝耘智算平台的完美结合引领AI内容生成革命](https://blog.csdn.net/2301_81313679/article/details/146111299)
+- [【论文阅读|具身智能】Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI](https://blog.csdn.net/chien__/article/details/143974998)
 
 ### 🛡️ 安全资讯
 - [基于 AI 代码助手 DeepSeek R1 分析 OOM 问题](https://cloud.tencent.com/developer/article/2506215)
