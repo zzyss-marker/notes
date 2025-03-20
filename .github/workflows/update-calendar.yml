@@ -1,4 +1,4 @@
-name: Update Calendar
+name: Update Calendar and Daily Info
 
 on:
   schedule:
@@ -10,7 +10,7 @@ on:
   workflow_dispatch:      # 允许手动触发
 
 jobs:
-  update-calendar:
+  update-info:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -22,18 +22,33 @@ jobs:
         with:
           node-version: '14'
           
+      - name: Install dependencies
+        run: npm install cheerio
+          
       - name: Generate Calendar
         run: |
           node scripts/generateCalendar.js > temp_calendar.txt
           
+      - name: Generate Daily Info
+        run: |
+          node scripts/fetchDailyInfo.js > temp_daily.txt
+          
       - name: Update README
         run: |
-          # 读取新生成的日历
+          # 更新日历
           CALENDAR=$(cat temp_calendar.txt)
-          # 在临时文件中进行替换
           awk -v cal="$CALENDAR" '
           /<!-- CALENDAR_START -->/{p=1; print; print cal; next}
           /<!-- CALENDAR_END -->/{p=1}
+          !p{print}
+          ' README.md > README.tmp
+          mv README.tmp README.md
+
+          # 更新每日资讯
+          DAILY_INFO=$(cat temp_daily.txt)
+          awk -v info="$DAILY_INFO" '
+          /<!-- DAILY_INFO_START -->/{p=1; print; print info; next}
+          /<!-- DAILY_INFO_END -->/{p=1}
           !p{print}
           ' README.md > README.tmp
           mv README.tmp README.md
@@ -43,5 +58,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git commit -m "Update calendar" || exit 0
+          git commit -m "Update calendar and daily info" || exit 0
           git push 
