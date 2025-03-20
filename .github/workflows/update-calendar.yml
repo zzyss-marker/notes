@@ -1,0 +1,36 @@
+name: Update Calendar
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 每天午夜运行
+  workflow_dispatch:      # 允许手动触发
+
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+          
+      - name: Generate Calendar
+        run: |
+          node scripts/generateCalendar.js > temp_calendar.txt
+          
+      - name: Update README
+        run: |
+          # 读取新生成的日历
+          CALENDAR=$(cat temp_calendar.txt)
+          # 更新 README.md
+          sed -i "/<!-- CALENDAR_PLACEHOLDER -->/c\\${CALENDAR}" README.md
+          
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update calendar" || exit 0
+          git push 
