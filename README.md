@@ -121,18 +121,18 @@
 - [kekingcn / kkFileView](https://github.com/kekingcn / kkFileView) - Universal File Online Preview Project based on Spring-Boot
 
 ### 📚 技术文章精选
-- [AI本地部署是什么意思？AI本地部署的用途和好处](https://blog.csdn.net/liuliu19888/article/details/145517767)
-- [DeepSeek 突然来袭，AI 大模型变革的危机与转机藏在哪？](https://blog.csdn.net/2401_82648291/article/details/145573012)
-- [office高效AI插件](https://blog.csdn.net/YXWik/article/details/145575228)
+- [《YOLO炼丹指南：Ultralytics YOLO模型训练全攻略》：此文为AI自动生成](https://blog.csdn.net/zheng_ruiguo/article/details/146047654)
+- [最详细！Windows下的CUDA与cuDNN详细安装教程](https://blog.csdn.net/weixin_52677672/article/details/135853106)
+- [使用 Deepseek AI 制作视频的完整教程](https://blog.csdn.net/solblog/article/details/145452772)
 
 ### 🛡️ 安全资讯
-- [腾讯TAPD&信通院 金融研发管理交流会：AI赋能金融研发管理的智能跃迁](https://cloud.tencent.com/developer/article/2506249)
-- [【限时返场3.28】DeepSeek 重构金融研发管理！腾讯×信通院闭门会限量开放！](https://cloud.tencent.com/developer/article/2506248)
 - [从原理到实践：万字详解 Kubernetes 核心组件与指标监控](https://cloud.tencent.com/developer/article/2506250)
+- [发布setup-tencent-kona：在GitHub上玩转Kona JDK](https://cloud.tencent.com/developer/article/2506247)
+- [【直播笔记】十问腾讯混元快思考模型Turbo S](https://cloud.tencent.com/developer/article/2506251)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
