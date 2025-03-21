@@ -121,14 +121,14 @@
 - [kekingcn / kkFileView](https://github.com/kekingcn / kkFileView) - Universal File Online Preview Project based on Spring-Boot
 
 ### 📚 技术文章精选
-- [运行fastGPT 第五步 配置FastGPT和上传知识库 打造AI客服](https://blog.csdn.net/weixin_46801290/article/details/145199514)
-- [ComfyUI实现老照片修复——AI修复老照片（ComfyUI-ReActor / ReSwapper）解决天坑问题及加速pip下载](https://blog.csdn.net/snans/article/details/145306908)
-- [Cursor神操作手册：程序员必学的10倍效率提升秘籍｜2025年度AI工具榜首解析](https://blog.csdn.net/weixin_43415131/article/details/145907986)
+- [【2024年8月】盘点国内可用的 Web Search API，仅此一家 —— 博查AI搜索，可平替Bing Search API](https://blog.csdn.net/cxk19980802/article/details/140919049)
+- [探索高性能AI识别和边缘计算 | NVIDIA Jetson Orin Nano 8GB 开发套件的全面测评](https://blog.csdn.net/weixin_41793160/article/details/146084544)
+- [IntelliJ IDEA 中集成 Continue、DeepSeek 与硅基流动平台：开启 AI 编程新体验](https://blog.csdn.net/weixin_44867684/article/details/145615627)
 
 ### 🛡️ 安全资讯
 - [从原理到实践：万字详解 Kubernetes 核心组件与指标监控](https://cloud.tencent.com/developer/article/2506250)
-- [发布setup-tencent-kona：在GitHub上玩转Kona JDK](https://cloud.tencent.com/developer/article/2506247)
 - [【直播笔记】十问腾讯混元快思考模型Turbo S](https://cloud.tencent.com/developer/article/2506251)
+- [一个会“踢足球”的机器人有什么商业价值？｜人形机器人探访笔记](https://cloud.tencent.com/developer/article/2506264)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
