@@ -121,9 +121,9 @@
 - [clash-verge-rev / clash-verge-rev](https://github.com/clash-verge-rev / clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
 ### 📚 技术文章精选
-- [JetBrains AI Assistant使用指南(一)](https://blog.csdn.net/2301_76601027/article/details/145114990)
-- [【论文阅读|具身智能】Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI](https://blog.csdn.net/chien__/article/details/143974998)
-- [建筑师设计师必备的14个AI工具](https://blog.csdn.net/shebao3333/article/details/142546309)
+- [解锁DeepSeek-R1大模型微调：从训练到部署，打造定制化AI会话系统](https://blog.csdn.net/c18213590220/article/details/146135568)
+- [14 款必备 AI 编程助手和工具推荐](https://blog.csdn.net/regan720/article/details/144827672)
+- [idea超级AI插件，让 AI 为 Java 工程师](https://blog.csdn.net/lujiawei00/article/details/146210933)
 
 ### 🛡️ 安全资讯
 - [突破极限！R2模型如何比肩o3 mini？这3大关键点决定成败！](https://cloud.tencent.com/developer/article/2506235)
