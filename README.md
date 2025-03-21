@@ -121,18 +121,18 @@
 - [kekingcn / kkFileView](https://github.com/kekingcn / kkFileView) - Universal File Online Preview Project based on Spring-Boot
 
 ### 📚 技术文章精选
-- [AI智能体的开发流程](https://blog.csdn.net/dt_dev/article/details/145074053)
-- [DeepSeek + Dify + Ollama + Docker + Linux 私有化部署，构建你的专属私人 AI 助手](https://blog.csdn.net/s13166803785/article/details/145692216)
-- [抖音热门玩法！AI生成猫咪做饭视频，条条爆款，一天收入200+](https://blog.csdn.net/2301_80239908/article/details/145112326)
+- [IDEA + DeepSeek 实现 AI辅助编程，提升效率10倍（全网超详细的终极图文实战指南）](https://blog.csdn.net/martian665/article/details/145923641)
+- [【AIGC】国内AI工具复现GPTs效果详解](https://blog.csdn.net/2201_75539691/article/details/143606786)
+- [人机共创：AI与人类编剧如何携手打造电影新纪元](https://blog.csdn.net/qq_32682301/article/details/146109572)
 
 ### 🛡️ 安全资讯
-- [【直播笔记】十问腾讯混元快思考模型Turbo S](https://cloud.tencent.com/developer/article/2506251)
-- [一个会“踢足球”的机器人有什么商业价值？｜人形机器人探访笔记](https://cloud.tencent.com/developer/article/2506264)
 - [汤道生详解AI 思考：腾讯要打造「好用的AI」](https://cloud.tencent.com/developer/article/2506263)
+- [突破极限！R2模型如何比肩o3 mini？这3大关键点决定成败！](https://cloud.tencent.com/developer/article/2506235)
+- [万字详解：K8s核心组件与指标监控体系](https://cloud.tencent.com/developer/article/2506252)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
