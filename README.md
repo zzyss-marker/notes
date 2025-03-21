@@ -121,9 +121,9 @@
 - [kekingcn / kkFileView](https://github.com/kekingcn / kkFileView) - Universal File Online Preview Project based on Spring-Boot
 
 ### 📚 技术文章精选
-- [Ai相关电子书](https://blog.csdn.net/jwandbj/article/details/138343821)
-- [数智读书笔记系列016 从《理解和改变世界》探寻AI时代的知识与智能密码](https://blog.csdn.net/kkiron/article/details/146169712)
-- [基于Python深度学习【眼疾识别】系统设计与实现+人工智能+机器学习+TensorFlow算法](https://blog.csdn.net/meridian002/article/details/144961810)
+- [DeepSeek：开启AI联动与模型微调的无限可能](https://blog.csdn.net/beautifulmemory/article/details/145979694)
+- [DeepSeek与ChatGPT：会取代搜索引擎和人工客服的人工智能革命](https://blog.csdn.net/lrq13965748542/article/details/145735867)
+- [蓝耘科技发布DeepSeek满血版：引领AI推理革新，开启智慧新时代](https://blog.csdn.net/2301_81313679/article/details/145826935)
 
 ### 🛡️ 安全资讯
 - [腾讯TAPD&信通院 金融研发管理交流会：AI赋能金融研发管理的智能跃迁](https://cloud.tencent.com/developer/article/2506249)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
