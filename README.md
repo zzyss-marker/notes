@@ -121,9 +121,9 @@
 - [clash-verge-rev / clash-verge-rev](https://github.com/clash-verge-rev / clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
 ### 📚 技术文章精选
-- [DeepSeek使用指南：99%的人都没有用对的AI指令技巧，再也不需要Chatgpt了！](https://blog.csdn.net/qq_63911508/article/details/145408660)
-- [智能体之斯坦福AI小镇（Generative Agents: Interactive Simulacra of Human Behavior）](https://blog.csdn.net/qq_52053775/article/details/139194177)
-- [【人工智能】Deepseek 与 Kimi 联袂：重塑 PPT 创作，开启智能演示新纪元](https://blog.csdn.net/2301_80350265/article/details/145944662)
+- [【2025最新】LangGraph从入门到精通：手把手构建AI智能体的终极指南｜保姆级代码+企业级项目实战](https://blog.csdn.net/qq_41797451/article/details/145562267)
+- [英伟达2025 GTC大会：引领AI与计算的新纪元](https://blog.csdn.net/yu198991/article/details/146233601)
+- [AI之OpenBB：OpenBB(免费且完全开源的金融分析平台)的简介、安装和使用方法、案例应用之详细攻略](https://blog.csdn.net/qq_41185868/article/details/141338130)
 
 ### 🛡️ 安全资讯
 - [突破极限！R2模型如何比肩o3 mini？这3大关键点决定成败！](https://cloud.tencent.com/developer/article/2506235)
