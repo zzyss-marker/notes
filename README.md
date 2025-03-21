@@ -121,9 +121,9 @@
 - [clash-verge-rev / clash-verge-rev](https://github.com/clash-verge-rev / clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
 ### 📚 技术文章精选
-- [AI 程序员的4个分身 | 代码生成专家+注释精灵+API集成助手+智能调试伙伴](https://blog.csdn.net/TONGYI_Lingma/article/details/145596383)
-- [【AI】推荐12个AI智能体应用开发平台](https://blog.csdn.net/ZYC88888/article/details/145454314)
-- [在本地电脑部署属于你的AI大模型，非常详细收藏我这一篇就够了！](https://blog.csdn.net/m0_63171455/article/details/144383895)
+- [AI大模型实战案例：8个让你效率翻倍的真实应用](https://blog.csdn.net/aolan123/article/details/143988679)
+- [Windows系统电脑本地部署AI音乐创作工具并实现无公网IP远程使用](https://blog.csdn.net/sixpp/article/details/139417669)
+- [关于自己部署AI大模型踩的坑（三）—— 部署](https://blog.csdn.net/John_Lenon/article/details/141758530)
 
 ### 🛡️ 安全资讯
 - [汤道生详解AI 思考：腾讯要打造「好用的AI」](https://cloud.tencent.com/developer/article/2506263)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
