@@ -121,9 +121,9 @@
 - [kekingcn / kkFileView](https://github.com/kekingcn / kkFileView) - Universal File Online Preview Project based on Spring-Boot
 
 ### 📚 技术文章精选
-- [IDEA + DeepSeek 实现 AI辅助编程，提升效率10倍（全网超详细的终极图文实战指南）](https://blog.csdn.net/martian665/article/details/145923641)
-- [【AIGC】国内AI工具复现GPTs效果详解](https://blog.csdn.net/2201_75539691/article/details/143606786)
-- [人机共创：AI与人类编剧如何携手打造电影新纪元](https://blog.csdn.net/qq_32682301/article/details/146109572)
+- [Step-Audio：开源语音交互新标杆！这个国产AI能说方言会rap，1个模型搞定ASR+TTS+角色扮演](https://blog.csdn.net/qq_19841021/article/details/145717630)
+- [国产AI新秀：DeepSeek的前生今世](https://blog.csdn.net/sixpp/article/details/145636885)
+- [没有 Manus 邀请码？Qwen + OpenManus 开源替代方案一样能领略 AI 智能体的力量](https://blog.csdn.net/obullxl/article/details/146106816)
 
 ### 🛡️ 安全资讯
 - [汤道生详解AI 思考：腾讯要打造「好用的AI」](https://cloud.tencent.com/developer/article/2506263)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
