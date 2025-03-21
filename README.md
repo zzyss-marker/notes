@@ -121,9 +121,9 @@
 - [kekingcn / kkFileView](https://github.com/kekingcn / kkFileView) - Universal File Online Preview Project based on Spring-Boot
 
 ### 📚 技术文章精选
-- [《YOLO炼丹指南：Ultralytics YOLO模型训练全攻略》：此文为AI自动生成](https://blog.csdn.net/zheng_ruiguo/article/details/146047654)
-- [最详细！Windows下的CUDA与cuDNN详细安装教程](https://blog.csdn.net/weixin_52677672/article/details/135853106)
-- [使用 Deepseek AI 制作视频的完整教程](https://blog.csdn.net/solblog/article/details/145452772)
+- [运行fastGPT 第五步 配置FastGPT和上传知识库 打造AI客服](https://blog.csdn.net/weixin_46801290/article/details/145199514)
+- [ComfyUI实现老照片修复——AI修复老照片（ComfyUI-ReActor / ReSwapper）解决天坑问题及加速pip下载](https://blog.csdn.net/snans/article/details/145306908)
+- [Cursor神操作手册：程序员必学的10倍效率提升秘籍｜2025年度AI工具榜首解析](https://blog.csdn.net/weixin_43415131/article/details/145907986)
 
 ### 🛡️ 安全资讯
 - [从原理到实践：万字详解 Kubernetes 核心组件与指标监控](https://cloud.tencent.com/developer/article/2506250)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
