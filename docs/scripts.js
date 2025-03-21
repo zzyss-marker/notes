@@ -100,6 +100,9 @@ function checkIn() {
     // 刷新界面
     loadHistory();
     generateCalendar();
+    
+    // 备份数据
+    backupData();
 }
 
 function loadHistory() {
@@ -176,6 +179,9 @@ function addTodo() {
     todoInput.value = '';
     
     loadTodos();
+    
+    // 备份数据
+    backupData();
 }
 
 // 切换待办事项状态
@@ -185,6 +191,9 @@ function toggleTodo(index) {
     localStorage.setItem('todos', JSON.stringify(todos));
     
     loadTodos();
+    
+    // 备份数据
+    backupData();
 }
 
 // 删除待办事项
@@ -198,6 +207,9 @@ function deleteTodo(index) {
     localStorage.setItem('todos', JSON.stringify(todos));
     
     loadTodos();
+    
+    // 备份数据
+    backupData();
 }
 
 // 获取统计信息
