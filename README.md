@@ -121,9 +121,9 @@
 - [clash-verge-rev / clash-verge-rev](https://github.com/clash-verge-rev / clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
 ### 📚 技术文章精选
-- [解锁DeepSeek-R1大模型微调：从训练到部署，打造定制化AI会话系统](https://blog.csdn.net/c18213590220/article/details/146135568)
-- [14 款必备 AI 编程助手和工具推荐](https://blog.csdn.net/regan720/article/details/144827672)
-- [idea超级AI插件，让 AI 为 Java 工程师](https://blog.csdn.net/lujiawei00/article/details/146210933)
+- [公司数据不泄露，DeepSeek R1本地化部署+web端访问+个人知识库搭建与使用，喂饭级实操教程，老旧笔记本竟跑出企业级AI](https://blog.csdn.net/m0_63171455/article/details/145404500)
+- [同事吹只需简单调用腾讯云DeepSeek API，就能实现智能AI客服？我表示...](https://blog.csdn.net/weixin_43970743/article/details/145705342)
+- [Java程序员的AI之LangChain4j（一）从零到企业级AI开发](https://blog.csdn.net/qq_42731358/article/details/142870282)
 
 ### 🛡️ 安全资讯
 - [突破极限！R2模型如何比肩o3 mini？这3大关键点决定成败！](https://cloud.tencent.com/developer/article/2506235)
