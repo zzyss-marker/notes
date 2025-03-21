@@ -121,9 +121,9 @@
 - [clash-verge-rev / clash-verge-rev](https://github.com/clash-verge-rev / clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
 ### 📚 技术文章精选
-- [【人工智能】Transformers之Pipeline（十九）：文生文（text2text-generation）](https://blog.csdn.net/weixin_48007632/article/details/142453978)
-- [基于AI的智能开发环境—Trae在Web开发中的应用实战与性能评估【Trae项目实战】](https://blog.csdn.net/weixin_52908342/article/details/145775367)
-- [技术演进中的抗拒与共生：全栈工程师视角看AI焦虑](https://blog.csdn.net/RenGJ010617/article/details/146053916)
+- [【AI大模型】Cherry Studio和Deepseek模型搭建本地知识库+硅基流动API调用+本地ollama模型调用](https://blog.csdn.net/jin739738709/article/details/145516549)
+- [从零到一：使用Trae快速搭建AI对话小程序页面](https://blog.csdn.net/qq_31647491/article/details/145798895)
+- [Trae AI 上新 SSHremote ，服务器的 Python接口日志排查实战](https://blog.csdn.net/diandianxiyu/article/details/146330415)
 
 ### 🛡️ 安全资讯
 - [突破极限！R2模型如何比肩o3 mini？这3大关键点决定成败！](https://cloud.tencent.com/developer/article/2506235)
