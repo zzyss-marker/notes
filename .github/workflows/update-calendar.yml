@@ -26,7 +26,7 @@ jobs:
           node-version: '18'
           
       - name: Install dependencies
-        run: npm ci
+        run: npm ci || npm install
           
       - name: Generate Calendar and Stats
         run: |
@@ -34,16 +34,27 @@ jobs:
           
       - name: Generate Daily Info
         run: |
-          node scripts/fetchDailyInfo.js > temp_daily.txt
+          node scripts/fetchDailyInfo.js > temp_daily.txt || echo "获取每日资讯失败" > temp_daily.txt
           
       - name: Update README
         run: |
+          # 检查临时文件是否存在
+          if [ ! -f "temp_calendar.txt" ]; then
+            echo "临时日历文件不存在，生成空日历"
+            echo "```\n暂无日历数据\n```" > temp_calendar.txt
+          fi
+          
+          if [ ! -f "temp_stats.txt" ]; then
+            echo "临时统计文件不存在，生成空统计"
+            echo "**本月统计：**\n- 打卡天数：0\n- 连续打卡：0天\n- 最长连续：0天\n- 总打卡天数：0天" > temp_stats.txt
+          fi
+          
           # 更新日历
           CALENDAR=$(cat temp_calendar.txt)
           awk -v cal="$CALENDAR" '
           BEGIN {p=1}
           /<!-- CALENDAR_START -->/ {print; print cal; p=0}
-          /<!-- CALENDAR_END -->/ {p=1}
+          /<!-- CALENDAR_END -->/ {p=1; print; next}
           p' README.md > README.tmp
           mv README.tmp README.md
 
@@ -52,23 +63,25 @@ jobs:
           awk -v stats="$STATS" '
           BEGIN {p=1}
           /<!-- STATS_START -->/ {print; print stats; p=0}
-          /<!-- STATS_END -->/ {p=1}
+          /<!-- STATS_END -->/ {p=1; print; next}
           p' README.md > README.tmp
           mv README.tmp README.md
 
           # 更新每日资讯
-          DAILY_INFO=$(cat temp_daily.txt)
-          awk -v info="$DAILY_INFO" '
-          BEGIN {p=1}
-          /<!-- DAILY_INFO_START -->/ {print; print info; p=0}
-          /<!-- DAILY_INFO_END -->/ {p=1}
-          p' README.md > README.tmp
-          mv README.tmp README.md
+          if [ -f "temp_daily.txt" ]; then
+            DAILY_INFO=$(cat temp_daily.txt)
+            awk -v info="$DAILY_INFO" '
+            BEGIN {p=1}
+            /<!-- DAILY_INFO_START -->/ {print; print info; p=0}
+            /<!-- DAILY_INFO_END -->/ {p=1; print; next}
+            p' README.md > README.tmp
+            mv README.tmp README.md
+          fi
           
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git commit -m "Update README with latest check-in data" || exit 0
-          git push 
+          git commit -m "Update README with latest check-in data" || echo "No changes to commit"
+          git push || echo "No changes to push"

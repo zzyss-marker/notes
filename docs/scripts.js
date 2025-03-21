@@ -308,4 +308,14 @@ document.addEventListener('DOMContentLoaded', () => {
     generateCalendar();
     loadHistory();
     loadTodos();
+    
+    // 添加导出按钮
+    const exportBtn = document.createElement('button');
+    exportBtn.textContent = '导出数据并更新 README';
+    exportBtn.className = 'export-btn';
+    exportBtn.onclick = backupData;
+    
+    // 添加到页面
+    const checkinForm = document.getElementById('checkin-form');
+    checkinForm.appendChild(exportBtn);
 }); 

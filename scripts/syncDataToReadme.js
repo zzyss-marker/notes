@@ -4,26 +4,47 @@ const path = require('path');
 // 读取打卡数据
 function readCheckInData() {
     try {
-        // 尝试从 docs 目录读取数据（如果存在）
-        if (fs.existsSync(path.join(__dirname, '../docs/data'))) {
-            const historyData = fs.readFileSync(path.join(__dirname, '../docs/data/checkin-history.json'), 'utf8');
+        // 首先尝试从 data/localStorage-backup.json 读取数据
+        if (fs.existsSync(path.join(__dirname, '../data/localStorage-backup.json'))) {
+            console.log('从 localStorage 备份读取数据');
+            const localStorageData = fs.readFileSync(path.join(__dirname, '../data/localStorage-backup.json'), 'utf8');
+            const data = JSON.parse(localStorageData);
+            
+            if (data.checkinHistory) {
+                return {
+                    history: JSON.parse(data.checkinHistory || '[]'),
+                    stats: JSON.parse(data.stats || '{}')
+                };
+            }
+        }
+        
+        // 如果没有找到 localStorage 备份，尝试从 CheckInSystem 的数据文件读取
+        if (fs.existsSync(path.join(__dirname, '../data/checkin-history.json'))) {
+            console.log('从 CheckInSystem 数据文件读取数据');
+            const historyData = fs.readFileSync(path.join(__dirname, '../data/checkin-history.json'), 'utf8');
             return JSON.parse(historyData);
         }
         
-        // 如果 docs/data 不存在，则从 localStorage 备份文件读取
-        if (fs.existsSync(path.join(__dirname, '../data/localStorage-backup.json'))) {
-            const localStorageData = fs.readFileSync(path.join(__dirname, '../data/localStorage-backup.json'), 'utf8');
-            const data = JSON.parse(localStorageData);
-            return {
-                history: JSON.parse(data.checkinHistory || '[]')
-            };
-        }
-        
         // 如果都不存在，返回空数据
-        return { history: [] };
+        console.log('未找到数据，返回空数据');
+        return { 
+            history: [],
+            stats: {
+                totalDays: 0,
+                currentStreak: 0,
+                longestStreak: 0
+            }
+        };
     } catch (error) {
         console.error('读取打卡数据失败:', error);
-        return { history: [] };
+        return { 
+            history: [],
+            stats: {
+                totalDays: 0,
+                currentStreak: 0,
+                longestStreak: 0
+            }
+        };
     }
 }
 

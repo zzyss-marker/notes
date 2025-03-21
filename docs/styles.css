@@ -179,4 +179,47 @@ th {
     .stats p {
         margin-bottom: 5px;
     }
+}
+
+/* 导出按钮样式 */
+.export-btn {
+    margin-top: 15px;
+    background-color: #27ae60;
+}
+
+.export-btn:hover {
+    background-color: #219653;
+}
+
+/* 备份提示信息样式 */
+.backup-msg {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+    max-width: 80%;
+    width: 500px;
+}
+
+.backup-msg p {
+    margin-bottom: 10px;
+}
+
+.backup-msg ol {
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+
+.backup-msg button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 4px;
+    cursor: pointer;
 } 
