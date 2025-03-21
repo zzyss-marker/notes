@@ -121,9 +121,9 @@
 - [kekingcn / kkFileView](https://github.com/kekingcn / kkFileView) - Universal File Online Preview Project based on Spring-Boot
 
 ### 📚 技术文章精选
-- [如何使用AI工具cursor(内置ChatGPT 4o+claude-3.5）](https://blog.csdn.net/2401_83283514/article/details/144836518)
-- [AI、大数据、机器学习、深度学习、神经网络之间的关系详解](https://blog.csdn.net/shenfangda520/article/details/144612719)
-- [基于Python的金融领域AI训练数据抓取实战（完整技术解析）](https://blog.csdn.net/qq_44273429/article/details/146308529)
+- [AI-基于sherpa-onnx集成各SST、ASR、TTS模型](https://blog.csdn.net/qq_42137577/article/details/144658471)
+- [开源模型应用落地-工具使用篇-Spring AI（七）](https://blog.csdn.net/m0_74824877/article/details/144789244)
+- [DeepSeek接入微信全攻略：开启AI社交新体验](https://blog.csdn.net/fq1986614/article/details/145487962)
 
 ### 🛡️ 安全资讯
 - [从原理到实践：万字详解 Kubernetes 核心组件与指标监控](https://cloud.tencent.com/developer/article/2506250)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
