@@ -121,9 +121,9 @@
 - [clash-verge-rev / clash-verge-rev](https://github.com/clash-verge-rev / clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
 ### 📚 技术文章精选
-- [【AI大模型】Cherry Studio和Deepseek模型搭建本地知识库+硅基流动API调用+本地ollama模型调用](https://blog.csdn.net/jin739738709/article/details/145516549)
-- [从零到一：使用Trae快速搭建AI对话小程序页面](https://blog.csdn.net/qq_31647491/article/details/145798895)
-- [Trae AI 上新 SSHremote ，服务器的 Python接口日志排查实战](https://blog.csdn.net/diandianxiyu/article/details/146330415)
+- [AI 视频争霸：通义万相 2.1 凭啥让画面质量和稳定性远超同行？](https://blog.csdn.net/weixin_73295475/article/details/146039922)
+- [SolidWorks + AI：利用 DeepSeek AI 自动生成 VBA Macro 宏，实现智能化建模！](https://blog.csdn.net/wugang1228/article/details/145635396)
+- [vLLM+Nginx+4090打造DeepSeek-R1-32B高可用大模型集群，助力企业拥抱AI时代](https://blog.csdn.net/Python_cocola/article/details/145887857)
 
 ### 🛡️ 安全资讯
 - [突破极限！R2模型如何比肩o3 mini？这3大关键点决定成败！](https://cloud.tencent.com/developer/article/2506235)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
