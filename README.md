@@ -121,18 +121,18 @@
 - [clash-verge-rev / clash-verge-rev](https://github.com/clash-verge-rev / clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
 ### 📚 技术文章精选
-- [保姆级教程来袭！AI笔记神器NotebookLM超全攻略](https://blog.csdn.net/m0_37733448/article/details/146165820)
-- [【Ai】使用AnythingLLM访问DeepSeek，界面友好，API调用](https://blog.csdn.net/wlddhj/article/details/145713875)
-- [RVC-WebUI: 轻松实现高质量AI语音转换的开源工具](https://blog.csdn.net/2401_87189860/article/details/143156471)
+- [JetBrains AI Assistant使用指南(一)](https://blog.csdn.net/2301_76601027/article/details/145114990)
+- [【论文阅读|具身智能】Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI](https://blog.csdn.net/chien__/article/details/143974998)
+- [建筑师设计师必备的14个AI工具](https://blog.csdn.net/shebao3333/article/details/142546309)
 
 ### 🛡️ 安全资讯
-- [汤道生详解AI 思考：腾讯要打造「好用的AI」](https://cloud.tencent.com/developer/article/2506263)
 - [突破极限！R2模型如何比肩o3 mini？这3大关键点决定成败！](https://cloud.tencent.com/developer/article/2506235)
+- [ICLR 2025｜腾讯优图实验室6篇论文入选，含多模态大语言模型、人脸识别等研究方向](https://cloud.tencent.com/developer/article/2506269)
 - [万字详解：K8s核心组件与指标监控体系](https://cloud.tencent.com/developer/article/2506252)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
