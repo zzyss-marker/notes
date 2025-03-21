@@ -121,9 +121,9 @@
 - [kekingcn / kkFileView](https://github.com/kekingcn / kkFileView) - Universal File Online Preview Project based on Spring-Boot
 
 ### 📚 技术文章精选
-- [【2024年8月】盘点国内可用的 Web Search API，仅此一家 —— 博查AI搜索，可平替Bing Search API](https://blog.csdn.net/cxk19980802/article/details/140919049)
-- [探索高性能AI识别和边缘计算 | NVIDIA Jetson Orin Nano 8GB 开发套件的全面测评](https://blog.csdn.net/weixin_41793160/article/details/146084544)
-- [IntelliJ IDEA 中集成 Continue、DeepSeek 与硅基流动平台：开启 AI 编程新体验](https://blog.csdn.net/weixin_44867684/article/details/145615627)
+- [如何使用AI工具cursor(内置ChatGPT 4o+claude-3.5）](https://blog.csdn.net/2401_83283514/article/details/144836518)
+- [AI、大数据、机器学习、深度学习、神经网络之间的关系详解](https://blog.csdn.net/shenfangda520/article/details/144612719)
+- [基于Python的金融领域AI训练数据抓取实战（完整技术解析）](https://blog.csdn.net/qq_44273429/article/details/146308529)
 
 ### 🛡️ 安全资讯
 - [从原理到实践：万字详解 Kubernetes 核心组件与指标监控](https://cloud.tencent.com/developer/article/2506250)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
