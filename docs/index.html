@@ -1,20 +1,38 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Check-In System</title>
+    <title>学习打卡系统</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>Check-In System</h1>
-    <div id="calendar"></div>
-    <div id="checkin-form">
-        <input type="text" id="status" placeholder="Status">
-        <input type="text" id="message" placeholder="Message">
-        <button onclick="checkIn()">Check In</button>
+    <h1>学习打卡系统</h1>
+    
+    <div id="calendar">
+        <!-- 日历将通过 JavaScript 生成 -->
     </div>
-    <div id="history"></div>
+    
+    <div id="checkin-form">
+        <h2>📝 今日打卡</h2>
+        <input type="text" id="status" placeholder="状态 (例如: ✅, 🔄, ❌)">
+        <input type="text" id="message" placeholder="今日学习内容">
+        <button onclick="checkIn()">打卡</button>
+    </div>
+    
+    <div id="todo-list">
+        <h2>📋 待办事项</h2>
+        <input type="text" id="todo-input" placeholder="添加新任务">
+        <button onclick="addTodo()">添加任务</button>
+        <ul id="todos">
+            <!-- 待办事项将通过 JavaScript 生成 -->
+        </ul>
+    </div>
+    
+    <div id="history">
+        <!-- 历史记录将通过 JavaScript 生成 -->
+    </div>
+    
     <script src="scripts.js"></script>
 </body>
 </html> 
