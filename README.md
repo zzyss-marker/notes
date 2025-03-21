@@ -116,14 +116,14 @@
 ## 📰 今日资讯 (2025/3/21)
 
 ### 🔥 GitHub 热门项目
-- [SakanaAI / AI-Scientist](https://github.com/SakanaAI / AI-Scientist) - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
-- [sinclairtarget / git-who](https://github.com/sinclairtarget / git-who) - Git blame for file trees
-- [kekingcn / kkFileView](https://github.com/kekingcn / kkFileView) - Universal File Online Preview Project based on Spring-Boot
+- [OpenBB-finance / OpenBB](https://github.com/OpenBB-finance / OpenBB) - Investment Research for Everyone, Everywhere.
+- [toeverything / AFFiNE](https://github.com/toeverything / AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
+- [clash-verge-rev / clash-verge-rev](https://github.com/clash-verge-rev / clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
 ### 📚 技术文章精选
-- [Step-Audio：开源语音交互新标杆！这个国产AI能说方言会rap，1个模型搞定ASR+TTS+角色扮演](https://blog.csdn.net/qq_19841021/article/details/145717630)
-- [国产AI新秀：DeepSeek的前生今世](https://blog.csdn.net/sixpp/article/details/145636885)
-- [没有 Manus 邀请码？Qwen + OpenManus 开源替代方案一样能领略 AI 智能体的力量](https://blog.csdn.net/obullxl/article/details/146106816)
+- [AI 程序员的4个分身 | 代码生成专家+注释精灵+API集成助手+智能调试伙伴](https://blog.csdn.net/TONGYI_Lingma/article/details/145596383)
+- [【AI】推荐12个AI智能体应用开发平台](https://blog.csdn.net/ZYC88888/article/details/145454314)
+- [在本地电脑部署属于你的AI大模型，非常详细收藏我这一篇就够了！](https://blog.csdn.net/m0_63171455/article/details/144383895)
 
 ### 🛡️ 安全资讯
 - [汤道生详解AI 思考：腾讯要打造「好用的AI」](https://cloud.tencent.com/developer/article/2506263)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
