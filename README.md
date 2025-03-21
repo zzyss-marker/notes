@@ -121,18 +121,18 @@
 - [kekingcn / kkFileView](https://github.com/kekingcn / kkFileView) - Universal File Online Preview Project based on Spring-Boot
 
 ### 📚 技术文章精选
-- [AI-基于sherpa-onnx集成各SST、ASR、TTS模型](https://blog.csdn.net/qq_42137577/article/details/144658471)
-- [开源模型应用落地-工具使用篇-Spring AI（七）](https://blog.csdn.net/m0_74824877/article/details/144789244)
-- [DeepSeek接入微信全攻略：开启AI社交新体验](https://blog.csdn.net/fq1986614/article/details/145487962)
+- [AI智能体的开发流程](https://blog.csdn.net/dt_dev/article/details/145074053)
+- [DeepSeek + Dify + Ollama + Docker + Linux 私有化部署，构建你的专属私人 AI 助手](https://blog.csdn.net/s13166803785/article/details/145692216)
+- [抖音热门玩法！AI生成猫咪做饭视频，条条爆款，一天收入200+](https://blog.csdn.net/2301_80239908/article/details/145112326)
 
 ### 🛡️ 安全资讯
-- [从原理到实践：万字详解 Kubernetes 核心组件与指标监控](https://cloud.tencent.com/developer/article/2506250)
 - [【直播笔记】十问腾讯混元快思考模型Turbo S](https://cloud.tencent.com/developer/article/2506251)
 - [一个会“踢足球”的机器人有什么商业价值？｜人形机器人探访笔记](https://cloud.tencent.com/developer/article/2506264)
+- [汤道生详解AI 思考：腾讯要打造「好用的AI」](https://cloud.tencent.com/developer/article/2506263)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
