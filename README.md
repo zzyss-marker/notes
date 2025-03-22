@@ -121,9 +121,9 @@
 - [ByteByteGoHq / system-design-101](https://github.com/ByteByteGoHq / system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 
 ### 📚 技术文章精选
-- [WPS如何接入DeepSeek（通过第三方工具）](https://blog.csdn.net/xfysq_/article/details/145521570)
-- [X-Anylabeling使用AI模型或自定义模型自动标注最简洁教程](https://blog.csdn.net/qq_38702496/article/details/144856195)
-- [Browser Use：40.7K Star！一句话让AI完全接管浏览器！自动规划完成任务，多标签页同时管理](https://blog.csdn.net/qq_19841021/article/details/146191532)
+- [万亿赛道！AI智能眼镜关键技术深度分析 2024](https://blog.csdn.net/Python_cocola/article/details/143924230)
+- [元学习（Meta-learning）：让AI学会如何学习](https://blog.csdn.net/shenfangda520/article/details/144612666)
+- [Trae AI 开发工具使用手册](https://blog.csdn.net/NepalTrip/article/details/146076625)
 
 ### 🛡️ 安全资讯
 - [万字详解：K8s核心组件与指标监控体系](https://cloud.tencent.com/developer/article/2506252)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
