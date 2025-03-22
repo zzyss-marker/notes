@@ -121,9 +121,9 @@
 - [clash-verge-rev / clash-verge-rev](https://github.com/clash-verge-rev / clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
 ### 📚 技术文章精选
-- [AI伴读-清华大学104页《DeepSeek：从入门到精通》](https://blog.csdn.net/sofanmai/article/details/145535110)
-- [领先的开源 AI 代码助手——Continue](https://blog.csdn.net/coderroad/article/details/145776970)
-- [人机共创：AI与人类编剧如何携手打造电影新纪元](https://blog.csdn.net/qq_32682301/article/details/146109572)
+- [DeepSeek—如何一跃成为金融市场中的AI颠覆者？一探究竟！](https://blog.csdn.net/lrq13965748542/article/details/145686077)
+- [打造智能聊天体验：前端集成 DeepSeek AI 助你快速上手](https://blog.csdn.net/nanchen_J/article/details/145515660)
+- [全网最强 AI 接入教程：DeepSeek-V3 API全流程详解 （支持与OpenAI无缝兼容）](https://blog.csdn.net/weixin_61514920/article/details/144950687)
 
 ### 🛡️ 安全资讯
 - [ICLR 2025｜腾讯优图实验室6篇论文入选，含多模态大语言模型、人脸识别等研究方向](https://cloud.tencent.com/developer/article/2506269)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
