@@ -121,9 +121,9 @@
 - [ByteByteGoHq / system-design-101](https://github.com/ByteByteGoHq / system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 
 ### 📚 技术文章精选
-- [三剑客合体！用Ollama+DeepSeek+Chatbox从零打造本地全能AI智能体｜实战教程大揭秘](https://blog.csdn.net/2301_78660208/article/details/145523560)
-- [Ollama通过gguf文件加载AI模型](https://blog.csdn.net/2201_75335496/article/details/141466859)
-- [LLM大模型部署全攻略：Ollama、OpenLLM、LocalAI与Dify助力高效应用开发](https://blog.csdn.net/2401_84204413/article/details/141555776)
+- [AI新热点：边云协同：大模型结合小模型（大小模型联合推理）](https://blog.csdn.net/MacWx/article/details/139991400)
+- [【AI工作流】Coze - 知识库全面指南：功能、应用场景及使用方法详解](https://blog.csdn.net/zhouzongxin94/article/details/143427195)
+- [AI提示词（Prompt）设计优化方案 | 高效使用 AI 工具](https://blog.csdn.net/m0_57874805/article/details/146189842)
 
 ### 🛡️ 安全资讯
 - [ICLR 2025｜腾讯优图实验室6篇论文入选，含多模态大语言模型、人脸识别等研究方向](https://cloud.tencent.com/developer/article/2506269)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
