@@ -121,9 +121,9 @@
 - [ByteByteGoHq / system-design-101](https://github.com/ByteByteGoHq / system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 
 ### 📚 技术文章精选
-- [蓝耘科技发布DeepSeek满血版：引领AI推理革新，开启智慧新时代](https://blog.csdn.net/2301_81313679/article/details/145826935)
-- [【AI知识点】嵌入向量（Embedding Vector）](https://blog.csdn.net/weixin_43221845/article/details/142673320)
-- [探索AIGC未来：通义万相2.1与蓝耘智算平台的完美结合释放AI生产力](https://blog.csdn.net/2301_81313679/article/details/146051700)
+- [Sonic× 蓝耘：AI 界 “王炸” 组合，肖像动画 “炫技” 出圈！](https://blog.csdn.net/2401_84813926/article/details/146212246)
+- [你的旧电脑还跑得动AI吗？ToDesk云电脑/青椒云/顺网云算力支持实测报告](https://blog.csdn.net/weixin_43151418/article/details/146366578)
+- [AI 编程工具—Cursor进阶使用 生成AI工作流](https://blog.csdn.net/king14bhhb/article/details/145482369)
 
 ### 🛡️ 安全资讯
 - [ICLR 2025｜腾讯优图实验室6篇论文入选，含多模态大语言模型、人脸识别等研究方向](https://cloud.tencent.com/developer/article/2506269)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
