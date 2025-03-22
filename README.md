@@ -121,9 +121,9 @@
 - [ByteByteGoHq / system-design-101](https://github.com/ByteByteGoHq / system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 
 ### 📚 技术文章精选
-- [【AI插件】在VS Code中免费使用GitHub Copilot](https://blog.csdn.net/yueguangzhiyuan/article/details/145210210)
-- [JAVA植物大全网站和百度AI植物智能识别系统（开题报告+作品+论文）](https://blog.csdn.net/u013818205/article/details/143787147)
-- [DeepSeek 引发 AI 大模型战火，编程语言群雄激战谁夺胜利权杖？](https://blog.csdn.net/2401_82648291/article/details/145453260)
+- [AI智能客服实战：手把手从零到一搭建智能客服系统](https://blog.csdn.net/whisperzzza/article/details/144508786)
+- [从零开始：CherryStudio 打造专属本地 AI 知识库全攻略](https://blog.csdn.net/u010671061/article/details/146044650)
+- [VSCode中6个AI顶级插件](https://blog.csdn.net/cfy_banq/article/details/137145040)
 
 ### 🛡️ 安全资讯
 - [万字详解：K8s核心组件与指标监控体系](https://cloud.tencent.com/developer/article/2506252)
