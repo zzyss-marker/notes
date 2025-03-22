@@ -121,9 +121,9 @@
 - [clash-verge-rev / clash-verge-rev](https://github.com/clash-verge-rev / clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
 ### 📚 技术文章精选
-- [【AI计费】大模型下的token是怎么计费的？](https://blog.csdn.net/u013343616/article/details/138792212)
-- [Manus（一种AI代理或自动化工具）与DeepSeek（一种强大的语言模型或AI能力）结合使用任务自动化和智能决策](https://blog.csdn.net/zzlyx99/article/details/146215963)
-- [2024-2025年AI领域重大事件盘点：技术突破、应用落地与未来趋势](https://blog.csdn.net/TGQlovemm/article/details/145548021)
+- [如何高效使用Prompt与AI大模型对话](https://blog.csdn.net/zouliping123456/article/details/142693264)
+- [MarsCode AI 体验与竞品对比](https://blog.csdn.net/qq_43210029/article/details/144914188)
+- [小白零基础物联网开发实战（ ESP32 + AI 编码）](https://blog.csdn.net/honghaier/article/details/144850798)
 
 ### 🛡️ 安全资讯
 - [ICLR 2025｜腾讯优图实验室6篇论文入选，含多模态大语言模型、人脸识别等研究方向](https://cloud.tencent.com/developer/article/2506269)
