@@ -121,9 +121,9 @@
 - [ByteByteGoHq / system-design-101](https://github.com/ByteByteGoHq / system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 
 ### 📚 技术文章精选
-- [深度技术解读AlphaFold3: 谷歌第三代AI工具精准预测生物大分子四级结构](https://blog.csdn.net/weixin_4528312/article/details/138594593)
-- [数字化转型核心技术之一：什么是AI?AI的定义，四大核心技术，三大形态，四大应用](https://blog.csdn.net/2401_85325726/article/details/144785071)
-- [Spring AI教程（三）：如何使用Spring AI进行实际项目开发](https://blog.csdn.net/qq_19749625/article/details/139521277)
+- [Spring AI+DeepSeek快速构建AI智能机器人](https://blog.csdn.net/renpeng301/article/details/145369138)
+- [ChatGPT 使用教程：深度探索AI常用功能技巧](https://blog.csdn.net/weixin_43151418/article/details/145508305)
+- [【微服务】SpringBoot整合LangChain4j 操作AI大模型实战详解](https://blog.csdn.net/zhangcongyi420/article/details/146128793)
 
 ### 🛡️ 安全资讯
 - [ICLR 2025｜腾讯优图实验室6篇论文入选，含多模态大语言模型、人脸识别等研究方向](https://cloud.tencent.com/developer/article/2506269)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
