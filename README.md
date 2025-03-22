@@ -116,14 +116,14 @@
 ## 📰 今日资讯 (2025/3/22)
 
 ### 🔥 GitHub 热门项目
-- [OpenBB-finance / OpenBB](https://github.com/OpenBB-finance / OpenBB) - Investment Research for Everyone, Everywhere.
-- [toeverything / AFFiNE](https://github.com/toeverything / AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
-- [clash-verge-rev / clash-verge-rev](https://github.com/clash-verge-rev / clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+- [ocrmypdf / OCRmyPDF](https://github.com/ocrmypdf / OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+- [mongodb-developer / GenAI-Showcase](https://github.com/mongodb-developer / GenAI-Showcase) - GenAI Cookbook
+- [ByteByteGoHq / system-design-101](https://github.com/ByteByteGoHq / system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 
 ### 📚 技术文章精选
-- [# [AI] 如何使用 `ollama ps` 检查 Ollama 实例是否在使用 GPU](https://blog.csdn.net/sheepForTest/article/details/145757363)
-- [AI 视频争霸：通义万相 2.1 凭啥让画面质量和稳定性远超同行？](https://blog.csdn.net/weixin_73295475/article/details/146039922)
-- [Manus：成为AI Agent领域的标杆](https://blog.csdn.net/qq_25580555/article/details/146064738)
+- [WPS如何接入DeepSeek（通过第三方工具）](https://blog.csdn.net/xfysq_/article/details/145521570)
+- [X-Anylabeling使用AI模型或自定义模型自动标注最简洁教程](https://blog.csdn.net/qq_38702496/article/details/144856195)
+- [Browser Use：40.7K Star！一句话让AI完全接管浏览器！自动规划完成任务，多标签页同时管理](https://blog.csdn.net/qq_19841021/article/details/146191532)
 
 ### 🛡️ 安全资讯
 - [万字详解：K8s核心组件与指标监控体系](https://cloud.tencent.com/developer/article/2506252)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
