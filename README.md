@@ -121,14 +121,14 @@
 - [ByteByteGoHq / system-design-101](https://github.com/ByteByteGoHq / system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 
 ### 📚 技术文章精选
-- [AI智能客服实战：手把手从零到一搭建智能客服系统](https://blog.csdn.net/whisperzzza/article/details/144508786)
-- [从零开始：CherryStudio 打造专属本地 AI 知识库全攻略](https://blog.csdn.net/u010671061/article/details/146044650)
-- [VSCode中6个AI顶级插件](https://blog.csdn.net/cfy_banq/article/details/137145040)
+- [深度技术解读AlphaFold3: 谷歌第三代AI工具精准预测生物大分子四级结构](https://blog.csdn.net/weixin_4528312/article/details/138594593)
+- [数字化转型核心技术之一：什么是AI?AI的定义，四大核心技术，三大形态，四大应用](https://blog.csdn.net/2401_85325726/article/details/144785071)
+- [Spring AI教程（三）：如何使用Spring AI进行实际项目开发](https://blog.csdn.net/qq_19749625/article/details/139521277)
 
 ### 🛡️ 安全资讯
-- [万字详解：K8s核心组件与指标监控体系](https://cloud.tencent.com/developer/article/2506252)
 - [ICLR 2025｜腾讯优图实验室6篇论文入选，含多模态大语言模型、人脸识别等研究方向](https://cloud.tencent.com/developer/article/2506269)
 - [Calcite物化视图查询改写](https://cloud.tencent.com/developer/article/2506330)
+- [【运维自动化-标准运维】如何实现一个最简单的流程编排](https://cloud.tencent.com/developer/article/2506402)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
