@@ -121,18 +121,18 @@
 - [clash-verge-rev / clash-verge-rev](https://github.com/clash-verge-rev / clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
 ### 📚 技术文章精选
-- [AI大语言模型幻觉排行榜：Gemini 2.0 Flash幻觉最低](https://blog.csdn.net/weixin_41446370/article/details/145817420)
-- [Scira：极简AI驱动搜索引擎](https://blog.csdn.net/coderroad/article/details/146149329)
-- [AI智能体的开发流程](https://blog.csdn.net/dt_dev/article/details/145074053)
+- [# [AI] 如何使用 `ollama ps` 检查 Ollama 实例是否在使用 GPU](https://blog.csdn.net/sheepForTest/article/details/145757363)
+- [AI 视频争霸：通义万相 2.1 凭啥让画面质量和稳定性远超同行？](https://blog.csdn.net/weixin_73295475/article/details/146039922)
+- [Manus：成为AI Agent领域的标杆](https://blog.csdn.net/qq_25580555/article/details/146064738)
 
 ### 🛡️ 安全资讯
-- [ICLR 2025｜腾讯优图实验室6篇论文入选，含多模态大语言模型、人脸识别等研究方向](https://cloud.tencent.com/developer/article/2506269)
 - [万字详解：K8s核心组件与指标监控体系](https://cloud.tencent.com/developer/article/2506252)
+- [ICLR 2025｜腾讯优图实验室6篇论文入选，含多模态大语言模型、人脸识别等研究方向](https://cloud.tencent.com/developer/article/2506269)
 - [Calcite物化视图查询改写](https://cloud.tencent.com/developer/article/2506330)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
