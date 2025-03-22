@@ -121,9 +121,9 @@
 - [clash-verge-rev / clash-verge-rev](https://github.com/clash-verge-rev / clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
 ### 📚 技术文章精选
-- [grok3 ai官网-Grok3官网入口-grok3网页版下载](https://blog.csdn.net/sinat_41743732/article/details/145957033)
-- [数智驱动：医学编程与建模技术在智慧医院AI建设中的创新与变革](https://blog.csdn.net/kkiron/article/details/145735975)
-- [商业智能BI的未来，如何看待AI+BI这种模式？](https://blog.csdn.net/weixin_44958787/article/details/146185295)
+- [雀魂自动化AI SDK使用教程](https://blog.csdn.net/gitblog_01150/article/details/142809869)
+- [如何借助DeepSeek、ChatGPT等AI模型构建自己的量化交易策略？](https://blog.csdn.net/Le_temps/article/details/145479431)
+- [【Qwen2微调实战】LLaMA-Factory框架对Qwen2-7B模型的微调实践](https://blog.csdn.net/xiaobing259/article/details/140594238)
 
 ### 🛡️ 安全资讯
 - [ICLR 2025｜腾讯优图实验室6篇论文入选，含多模态大语言模型、人脸识别等研究方向](https://cloud.tencent.com/developer/article/2506269)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
