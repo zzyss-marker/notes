@@ -121,9 +121,9 @@
 - [ByteByteGoHq / system-design-101](https://github.com/ByteByteGoHq / system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 
 ### 📚 技术文章精选
-- [Spring AI+DeepSeek快速构建AI智能机器人](https://blog.csdn.net/renpeng301/article/details/145369138)
-- [ChatGPT 使用教程：深度探索AI常用功能技巧](https://blog.csdn.net/weixin_43151418/article/details/145508305)
-- [【微服务】SpringBoot整合LangChain4j 操作AI大模型实战详解](https://blog.csdn.net/zhangcongyi420/article/details/146128793)
+- [三剑客合体！用Ollama+DeepSeek+Chatbox从零打造本地全能AI智能体｜实战教程大揭秘](https://blog.csdn.net/2301_78660208/article/details/145523560)
+- [Ollama通过gguf文件加载AI模型](https://blog.csdn.net/2201_75335496/article/details/141466859)
+- [LLM大模型部署全攻略：Ollama、OpenLLM、LocalAI与Dify助力高效应用开发](https://blog.csdn.net/2401_84204413/article/details/141555776)
 
 ### 🛡️ 安全资讯
 - [ICLR 2025｜腾讯优图实验室6篇论文入选，含多模态大语言模型、人脸识别等研究方向](https://cloud.tencent.com/developer/article/2506269)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
