@@ -121,9 +121,9 @@
 - [ByteByteGoHq / system-design-101](https://github.com/ByteByteGoHq / system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 
 ### 📚 技术文章精选
-- [万亿赛道！AI智能眼镜关键技术深度分析 2024](https://blog.csdn.net/Python_cocola/article/details/143924230)
-- [元学习（Meta-learning）：让AI学会如何学习](https://blog.csdn.net/shenfangda520/article/details/144612666)
-- [Trae AI 开发工具使用手册](https://blog.csdn.net/NepalTrip/article/details/146076625)
+- [【AI插件】在VS Code中免费使用GitHub Copilot](https://blog.csdn.net/yueguangzhiyuan/article/details/145210210)
+- [JAVA植物大全网站和百度AI植物智能识别系统（开题报告+作品+论文）](https://blog.csdn.net/u013818205/article/details/143787147)
+- [DeepSeek 引发 AI 大模型战火，编程语言群雄激战谁夺胜利权杖？](https://blog.csdn.net/2401_82648291/article/details/145453260)
 
 ### 🛡️ 安全资讯
 - [万字详解：K8s核心组件与指标监控体系](https://cloud.tencent.com/developer/article/2506252)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
