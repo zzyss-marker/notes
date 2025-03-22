@@ -121,9 +121,9 @@
 - [clash-verge-rev / clash-verge-rev](https://github.com/clash-verge-rev / clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
 ### 📚 技术文章精选
-- [如何高效使用Prompt与AI大模型对话](https://blog.csdn.net/zouliping123456/article/details/142693264)
-- [MarsCode AI 体验与竞品对比](https://blog.csdn.net/qq_43210029/article/details/144914188)
-- [小白零基础物联网开发实战（ ESP32 + AI 编码）](https://blog.csdn.net/honghaier/article/details/144850798)
+- [AI大语言模型幻觉排行榜：Gemini 2.0 Flash幻觉最低](https://blog.csdn.net/weixin_41446370/article/details/145817420)
+- [Scira：极简AI驱动搜索引擎](https://blog.csdn.net/coderroad/article/details/146149329)
+- [AI智能体的开发流程](https://blog.csdn.net/dt_dev/article/details/145074053)
 
 ### 🛡️ 安全资讯
 - [ICLR 2025｜腾讯优图实验室6篇论文入选，含多模态大语言模型、人脸识别等研究方向](https://cloud.tencent.com/developer/article/2506269)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
