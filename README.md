@@ -121,9 +121,7 @@
 - [ByteByteGoHq / system-design-101](https://github.com/ByteByteGoHq / system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 
 ### 📚 技术文章精选
-- [AI 助力开发新篇章：云开发 Copilot 深度体验与技术解析](https://blog.csdn.net/2301_80863610/article/details/144069591)
-- [【AI大模型】使用Python调用DeepSeek的API，原来SDK是调用这个，绝对的一分钟上手和使用](https://blog.csdn.net/lmy_520/article/details/145518388)
-- [【AI】DeepSeek+Dify构建知识库、Agent（智能体）、工作流、聊天助手](https://blog.csdn.net/python1234567_/article/details/145701988)
+获取 CSDN 文章失败
 
 ### 🛡️ 安全资讯
 - [ICLR 2025｜腾讯优图实验室6篇论文入选，含多模态大语言模型、人脸识别等研究方向](https://cloud.tencent.com/developer/article/2506269)
@@ -134,5 +132,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
