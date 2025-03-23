@@ -116,14 +116,14 @@
 ## 📰 今日资讯 (2025/3/23)
 
 ### 🔥 GitHub 热门项目
-- [ocrmypdf / OCRmyPDF](https://github.com/ocrmypdf / OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
-- [mongodb-developer / GenAI-Showcase](https://github.com/mongodb-developer / GenAI-Showcase) - GenAI Cookbook
-- [ByteByteGoHq / system-design-101](https://github.com/ByteByteGoHq / system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
+- [hacksider / Deep-Live-Cam](https://github.com/hacksider / Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+- [ageerle / ruoyi-ai](https://github.com/ageerle / ruoyi-ai) - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
+- [wonderwhy-er / ClaudeDesktopCommander](https://github.com/wonderwhy-er / ClaudeDesktopCommander) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 
 ### 📚 技术文章精选
-- [【AIDevops】Deepseek驱动无界面自动化运维与分布式脚本系统，初探运维革命之路](https://blog.csdn.net/weixin_54729883/article/details/145194148)
-- [如何给AI大模型喂数据？](https://blog.csdn.net/2401_85378759/article/details/145052055)
-- [「youlai-boot」入门篇：从0到1搭建 Java、Spring Boot、Spring Security 企业级权限管理系统](https://blog.csdn.net/u013737132/article/details/145177011)
+- [【人工智能】Transformers之Pipeline（十一）：零样本图片分类（zero-shot-image-classification）](https://blog.csdn.net/weixin_48007632/article/details/141362385)
+- [# 10分钟了解DeepSeek，保姆级部署DeepSeek到WPS，实现AI赋能](https://blog.csdn.net/qfyh_djh/article/details/145615506)
+- [未来科技的前沿：深入探讨人工智能的进展、机器学习技术和未来趋势](https://blog.csdn.net/lph159/article/details/138412807)
 
 ### 🛡️ 安全资讯
 - [ICLR 2025｜腾讯优图实验室6篇论文入选，含多模态大语言模型、人脸识别等研究方向](https://cloud.tencent.com/developer/article/2506269)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
