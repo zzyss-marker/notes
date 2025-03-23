@@ -121,9 +121,9 @@
 - [wonderwhy-er / ClaudeDesktopCommander](https://github.com/wonderwhy-er / ClaudeDesktopCommander) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 
 ### 📚 技术文章精选
-- [【Qwen2微调实战】Lora微调Qwen2-7B-Instruct实践指南](https://blog.csdn.net/xiaobing259/article/details/140594017)
-- [【AI大模型】提示词（Prompt）全面解析](https://blog.csdn.net/zhouzongxin94/article/details/141557253)
-- [如何在 Cursor-AI 中配置 Conda 虚拟环境](https://blog.csdn.net/weixin_37647148/article/details/144233840)
+- [英伟达2025 GTC大会：引领AI与计算的新纪元](https://blog.csdn.net/yu198991/article/details/146233601)
+- [智能创造的幕后推手：AIGC浪潮下看AI训练师如何塑造智能未来](https://blog.csdn.net/qq_32682301/article/details/142451632)
+- [Nature最新报道：分析四大主流AI工具、性能测评、推荐使用场景](https://blog.csdn.net/guorui_java/article/details/146197349)
 
 ### 🛡️ 安全资讯
 - [ICLR 2025｜腾讯优图实验室6篇论文入选，含多模态大语言模型、人脸识别等研究方向](https://cloud.tencent.com/developer/article/2506269)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
