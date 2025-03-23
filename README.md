@@ -117,22 +117,22 @@
 
 ### 🔥 GitHub 热门项目
 - [hacksider / Deep-Live-Cam](https://github.com/hacksider / Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-- [ageerle / ruoyi-ai](https://github.com/ageerle / ruoyi-ai) - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
+- [ageerle / ruoyi-ai](https://github.com/ageerle / ruoyi-ai) - RuoYi AI 是一个��栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
 - [wonderwhy-er / ClaudeDesktopCommander](https://github.com/wonderwhy-er / ClaudeDesktopCommander) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 
 ### 📚 技术文章精选
-- [【深度学习】合合信息：生成式AI时代的内容安全与系统构建](https://blog.csdn.net/s445320/article/details/143314845)
-- [【spring ai】java 实现RAG检索增强，超快速入门](https://blog.csdn.net/whisperzzza/article/details/142828521)
-- [全球AI大模型盘点（全网首发）](https://blog.csdn.net/qq_30776829/article/details/138141880)
+- [阿里云操作系统控制台评测：国产AI+运维 一站式运维管理平台](https://blog.csdn.net/qq_44866828/article/details/146208264)
+- [基于AI的智能开发环境—Trae在Web开发中的应用实战与性能评估【Trae项目实战】](https://blog.csdn.net/weixin_52908342/article/details/145775367)
+- [AI 写作（三）文本生成算法：创新与突破（3/10）](https://blog.csdn.net/beautifulmemory/article/details/143636998)
 
 ### 🛡️ 安全资讯
-- [ICLR 2025｜腾讯优图实验室6篇论文入选，含多模态大语言模型、人脸识别等研究方向](https://cloud.tencent.com/developer/article/2506269)
 - [Calcite物化视图查询改写](https://cloud.tencent.com/developer/article/2506330)
 - [【运维自动化-标准运维】如何实现一个最简单的流程编排](https://cloud.tencent.com/developer/article/2506402)
+- [CKafka 每周一问 | Topic 创建失败怎么办？](https://cloud.tencent.com/developer/article/2506463)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
