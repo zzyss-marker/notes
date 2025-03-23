@@ -117,13 +117,13 @@
 
 ### 🔥 GitHub 热门项目
 - [hacksider / Deep-Live-Cam](https://github.com/hacksider / Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-- [ageerle / ruoyi-ai](https://github.com/ageerle / ruoyi-ai) - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者���速构建和部署个性化的 AI 应用。
+- [ageerle / ruoyi-ai](https://github.com/ageerle / ruoyi-ai) - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
 - [wonderwhy-er / ClaudeDesktopCommander](https://github.com/wonderwhy-er / ClaudeDesktopCommander) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 
 ### 📚 技术文章精选
-- [Ollama辅助工具在思源笔记中的核心玩法助力实现AI高效创作](https://blog.csdn.net/m0_61712829/article/details/145834587)
-- [IDEA + DeepSeek 实现 AI辅助编程，提升效率10倍（全网超详细的终极图文实战指南）](https://blog.csdn.net/martian665/article/details/145923641)
-- [【通义千问】蓝耘智算 | 智启未来：蓝耘MaaS×通义QwQ-32B引领AI开发生产力](https://blog.csdn.net/Morse_Chen/article/details/146293849)
+- [深入体验DeepSeek：性价比高的AI模型](https://blog.csdn.net/2401_85375151/article/details/139335794)
+- [非AI总结：cursor composer平替方案的探索（截至2025-02-04）](https://blog.csdn.net/qq_46821036/article/details/145459903)
+- [AI IDE 新势力 Trae 功能深度解析：Builder与Chat模式的应用场景与市场竞争力分析](https://blog.csdn.net/dietime1943/article/details/145784303)
 
 ### 🛡️ 安全资讯
 - [Calcite物化视图查询改写](https://cloud.tencent.com/developer/article/2506330)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
