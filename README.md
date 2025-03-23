@@ -121,9 +121,9 @@
 - [ByteByteGoHq / system-design-101](https://github.com/ByteByteGoHq / system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 
 ### 📚 技术文章精选
-- [DeepSeek + Dify + Docker 零代码！一键搭建本地私有AI知识库](https://blog.csdn.net/weixin_40816738/article/details/145643650)
-- [告别 AI 幻觉：LangChain + 知识图谱 + 大模型，打造可靠的智能应用](https://blog.csdn.net/liu1983robin/article/details/145758788)
-- [【AI 大模型】RAG 检索增强生成 ⑦ ( 本地部署向量模型 | Sentence Transformers 工具库 | 从 Hugging Face 模型库 中查找模型 | BGE 模型 )](https://blog.csdn.net/han1202012/article/details/146006527)
+- [智能创作时代：AI引领下的内容生产革命与效率提升](https://blog.csdn.net/Srlua/article/details/138667029)
+- [AIGC实战——生成式人工智能总结与展望](https://blog.csdn.net/LOVEmy134611/article/details/143380142)
+- [Programmer&AI—AI辅助编程学习指南](https://blog.csdn.net/Skrrapper/article/details/142520593)
 
 ### 🛡️ 安全资讯
 - [ICLR 2025｜腾讯优图实验室6篇论文入选，含多模态大语言模型、人脸识别等研究方向](https://cloud.tencent.com/developer/article/2506269)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
