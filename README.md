@@ -121,9 +121,9 @@
 - [ByteByteGoHq / system-design-101](https://github.com/ByteByteGoHq / system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 
 ### 📚 技术文章精选
-- [AI 编程工具 TRAE 使用介绍](https://blog.csdn.net/i042416/article/details/146020204)
-- [AI创作教程：用deepseek和猫箱做互动故事游戏](https://blog.csdn.net/qq_64955200/article/details/145855843)
-- [GPU/CUDA 发展编年史：从 3D 渲染到 AI 大模型时代（上）](https://blog.csdn.net/Jmilk/article/details/145970533)
+- [用VHDL编写神经网络：数字电路工程师的AI底层探索——从门电路到梯度下降的硬件革命](https://blog.csdn.net/HAC_JOKER1424/article/details/146408581)
+- [哥德尔不完备定理 —— 奠定了计算机与 AI 的理论基础](https://blog.csdn.net/u013669912/article/details/140591557)
+- [国内外AI大模型的API接口汇总](https://blog.csdn.net/sejinan/article/details/145316874)
 
 ### 🛡️ 安全资讯
 - [ICLR 2025｜腾讯优图实验室6篇论文入选，含多模态大语言模型、人脸识别等研究方向](https://cloud.tencent.com/developer/article/2506269)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
