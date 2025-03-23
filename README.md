@@ -117,13 +117,13 @@
 
 ### 🔥 GitHub 热门项目
 - [hacksider / Deep-Live-Cam](https://github.com/hacksider / Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-- [ageerle / ruoyi-ai](https://github.com/ageerle / ruoyi-ai) - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
+- [ageerle / ruoyi-ai](https://github.com/ageerle / ruoyi-ai) - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者���速构建和部署个性化的 AI 应用。
 - [wonderwhy-er / ClaudeDesktopCommander](https://github.com/wonderwhy-er / ClaudeDesktopCommander) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 
 ### 📚 技术文章精选
-- [AI工具集：一站式1000+人工智能工具导航站](https://blog.csdn.net/qq_24518001/article/details/144215516)
-- [AI集合客户端-cherry studio的使用](https://blog.csdn.net/hacker_Lees/article/details/145465658)
-- [智慧水务系统与 DeepSeek AI 技术的融合应用](https://blog.csdn.net/qq_37614659/article/details/145793946)
+- [Ollama辅助工具在思源笔记中的核心玩法助力实现AI高效创作](https://blog.csdn.net/m0_61712829/article/details/145834587)
+- [IDEA + DeepSeek 实现 AI辅助编程，提升效率10倍（全网超详细的终极图文实战指南）](https://blog.csdn.net/martian665/article/details/145923641)
+- [【通义千问】蓝耘智算 | 智启未来：蓝耘MaaS×通义QwQ-32B引领AI开发生产力](https://blog.csdn.net/Morse_Chen/article/details/146293849)
 
 ### 🛡️ 安全资讯
 - [Calcite物化视图查询改写](https://cloud.tencent.com/developer/article/2506330)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
