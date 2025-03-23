@@ -121,9 +121,9 @@
 - [ByteByteGoHq / system-design-101](https://github.com/ByteByteGoHq / system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 
 ### 📚 技术文章精选
-- [超级详细Spring AI运用Ollama大模型](https://blog.csdn.net/qq_73735007/article/details/139436133)
-- [CosyVoice - 阿里最新开源语音克隆、文本转语音项目 支持情感控制及粤语 本地一键整合包下载](https://blog.csdn.net/yihuaixu/article/details/140252568)
-- [通义万相2.1 图生视频：为AI绘梦插上翅膀，开启ALGC算力领域新纪元](https://blog.csdn.net/bite_zwy/article/details/146164067)
+- [【AIDevops】Deepseek驱动无界面自动化运维与分布式脚本系统，初探运维革命之路](https://blog.csdn.net/weixin_54729883/article/details/145194148)
+- [如何给AI大模型喂数据？](https://blog.csdn.net/2401_85378759/article/details/145052055)
+- [「youlai-boot」入门篇：从0到1搭建 Java、Spring Boot、Spring Security 企业级权限管理系统](https://blog.csdn.net/u013737132/article/details/145177011)
 
 ### 🛡️ 安全资讯
 - [ICLR 2025｜腾讯优图实验室6篇论文入选，含多模态大语言模型、人脸识别等研究方向](https://cloud.tencent.com/developer/article/2506269)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
