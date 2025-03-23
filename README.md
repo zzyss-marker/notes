@@ -121,9 +121,9 @@
 - [ByteByteGoHq / system-design-101](https://github.com/ByteByteGoHq / system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 
 ### 📚 技术文章精选
-- [AI大模型2025实例测评--逻辑推理能力](https://blog.csdn.net/xyzcto/article/details/145304528)
-- [【Qwen2微调实战】Lora微调Qwen2-7B-Instruct实践指南](https://blog.csdn.net/xiaobing259/article/details/140594017)
-- [《YOLO 标注工具全览》：此文为AI自动生成](https://blog.csdn.net/zheng_ruiguo/article/details/143086275)
+- [实时视频分析的破局之道：蓝耘 MaaS 如何与海螺 AI 视频实现高效协同](https://blog.csdn.net/GGDxianv/article/details/146361902)
+- [【Qwen2微调实战】LLaMA-Factory框架对Qwen2-7B模型的微调实践](https://blog.csdn.net/xiaobing259/article/details/140594238)
+- [AI+游戏开发：如何用 DeepSeek 打造高性能贪吃蛇游戏](https://blog.csdn.net/qq_32682301/article/details/146171988)
 
 ### 🛡️ 安全资讯
 - [ICLR 2025｜腾讯优图实验室6篇论文入选，含多模态大语言模型、人脸识别等研究方向](https://cloud.tencent.com/developer/article/2506269)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
