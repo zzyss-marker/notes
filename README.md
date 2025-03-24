@@ -121,18 +121,18 @@
 - [wonderwhy-er / ClaudeDesktopCommander](https://github.com/wonderwhy-er / ClaudeDesktopCommander) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 
 ### 📚 技术文章精选
-- [保姆级微信 AI 机器人教程：如何打造私人和群聊助手](https://blog.csdn.net/caspar_notes/article/details/139079100)
-- [IDEA&PyCharm安装ProxyAI(CodeGPT)插件连接DeepSeek-R1教程](https://blog.csdn.net/qq_45226339/article/details/145862644)
-- [对比5个最需要了解的AI多智能体编排框架【3】：角色扮演系的CrewAI](https://blog.csdn.net/sinat_37574187/article/details/144208566)
+- [18_特征金字塔网络FPN结构详解](https://blog.csdn.net/qq_51605551/article/details/140251788)
+- [技术演进中的抗拒与共生：全栈工程师视角看AI焦虑](https://blog.csdn.net/RenGJ010617/article/details/146053916)
+- [5分钟，用AI搞定视频分镜头](https://blog.csdn.net/hydekong/article/details/144107700)
 
 ### 🛡️ 安全资讯
-- [Calcite物化视图查询改写](https://cloud.tencent.com/developer/article/2506330)
 - [【运维自动化-标准运维】如何实现一个最简单的流程编排](https://cloud.tencent.com/developer/article/2506402)
 - [CKafka 每周一问 | Topic 创建失败怎么办？](https://cloud.tencent.com/developer/article/2506463)
+- [技术创作特训营 | 33 天实现自己的 AI 进化论](https://cloud.tencent.com/developer/article/2506470)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
