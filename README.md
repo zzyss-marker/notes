@@ -121,9 +121,7 @@
 - [wonderwhy-er / ClaudeDesktopCommander](https://github.com/wonderwhy-er / ClaudeDesktopCommander) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 
 ### 📚 技术文章精选
-- [18_特征金字塔网络FPN结构详解](https://blog.csdn.net/qq_51605551/article/details/140251788)
-- [技术演进中的抗拒与共生：全栈工程师视角看AI焦虑](https://blog.csdn.net/RenGJ010617/article/details/146053916)
-- [5分钟，用AI搞定视频分镜头](https://blog.csdn.net/hydekong/article/details/144107700)
+获取 CSDN 文章失败
 
 ### 🛡️ 安全资讯
 - [【运维自动化-标准运维】如何实现一个最简单的流程编排](https://cloud.tencent.com/developer/article/2506402)
@@ -134,5 +132,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
