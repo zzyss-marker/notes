@@ -121,9 +121,9 @@
 - [wonderwhy-er / ClaudeDesktopCommander](https://github.com/wonderwhy-er / ClaudeDesktopCommander) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 
 ### 📚 技术文章精选
-- [来自通义万相的创意加速器：AI 绘画创作](https://blog.csdn.net/csdn565973850/article/details/145083121)
-- [AI智算-DeepSeek-r1:671b性能压测&H100](https://blog.csdn.net/chengyinwu/article/details/145808355)
-- [蓝耘携手通义万相2.1：引领AI创作革新，重塑视觉体验](https://blog.csdn.net/2302_80243065/article/details/146155744)
+- [保姆级微信 AI 机器人教程：如何打造私人和群聊助手](https://blog.csdn.net/caspar_notes/article/details/139079100)
+- [IDEA&PyCharm安装ProxyAI(CodeGPT)插件连接DeepSeek-R1教程](https://blog.csdn.net/qq_45226339/article/details/145862644)
+- [对比5个最需要了解的AI多智能体编排框架【3】：角色扮演系的CrewAI](https://blog.csdn.net/sinat_37574187/article/details/144208566)
 
 ### 🛡️ 安全资讯
 - [Calcite物化视图查询改写](https://cloud.tencent.com/developer/article/2506330)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
