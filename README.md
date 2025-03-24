@@ -121,18 +121,18 @@
 - [wonderwhy-er / ClaudeDesktopCommander](https://github.com/wonderwhy-er / ClaudeDesktopCommander) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 
 ### 📚 技术文章精选
-- [手把手教你搭建自己的AI智能体（史上最全教程）](https://blog.csdn.net/2401_85373691/article/details/145300499)
-- [蓝耘科技上线DeepSeek满血版：500万Tokens专享，解锁AI推理新体验](https://blog.csdn.net/2302_79376097/article/details/145783718)
-- [《新手必看！保姆级教程：本地部署DeepSeek + WebUI可视化 + 数据投喂训练AI，轻松打造你的专属AI模型！》](https://blog.csdn.net/a514548454/article/details/145608166)
+- [挑战用AI替代我的工作——从抢券困境到技术突破](https://blog.csdn.net/lwcwam/article/details/146430280)
+- [AI模型平台之——ModelScope(魔搭)](https://blog.csdn.net/oscar999/article/details/145418624)
+- [2024-2025 年中国 AI 大模型市场现状及发展趋势研究报告：中国 AI 大模型市场预计 2026 年突破 700 亿](https://blog.csdn.net/l01011_/article/details/144917773)
 
 ### 🛡️ 安全资讯
-- [【运维自动化-标准运维】如何实现一个最简单的流程编排](https://cloud.tencent.com/developer/article/2506402)
 - [CKafka 每周一问 | Topic 创建失败怎么办？](https://cloud.tencent.com/developer/article/2506463)
 - [技术创作特训营 | 33 天实现自己的 AI 进化论](https://cloud.tencent.com/developer/article/2506470)
+- [《您的体验，值得被看见！诚邀您分享在腾讯云的服务故事》](https://cloud.tencent.com/developer/article/2506401)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
