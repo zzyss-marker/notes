@@ -121,9 +121,9 @@
 - [wonderwhy-er / ClaudeDesktopCommander](https://github.com/wonderwhy-er / ClaudeDesktopCommander) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 
 ### 📚 技术文章精选
-- [深度体验：IntelliJ Idea自带AI Assistant，开启面向AI编程新纪元！](https://blog.csdn.net/whzhaochao/article/details/140894748)
-- [【AI】Chatbox 如何使用 grok3 手机使用教程-值得收藏](https://blog.csdn.net/zhengyukong/article/details/145818401)
-- [Spring AI+DeepSeek快速构建AI智能机器人](https://blog.csdn.net/renpeng301/article/details/145369138)
+- [VSCODE离线使用AI大模型生成、纠错代码](https://blog.csdn.net/weixin_43012017/article/details/138814715)
+- [为什么相关性不是因果关系？人工智能中的因果推理探秘](https://blog.csdn.net/xiaofeng10330111/article/details/136779677)
+- [【人工智能】deepseek R1模型在蓝耘智算平台的搭建与机器学习的探索](https://blog.csdn.net/EterNity_TiMe_/article/details/145562129)
 
 ### 🛡️ 安全资讯
 - [万字解构“幻觉陷阱”：大模型犯的错，会摧毁互联网吗？丨AGI之路04期](https://cloud.tencent.com/developer/article/2506637)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
