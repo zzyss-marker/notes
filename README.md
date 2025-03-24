@@ -121,9 +121,9 @@
 - [wonderwhy-er / ClaudeDesktopCommander](https://github.com/wonderwhy-er / ClaudeDesktopCommander) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 
 ### 📚 技术文章精选
-- [AI重塑视觉艺术：DeepSeek与蓝耘通义万相2.1的图生视频奇迹](https://blog.csdn.net/lrq13965748542/article/details/146209847)
-- [从LLM出发：由浅入深探索AI开发的全流程与简单实践（全文3w字）](https://blog.csdn.net/Z_oioihoii/article/details/146279996)
-- [从0到1彻底掌握Trae：手把手带你实战开发AI Chatbot，提升开发效率的必备指南！](https://blog.csdn.net/weixin_60159567/article/details/145386760)
+- [十分钟用DeepSeek v3快速搭建企业级本地私有知识库（保姆级教程），AI终于私有化了！](https://blog.csdn.net/python12345_/article/details/145450272)
+- [网盘聚合搜索项目Aipan（爱盼）【续】](https://blog.csdn.net/wbsu2004/article/details/144223293)
+- [DeepSeek 与 ChatGPT 终极对决：谁才是 AI 语言之王？](https://blog.csdn.net/2301_80350265/article/details/145729404)
 
 ### 🛡️ 安全资讯
 - [万字解构“幻觉陷阱”：大模型犯的错，会摧毁互联网吗？丨AGI之路04期](https://cloud.tencent.com/developer/article/2506637)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
