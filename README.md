@@ -116,19 +116,19 @@
 ## 📰 今日资讯 (2025/3/24)
 
 ### 🔥 GitHub 热门项目
+- [joanrod / star-vector](https://github.com/joanrod / star-vector) - StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textual inputs to produce high-quality SVG code with remarkable precision.
 - [hacksider / Deep-Live-Cam](https://github.com/hacksider / Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-- [ageerle / ruoyi-ai](https://github.com/ageerle / ruoyi-ai) - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
 - [wonderwhy-er / ClaudeDesktopCommander](https://github.com/wonderwhy-er / ClaudeDesktopCommander) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 
 ### 📚 技术文章精选
-- [2025大模型100个AI岗位，00后就业首选AI赛道，应届大学生找工作收藏！转型者精选！](https://blog.csdn.net/zhishi0000/article/details/146036699)
-- [一文搞懂什么是AI Agent](https://blog.csdn.net/qq_41035650/article/details/143462780)
-- [从零开始：如何用Python训练一个AI模型（超详细教程）](https://blog.csdn.net/python12222_/article/details/146203266)
+- [ESP32 小智 AI 机器人入门教程从原理到实现（自己云端部署）](https://blog.csdn.net/h050210/article/details/146120433)
+- [IDEA + DeepSeek 实现 AI辅助编程，提升效率10倍（全网超详细的终极图文实战指南）](https://blog.csdn.net/martian665/article/details/145923641)
+- [Manus：成为AI Agent领域的标杆](https://blog.csdn.net/qq_25580555/article/details/146064738)
 
 ### 🛡️ 安全资讯
-- [腾讯云与MongoDB战略合作升级，瞄准AI时代的数据管理服务](https://cloud.tencent.com/developer/article/2506435)
 - [万字解构“幻觉陷阱”：大模型犯的错，会摧毁互联网吗？丨AGI之路04期](https://cloud.tencent.com/developer/article/2506637)
 - [Step-Video-T2V：全球最强开源视频生成](https://cloud.tencent.com/developer/article/2506669)
+- [邀请函 | Pulsar Meetup 广州 2025 邀您报名！](https://cloud.tencent.com/developer/article/2506780)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
