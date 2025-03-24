@@ -121,9 +121,9 @@
 - [wonderwhy-er / ClaudeDesktopCommander](https://github.com/wonderwhy-er / ClaudeDesktopCommander) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 
 ### 📚 技术文章精选
-- [GPT4All安装教程 一个能本地运行的GPT4！](https://blog.csdn.net/mc_dudu233/article/details/140988148)
-- [深度剖析 打造大模型时代的可信AI：技术创新与安全治理并重](https://blog.csdn.net/a1657054242/article/details/144558157)
-- [基于人工智能/机器学习的SPICE建模与参数提取基准](https://blog.csdn.net/weixin_45293089/article/details/145899365)
+- [【AIGC安全】CCF-CV企业交流会直播回顾：探寻AI安全治理，共筑可信AI未来](https://blog.csdn.net/qq_32682301/article/details/144510635)
+- [【AI大模型】使用Python调用DeepSeek的API，原来SDK是调用这个，绝对的一分钟上手和使用](https://blog.csdn.net/lmy_520/article/details/145518388)
+- [一文搞懂AI专用名词，全面解析人工智能术语](https://blog.csdn.net/weixin_42132035/article/details/145979793)
 
 ### 🛡️ 安全资讯
 - [万字解构“幻觉陷阱”：大模型犯的错，会摧毁互联网吗？丨AGI之路04期](https://cloud.tencent.com/developer/article/2506637)
