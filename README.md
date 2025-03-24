@@ -121,9 +121,9 @@
 - [wonderwhy-er / ClaudeDesktopCommander](https://github.com/wonderwhy-er / ClaudeDesktopCommander) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 
 ### 📚 技术文章精选
-- [VSCODE离线使用AI大模型生成、纠错代码](https://blog.csdn.net/weixin_43012017/article/details/138814715)
-- [为什么相关性不是因果关系？人工智能中的因果推理探秘](https://blog.csdn.net/xiaofeng10330111/article/details/136779677)
-- [【人工智能】deepseek R1模型在蓝耘智算平台的搭建与机器学习的探索](https://blog.csdn.net/EterNity_TiMe_/article/details/145562129)
+- [Cursor: 融合VSCode与AI的新一代Java开发工具](https://blog.csdn.net/java1109/article/details/143020431)
+- [带你一步步搭建 DeepSeek + Ollama + Dify，快速部署私有化 AI 助手。](https://blog.csdn.net/m0_59596990/article/details/145538319)
+- [【hacker送书第14期】AI训练师算法与模型训练从入门到精通](https://blog.csdn.net/xqe777/article/details/143399358)
 
 ### 🛡️ 安全资讯
 - [万字解构“幻觉陷阱”：大模型犯的错，会摧毁互联网吗？丨AGI之路04期](https://cloud.tencent.com/developer/article/2506637)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
