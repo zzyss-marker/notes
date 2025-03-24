@@ -121,14 +121,14 @@
 - [wonderwhy-er / ClaudeDesktopCommander](https://github.com/wonderwhy-er / ClaudeDesktopCommander) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 
 ### 📚 技术文章精选
-- [人人都能上手部署DeepSeek-R1蒸馏模型：应用昇思+香橙派 AI Pro实践全流程](https://blog.csdn.net/prtinf48_9/article/details/145562210)
-- [【AI大模型】为什么说更倾向于使用DeepSeek，清爽简洁，输出内容质量高，清晰明了得思考过程，真的值得拥有](https://blog.csdn.net/lmy_520/article/details/145513414)
-- [通义万相 2.1 + 蓝耘算力，AI 视频生成的梦幻组合](https://blog.csdn.net/2401_82648291/article/details/146093206)
+- [从零到手搓一个Agent：AI Agents新手入门精通](https://blog.csdn.net/EnjoyEDU/article/details/145173948)
+- [蓝耘DS满血版震撼来袭！500万Tokens限时免费，开启AI新纪元](https://blog.csdn.net/djdjiejsn/article/details/145798583)
+- [SpringAI初入](https://blog.csdn.net/m0_62239561/article/details/138345935)
 
 ### 🛡️ 安全资讯
-- [CKafka 每周一问 | Topic 创建失败怎么办？](https://cloud.tencent.com/developer/article/2506463)
-- [技术创作特训营 | 33 天实现自己的 AI 进化论](https://cloud.tencent.com/developer/article/2506470)
-- [《您的体验，值得被看见！诚邀您分享在腾讯云的服务故事》](https://cloud.tencent.com/developer/article/2506401)
+- [腾讯云与MongoDB战略合作升级，瞄准AI时代的数据管理服务](https://cloud.tencent.com/developer/article/2506435)
+- [万字解构“幻觉陷阱”：大模型犯的错，会摧毁互联网吗？丨AGI之路04期](https://cloud.tencent.com/developer/article/2506637)
+- [Step-Video-T2V：全球最强开源视频生成](https://cloud.tencent.com/developer/article/2506669)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
