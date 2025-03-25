@@ -121,9 +121,9 @@
 - [wonderwhy-er / ClaudeDesktopCommander](https://github.com/wonderwhy-er / ClaudeDesktopCommander) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 
 ### 📚 技术文章精选
-- [初尝DeepSeek，做个AI客服吧](https://blog.csdn.net/cll18982138360/article/details/145345108)
-- [10分钟上手DeepSeek开发：SpringBoot + Vue2快速构建AI对话系统](https://blog.csdn.net/c18213590220/article/details/145708471)
-- [通义万相2.1 图生视频：为AI绘梦插上翅膀，开启ALGC算力领域新纪元](https://blog.csdn.net/bite_zwy/article/details/146164067)
+- [Spring Boot 使用 Spring AI 构建知识库服务](https://blog.csdn.net/typeracer/article/details/140719785)
+- [DeepSeek与Grok：AI语言模型的全面对决](https://blog.csdn.net/deepseek01/article/details/145719548)
+- [全球AI大模型盘点（全网首发）](https://blog.csdn.net/qq_30776829/article/details/138141880)
 
 ### 🛡️ 安全资讯
 - [AI知识学习经验记录](https://cloud.tencent.com/developer/article/2506834)
