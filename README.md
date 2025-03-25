@@ -121,14 +121,14 @@
 - [wonderwhy-er / ClaudeDesktopCommander](https://github.com/wonderwhy-er / ClaudeDesktopCommander) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 
 ### 📚 技术文章精选
-- [探索高性能AI识别和边缘计算 | NVIDIA Jetson Orin Nano 8GB 开发套件的全面测评](https://blog.csdn.net/weixin_41793160/article/details/146084544)
-- [【AI 大模型】RAG 检索增强生成 ⑤ ( 向量数据库 | 向量数据库 索引结构和搜索算法 | 常见 向量数据库 对比 | 安装并使用 向量数据库 chromadb 案例 )](https://blog.csdn.net/han1202012/article/details/145911001)
-- [【人工智能】Deepseek 与 Kimi 联袂：重塑 PPT 创作，开启智能演示新纪元](https://blog.csdn.net/2301_80350265/article/details/145944662)
+- [保姆级教程来袭！AI笔记神器NotebookLM超全攻略](https://blog.csdn.net/m0_37733448/article/details/146165820)
+- [AI Agent之AutoGen框架部署、测试](https://blog.csdn.net/lucky_chaichai/article/details/143212429)
+- [OpenHands，媲美v0与Cursor的开源AI编程工具，帮你解密 AI 编程工具的工作原理](https://blog.csdn.net/surfirst/article/details/143724869)
 
 ### 🛡️ 安全资讯
-- [万字解构“幻觉陷阱”：大模型犯的错，会摧毁互联网吗？丨AGI之路04期](https://cloud.tencent.com/developer/article/2506637)
 - [Step-Video-T2V：全球最强开源视频生成](https://cloud.tencent.com/developer/article/2506669)
 - [邀请函 | Pulsar Meetup 广州 2025 邀您报名！](https://cloud.tencent.com/developer/article/2506780)
+- [腾讯混元进入全球大模型权威榜单](https://cloud.tencent.com/developer/article/2506779)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
