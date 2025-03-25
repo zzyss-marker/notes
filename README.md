@@ -121,9 +121,9 @@
 - [wonderwhy-er / ClaudeDesktopCommander](https://github.com/wonderwhy-er / ClaudeDesktopCommander) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 
 ### 📚 技术文章精选
-- [【AI落地应用实战】构建基于知识图谱的知识问答系统](https://blog.csdn.net/air__Heaven/article/details/143598007)
-- [看了那么久RAG还是调不明白？万字长文给你讲透RAG问题与优化策略！掌握Agent必备技能！AI学习你不能错过的RAG最全科普！](https://blog.csdn.net/2401_85325397/article/details/145939103)
-- [【通义千问】蓝耘智算 | 智启未来：蓝耘MaaS×通义QwQ-32B引领AI开发生产力](https://blog.csdn.net/Morse_Chen/article/details/146293849)
+- [AI声音克隆GPT-SoVITS之ollama语音脚本openWebUI本地TTS输出过程记录](https://blog.csdn.net/maya_st/article/details/145406914)
+- [【GitHub开源AI精选】哈工大（深圳）& 清华力作 FilmAgent：剧本自动生成 + 镜头智能规划，开启 AI 电影制作新时代](https://blog.csdn.net/xiaobing259/article/details/145913553)
+- [解锁DeepSeek-R1大模型微调：从训练到部署，打造定制化AI会话系统](https://blog.csdn.net/c18213590220/article/details/146135568)
 
 ### 🛡️ 安全资讯
 - [腾讯混元进入全球大模型权威榜单](https://cloud.tencent.com/developer/article/2506779)
