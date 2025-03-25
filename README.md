@@ -121,9 +121,9 @@
 - [ageerle / ruoyi-ai](https://github.com/ageerle / ruoyi-ai) - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
 
 ### 📚 技术文章精选
-- [【AI 大模型】RAG 检索增强生成 ⑧ ( 文本相似度排序 | Bi-Encoder 双编码器 | Cross-Encoder 交叉编码器 )](https://blog.csdn.net/han1202012/article/details/146122236)
-- [18k star，取代Navicat！一款集成了AI功能的数据库管理工具！](https://blog.csdn.net/zhenghongcs/article/details/146034437)
-- [Ruoyi-AI 项目下载及安装教程](https://blog.csdn.net/gitblog_01223/article/details/143044806)
+- [AI居然可以做小说推文视频?保姆级教程来啦](https://blog.csdn.net/maiya_yayaya/article/details/138483074)
+- [马斯克 正式发布 Grok3 大模型！“地表最聪明AI” ？](https://blog.csdn.net/qq_58885781/article/details/145723069)
+- [PyCharm的配置及AI智能工具使用](https://blog.csdn.net/qq_52758588/article/details/136285154)
 
 ### 🛡️ 安全资讯
 - [AI知识学习经验记录](https://cloud.tencent.com/developer/article/2506834)
