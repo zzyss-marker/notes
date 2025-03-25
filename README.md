@@ -121,18 +121,18 @@
 - [wonderwhy-er / ClaudeDesktopCommander](https://github.com/wonderwhy-er / ClaudeDesktopCommander) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 
 ### 📚 技术文章精选
-- [AI批量视频混剪工具：高效创作的得力助手](https://blog.csdn.net/soonlyai/article/details/145309922)
-- [Zabbix+Deepseek实现AI告警分析（非本地部署大模型版）](https://blog.csdn.net/Tassel_YUE/article/details/146047819)
-- [从GAN到Transformer-生成式人工智能（AIGC）在视频内容创作中的应用【附核心代码】](https://blog.csdn.net/weixin_52908342/article/details/146151145)
+- [初尝DeepSeek，做个AI客服吧](https://blog.csdn.net/cll18982138360/article/details/145345108)
+- [10分钟上手DeepSeek开发：SpringBoot + Vue2快速构建AI对话系统](https://blog.csdn.net/c18213590220/article/details/145708471)
+- [通义万相2.1 图生视频：为AI绘梦插上翅膀，开启ALGC算力领域新纪元](https://blog.csdn.net/bite_zwy/article/details/146164067)
 
 ### 🛡️ 安全资讯
-- [腾讯云Window日常排障参考](https://cloud.tencent.com/developer/article/2506794)
 - [AI知识学习经验记录](https://cloud.tencent.com/developer/article/2506834)
 - [RobloxPlayer不适用于云服务器](https://cloud.tencent.com/developer/article/2506860)
+- [AI 写文章系列——Eino 介绍文档及 DeepSeek 示例](https://cloud.tencent.com/developer/article/2506916)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
