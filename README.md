@@ -121,18 +121,18 @@
 - [wonderwhy-er / ClaudeDesktopCommander](https://github.com/wonderwhy-er / ClaudeDesktopCommander) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 
 ### 📚 技术文章精选
-- [【EdgeAI实战】（2）STM32 AI 扩展包的安装与使用](https://blog.csdn.net/youcans/article/details/145267360)
-- [浅谈人工智能之Java调用基于Ollama本地大模型](https://blog.csdn.net/u012151594/article/details/142335334)
-- [RAG+AI工作流+Agent：LLM框架该如何选择，全面对比MaxKB、Dify、FastGPT、RagFlow、Anything-LLM,以及更多推荐](https://blog.csdn.net/sinat_39620217/article/details/140796353)
+- [AI工具—wiseflow 首席情报官信息收集的王者神器](https://blog.csdn.net/king14bhhb/article/details/144903313)
+- [Spring AI教程（三）：如何使用Spring AI进行实际项目开发](https://blog.csdn.net/qq_19749625/article/details/139521277)
+- [手把手带你在本地部署自己的AI工具 DeepSeek 的个人知识库，这个保姆级教程在别处很难看到了，强烈建议收藏！](https://blog.csdn.net/qq_63911508/article/details/145444534)
 
 ### 🛡️ 安全资讯
-- [腾讯混元进入全球大模型权威榜单](https://cloud.tencent.com/developer/article/2506779)
 - [腾讯云Window日常排障参考](https://cloud.tencent.com/developer/article/2506794)
 - [AI知识学习经验记录](https://cloud.tencent.com/developer/article/2506834)
+- [RobloxPlayer不适用于云服务器](https://cloud.tencent.com/developer/article/2506860)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
