@@ -121,18 +121,14 @@
 - [ageerle / ruoyi-ai](https://github.com/ageerle / ruoyi-ai) - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
 
 ### 📚 技术文章精选
-- [2024年AI发展全景：塑造未来的技术趋势](https://blog.csdn.net/zag666/article/details/144607413)
-- [Manus：中国AI领域的新星与通用智能体的崛起](https://blog.csdn.net/xiezhipu/article/details/146069815)
-- [2025三掌柜赠书活动第九期：秒懂AI辅助论文写作](https://blog.csdn.net/CC1991_/article/details/146374213)
+获取 CSDN 文章失败
 
 ### 🛡️ 安全资讯
-- [AI知识学习经验记录](https://cloud.tencent.com/developer/article/2506834)
-- [RobloxPlayer不适用于云服务器](https://cloud.tencent.com/developer/article/2506860)
-- [AI 写文章系列——Eino 介绍文档及 DeepSeek 示例](https://cloud.tencent.com/developer/article/2506916)
+获取安全资讯失败
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
