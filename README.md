@@ -116,14 +116,14 @@
 ## 📰 今日资讯 (2025/3/25)
 
 ### 🔥 GitHub 热门项目
-- [joanrod / star-vector](https://github.com/joanrod / star-vector) - StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textual inputs to produce high-quality SVG code with remarkable precision.
 - [hacksider / Deep-Live-Cam](https://github.com/hacksider / Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-- [wonderwhy-er / ClaudeDesktopCommander](https://github.com/wonderwhy-er / ClaudeDesktopCommander) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
+- [NVIDIA / TensorRT-LLM](https://github.com/NVIDIA / TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.
+- [ageerle / ruoyi-ai](https://github.com/ageerle / ruoyi-ai) - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
 
 ### 📚 技术文章精选
-- [Spring Boot 使用 Spring AI 构建知识库服务](https://blog.csdn.net/typeracer/article/details/140719785)
-- [DeepSeek与Grok：AI语言模型的全面对决](https://blog.csdn.net/deepseek01/article/details/145719548)
-- [全球AI大模型盘点（全网首发）](https://blog.csdn.net/qq_30776829/article/details/138141880)
+- [基于AI人工智能UI自动化测试工具：Midscene](https://blog.csdn.net/ufrontend/article/details/145847019)
+- [全网最全最强的AI工具集合（建议大家收藏）](https://blog.csdn.net/HJS123456780/article/details/143989072)
+- [Spring AI集成DeepSeek：三步搞定Java智能应用](https://blog.csdn.net/tian330726/article/details/145669294)
 
 ### 🛡️ 安全资讯
 - [AI知识学习经验记录](https://cloud.tencent.com/developer/article/2506834)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
