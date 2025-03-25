@@ -121,9 +121,9 @@
 - [ageerle / ruoyi-ai](https://github.com/ageerle / ruoyi-ai) - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
 
 ### 📚 技术文章精选
-- [深入探索人工智能的未来：DeepSeek R1与蓝耘智算平台的完美结合](https://blog.csdn.net/2302_79177254/article/details/145552086)
-- [【有啥问啥】什么是端到端（End-to-End）？](https://blog.csdn.net/mieshizhishou/article/details/140492554)
-- [AI小智硬件太贵，不如直接来一个线上小智](https://blog.csdn.net/m0_58478371/article/details/146049194)
+- [【Windsurf】Windsurf：重塑编程未来的AI集成开发环境（IDE）深度解析](https://blog.csdn.net/luomao2012/article/details/144437108)
+- [基于开源模型的微调训练及瘦身打造随身扫描仪方案__用AI把手机变成文字识别小能手](https://blog.csdn.net/deepever/article/details/146387667)
+- [深度体验：IntelliJ Idea自带AI Assistant，开启面向AI编程新纪元！](https://blog.csdn.net/whzhaochao/article/details/140894748)
 
 ### 🛡️ 安全资讯
 - [AI知识学习经验记录](https://cloud.tencent.com/developer/article/2506834)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
