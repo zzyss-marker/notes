@@ -121,9 +121,9 @@
 - [wonderwhy-er / ClaudeDesktopCommander](https://github.com/wonderwhy-er / ClaudeDesktopCommander) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 
 ### 📚 技术文章精选
-- [AI声音克隆GPT-SoVITS之ollama语音脚本openWebUI本地TTS输出过程记录](https://blog.csdn.net/maya_st/article/details/145406914)
-- [【GitHub开源AI精选】哈工大（深圳）& 清华力作 FilmAgent：剧本自动生成 + 镜头智能规划，开启 AI 电影制作新时代](https://blog.csdn.net/xiaobing259/article/details/145913553)
-- [解锁DeepSeek-R1大模型微调：从训练到部署，打造定制化AI会话系统](https://blog.csdn.net/c18213590220/article/details/146135568)
+- [DeepSeek加持的通义灵码2.0 AI程序员实战案例：助力嵌入式开发中的算法生成革新](https://blog.csdn.net/g310773517/article/details/145800181)
+- [Linux本地部署开源项目OpenHands基于AI的软件开发代理平台及公网访问](https://blog.csdn.net/qyj19920704/article/details/143952283)
+- [【AI时代】使用unsloth对deepseek-r1-1.5b进行微调](https://blog.csdn.net/sinat_14840559/article/details/145780216)
 
 ### 🛡️ 安全资讯
 - [腾讯混元进入全球大模型权威榜单](https://cloud.tencent.com/developer/article/2506779)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
