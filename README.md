@@ -121,18 +121,18 @@
 - [wonderwhy-er / ClaudeDesktopCommander](https://github.com/wonderwhy-er / ClaudeDesktopCommander) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 
 ### 📚 技术文章精选
-- [保姆级教程来袭！AI笔记神器NotebookLM超全攻略](https://blog.csdn.net/m0_37733448/article/details/146165820)
-- [AI Agent之AutoGen框架部署、测试](https://blog.csdn.net/lucky_chaichai/article/details/143212429)
-- [OpenHands，媲美v0与Cursor的开源AI编程工具，帮你解密 AI 编程工具的工作原理](https://blog.csdn.net/surfirst/article/details/143724869)
+- [VSCode + Cline + Deepseek 让AI给你编程](https://blog.csdn.net/dingding2001/article/details/145500605)
+- [LLM大语言模型私有化部署-使用Dify的工作流编排打造专属AI诗词数据分析师](https://blog.csdn.net/u013810234/article/details/145812410)
+- [QAI AppBuilder 快速上手(2)：图像超分应用实例](https://blog.csdn.net/csdnsqst0050/article/details/145823574)
 
 ### 🛡️ 安全资讯
-- [Step-Video-T2V：全球最强开源视频生成](https://cloud.tencent.com/developer/article/2506669)
-- [邀请函 | Pulsar Meetup 广州 2025 邀您报名！](https://cloud.tencent.com/developer/article/2506780)
 - [腾讯混元进入全球大模型权威榜单](https://cloud.tencent.com/developer/article/2506779)
+- [腾讯云Window日常排障参考](https://cloud.tencent.com/developer/article/2506794)
+- [AI知识学习经验记录](https://cloud.tencent.com/developer/article/2506834)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
