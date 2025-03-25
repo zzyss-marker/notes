@@ -121,9 +121,9 @@
 - [ageerle / ruoyi-ai](https://github.com/ageerle / ruoyi-ai) - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
 
 ### 📚 技术文章精选
-- [GitHub项目 camel-ai/camel 开源多智能体框架AI Agent介绍](https://blog.csdn.net/a772304419/article/details/146108070)
-- [智能体（AI Agent）和普通AI有什么区别？一眼看懂区别](https://blog.csdn.net/u013801484/article/details/146102370)
-- [手把手教你搭建自己的AI智能体（史上最全教程）](https://blog.csdn.net/2401_85373691/article/details/145300499)
+- [深入探索人工智能的未来：DeepSeek R1与蓝耘智算平台的完美结合](https://blog.csdn.net/2302_79177254/article/details/145552086)
+- [【有啥问啥】什么是端到端（End-to-End）？](https://blog.csdn.net/mieshizhishou/article/details/140492554)
+- [AI小智硬件太贵，不如直接来一个线上小智](https://blog.csdn.net/m0_58478371/article/details/146049194)
 
 ### 🛡️ 安全资讯
 - [AI知识学习经验记录](https://cloud.tencent.com/developer/article/2506834)
