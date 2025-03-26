@@ -121,7 +121,9 @@
 - [alibaba / spring-ai-alibaba](https://github.com/alibaba / spring-ai-alibaba) - Agentic AI Framework for Java Developers
 
 ### 📚 技术文章精选
-获取 CSDN 文章失败
+- [【工具】13款免费AI工具助你高效生成代码](https://blog.csdn.net/qq_37255976/article/details/143261438)
+- [无障碍全免费上手智能体：Autogen Studio结合Deepseek Coder打造一款AI旅游规划师](https://blog.csdn.net/epitomizelu/article/details/140323035)
+- [【AI知识点】小世界网络（Small-World Networks）](https://blog.csdn.net/weixin_43221845/article/details/142700328)
 
 ### 🛡️ 安全资讯
 - [英伟达GTC与黄仁勋的“新故事”](https://cloud.tencent.com/developer/article/2507300)
@@ -132,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
