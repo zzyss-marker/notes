@@ -116,9 +116,9 @@
 ## 📰 今日资讯 (2025/3/26)
 
 ### 🔥 GitHub 热门项目
+- [microsoft / ai-agents-for-beginners](https://github.com/microsoft / ai-agents-for-beginners) - 10 Lessons to Get Started Building AI Agents
 - [khoj-ai / khoj](https://github.com/khoj-ai / khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 - [kubernetes / ingress-nginx](https://github.com/kubernetes / ingress-nginx) - Ingress NGINX Controller for Kubernetes
-- [alibaba / spring-ai-alibaba](https://github.com/alibaba / spring-ai-alibaba) - Agentic AI Framework for Java Developers
 
 ### 📚 技术文章精选
 - [AI智能体的开发平台的比较](https://blog.csdn.net/dt_dev/article/details/144206361)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
