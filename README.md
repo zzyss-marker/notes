@@ -121,9 +121,9 @@
 - [ageerle / ruoyi-ai](https://github.com/ageerle / ruoyi-ai) - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
 
 ### 📚 技术文章精选
-- [【Android】ListView控件在进入|退出小窗下的异常](https://blog.csdn.net/qq_40900926/article/details/146307243)
-- [自学网络安全（黑客技术）2025年 —90天学习计划](https://blog.csdn.net/2401_85026643/article/details/146144897)
-- [Python 鼠标轨迹算法 - 防止游戏检测](https://blog.csdn.net/ZhaDeNianQu/article/details/146290433)
+- [Spring AI 快速入门](https://blog.csdn.net/qq_43048957/article/details/144523993)
+- [AI 大模型统一集成｜让 AI 聊天更丝滑：WebSocket 实现流式对话！](https://blog.csdn.net/Brad_PiTt7/article/details/146188874)
+- [AI IDE 新势力 Trae 功能深度解析：Builder与Chat模式的应用场景与市场竞争力分析](https://blog.csdn.net/dietime1943/article/details/145784303)
 
 ### 🛡️ 安全资讯
 - [向 AI Search 迈进，腾讯云 ES 自研 v-pack 向量增强插件揭秘！](https://cloud.tencent.com/developer/article/2506858)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
