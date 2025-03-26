@@ -116,14 +116,14 @@
 ## 📰 今日资讯 (2025/3/26)
 
 ### 🔥 GitHub 热门项目
-- [microsoft / ai-agents-for-beginners](https://github.com/microsoft / ai-agents-for-beginners) - 10 Lessons to Get Started Building AI Agents
 - [khoj-ai / khoj](https://github.com/khoj-ai / khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 - [kubernetes / ingress-nginx](https://github.com/kubernetes / ingress-nginx) - Ingress NGINX Controller for Kubernetes
+- [alibaba / spring-ai-alibaba](https://github.com/alibaba / spring-ai-alibaba) - Agentic AI Framework for Java Developers
 
 ### 📚 技术文章精选
-- [AI智能体的开发平台的比较](https://blog.csdn.net/dt_dev/article/details/144206361)
-- [“小浣熊家族AI办公助手”产品体验 — “人人都是数据分析师”](https://blog.csdn.net/2301_77888392/article/details/143191842)
-- [LM Studio：引领本地LLM应用革命，打造安全高效的AI新体验](https://blog.csdn.net/xiaobing259/article/details/144173115)
+- [【AI 大模型】RAG 检索增强生成 ④ ( 向量相似度计算 | 余弦距离 | 欧式距离 | OpenAI 文本向量模型 | 手动实现的 余弦相似度 和 欧氏距离 函数计算 )](https://blog.csdn.net/han1202012/article/details/145267350)
+- [DeepSeek本地部署之deepseek-r1-distill-llama-70b 本地部署与 AI 应用实践](https://blog.csdn.net/m0_60674045/article/details/145518263)
+- [最新AI大模型数据集解决方案：分享两种AI高质量代码数据集生产方案](https://blog.csdn.net/qq_44866828/article/details/146311478)
 
 ### 🛡️ 安全资讯
 - [Step系列大模型—两款多模态大模型详细介绍](https://cloud.tencent.com/developer/article/2507082)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
