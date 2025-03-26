@@ -121,18 +121,18 @@
 - [ageerle / ruoyi-ai](https://github.com/ageerle / ruoyi-ai) - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
 
 ### 📚 技术文章精选
-- [【有啥问啥】科普符号主义与连接主义：人工智能的两大主流学派](https://blog.csdn.net/mieshizhishou/article/details/142124901)
-- [DeepSeek——DeepSeek模型部署实战](https://blog.csdn.net/weixin_41605937/article/details/145504336)
-- [9个免费下载文献论文的神器，知网再见！](https://blog.csdn.net/weixin_46417977/article/details/140514229)
+- [盘点国产十大最实用的AI大模型！（深度解析）](https://blog.csdn.net/kaka0722ww/article/details/144372559)
+- [半导体数据分析： 玩转WM-811K Wafermap 数据集（一） AI 机器学习](https://blog.csdn.net/minstbe/article/details/144752689)
+- [DeepSeek与Grok：AI语言模型的全面对决](https://blog.csdn.net/deepseek01/article/details/145719548)
 
 ### 🛡️ 安全资讯
-- [RobloxPlayer不适用于云服务器](https://cloud.tencent.com/developer/article/2506860)
-- [AI 写文章系列——Eino 介绍文档及 DeepSeek 示例](https://cloud.tencent.com/developer/article/2506916)
 - [向 AI Search 迈进，腾讯云 ES 自研 v-pack 向量增强插件揭秘！](https://cloud.tencent.com/developer/article/2506858)
+- [Step-Audio：开箱即用的语音大模型](https://cloud.tencent.com/developer/article/2506950)
+- [Step系列大模型—两款多模态大模型详细介绍](https://cloud.tencent.com/developer/article/2507082)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
