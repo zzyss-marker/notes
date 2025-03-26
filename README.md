@@ -121,9 +121,9 @@
 - [alibaba / spring-ai-alibaba](https://github.com/alibaba / spring-ai-alibaba) - Agentic AI Framework for Java Developers
 
 ### 📚 技术文章精选
-- [2025年值得入坑AI Agent的五大框架，收藏这一篇就够了！！](https://blog.csdn.net/2401_85325397/article/details/144783653)
-- [火焰传感器 - 从零开始认识各种传感器【第十六期】](https://blog.csdn.net/m0_61036291/article/details/140706584)
-- [AIGC实战——生成式人工智能总结与展望](https://blog.csdn.net/LOVEmy134611/article/details/143380142)
+- [重磅升级！Cursor 0.45：AI 更懂代码、DeepSeek 双模型加持](https://blog.csdn.net/sinat_37574187/article/details/145357670)
+- [AI 2024 Adobe Illustrator下载与安装教程](https://blog.csdn.net/By2650/article/details/136546609)
+- [即梦AI文生图报错 “提示词不支持其他语种“ 的原因](https://blog.csdn.net/heshiyuan1406146854/article/details/145879760)
 
 ### 🛡️ 安全资讯
 - [英伟达GTC与黄仁勋的“新故事”](https://cloud.tencent.com/developer/article/2507300)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
