@@ -121,9 +121,9 @@
 - [alibaba / spring-ai-alibaba](https://github.com/alibaba / spring-ai-alibaba) - Agentic AI Framework for Java Developers
 
 ### 📚 技术文章精选
-- [CLion和IDEA集成的ai代码助手——通义灵码的使用及其自动代码补全的禁用设置等使用优化](https://blog.csdn.net/2302_80901412/article/details/140923018)
-- [【AI工作流】Ollama本地化大模型安装](https://blog.csdn.net/AAI666666/article/details/145469781)
-- [【AI落地】如何创建字节的coze扣子工作流 ——以“批量获取抖音视频文案”为例](https://blog.csdn.net/YUICUI/article/details/144953810)
+- [优云智算赋能国产AI：DeepSeek配合通义万相2.1文生视频模型生成高质量视频](https://blog.csdn.net/g310773517/article/details/146165068)
+- [Kimi人气飙升，手把手教你如何用极空间部署这个AI大模型~](https://blog.csdn.net/python12222_/article/details/138909007)
+- [Manus：中国AI领域的新星与通用智能体的崛起](https://blog.csdn.net/xiezhipu/article/details/146069815)
 
 ### 🛡️ 安全资讯
 - [英伟达GTC与黄仁勋的“新故事”](https://cloud.tencent.com/developer/article/2507300)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
