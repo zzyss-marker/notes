@@ -121,9 +121,9 @@
 - [ageerle / ruoyi-ai](https://github.com/ageerle / ruoyi-ai) - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
 
 ### 📚 技术文章精选
-- [盘点国产十大最实用的AI大模型！（深度解析）](https://blog.csdn.net/kaka0722ww/article/details/144372559)
-- [半导体数据分析： 玩转WM-811K Wafermap 数据集（一） AI 机器学习](https://blog.csdn.net/minstbe/article/details/144752689)
-- [DeepSeek与Grok：AI语言模型的全面对决](https://blog.csdn.net/deepseek01/article/details/145719548)
+- [本地部署 AI 智能体，Dify 搭建保姆级教程（上）：工作流 + Agent，把 AI 接入个人微信](https://blog.csdn.net/u010522887/article/details/141407784)
+- [OpenManus+DeepSeek联合，打造一款超级强大的Agent工具](https://blog.csdn.net/qq_38773993/article/details/146093020)
+- [8. Spring Ai之入门到精通（超级详细）](https://blog.csdn.net/weixin_46203834/article/details/140807594)
 
 ### 🛡️ 安全资讯
 - [向 AI Search 迈进，腾讯云 ES 自研 v-pack 向量增强插件揭秘！](https://cloud.tencent.com/developer/article/2506858)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
