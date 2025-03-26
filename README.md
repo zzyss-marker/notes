@@ -121,9 +121,9 @@
 - [alibaba / spring-ai-alibaba](https://github.com/alibaba / spring-ai-alibaba) - Agentic AI Framework for Java Developers
 
 ### 📚 技术文章精选
-- [RagFlow 与 Dify 大比拼，AI 开发选谁一步到位？](https://blog.csdn.net/qq_36936192/article/details/145962644)
-- [AI训练如何获取海量数据，论平台的重要性](https://blog.csdn.net/weixin_47343544/article/details/146380823)
-- [深度探索AI | 智算云平台与DeepSeek 的多元联动应用与模型微调全解析](https://blog.csdn.net/weixin_43151418/article/details/145992400)
+- [Spring实战spring-ai运行](https://blog.csdn.net/juanmiao/article/details/146071866)
+- [DeepSeek 又崩了？9 大免费方案，让你体验国产 AI 之光](https://blog.csdn.net/m0_37996629/article/details/145456001)
+- [大数据新视界 --大数据大厂之AI 与大数据的融合：开创智能未来的新篇章](https://blog.csdn.net/atgfg/article/details/142407718)
 
 ### 🛡️ 安全资讯
 - [英伟达GTC与黄仁勋的“新故事”](https://cloud.tencent.com/developer/article/2507300)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
