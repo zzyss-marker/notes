@@ -121,18 +121,16 @@
 - [alibaba / spring-ai-alibaba](https://github.com/alibaba / spring-ai-alibaba) - Agentic AI Framework for Java Developers
 
 ### 📚 技术文章精选
-- [【AI 大模型】RAG 检索增强生成 ④ ( 向量相似度计算 | 余弦距离 | 欧式距离 | OpenAI 文本向量模型 | 手动实现的 余弦相似度 和 欧氏距离 函数计算 )](https://blog.csdn.net/han1202012/article/details/145267350)
-- [DeepSeek本地部署之deepseek-r1-distill-llama-70b 本地部署与 AI 应用实践](https://blog.csdn.net/m0_60674045/article/details/145518263)
-- [最新AI大模型数据集解决方案：分享两种AI高质量代码数据集生产方案](https://blog.csdn.net/qq_44866828/article/details/146311478)
+获取 CSDN 文章失败
 
 ### 🛡️ 安全资讯
-- [Step系列大模型—两款多模态大模型详细介绍](https://cloud.tencent.com/developer/article/2507082)
 - [英伟达GTC与黄仁勋的“新故事”](https://cloud.tencent.com/developer/article/2507300)
 - [Merkle Root与Taproot Protocol](https://cloud.tencent.com/developer/article/2507387)
+- [使用 个人知识库腾讯IMA：提升写作能力的方法](https://cloud.tencent.com/developer/article/2507266)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
