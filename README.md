@@ -121,9 +121,9 @@
 - [alibaba / spring-ai-alibaba](https://github.com/alibaba / spring-ai-alibaba) - Agentic AI Framework for Java Developers
 
 ### 📚 技术文章精选
-- [蓝耘携手通义万相2.1：引领AI创作革新，重塑视觉体验](https://blog.csdn.net/2302_80243065/article/details/146155744)
-- [使用Cursor和Claude AI打造你的第一个App](https://blog.csdn.net/csdn1561168266/article/details/143925398)
-- [人工智能：从理论到实践的全方位解析](https://blog.csdn.net/qq_16242613/article/details/146055685)
+- [CLion和IDEA集成的ai代码助手——通义灵码的使用及其自动代码补全的禁用设置等使用优化](https://blog.csdn.net/2302_80901412/article/details/140923018)
+- [【AI工作流】Ollama本地化大模型安装](https://blog.csdn.net/AAI666666/article/details/145469781)
+- [【AI落地】如何创建字节的coze扣子工作流 ——以“批量获取抖音视频文案”为例](https://blog.csdn.net/YUICUI/article/details/144953810)
 
 ### 🛡️ 安全资讯
 - [英伟达GTC与黄仁勋的“新故事”](https://cloud.tencent.com/developer/article/2507300)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
