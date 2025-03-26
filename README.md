@@ -116,19 +116,19 @@
 ## 📰 今日资讯 (2025/3/26)
 
 ### 🔥 GitHub 热门项目
-- [hacksider / Deep-Live-Cam](https://github.com/hacksider / Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-- [NVIDIA / TensorRT-LLM](https://github.com/NVIDIA / TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.
-- [ageerle / ruoyi-ai](https://github.com/ageerle / ruoyi-ai) - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
+- [khoj-ai / khoj](https://github.com/khoj-ai / khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
+- [kubernetes / ingress-nginx](https://github.com/kubernetes / ingress-nginx) - Ingress NGINX Controller for Kubernetes
+- [alibaba / spring-ai-alibaba](https://github.com/alibaba / spring-ai-alibaba) - Agentic AI Framework for Java Developers
 
 ### 📚 技术文章精选
-- [A100深度解析：推动人工智能发展的核心力量](https://blog.csdn.net/tiangang2024/article/details/145116650)
-- [AI训练数据告急：马斯克的警示与行业破局之路](https://blog.csdn.net/2302_78391795/article/details/145372481)
-- [2025年工信部AI人工智能证书“计算机视觉工程师”报考指南`.](https://blog.csdn.net/qq_42622747/article/details/144392655)
+- [Android Studio的AI工具插件使用介绍](https://blog.csdn.net/wenzhi20102321/article/details/144143936)
+- [DeepSeek 掌舵创意方向+即梦 AI 绘制梦幻蓝图，引领创作潮流](https://blog.csdn.net/2301_80350265/article/details/146078795)
+- [AI性能极致体验：通过阿里云平台高效调用满血版DeepSeek-R1模型](https://blog.csdn.net/2301_80840905/article/details/145704238)
 
 ### 🛡️ 安全资讯
-- [Step-Audio：开箱即用的语音大模型](https://cloud.tencent.com/developer/article/2506950)
 - [Step系列大模型—两款多模态大模型详细介绍](https://cloud.tencent.com/developer/article/2507082)
 - [英伟达GTC与黄仁勋的“新故事”](https://cloud.tencent.com/developer/article/2507300)
+- [Merkle Root与Taproot Protocol](https://cloud.tencent.com/developer/article/2507387)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
