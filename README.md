@@ -121,9 +121,9 @@
 - [alibaba / spring-ai-alibaba](https://github.com/alibaba / spring-ai-alibaba) - Agentic AI Framework for Java Developers
 
 ### 📚 技术文章精选
-- [开源版Operator原生AI智能体来了？字节跳动开源UI-TARS模型](https://blog.csdn.net/2401_84204413/article/details/145373756)
-- [DeepSeek从入门到精通：全面掌握AI大模型的核心能力](https://blog.csdn.net/weixin_66401877/article/details/145504773)
-- [【AI大模型】Ollama部署本地大模型DeepSeek-R1，交互界面Open-WebUI，RagFlow构建私有知识库](https://blog.csdn.net/u014608435/article/details/145545048)
+- [2025年值得入坑AI Agent的五大框架，收藏这一篇就够了！！](https://blog.csdn.net/2401_85325397/article/details/144783653)
+- [火焰传感器 - 从零开始认识各种传感器【第十六期】](https://blog.csdn.net/m0_61036291/article/details/140706584)
+- [AIGC实战——生成式人工智能总结与展望](https://blog.csdn.net/LOVEmy134611/article/details/143380142)
 
 ### 🛡️ 安全资讯
 - [英伟达GTC与黄仁勋的“新故事”](https://cloud.tencent.com/developer/article/2507300)
