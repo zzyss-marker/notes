@@ -121,18 +121,18 @@
 - [ageerle / ruoyi-ai](https://github.com/ageerle / ruoyi-ai) - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
 
 ### 📚 技术文章精选
-- [AI 技术与嵌入式结合](https://blog.csdn.net/weixin_57010826/article/details/145219445)
-- [手把手教你用Deepseek打造会聊天的桌宠！AI语音互动全流程拆解【爱莉希雅向】](https://blog.csdn.net/X2222212/article/details/145569508)
-- [OpenWebUI，RAG+外部知识库+AI写文的开源应用](https://blog.csdn.net/sunsky89757/article/details/143693859)
+- [A100深度解析：推动人工智能发展的核心力量](https://blog.csdn.net/tiangang2024/article/details/145116650)
+- [AI训练数据告急：马斯克的警示与行业破局之路](https://blog.csdn.net/2302_78391795/article/details/145372481)
+- [2025年工信部AI人工智能证书“计算机视觉工程师”报考指南`.](https://blog.csdn.net/qq_42622747/article/details/144392655)
 
 ### 🛡️ 安全资讯
-- [向 AI Search 迈进，腾讯云 ES 自研 v-pack 向量增强插件揭秘！](https://cloud.tencent.com/developer/article/2506858)
 - [Step-Audio：开箱即用的语音大模型](https://cloud.tencent.com/developer/article/2506950)
 - [Step系列大模型—两款多模态大模型详细介绍](https://cloud.tencent.com/developer/article/2507082)
+- [英伟达GTC与黄仁勋的“新故事”](https://cloud.tencent.com/developer/article/2507300)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
