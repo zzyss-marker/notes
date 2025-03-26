@@ -121,9 +121,9 @@
 - [alibaba / spring-ai-alibaba](https://github.com/alibaba / spring-ai-alibaba) - Agentic AI Framework for Java Developers
 
 ### 📚 技术文章精选
-- [Android Studio的AI工具插件使用介绍](https://blog.csdn.net/wenzhi20102321/article/details/144143936)
-- [DeepSeek 掌舵创意方向+即梦 AI 绘制梦幻蓝图，引领创作潮流](https://blog.csdn.net/2301_80350265/article/details/146078795)
-- [AI性能极致体验：通过阿里云平台高效调用满血版DeepSeek-R1模型](https://blog.csdn.net/2301_80840905/article/details/145704238)
+- [AI智能体的开发平台的比较](https://blog.csdn.net/dt_dev/article/details/144206361)
+- [“小浣熊家族AI办公助手”产品体验 — “人人都是数据分析师”](https://blog.csdn.net/2301_77888392/article/details/143191842)
+- [LM Studio：引领本地LLM应用革命，打造安全高效的AI新体验](https://blog.csdn.net/xiaobing259/article/details/144173115)
 
 ### 🛡️ 安全资讯
 - [Step系列大模型—两款多模态大模型详细介绍](https://cloud.tencent.com/developer/article/2507082)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
