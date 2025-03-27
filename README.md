@@ -121,9 +121,9 @@
 - [kubernetes / ingress-nginx](https://github.com/kubernetes / ingress-nginx) - Ingress NGINX Controller for Kubernetes
 
 ### 📚 技术文章精选
-- [【人工智能】Transformers之Pipeline（二十）：令牌分类（token-classification）](https://blog.csdn.net/weixin_48007632/article/details/143144968)
-- [【人工智能】Transformers之Pipeline（二十三）：文档视觉问答（document-question-answering）](https://blog.csdn.net/weixin_48007632/article/details/143719428)
-- [全球首款通用AI Agent「Manus」来了！中国团队打造，让AI真正替你干活！](https://blog.csdn.net/VinciB/article/details/146063392)
+- [玩疯了！只需一句话，Grok 3彻底放飞自我！](https://blog.csdn.net/weixin_40774379/article/details/146054737)
+- [蓝耘DS满血版震撼来袭！500万Tokens限时免费，开启AI新纪元](https://blog.csdn.net/djdjiejsn/article/details/145798583)
+- [Visual Studio 使用 GitHub Copilot 与 IntelliCode 辅助编码 【AI辅助开发系列】](https://blog.csdn.net/mss359681091/article/details/144471082)
 
 ### 🛡️ 安全资讯
 - [万字长文，聊聊下一代AI Agent的新范式](https://cloud.tencent.com/developer/article/2507962)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
