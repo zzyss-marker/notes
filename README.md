@@ -121,14 +121,14 @@
 - [alibaba / spring-ai-alibaba](https://github.com/alibaba / spring-ai-alibaba) - Agentic AI Framework for Java Developers
 
 ### 📚 技术文章精选
-- [中国自创 AI：DeepSpeak 全面剖析](https://blog.csdn.net/abcdeWA/article/details/145414946)
-- [[特殊字符] 2025最全Manus保姆级教程：从注册到实战，手把手教你玩转AI智能体（附邀请码获取攻略）[特殊字符]](https://blog.csdn.net/weixin_42358373/article/details/146080491)
-- [Manus：成为AI Agent领域的标杆](https://blog.csdn.net/qq_25580555/article/details/146064738)
+- [【AIGC】揭秘驱动AI创新的关键力量：领军者的角色](https://blog.csdn.net/2301_77900444/article/details/139124634)
+- [15个值得探索的AI赚钱方法](https://blog.csdn.net/shebao3333/article/details/137502058)
+- [【最全】36+高校的DeepSeek怎么用，7个顺滑DeepSeek免费网址，AI工具用法建议](https://blog.csdn.net/wuyoy520/article/details/145788649)
 
 ### 🛡️ 安全资讯
-- [英伟达GTC与黄仁勋的“新故事”](https://cloud.tencent.com/developer/article/2507300)
-- [Merkle Root与Taproot Protocol](https://cloud.tencent.com/developer/article/2507387)
-- [使用 个人知识库腾讯IMA：提升写作能力的方法](https://cloud.tencent.com/developer/article/2507266)
+- [技术人的焦虑和内耗，大都来自什么地方？](https://cloud.tencent.com/developer/article/2507443)
+- [三维可视化的「黄金搭档」！腾讯云RayData让数据资产“活”起来（内含福利）](https://cloud.tencent.com/developer/article/2507439)
+- [大模型时代，安全如何洗牌？](https://cloud.tencent.com/developer/article/2507441)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
