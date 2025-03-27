@@ -121,7 +121,9 @@
 - [alibaba / spring-ai-alibaba](https://github.com/alibaba / spring-ai-alibaba) - Agentic AI Framework for Java Developers
 
 ### 📚 技术文章精选
-获取 CSDN 文章失败
+- [中国自创 AI：DeepSpeak 全面剖析](https://blog.csdn.net/abcdeWA/article/details/145414946)
+- [[特殊字符] 2025最全Manus保姆级教程：从注册到实战，手把手教你玩转AI智能体（附邀请码获取攻略）[特殊字符]](https://blog.csdn.net/weixin_42358373/article/details/146080491)
+- [Manus：成为AI Agent领域的标杆](https://blog.csdn.net/qq_25580555/article/details/146064738)
 
 ### 🛡️ 安全资讯
 - [英伟达GTC与黄仁勋的“新故事”](https://cloud.tencent.com/developer/article/2507300)
@@ -132,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
