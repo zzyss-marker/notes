@@ -121,18 +121,18 @@
 - [alibaba / spring-ai-alibaba](https://github.com/alibaba / spring-ai-alibaba) - Agentic AI Framework for Java Developers
 
 ### 📚 技术文章精选
-- [【AI】技术人如何系统学习AI大模型应用开发？](https://blog.csdn.net/qq_21267357/article/details/146238981)
-- [Android Studio 内置 AI Gemini 的应用](https://blog.csdn.net/fjnu_se/article/details/144996875)
-- [国产AI之光！在PyCharm中接入DeepSeek实现AI编程](https://blog.csdn.net/fengshi_fengshi/article/details/145462010)
+- [（Kaggle人工智能比赛复现）30 个经典 Kaggle 比赛及适合 PyTorch 实践的赛题](https://blog.csdn.net/qq_38334677/article/details/145695179)
+- [【医学影像AI】50个眼科影像数据集（2）分割任务](https://blog.csdn.net/youcans/article/details/145691027)
+- [Kimi-免费的PPT生成AI工具](https://blog.csdn.net/weixin_55576589/article/details/145353066)
 
 ### 🛡️ 安全资讯
-- [技术人的焦虑和内耗，大都来自什么地方？](https://cloud.tencent.com/developer/article/2507443)
-- [三维可视化的「黄金搭档」！腾讯云RayData让数据资产“活”起来（内含福利）](https://cloud.tencent.com/developer/article/2507439)
-- [大模型时代，安全如何洗牌？](https://cloud.tencent.com/developer/article/2507441)
+- [腾讯云与MongoDB战略合作升级，瞄准AI时代的数据管理服务](https://cloud.tencent.com/developer/article/2507961)
+- [万字长文，聊聊下一代AI Agent的新范式](https://cloud.tencent.com/developer/article/2507962)
+- [C/C++获取枚举值名称](https://cloud.tencent.com/developer/article/2508103)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
