@@ -121,9 +121,9 @@
 - [kubernetes / ingress-nginx](https://github.com/kubernetes / ingress-nginx) - Ingress NGINX Controller for Kubernetes
 
 ### 📚 技术文章精选
-- [dify案例分享-deepseek-V3加持AI资讯每日新闻+语音播报工作流](https://blog.csdn.net/2401_84204413/article/details/145530306)
-- [手把手教你用Ollama & AnythingLLM搭建AI知识库，无需编程，跟着做就行！](https://blog.csdn.net/2401_84205765/article/details/145727353)
-- [ROS云课三分钟-如何借助AI写出一段能跑的ROS导航相关代码-两点巡逻案例](https://blog.csdn.net/ZhangRelay/article/details/146176566)
+- [zabbix报警结合AI进行智能分析](https://blog.csdn.net/u010198709/article/details/146197051)
+- [【自然语言处理】自然语言处理 --- NLP入门指南](https://blog.csdn.net/u011397981/article/details/130590194)
+- [如何解决NVIDIA显卡报错：uncorrectable ECC error的问题](https://blog.csdn.net/caryeko/article/details/140764046)
 
 ### 🛡️ 安全资讯
 - [万字长文，聊聊下一代AI Agent的新范式](https://cloud.tencent.com/developer/article/2507962)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
