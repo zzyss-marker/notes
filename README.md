@@ -121,9 +121,9 @@
 - [kubernetes / ingress-nginx](https://github.com/kubernetes / ingress-nginx) - Ingress NGINX Controller for Kubernetes
 
 ### 📚 技术文章精选
-- [IntelliJ IDEA 接入 AI 编程助手（Copilot、DeepSeek、GPT-4o Mini）](https://blog.csdn.net/Brad_PiTt7/article/details/145643082)
-- [【2025版】最详细的人工智能学习路线梳理，从零基础到精通，精通收藏这篇就够了！](https://blog.csdn.net/Libra1313/article/details/145847452)
-- [形式化数学编程在AI医疗中的探索路径分析](https://blog.csdn.net/kkiron/article/details/145859555)
+- [dify案例分享-deepseek-V3加持AI资讯每日新闻+语音播报工作流](https://blog.csdn.net/2401_84204413/article/details/145530306)
+- [手把手教你用Ollama & AnythingLLM搭建AI知识库，无需编程，跟着做就行！](https://blog.csdn.net/2401_84205765/article/details/145727353)
+- [ROS云课三分钟-如何借助AI写出一段能跑的ROS导航相关代码-两点巡逻案例](https://blog.csdn.net/ZhangRelay/article/details/146176566)
 
 ### 🛡️ 安全资讯
 - [万字长文，聊聊下一代AI Agent的新范式](https://cloud.tencent.com/developer/article/2507962)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
