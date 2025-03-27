@@ -121,18 +121,14 @@
 - [kubernetes / ingress-nginx](https://github.com/kubernetes / ingress-nginx) - Ingress NGINX Controller for Kubernetes
 
 ### 📚 技术文章精选
-- [LocalAI离线安装部署](https://blog.csdn.net/weixin_38255219/article/details/140380381)
-- [探秘 Docling：多格式文档解析转换大揭秘，赋能 AI 应用新生态](https://blog.csdn.net/xiaobing259/article/details/144633785)
-- [深度体验上海 GDC 2025：AI 编程创新讲坛的前沿探索与实践](https://blog.csdn.net/CC1991_/article/details/145821215)
+获取 CSDN 文章失败
 
 ### 🛡️ 安全资讯
-- [万字长文，聊聊下一代AI Agent的新范式](https://cloud.tencent.com/developer/article/2507962)
-- [C/C++获取枚举值名称](https://cloud.tencent.com/developer/article/2508103)
-- [C++ 选择 引用传递还是指针传递](https://cloud.tencent.com/developer/article/2508108)
+获取安全资讯失败
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
