@@ -121,9 +121,9 @@
 - [kubernetes / ingress-nginx](https://github.com/kubernetes / ingress-nginx) - Ingress NGINX Controller for Kubernetes
 
 ### 📚 技术文章精选
-- [玩疯了！只需一句话，Grok 3彻底放飞自我！](https://blog.csdn.net/weixin_40774379/article/details/146054737)
-- [蓝耘DS满血版震撼来袭！500万Tokens限时免费，开启AI新纪元](https://blog.csdn.net/djdjiejsn/article/details/145798583)
-- [Visual Studio 使用 GitHub Copilot 与 IntelliCode 辅助编码 【AI辅助开发系列】](https://blog.csdn.net/mss359681091/article/details/144471082)
+- [【AI】如何理解与应对AI中的敏感话题：详细分析与实用指南](https://blog.csdn.net/Stromboli/article/details/143524092)
+- [全面认识AI Agent，一文读懂AI智能体的架构指南](https://blog.csdn.net/Python_cocola/article/details/140475314)
+- [AI公司董事长，十几刀刺死公司CTO，已被捕。。。](https://blog.csdn.net/bjweimengshu/article/details/146193246)
 
 ### 🛡️ 安全资讯
 - [万字长文，聊聊下一代AI Agent的新范式](https://cloud.tencent.com/developer/article/2507962)
