@@ -121,9 +121,9 @@
 - [kubernetes / ingress-nginx](https://github.com/kubernetes / ingress-nginx) - Ingress NGINX Controller for Kubernetes
 
 ### 📚 技术文章精选
-- [大模型应用—超强的AI 视频生成模型！完全免费开源，生成质量极高！](https://blog.csdn.net/CSDN_430422/article/details/144699592)
-- [玩转大语言模型——使用Kiln AI可视化环境进行大语言模型微调数据合成](https://blog.csdn.net/DuLNode/article/details/145509518)
-- [AI对决：ChatGPT与文心一言的比较](https://blog.csdn.net/2203_75397752/article/details/135626006)
+- [IntelliJ IDEA 接入 AI 编程助手（Copilot、DeepSeek、GPT-4o Mini）](https://blog.csdn.net/Brad_PiTt7/article/details/145643082)
+- [【2025版】最详细的人工智能学习路线梳理，从零基础到精通，精通收藏这篇就够了！](https://blog.csdn.net/Libra1313/article/details/145847452)
+- [形式化数学编程在AI医疗中的探索路径分析](https://blog.csdn.net/kkiron/article/details/145859555)
 
 ### 🛡️ 安全资讯
 - [万字长文，聊聊下一代AI Agent的新范式](https://cloud.tencent.com/developer/article/2507962)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
