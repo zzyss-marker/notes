@@ -121,9 +121,9 @@
 - [alibaba / spring-ai-alibaba](https://github.com/alibaba / spring-ai-alibaba) - Agentic AI Framework for Java Developers
 
 ### 📚 技术文章精选
-- [什么是AI（Agent）智能体](https://blog.csdn.net/Python_cocola/article/details/145747349)
-- [【AI部署】腾讯云每月1w小时免费GPU获取](https://blog.csdn.net/qq_45349888/article/details/144878428)
-- [AI新势力！蓝耘DeepSeek满血版登场，500万tokens免费开薅](https://blog.csdn.net/beautifulmemory/article/details/145858591)
+- [【AI赋能】蓝耘智算平台实战指南：3步构建企业级DeepSeek智能助手](https://blog.csdn.net/Skrrapper/article/details/145578622)
+- [AI训练如何获取海量数据，论平台的重要性](https://blog.csdn.net/weixin_47343544/article/details/146380823)
+- [基于AI大模型的复杂扫描件PDF信息提取与规整](https://blog.csdn.net/qq_43106115/article/details/143434628)
 
 ### 🛡️ 安全资讯
 - [腾讯云与MongoDB战略合作升级，瞄准AI时代的数据管理服务](https://cloud.tencent.com/developer/article/2507961)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
