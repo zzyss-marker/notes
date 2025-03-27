@@ -121,9 +121,9 @@
 - [kubernetes / ingress-nginx](https://github.com/kubernetes / ingress-nginx) - Ingress NGINX Controller for Kubernetes
 
 ### 📚 技术文章精选
-- [如何在PotPlayer上使用AI生成字幕并实时翻译](https://blog.csdn.net/tkffsyl/article/details/145838286)
-- [AI论文检测不过关怎么办？试试这10个降AIGC痕迹的工具](https://blog.csdn.net/offergoose/article/details/145452521)
-- [通过AI自动生成springboot的CRUD以及单元测试与压力测试源码（完整版）](https://blog.csdn.net/chenwewi520feng/article/details/146262465)
+- [蓝耘 AI 黑科技，DS 满血版震撼上线，500 万 tokens 免费狂撒，AI 财富新机遇](https://blog.csdn.net/2401_87848736/article/details/145794478)
+- [视频生成新纪元：震撼开源的智谱AI CogVideoX模型深度解析](https://blog.csdn.net/xiaobing259/article/details/141297406)
+- [AI 系统评估基准-研究生水平的专家推理（GPQA）](https://blog.csdn.net/weixin_41429382/article/details/144053595)
 
 ### 🛡️ 安全资讯
 - [万字长文，聊聊下一代AI Agent的新范式](https://cloud.tencent.com/developer/article/2507962)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
