@@ -121,9 +121,9 @@
 - [alibaba / spring-ai-alibaba](https://github.com/alibaba / spring-ai-alibaba) - Agentic AI Framework for Java Developers
 
 ### 📚 技术文章精选
-- [AI必看！2024人工智能领域最具突破性的10篇创新论文（附论文）](https://blog.csdn.net/Python_cocola/article/details/144517686)
-- [AI Agent案例与实践全解析：字节智能运维（9/30）](https://blog.csdn.net/beautifulmemory/article/details/144632647)
-- [解锁大模型和 AI Agent 在车端的革新应用和落地方法](https://blog.csdn.net/python12345_/article/details/143566919)
+- [如何用飞浆AI训练自己的模型](https://blog.csdn.net/qq_74422112/article/details/144247941)
+- [全球首款通用AI Agent产品Manus深度分析报告](https://blog.csdn.net/agito_cheung/article/details/146062874)
+- [人工智能（AI）简史：推动新时代的科技力量](https://blog.csdn.net/qq_17153885/article/details/144838030)
 
 ### 🛡️ 安全资讯
 - [腾讯云与MongoDB战略合作升级，瞄准AI时代的数据管理服务](https://cloud.tencent.com/developer/article/2507961)
