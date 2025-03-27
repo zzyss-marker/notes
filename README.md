@@ -121,9 +121,9 @@
 - [alibaba / spring-ai-alibaba](https://github.com/alibaba / spring-ai-alibaba) - Agentic AI Framework for Java Developers
 
 ### 📚 技术文章精选
-- [ChatBI开源实现: 基于SuperSonic的AI+BI的产品设计](https://blog.csdn.net/zdsx1104/article/details/139972465)
-- [【重磅发布】 免费领取阿里云百炼AI大模型100万Tokens教程出炉，API接口实战操作，DeepSeek-R1满血版即刻体验!](https://blog.csdn.net/windowsxp2018/article/details/145615094)
-- [蓝耘智算|从静态到动态：探索Maas平台海螺AI图片生成视频功能的强大能力](https://blog.csdn.net/null18/article/details/146324142)
+- [AI必看！2024人工智能领域最具突破性的10篇创新论文（附论文）](https://blog.csdn.net/Python_cocola/article/details/144517686)
+- [AI Agent案例与实践全解析：字节智能运维（9/30）](https://blog.csdn.net/beautifulmemory/article/details/144632647)
+- [解锁大模型和 AI Agent 在车端的革新应用和落地方法](https://blog.csdn.net/python12345_/article/details/143566919)
 
 ### 🛡️ 安全资讯
 - [腾讯云与MongoDB战略合作升级，瞄准AI时代的数据管理服务](https://cloud.tencent.com/developer/article/2507961)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
