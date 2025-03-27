@@ -116,23 +116,23 @@
 ## 📰 今日资讯 (2025/3/27)
 
 ### 🔥 GitHub 热门项目
-- [khoj-ai / khoj](https://github.com/khoj-ai / khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
+- [ourongxing / newsnow](https://github.com/ourongxing / newsnow) - Elegant reading of real-time and hottest news
+- [Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo / awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [kubernetes / ingress-nginx](https://github.com/kubernetes / ingress-nginx) - Ingress NGINX Controller for Kubernetes
-- [alibaba / spring-ai-alibaba](https://github.com/alibaba / spring-ai-alibaba) - Agentic AI Framework for Java Developers
 
 ### 📚 技术文章精选
-- [蓝耘携手通义万相2.1：引领AI创作革新，重塑视觉体验](https://blog.csdn.net/2302_80243065/article/details/146155744)
-- [【hacker送书第16期】Python数据分析、挖掘与可视化、AI全能助手ChatGPT职场工作效率提升技巧与案例](https://blog.csdn.net/xqe777/article/details/143859311)
-- [AI集合客户端-cherry studio的使用](https://blog.csdn.net/hacker_Lees/article/details/145465658)
+- [如何在PotPlayer上使用AI生成字幕并实时翻译](https://blog.csdn.net/tkffsyl/article/details/145838286)
+- [AI论文检测不过关怎么办？试试这10个降AIGC痕迹的工具](https://blog.csdn.net/offergoose/article/details/145452521)
+- [通过AI自动生成springboot的CRUD以及单元测试与压力测试源码（完整版）](https://blog.csdn.net/chenwewi520feng/article/details/146262465)
 
 ### 🛡️ 安全资讯
-- [腾讯云与MongoDB战略合作升级，瞄准AI时代的数据管理服务](https://cloud.tencent.com/developer/article/2507961)
 - [万字长文，聊聊下一代AI Agent的新范式](https://cloud.tencent.com/developer/article/2507962)
 - [C/C++获取枚举值名称](https://cloud.tencent.com/developer/article/2508103)
+- [C++ 选择 引用传递还是指针传递](https://cloud.tencent.com/developer/article/2508108)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
