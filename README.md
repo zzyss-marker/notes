@@ -121,9 +121,9 @@
 - [kubernetes / ingress-nginx](https://github.com/kubernetes / ingress-nginx) - Ingress NGINX Controller for Kubernetes
 
 ### 📚 技术文章精选
-- [zabbix报警结合AI进行智能分析](https://blog.csdn.net/u010198709/article/details/146197051)
-- [【自然语言处理】自然语言处理 --- NLP入门指南](https://blog.csdn.net/u011397981/article/details/130590194)
-- [如何解决NVIDIA显卡报错：uncorrectable ECC error的问题](https://blog.csdn.net/caryeko/article/details/140764046)
+- [Android Studio的AI工具插件使用介绍](https://blog.csdn.net/wenzhi20102321/article/details/144143936)
+- [GitHub 上 10 大热门开源 AI Agent 项目综述（2025 最新）](https://blog.csdn.net/nysin/article/details/145847765)
+- [【AI工具】PDFMathTranslate安装使用](https://blog.csdn.net/bylander/article/details/144927656)
 
 ### 🛡️ 安全资讯
 - [万字长文，聊聊下一代AI Agent的新范式](https://cloud.tencent.com/developer/article/2507962)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
