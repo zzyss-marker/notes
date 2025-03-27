@@ -121,9 +121,9 @@
 - [kubernetes / ingress-nginx](https://github.com/kubernetes / ingress-nginx) - Ingress NGINX Controller for Kubernetes
 
 ### 📚 技术文章精选
-- [Android Studio的AI工具插件使用介绍](https://blog.csdn.net/wenzhi20102321/article/details/144143936)
-- [GitHub 上 10 大热门开源 AI Agent 项目综述（2025 最新）](https://blog.csdn.net/nysin/article/details/145847765)
-- [【AI工具】PDFMathTranslate安装使用](https://blog.csdn.net/bylander/article/details/144927656)
+- [Manus 国产AI封神大作，到底有多强？使用求邀请码](https://blog.csdn.net/m0_57874805/article/details/146094560)
+- [我们团队被亚马逊选为北美Top20最佳AI初创公司，分享核心方案和代码!](https://blog.csdn.net/m0_66628975/article/details/146308270)
+- [AI可信论坛亮点：合合信息分享视觉内容安全技术前沿](https://blog.csdn.net/weixin_50843918/article/details/144602078)
 
 ### 🛡️ 安全资讯
 - [万字长文，聊聊下一代AI Agent的新范式](https://cloud.tencent.com/developer/article/2507962)
