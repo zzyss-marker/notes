@@ -121,9 +121,9 @@
 - [EFForg / rayhunter](https://github.com/EFForg / rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
 
 ### 📚 技术文章精选
-- [React实现-AI式逐字展示效果](https://blog.csdn.net/libocsdn_lean/article/details/145585841)
-- [【AI知识点】三元组损失（Triplet Loss）](https://blog.csdn.net/weixin_43221845/article/details/142686673)
-- [DeepSeek使用指南：99%的人都没有用对的AI指令技巧，再也不需要Chatgpt了！](https://blog.csdn.net/qq_63911508/article/details/145408660)
+- [普通人怎么利用AI赚钱？AI 变现的 8 种神操作，最后一个你绝对想不到！](https://blog.csdn.net/2301_80239908/article/details/144430882)
+- [AI赋能教学与鸿蒙开发：提升效率与技能的双重秘籍【好书推荐】](https://blog.csdn.net/weixin_52908342/article/details/146035644)
+- [GPT-SoVITS：零样本语音合成AI](https://blog.csdn.net/shebao3333/article/details/141660929)
 
 ### 🛡️ 安全资讯
 - [Jira停售，这些企业的研发管理交出了完美的“中国答案”](https://cloud.tencent.com/developer/article/2508214)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
