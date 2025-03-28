@@ -121,18 +121,18 @@
 - [kubernetes / ingress-nginx](https://github.com/kubernetes / ingress-nginx) - Ingress NGINX Controller for Kubernetes
 
 ### 📚 技术文章精选
-- [到底选谁？五大多智能体 ( Multi-AI Agent) 框架对比](https://blog.csdn.net/Baihai_IDP/article/details/144181168)
-- [Sonic× 蓝耘：AI 界 “王炸” 组合，肖像动画 “炫技” 出圈！](https://blog.csdn.net/2401_84813926/article/details/146212246)
-- [AI赋能MySQL数据血缘管理——构建智能驱动的数据治理新范式](https://blog.csdn.net/2401_88677290/article/details/144793352)
+- [Visual Studio 使用 IntelliCode AI 辅助代码开发](https://blog.csdn.net/mss359681091/article/details/144516866)
+- [Java: DeepSeek R1 实现工具调用，利用ReAct + Spring AI 的实现思路](https://blog.csdn.net/qq_33489819/article/details/145636728)
+- [「youlai-boot」入门篇：从0到1搭建 Java、Spring Boot、Spring Security 企业级权限管理系统](https://blog.csdn.net/u013737132/article/details/145177011)
 
 ### 🛡️ 安全资讯
-- [万字长文，聊聊下一代AI Agent的新范式](https://cloud.tencent.com/developer/article/2507962)
 - [C/C++获取枚举值名称](https://cloud.tencent.com/developer/article/2508103)
 - [C++ 选择 引用传递还是指针传递](https://cloud.tencent.com/developer/article/2508108)
+- [从Manus爆火，看超级智能体的发展](https://cloud.tencent.com/developer/article/2508127)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
