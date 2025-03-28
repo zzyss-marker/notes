@@ -124,9 +124,9 @@
 获取 CSDN 文章失败
 
 ### 🛡️ 安全资讯
-- [直播预告｜高并发海量数据压顶，你的数据库真的“扛得住”吗？](https://cloud.tencent.com/developer/article/2508207)
 - [Jira停售，这些企业的研发管理交出了完美的“中国答案”](https://cloud.tencent.com/developer/article/2508214)
 - [信息安全风云录，AI 时代安全江湖如何见招拆招？](https://cloud.tencent.com/developer/article/2508222)
+- [直播预告｜高并发海量数据压顶，你的数据库真的“扛得住”吗？](https://cloud.tencent.com/developer/article/2508207)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
