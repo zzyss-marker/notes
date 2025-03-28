@@ -121,18 +121,18 @@
 - [kubernetes / ingress-nginx](https://github.com/kubernetes / ingress-nginx) - Ingress NGINX Controller for Kubernetes
 
 ### 📚 技术文章精选
-- [GLM-4V-Flash：智谱 AI 免费开放的图像理解大模型 API 接口](https://blog.csdn.net/qq_19841021/article/details/144356349)
-- [探索高效开发神器：Blackbox AI（免费编程助手）](https://blog.csdn.net/double222222/article/details/140053556)
-- [探索Maas平台与阿里 QWQ 技术：AI调参的魔法世界](https://blog.csdn.net/beautifulmemory/article/details/146268865)
+- [IDEA集成DeepSeek，通过离线安装解决无法安装Proxy AI插件问题](https://blog.csdn.net/weixin_66401877/article/details/145841545)
+- [Deep Lake：人工智能时代的数据湖](https://blog.csdn.net/coderroad/article/details/146232494)
+- [蓝耘赋能通义万相 2.1：用 C++ 构建高效 AI 视频生成生态](https://blog.csdn.net/weixin_73295475/article/details/146127768)
 
 ### 🛡️ 安全资讯
-- [C/C++获取枚举值名称](https://cloud.tencent.com/developer/article/2508103)
-- [C++ 选择 引用传递还是指针传递](https://cloud.tencent.com/developer/article/2508108)
 - [从Manus爆火，看超级智能体的发展](https://cloud.tencent.com/developer/article/2508127)
+- [【玩转 EdgeOne Pages】DeepSeek 模板助你快速部署对话型 AI 类网站](https://cloud.tencent.com/developer/article/2507513)
+- [技术人的焦虑和内耗，大都来自什么地方？](https://cloud.tencent.com/developer/article/2508218)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
