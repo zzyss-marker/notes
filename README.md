@@ -121,9 +121,7 @@
 - [EFForg / rayhunter](https://github.com/EFForg / rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
 
 ### 📚 技术文章精选
-- [AI打造影视独白解说，仅仅33条作品，竟然条条爆款](https://blog.csdn.net/weixin_42172073/article/details/143253654)
-- [[AI]从零开始的DeepSeek本地部署及本地API调用教程](https://blog.csdn.net/c858845275/article/details/145544208)
-- [AI 冲击！嵌入式开发如何转型？嵌入式开发者必看](https://blog.csdn.net/best_xiaolong/article/details/145562628)
+获取 CSDN 文章失败
 
 ### 🛡️ 安全资讯
 - [直播预告｜高并发海量数据压顶，你的数据库真的“扛得住”吗？](https://cloud.tencent.com/developer/article/2508207)
@@ -134,5 +132,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
