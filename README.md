@@ -121,9 +121,9 @@
 - [kubernetes / ingress-nginx](https://github.com/kubernetes / ingress-nginx) - Ingress NGINX Controller for Kubernetes
 
 ### 📚 技术文章精选
-- [【AI编程】记录一下windsurf中Write模式和Chat模式的区别以及 AI Rules的配置方法](https://blog.csdn.net/qq_43350218/article/details/145310244)
-- [技术博主视角：Manus——中国首款通用AI Agent的全面解析](https://blog.csdn.net/u014180504/article/details/146086062)
-- [第 11 天：打造敌人 AI（人工智能）！](https://blog.csdn.net/m0_37643873/article/details/145563000)
+- [【AI知识点】交叉注意力机制（Cross-Attention Mechanism）](https://blog.csdn.net/weixin_43221845/article/details/142693864)
+- [基于DeepSeek-R1-70b的医疗AI训练推理框架的详细解析](https://blog.csdn.net/kkiron/article/details/145880084)
+- [dify是什么？Dify 是一个开源的 AI 应用开发框架，而非单一的 AI 模型。](https://blog.csdn.net/qq_22182989/article/details/145747998)
 
 ### 🛡️ 安全资讯
 - [【玩转 EdgeOne Pages】DeepSeek 模板助你快速部署对话型 AI 类网站](https://cloud.tencent.com/developer/article/2507513)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
