@@ -121,18 +121,18 @@
 - [kubernetes / ingress-nginx](https://github.com/kubernetes / ingress-nginx) - Ingress NGINX Controller for Kubernetes
 
 ### 📚 技术文章精选
-- [HuaWei、NVIDIA 数据中心 AI 算力对比](https://blog.csdn.net/gumc123/article/details/144697415)
-- [【AI 大模型】RAG 检索增强生成 ⑧ ( 文本相似度排序 | Bi-Encoder 双编码器 | Cross-Encoder 交叉编码器 )](https://blog.csdn.net/han1202012/article/details/146122236)
-- [Topaz Photo AI 3.5.1（人工智能图片降噪软件）简体中文汉化版](https://blog.csdn.net/woshifer/article/details/145735846)
+- [10分钟上手DeepSeek开发：SpringBoot + Vue2快速构建AI对话系统](https://blog.csdn.net/c18213590220/article/details/145708471)
+- [AI大模型探索之路-训练篇2：大语言模型预训练基础认知](https://blog.csdn.net/xiaobing259/article/details/138143923)
+- [【AI+本地知识库】个人整理的几种常见本地知识库技术方案](https://blog.csdn.net/xiaoliouc/article/details/138057980)
 
 ### 🛡️ 安全资讯
-- [技术人的焦虑和内耗，大都来自什么地方？](https://cloud.tencent.com/developer/article/2508218)
 - [直播预告｜高并发海量数据压顶，你的数据库真的“扛得住”吗？](https://cloud.tencent.com/developer/article/2508207)
 - [Jira停售，这些企业的研发管理交出了完美的“中国答案”](https://cloud.tencent.com/developer/article/2508214)
+- [【玩转 EdgeOne Pages】DeepSeek 模板助你快速部署对话型 AI 类网站](https://cloud.tencent.com/developer/article/2507513)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
