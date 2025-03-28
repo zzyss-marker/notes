@@ -121,9 +121,9 @@
 - [kubernetes / ingress-nginx](https://github.com/kubernetes / ingress-nginx) - Ingress NGINX Controller for Kubernetes
 
 ### 📚 技术文章精选
-- [Visual Studio 使用 IntelliCode AI 辅助代码开发](https://blog.csdn.net/mss359681091/article/details/144516866)
-- [Java: DeepSeek R1 实现工具调用，利用ReAct + Spring AI 的实现思路](https://blog.csdn.net/qq_33489819/article/details/145636728)
-- [「youlai-boot」入门篇：从0到1搭建 Java、Spring Boot、Spring Security 企业级权限管理系统](https://blog.csdn.net/u013737132/article/details/145177011)
+- [如何评判大模型的输出速度？首Token延迟和其余Token延迟有什么不同？](https://blog.csdn.net/qq_25295605/article/details/141140475)
+- [智能突围：AI重塑编程生态下的开发者进化指南](https://blog.csdn.net/martian665/article/details/145989513)
+- [让你工作效率起飞的 5 个 VSCode AI智能插件](https://blog.csdn.net/fengshi_fengshi/article/details/142930564)
 
 ### 🛡️ 安全资讯
 - [C/C++获取枚举值名称](https://cloud.tencent.com/developer/article/2508103)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
