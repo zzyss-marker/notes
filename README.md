@@ -121,9 +121,9 @@
 - [EFForg / rayhunter](https://github.com/EFForg / rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
 
 ### 📚 技术文章精选
-- [《DeepSeek从入门到精通》清华大学出品，AI学习的宝藏资料](https://blog.csdn.net/qq_40263592/article/details/145562973)
-- [小白如何在自己的电脑上部署DeepSeek等AI大模型？](https://blog.csdn.net/weixin_45856301/article/details/145755046)
-- [【AI测试必学】DeepSeek API 快速入门：获取 API Key 与调用 API 步骤详解](https://blog.csdn.net/weixin_48321392/article/details/145652661)
+- [拒绝10万天价Manus内测码！手把手教你用OpenManus构建自由AI工作流](https://blog.csdn.net/tombosky/article/details/146107516)
+- [【AIGC】COT思维链：让AI学会拆解问题，像人一样思考](https://blog.csdn.net/rekaf66/article/details/143428775)
+- [智能创作时代：AI引领下的内容生产革命与效率提升](https://blog.csdn.net/Srlua/article/details/138667029)
 
 ### 🛡️ 安全资讯
 - [Jira停售，这些企业的研发管理交出了完美的“中国答案”](https://cloud.tencent.com/developer/article/2508214)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
