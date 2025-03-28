@@ -121,9 +121,9 @@
 - [EFForg / rayhunter](https://github.com/EFForg / rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
 
 ### 📚 技术文章精选
-- [让AI转化为生产力，Dify 私有化部署 + 接入Ollama部署本地模型](https://blog.csdn.net/2401_85325726/article/details/145647562)
-- [香橙派Orange AI Pro / 华为昇腾310芯片 部署自己训练的yolov8模型进行中国象棋识别](https://blog.csdn.net/mao_hui_fei/article/details/139356518)
-- [【AI】DeepSeek+Dify构建知识库、Agent（智能体）、工作流、聊天助手](https://blog.csdn.net/python1234567_/article/details/145701988)
+- [使用AI生成Java单元测试，代码无BUG](https://blog.csdn.net/Tomwildboar/article/details/144935852)
+- [【AI落地应用实战】RAGFlow + 知识图谱Knowledge Graph + Deepseek + 知识库构建初步探索](https://blog.csdn.net/air__Heaven/article/details/146120305)
+- [利用OpenCompass 评测大语言模型AI API和本地模型](https://blog.csdn.net/NoemPol/article/details/144557580)
 
 ### 🛡️ 安全资讯
 - [Jira停售，这些企业的研发管理交出了完美的“中国答案”](https://cloud.tencent.com/developer/article/2508214)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
