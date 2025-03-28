@@ -121,18 +121,18 @@
 - [kubernetes / ingress-nginx](https://github.com/kubernetes / ingress-nginx) - Ingress NGINX Controller for Kubernetes
 
 ### 📚 技术文章精选
-- [IDEA集成DeepSeek，通过离线安装解决无法安装Proxy AI插件问题](https://blog.csdn.net/weixin_66401877/article/details/145841545)
-- [Deep Lake：人工智能时代的数据湖](https://blog.csdn.net/coderroad/article/details/146232494)
-- [蓝耘赋能通义万相 2.1：用 C++ 构建高效 AI 视频生成生态](https://blog.csdn.net/weixin_73295475/article/details/146127768)
+- [【AI编程】记录一下windsurf中Write模式和Chat模式的区别以及 AI Rules的配置方法](https://blog.csdn.net/qq_43350218/article/details/145310244)
+- [技术博主视角：Manus——中国首款通用AI Agent的全面解析](https://blog.csdn.net/u014180504/article/details/146086062)
+- [第 11 天：打造敌人 AI（人工智能）！](https://blog.csdn.net/m0_37643873/article/details/145563000)
 
 ### 🛡️ 安全资讯
-- [从Manus爆火，看超级智能体的发展](https://cloud.tencent.com/developer/article/2508127)
 - [【玩转 EdgeOne Pages】DeepSeek 模板助你快速部署对话型 AI 类网站](https://cloud.tencent.com/developer/article/2507513)
 - [技术人的焦虑和内耗，大都来自什么地方？](https://cloud.tencent.com/developer/article/2508218)
+- [直播预告｜高并发海量数据压顶，你的数据库真的“扛得住”吗？](https://cloud.tencent.com/developer/article/2508207)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
