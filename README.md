@@ -121,18 +121,18 @@
 - [EFForg / rayhunter](https://github.com/EFForg / rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
 
 ### 📚 技术文章精选
-- [AI入门必看的超详细人工智能学习路径](https://blog.csdn.net/2401_84206094/article/details/143989682)
-- [【AI落地应用实战】DeepSeek + RagFlow + Ollama + 私有知识库 构建本地知识库系统实战指南](https://blog.csdn.net/air__Heaven/article/details/145579513)
-- [引领AI发展潮流：打造大模型时代的安全与可信——CCF-CV企业交流会走进合合信息会议回顾](https://blog.csdn.net/weixin_51390582/article/details/144438498)
+- [ComfyUI实现老照片修复——AI修复老照片（ComfyUI-ReActor / ReSwapper）解决天坑问题及加速pip下载](https://blog.csdn.net/snans/article/details/145306908)
+- [机器学习AI大模型的开源与闭源：哪个更好？](https://blog.csdn.net/a1657054242/article/details/139429016)
+- [树莓派5B利用AI_KIT跑YOLOV8(平均帧速率可达134fps)](https://blog.csdn.net/wallwayj/article/details/142672678)
 
 ### 🛡️ 安全资讯
 - [Jira停售，这些企业的研发管理交出了完美的“中国答案”](https://cloud.tencent.com/developer/article/2508214)
-- [信息安全风云录，AI 时代安全江湖如何见招拆招？](https://cloud.tencent.com/developer/article/2508222)
 - [直播预告｜高并发海量数据压顶，你的数据库真的“扛得住”吗？](https://cloud.tencent.com/developer/article/2508207)
+- [信息安全风云录，AI 时代安全江湖如何见招拆招？](https://cloud.tencent.com/developer/article/2508222)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
