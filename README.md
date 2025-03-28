@@ -116,23 +116,23 @@
 ## 📰 今日资讯 (2025/3/28)
 
 ### 🔥 GitHub 热门项目
-- [ourongxing / newsnow](https://github.com/ourongxing / newsnow) - Elegant reading of real-time and hottest news
 - [Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo / awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-- [kubernetes / ingress-nginx](https://github.com/kubernetes / ingress-nginx) - Ingress NGINX Controller for Kubernetes
+- [NirDiamant / GenAI_Agents](https://github.com/NirDiamant / GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
+- [EFForg / rayhunter](https://github.com/EFForg / rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
 
 ### 📚 技术文章精选
-- [10分钟上手DeepSeek开发：SpringBoot + Vue2快速构建AI对话系统](https://blog.csdn.net/c18213590220/article/details/145708471)
-- [AI大模型探索之路-训练篇2：大语言模型预训练基础认知](https://blog.csdn.net/xiaobing259/article/details/138143923)
-- [【AI+本地知识库】个人整理的几种常见本地知识库技术方案](https://blog.csdn.net/xiaoliouc/article/details/138057980)
+- [AI工作流平台Dify本地部署](https://blog.csdn.net/2401_82469710/article/details/146363962)
+- [AWQ量化及AutoAWQ代码详解](https://blog.csdn.net/qq_48191249/article/details/140358123)
+- [DeepSeek、Grok、ChatGPT4.5和Gemini四大AI模型深度解析：谁才是你的最佳助手](https://blog.csdn.net/weixin_49707375/article/details/146000799)
 
 ### 🛡️ 安全资讯
 - [直播预告｜高并发海量数据压顶，你的数据库真的“扛得住”吗？](https://cloud.tencent.com/developer/article/2508207)
 - [Jira停售，这些企业的研发管理交出了完美的“中国答案”](https://cloud.tencent.com/developer/article/2508214)
-- [【玩转 EdgeOne Pages】DeepSeek 模板助你快速部署对话型 AI 类网站](https://cloud.tencent.com/developer/article/2507513)
+- [信息安全风云录，AI 时代安全江湖如何见招拆招？](https://cloud.tencent.com/developer/article/2508222)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
