@@ -121,18 +121,14 @@
 - [kubernetes / ingress-nginx](https://github.com/kubernetes / ingress-nginx) - Ingress NGINX Controller for Kubernetes
 
 ### 📚 技术文章精选
-- [【AI知识点】交叉注意力机制（Cross-Attention Mechanism）](https://blog.csdn.net/weixin_43221845/article/details/142693864)
-- [基于DeepSeek-R1-70b的医疗AI训练推理框架的详细解析](https://blog.csdn.net/kkiron/article/details/145880084)
-- [dify是什么？Dify 是一个开源的 AI 应用开发框架，而非单一的 AI 模型。](https://blog.csdn.net/qq_22182989/article/details/145747998)
+获取 CSDN 文章失败
 
 ### 🛡️ 安全资讯
-- [【玩转 EdgeOne Pages】DeepSeek 模板助你快速部署对话型 AI 类网站](https://cloud.tencent.com/developer/article/2507513)
-- [技术人的焦虑和内耗，大都来自什么地方？](https://cloud.tencent.com/developer/article/2508218)
-- [直播预告｜高并发海量数据压顶，你的数据库真的“扛得住”吗？](https://cloud.tencent.com/developer/article/2508207)
+获取安全资讯失败
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
