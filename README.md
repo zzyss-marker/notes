@@ -121,18 +121,18 @@
 - [EFForg / rayhunter](https://github.com/EFForg / rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
 
 ### 📚 技术文章精选
-- [【已解决】onnx无法找到CUDA的路径](https://blog.csdn.net/2202_75832991/article/details/140550441)
-- [CosyVoice TTS实时语音合成、语音克隆、流式语音合成api接口，requests请求使用案例](https://blog.csdn.net/weixin_42357472/article/details/140514102)
-- [2025人工智能学习路线全链路解析](https://blog.csdn.net/dengdeng333/article/details/145067107)
+- [【AI大模型智能应用】DeepSeek 接入微信实操教程](https://blog.csdn.net/weixin_40303822/article/details/145456710)
+- [Qwen大模型简介](https://blog.csdn.net/baidu_39231810/article/details/141027990)
+- [头歌——人工智能（机器学习 --- 决策树1）](https://blog.csdn.net/m0_73879806/article/details/143228774)
 
 ### 🛡️ 安全资讯
 - [信息安全风云录，AI 时代安全江湖如何见招拆招？](https://cloud.tencent.com/developer/article/2508222)
 - [直播预告｜高并发海量数据压顶，你的数据库真的“扛得住”吗？](https://cloud.tencent.com/developer/article/2508207)
-- [腾讯云DeepSeek私有云部署工具箱上线啦！](https://cloud.tencent.com/developer/article/2508209)
+- [限流系列之二：TDMQ CKafka 版限流方案详解及最佳实践](https://cloud.tencent.com/developer/article/2508221)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
