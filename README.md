@@ -117,13 +117,13 @@
 
 ### 🔥 GitHub 热门项目
 - [Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo / awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-- [NirDiamant / GenAI_Agents](https://github.com/NirDiamant / GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
-- [EFForg / rayhunter](https://github.com/EFForg / rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
+- [punkpeye / awesome-mcp-servers](https://github.com/punkpeye / awesome-mcp-servers) - A collection of MCP servers.
+- [juspay / hyperswitch](https://github.com/juspay / hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 
 ### 📚 技术文章精选
-- [Deepseek结合PS实现自动抠图！AI还能这么用](https://blog.csdn.net/Xhz181888/article/details/145484084)
-- [【AI部署】腾讯云每月1w小时免费GPU获取](https://blog.csdn.net/qq_45349888/article/details/144878428)
-- [基于 DeepSeek + Gemeni 打造 AI+前端的多人聊天室](https://blog.csdn.net/roamingcode/article/details/145792402)
+- [AI大模型探索之路-训练篇2：大语言模型预训练基础认知](https://blog.csdn.net/xiaobing259/article/details/138143923)
+- [Deepseek+QuickAPI：打造 MySQL AI 智能体入门篇（一）](https://blog.csdn.net/lgbingyu00/article/details/146257974)
+- [深度解析: TestSprite如何用AI革新软件测试流程](https://blog.csdn.net/surfirst/article/details/145119448)
 
 ### 🛡️ 安全资讯
 - [DeepSeek 从热潮到应用，腾讯云携手行业专家共探 AI 下一步](https://cloud.tencent.com/developer/article/2508223)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
