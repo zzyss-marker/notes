@@ -121,9 +121,9 @@
 - [EFForg / rayhunter](https://github.com/EFForg / rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
 
 ### 📚 技术文章精选
-- [自己写的论文为什么会被查出高AI率？人类正在被AI同化](https://blog.csdn.net/guorui_java/article/details/146050688)
-- [绝绝子！用deepseek做AI视频，涨粉10W+（附保姆级教程）](https://blog.csdn.net/ice_99/article/details/145441245)
-- [体验免费开箱即用的AI工具：Blackbox.AI](https://blog.csdn.net/yuan2019035055/article/details/143989821)
+- [探秘 AI Agent 之 Coze 智能体：工作流模式（6/30）](https://blog.csdn.net/beautifulmemory/article/details/144508998)
+- [【Spring AI】Spring AI Alibaba的简单使用](https://blog.csdn.net/u013176571/article/details/144488475)
+- [云平台DeepSeek满血版：引领AI推理革新，开启智慧新时代](https://blog.csdn.net/2301_80840905/article/details/145940077)
 
 ### 🛡️ 安全资讯
 - [好礼放送 | 腾讯云向量数据库训练营：鹅厂大牛带你打造专属AI应用](https://cloud.tencent.com/developer/article/2508224)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
