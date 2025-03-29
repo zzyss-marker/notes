@@ -121,18 +121,18 @@
 - [EFForg / rayhunter](https://github.com/EFForg / rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
 
 ### 📚 技术文章精选
-- [探秘 AI Agent 之 Coze 智能体：工作流模式（6/30）](https://blog.csdn.net/beautifulmemory/article/details/144508998)
-- [【Spring AI】Spring AI Alibaba的简单使用](https://blog.csdn.net/u013176571/article/details/144488475)
-- [云平台DeepSeek满血版：引领AI推理革新，开启智慧新时代](https://blog.csdn.net/2301_80840905/article/details/145940077)
+- [IDEA接入DeepSeek最新教程Proxy AI（codeGpt) [2025版]](https://blog.csdn.net/m0_51041242/article/details/145769119)
+- [多模态模型学习1——CLIP对比学习 语言-图像预训练模型](https://blog.csdn.net/weixin_44791964/article/details/129941386)
+- [【AI实践】xiaozhi-esp32虾哥开源版-分析](https://blog.csdn.net/AI_Gump/article/details/145960149)
 
 ### 🛡️ 安全资讯
-- [好礼放送 | 腾讯云向量数据库训练营：鹅厂大牛带你打造专属AI应用](https://cloud.tencent.com/developer/article/2508224)
 - [DeepSeek 从热潮到应用，腾讯云携手行业专家共探 AI 下一步](https://cloud.tencent.com/developer/article/2508223)
 - [【玩转 EdgeOne Pages】DeepSeek 模板助你快速部署对话型 AI 类网站](https://cloud.tencent.com/developer/article/2507513)
+- [【腾讯云代码分析】IDE插件重新上线！在编码中快速定位代码缺陷](https://cloud.tencent.com/developer/article/2508229)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
