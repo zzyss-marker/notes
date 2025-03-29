@@ -121,18 +121,18 @@
 - [EFForg / rayhunter](https://github.com/EFForg / rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
 
 ### 📚 技术文章精选
-- [【AI大模型智能应用】DeepSeek 接入微信实操教程](https://blog.csdn.net/weixin_40303822/article/details/145456710)
-- [Qwen大模型简介](https://blog.csdn.net/baidu_39231810/article/details/141027990)
-- [头歌——人工智能（机器学习 --- 决策树1）](https://blog.csdn.net/m0_73879806/article/details/143228774)
+- [自己写的论文为什么会被查出高AI率？人类正在被AI同化](https://blog.csdn.net/guorui_java/article/details/146050688)
+- [绝绝子！用deepseek做AI视频，涨粉10W+（附保姆级教程）](https://blog.csdn.net/ice_99/article/details/145441245)
+- [体验免费开箱即用的AI工具：Blackbox.AI](https://blog.csdn.net/yuan2019035055/article/details/143989821)
 
 ### 🛡️ 安全资讯
-- [信息安全风云录，AI 时代安全江湖如何见招拆招？](https://cloud.tencent.com/developer/article/2508222)
-- [直播预告｜高并发海量数据压顶，你的数据库真的“扛得住”吗？](https://cloud.tencent.com/developer/article/2508207)
-- [限流系列之二：TDMQ CKafka 版限流方案详解及最佳实践](https://cloud.tencent.com/developer/article/2508221)
+- [好礼放送 | 腾讯云向量数据库训练营：鹅厂大牛带你打造专属AI应用](https://cloud.tencent.com/developer/article/2508224)
+- [DeepSeek 从热潮到应用，腾讯云携手行业专家共探 AI 下一步](https://cloud.tencent.com/developer/article/2508223)
+- [【玩转 EdgeOne Pages】DeepSeek 模板助你快速部署对话型 AI 类网站](https://cloud.tencent.com/developer/article/2507513)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
