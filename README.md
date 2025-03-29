@@ -121,9 +121,9 @@
 - [EFForg / rayhunter](https://github.com/EFForg / rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
 
 ### 📚 技术文章精选
-- [AI 音频工具合集](https://blog.csdn.net/2301_77362941/article/details/145224273)
-- [超easy，用 AnythingLLM+DeepSeek搭建个人AI 知识库（附教程）](https://blog.csdn.net/DEVELOPERAA/article/details/146174574)
-- [AI 系统评估基准-研究生水平的专家推理（GPQA）](https://blog.csdn.net/weixin_41429382/article/details/144053595)
+- [【已解决】onnx无法找到CUDA的路径](https://blog.csdn.net/2202_75832991/article/details/140550441)
+- [CosyVoice TTS实时语音合成、语音克隆、流式语音合成api接口，requests请求使用案例](https://blog.csdn.net/weixin_42357472/article/details/140514102)
+- [2025人工智能学习路线全链路解析](https://blog.csdn.net/dengdeng333/article/details/145067107)
 
 ### 🛡️ 安全资讯
 - [信息安全风云录，AI 时代安全江湖如何见招拆招？](https://cloud.tencent.com/developer/article/2508222)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
