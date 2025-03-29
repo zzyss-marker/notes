@@ -121,9 +121,9 @@
 - [juspay / hyperswitch](https://github.com/juspay / hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 
 ### 📚 技术文章精选
-- [【AIGC】COT思维链：让AI学会拆解问题，像人一样思考](https://blog.csdn.net/rekaf66/article/details/143428775)
-- [「零代码+免费+联网搜索」保姆级教程：10分钟用DeepSeek+AnythingLLM搭建你的专属AI知识库](https://blog.csdn.net/2401_85390073/article/details/145648287)
-- [最新AI大模型数据集解决方案：分享两种AI高质量代码数据集生产方案](https://blog.csdn.net/qq_44866828/article/details/146311478)
+- [Spring AI 快速入门](https://blog.csdn.net/qq_43048957/article/details/144523993)
+- [【langchain4j】AIservices能够实现更加灵活的chain](https://blog.csdn.net/hiliang521/article/details/143869518)
+- [AI私有化革命：DeepSeek v3保姆级教程，十分钟搭建企业级知识库！](https://blog.csdn.net/2401_85390073/article/details/145748311)
 
 ### 🛡️ 安全资讯
 - [【玩转 EdgeOne Pages】DeepSeek 模板助你快速部署对话型 AI 类网站](https://cloud.tencent.com/developer/article/2507513)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
