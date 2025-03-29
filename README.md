@@ -121,18 +121,18 @@
 - [juspay / hyperswitch](https://github.com/juspay / hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 
 ### 📚 技术文章精选
-- [目前全网最火 AI 合集（ 探索国内外常用AI助手，Manus ）](https://blog.csdn.net/weixin_65793170/article/details/146101205)
-- [芝士AI（paperzz）写作怎么使用？ 简单三步，输入需求，生成内容](https://blog.csdn.net/2401_89034156/article/details/144108066)
-- [2025最新版Ai微信机器人：功能全面的智能助手](https://blog.csdn.net/swg1454722/article/details/145033969)
+- [燃爆！程序员如何借助 AI 大模型冲破编程效率枷锁？（以DeepSeek，ChatGPT为例）](https://blog.csdn.net/2401_82648291/article/details/146445713)
+- [深度探索AI | 智算云平台与DeepSeek 的多元联动应用与模型微调全解析](https://blog.csdn.net/weixin_43151418/article/details/145992400)
+- [深度拆解：AI Agent发展演练·数字挑战](https://blog.csdn.net/Dovis5884/article/details/146476649)
 
 ### 🛡️ 安全资讯
-- [DeepSeek 从热潮到应用，腾讯云携手行业专家共探 AI 下一步](https://cloud.tencent.com/developer/article/2508223)
 - [【玩转 EdgeOne Pages】DeepSeek 模板助你快速部署对话型 AI 类网站](https://cloud.tencent.com/developer/article/2507513)
 - [【腾讯云代码分析】IDE插件重新上线！在编码中快速定位代码缺陷](https://cloud.tencent.com/developer/article/2508229)
+- [终于把知识蒸馏搞懂了！从DeepSeek R1到APT](https://cloud.tencent.com/developer/article/2508226)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
