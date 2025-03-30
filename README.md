@@ -121,18 +121,18 @@
 - [tulir / whatsmeow](https://github.com/tulir / whatsmeow) - Go library for the WhatsApp web multidevice API
 
 ### 📚 技术文章精选
-- [Spring AI 1.0.0 M6新特性MCP](https://blog.csdn.net/qq_42731358/article/details/146097943)
-- [【拥抱AI】一文讲清楚MCP(Model Context Protocol)核心功能及应用](https://blog.csdn.net/u010690311/article/details/145208766)
-- [DeepSeek与ChatGPT：会取代搜索引擎和人工客服的人工智能革命](https://blog.csdn.net/lrq13965748542/article/details/145735867)
+- [AI低代码编程-C# Winform项目使用Cursor或Windsurf超详细保姆级教程（一）：开发环境配置详解](https://blog.csdn.net/cxcrycr/article/details/144267786)
+- [【AI工具】强大的AI编辑器Cursor详细使用教程](https://blog.csdn.net/luomao2012/article/details/144251621)
+- [【史诗级】详细阐述借助AI实现对Windows蓝屏原因进行精确定位的方法](https://blog.csdn.net/chkbxz/article/details/145941194)
 
 ### 🛡️ 安全资讯
-- [终于把知识蒸馏搞懂了！从DeepSeek R1到APT](https://cloud.tencent.com/developer/article/2508226)
 - [MCP协议详解：一文读懂跨时代的模型上下文协议](https://cloud.tencent.com/developer/article/2508227)
 - [AI时代的教育之问V：学习方式](https://cloud.tencent.com/developer/article/2508484)
+- [OpenManus实战：如何用DeepSeek V3打造你的专属智能体？](https://cloud.tencent.com/developer/article/2508524)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
