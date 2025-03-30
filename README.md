@@ -121,9 +121,9 @@
 - [juspay / hyperswitch](https://github.com/juspay / hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 
 ### 📚 技术文章精选
-- [无需昂贵GPU：本地部署开源AI项目LocalAI你在消费级硬件上运行大模型](https://blog.csdn.net/qyj19920704/article/details/145037172)
-- [燃爆！程序员如何借助 AI 大模型冲破编程效率枷锁？（以DeepSeek，ChatGPT为例）](https://blog.csdn.net/2401_82648291/article/details/146445713)
-- [什么是AI显卡，英伟达与AMD显卡的全面对比](https://blog.csdn.net/2401_83912923/article/details/145117989)
+- [解决使用labelme中的AI多边形（AI-polygon）标注闪退问题](https://blog.csdn.net/Xiao_Ya__/article/details/142965056)
+- [穿越AI边界：深度集成DeepSeek API与云平台的实践之路](https://blog.csdn.net/lrq13965748542/article/details/145876544)
+- [人工智能（AI）简史：推动新时代的科技力量](https://blog.csdn.net/qq_17153885/article/details/144838030)
 
 ### 🛡️ 安全资讯
 - [DeepSeek 从热潮到应用，腾讯云携手行业专家共探 AI 下一步](https://cloud.tencent.com/developer/article/2508223)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
