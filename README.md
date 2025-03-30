@@ -121,9 +121,9 @@
 - [tulir / whatsmeow](https://github.com/tulir / whatsmeow) - Go library for the WhatsApp web multidevice API
 
 ### 📚 技术文章精选
-- [你应该知道的 5 大 AI Agent平台](https://blog.csdn.net/ms44/article/details/145723169)
-- [穿越AI边界：深度集成DeepSeek API与云平台的实践之路](https://blog.csdn.net/lrq13965748542/article/details/145876544)
-- [Spring AI ChatClient](https://blog.csdn.net/mqiqe/article/details/145022303)
+- [【GitHub开源AI精选】Oumi：一站式AI开发平台，涵盖训练、评估与部署全流程](https://blog.csdn.net/xiaobing259/article/details/146247962)
+- [Noiz AI 一款TTS和视频配音神器](https://blog.csdn.net/Vincentqqqqqqq/article/details/144961316)
+- [通过AI自动生成springboot的CRUD以及单元测试与压力测试源码（完整版）](https://blog.csdn.net/chenwewi520feng/article/details/146262465)
 
 ### 🛡️ 安全资讯
 - [MCP协议详解：一文读懂跨时代的模型上下文协议](https://cloud.tencent.com/developer/article/2508227)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
