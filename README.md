@@ -121,9 +121,9 @@
 - [tulir / whatsmeow](https://github.com/tulir / whatsmeow) - Go library for the WhatsApp web multidevice API
 
 ### 📚 技术文章精选
-- [AI语音识别神器Openai Whisper对中文的支持如何？](https://blog.csdn.net/txhlxy/article/details/136845180)
-- [AI之GPU：GPUStack的简介、安装和使用方法、案例应用之详细攻略](https://blog.csdn.net/qq_41185868/article/details/144319136)
-- [8个读文献的AI工具，可总结分析文件、读论文必备！](https://blog.csdn.net/chatshare/article/details/145148229)
+- [十分钟用DeepSeek v3快速搭建企业级本地私有知识库（保姆级教程），AI终于私有化了！](https://blog.csdn.net/python12345_/article/details/145450272)
+- [AI学习指南Ollama篇-Ollama性能优化与监控](https://blog.csdn.net/zhaopeng_yu/article/details/145345011)
+- [VideoCaptioner：北大推出视频字幕处理神器，AI自动生成+断句+翻译，1小时工作量5分钟搞定](https://blog.csdn.net/qq_19841021/article/details/145643466)
 
 ### 🛡️ 安全资讯
 - [【腾讯云代码分析】IDE插件重新上线！在编码中快速定位代码缺陷](https://cloud.tencent.com/developer/article/2508229)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
