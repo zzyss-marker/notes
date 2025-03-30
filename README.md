@@ -116,14 +116,14 @@
 ## 📰 今日资讯 (2025/3/30)
 
 ### 🔥 GitHub 热门项目
-- [Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo / awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [punkpeye / awesome-mcp-servers](https://github.com/punkpeye / awesome-mcp-servers) - A collection of MCP servers.
-- [juspay / hyperswitch](https://github.com/juspay / hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
+- [ahmedkhaleel2004 / gitdiagram](https://github.com/ahmedkhaleel2004 / gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
+- [tulir / whatsmeow](https://github.com/tulir / whatsmeow) - Go library for the WhatsApp web multidevice API
 
 ### 📚 技术文章精选
-- [编程行业必备！12个热门AI工具帮你写代码~](https://blog.csdn.net/weixin_72305072/article/details/145702327)
-- [手把手搭建微信机器人，帮你雇一个24小时在线的个人 AI 助理（上）](https://blog.csdn.net/u010522887/article/details/140247600)
-- [实测超棒！LangManus 开源 AI 智能体，低门槛体验多智能体协同魅力](https://blog.csdn.net/wwwzhouhui/article/details/146442511)
+- [人机共创：AI与人类编剧如何携手打造电影新纪元](https://blog.csdn.net/qq_32682301/article/details/146109572)
+- [探展2024世界人工智能大会之合合信息扫描黑科技～](https://blog.csdn.net/weixin_42250835/article/details/140281879)
+- [Cherry Studio：一站式多模型AI交互平台深度解析 可配合大模型搭建私有知识库问答系统](https://blog.csdn.net/qq_36944952/article/details/145539147)
 
 ### 🛡️ 安全资讯
 - [【腾讯云代码分析】IDE插件重新上线！在编码中快速定位代码缺陷](https://cloud.tencent.com/developer/article/2508229)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
