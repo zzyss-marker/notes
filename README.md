@@ -121,9 +121,9 @@
 - [juspay / hyperswitch](https://github.com/juspay / hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 
 ### 📚 技术文章精选
-- [成功拿下 工信部的人工智能证书！](https://blog.csdn.net/Lynn121/article/details/143920311)
-- [跨模态对齐与跨领域学习：提升AI泛化与理解能力的研究](https://blog.csdn.net/Cayyyy/article/details/143449767)
-- [全网最全最完整——联合国教科文组织《学生人工智能能力框架》AI competency framework for students-全文中文翻译](https://blog.csdn.net/qq_29868553/article/details/144191051)
+- [零基础使用AI从０到１开发一个微信小程序](https://blog.csdn.net/weixin_45654152/article/details/146519530)
+- [AI大模型之对比：如何对比两个AI大模型的性能](https://blog.csdn.net/shellyAI66/article/details/145556176)
+- [【人工智能】Transformers之Pipeline（概述）：30w+大模型极简应用](https://blog.csdn.net/weixin_48007632/article/details/140319929)
 
 ### 🛡️ 安全资讯
 - [DeepSeek 从热潮到应用，腾讯云携手行业专家共探 AI 下一步](https://cloud.tencent.com/developer/article/2508223)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
