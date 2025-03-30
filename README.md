@@ -121,9 +121,9 @@
 - [tulir / whatsmeow](https://github.com/tulir / whatsmeow) - Go library for the WhatsApp web multidevice API
 
 ### 📚 技术文章精选
-- [全球首个“AI程序员”Devin 正式开工](https://blog.csdn.net/weixin_41429382/article/details/144676488)
-- [在WPS中部署AI引擎 | Office AI助手插件——使用LM Studio中的本地大模型](https://blog.csdn.net/qq_46140754/article/details/145711501)
-- [【AI 大模型】RAG 检索增强生成 ⑧ ( 文本相似度排序 | Bi-Encoder 双编码器 | Cross-Encoder 交叉编码器 )](https://blog.csdn.net/han1202012/article/details/146122236)
+- [ChatGPT润色论文高阶技巧（附17个顶级提示词指令）](https://blog.csdn.net/AIBox365/article/details/140779899)
+- [人工智能的数学基础之概率论与统计学（含示例）](https://blog.csdn.net/lzm12278828/article/details/146242294)
+- [大模型+AI智能语音交互硬件开发上手建议路径和资料汇总](https://blog.csdn.net/2201_75889983/article/details/144744929)
 
 ### 🛡️ 安全资讯
 - [MCP协议详解：一文读懂跨时代的模型上下文协议](https://cloud.tencent.com/developer/article/2508227)
