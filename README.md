@@ -121,9 +121,9 @@
 - [tulir / whatsmeow](https://github.com/tulir / whatsmeow) - Go library for the WhatsApp web multidevice API
 
 ### 📚 技术文章精选
-- [DeepSeek R1，基于局域网AI模型部署与企业内网实施方案](https://blog.csdn.net/dayawoai/article/details/145392604)
-- [CPU环境使用DeepSeek微调打造智能医学AI博士助手：从原理到实践](https://blog.csdn.net/dengdeng333/article/details/145871814)
-- [AI 赋能软件开发：从工具到思维的全面升级](https://blog.csdn.net/qq_34419312/article/details/146158856)
+- [AI进阶篇：FLUX-5 ControlNet&IP-Adapter](https://blog.csdn.net/2401_85116933/article/details/142612536)
+- [超详细！AI Agent入门实战：智能体配置到公众号菜单、文章及评论区全攻略](https://blog.csdn.net/u013132758/article/details/146004407)
+- [DeepSeek本地部署+WebUI可视化+数据投喂训练AI之新手保姆级教程，建议收藏！](https://blog.csdn.net/2401_85390073/article/details/145530558)
 
 ### 🛡️ 安全资讯
 - [OpenManus实战：如何用DeepSeek V3打造你的专属智能体？](https://cloud.tencent.com/developer/article/2508524)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
