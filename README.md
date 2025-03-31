@@ -118,12 +118,12 @@
 ### 🔥 GitHub 热门项目
 - [ahmedkhaleel2004 / gitdiagram](https://github.com/ahmedkhaleel2004 / gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [unclecode / crawl4ai](https://github.com/unclecode / crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
-- [punkpeye / awesome-mcp-servers](https://github.com/punkpeye / awesome-mcp-servers) - A collection of MCP servers.
+- [tulir / whatsmeow](https://github.com/tulir / whatsmeow) - Go library for the WhatsApp web multidevice API
 
 ### 📚 技术文章精选
-- [springai+pgvector+ollama实现rag](https://blog.csdn.net/wang_keng/article/details/140192357)
-- [AI + 前端：通过图片/UI、技术栈、需求描述生成前端代码](https://blog.csdn.net/qq_14955661/article/details/144957820)
-- [GitHub 上 10 大热门开源 AI Agent 项目综述（2025 最新）](https://blog.csdn.net/nysin/article/details/145847765)
+- [大模型是什么？一文了解大模型，AI大模型有哪些常见的分类？](https://blog.csdn.net/python1234_/article/details/145873425)
+- [Pytorch安装](https://blog.csdn.net/weixin_48524984/article/details/140370242)
+- [Dify 零代码 AI 应用开发：快速入门与实战](https://blog.csdn.net/FrenzyTechAI/article/details/140726584)
 
 ### 🛡️ 安全资讯
 - [OpenManus实战：如何用DeepSeek V3打造你的专属智能体？](https://cloud.tencent.com/developer/article/2508524)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
