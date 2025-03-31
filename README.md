@@ -121,18 +121,18 @@
 - [tulir / whatsmeow](https://github.com/tulir / whatsmeow) - Go library for the WhatsApp web multidevice API
 
 ### 📚 技术文章精选
-- [Manus AI使用指南（从说到做，知行合一）](https://blog.csdn.net/weixin_44330367/article/details/146068835)
-- [ESP32-S3百度文心一言大模型AI语音聊天助手（支持自定义唤醒词训练）【手把手非常详细】【万字教程】](https://blog.csdn.net/chg2663776/article/details/142203652)
-- [阿里巴巴达摩院人工智能训练师（初级）](https://blog.csdn.net/huang0612123/article/details/145825336)
+- [生成式 AI 应用创新引擎dify.ai部署并集成ollama大模型详细图文教程](https://blog.csdn.net/qingzhumuqingfeng/article/details/144093452)
+- [【机器学习】基于YOLOv10实现你的第一个视觉AI大模型](https://blog.csdn.net/weixin_48007632/article/details/139307081)
+- [【人工智能 | 大数据】基于人工智能的大数据分析方法](https://blog.csdn.net/Morse_Chen/article/details/145211460)
 
 ### 🛡️ 安全资讯
-- [AI时代的教育之问V：学习方式](https://cloud.tencent.com/developer/article/2508484)
-- [OpenManus实战：如何用DeepSeek V3打造你的专属智能体？](https://cloud.tencent.com/developer/article/2508524)
 - [腾讯元宝「双模」更新：最新DeepSeekV3+混元T1正式版，一次配齐](https://cloud.tencent.com/developer/article/2508193)
+- [谁是 AI 搜索先锋？ Elastic 先锋者招募令正式启动！](https://cloud.tencent.com/developer/article/2508616)
+- [一个 Transformer 搞定多模态理解，HaploVL让 AI “看图说话” 更懂细节](https://cloud.tencent.com/developer/article/2508615)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
