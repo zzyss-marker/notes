@@ -121,9 +121,9 @@
 - [punkpeye / awesome-mcp-servers](https://github.com/punkpeye / awesome-mcp-servers) - A collection of MCP servers.
 
 ### 📚 技术文章精选
-- [IntelliJ IDEA 中集成 Continue、DeepSeek 与硅基流动平台：开启 AI 编程新体验](https://blog.csdn.net/weixin_44867684/article/details/145615627)
-- [绝了！直接用剪映，就可以一键AI文生图、AI文生视频、AI文生音乐...](https://blog.csdn.net/CCEEHM/article/details/144371732)
-- [GitHub 上 10 大热门开源 AI Agent 项目综述（2025 最新）](https://blog.csdn.net/nysin/article/details/145847765)
+- [ESP32-S3百度文心一言大模型AI语音聊天助手（支持自定义唤醒词训练）【手把手非常详细】【万字教程】](https://blog.csdn.net/chg2663776/article/details/142203652)
+- [Cursor 新版本要来了，释放Claude 3.7全部潜力，估值百亿引热议，前Apple工程师：招人要会用AI。](https://blog.csdn.net/lythinking/article/details/146189144)
+- [AI大模型开发流程及涉及技术](https://blog.csdn.net/Z987421/article/details/145407346)
 
 ### 🛡️ 安全资讯
 - [OpenManus实战：如何用DeepSeek V3打造你的专属智能体？](https://cloud.tencent.com/developer/article/2508524)
