@@ -116,17 +116,17 @@
 ## 📰 今日资讯 (2025/3/31)
 
 ### 🔥 GitHub 热门项目
-- [punkpeye / awesome-mcp-servers](https://github.com/punkpeye / awesome-mcp-servers) - A collection of MCP servers.
 - [ahmedkhaleel2004 / gitdiagram](https://github.com/ahmedkhaleel2004 / gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
-- [tulir / whatsmeow](https://github.com/tulir / whatsmeow) - Go library for the WhatsApp web multidevice API
+- [unclecode / crawl4ai](https://github.com/unclecode / crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+- [punkpeye / awesome-mcp-servers](https://github.com/punkpeye / awesome-mcp-servers) - A collection of MCP servers.
 
 ### 📚 技术文章精选
-- [生成式 AI 应用创新引擎dify.ai部署并集成ollama大模型详细图文教程](https://blog.csdn.net/qingzhumuqingfeng/article/details/144093452)
-- [【机器学习】基于YOLOv10实现你的第一个视觉AI大模型](https://blog.csdn.net/weixin_48007632/article/details/139307081)
-- [【人工智能 | 大数据】基于人工智能的大数据分析方法](https://blog.csdn.net/Morse_Chen/article/details/145211460)
+- [基于Ollama+AnythingLLM搭建本地私有知识库，汉化版本](https://blog.csdn.net/weixin_42211816/article/details/137957442)
+- [探索 AI Manus：开启智能协作新时代](https://blog.csdn.net/qq_40614721/article/details/146074860)
+- [基于开源模型的微调训练及瘦身打造随身扫描仪方案__用AI把手机变成文字识别小能手](https://blog.csdn.net/deepever/article/details/146387667)
 
 ### 🛡️ 安全资讯
-- [腾讯元宝「双模」更新：最新DeepSeekV3+混元T1正式版，一次配齐](https://cloud.tencent.com/developer/article/2508193)
+- [OpenManus实战：如何用DeepSeek V3打造你的专属智能体？](https://cloud.tencent.com/developer/article/2508524)
 - [谁是 AI 搜索先锋？ Elastic 先锋者招募令正式启动！](https://cloud.tencent.com/developer/article/2508616)
 - [一个 Transformer 搞定多模态理解，HaploVL让 AI “看图说话” 更懂细节](https://cloud.tencent.com/developer/article/2508615)
 
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
