@@ -121,9 +121,9 @@
 - [punkpeye / awesome-mcp-servers](https://github.com/punkpeye / awesome-mcp-servers) - A collection of MCP servers.
 
 ### 📚 技术文章精选
-- [ESP32-S3百度文心一言大模型AI语音聊天助手（支持自定义唤醒词训练）【手把手非常详细】【万字教程】](https://blog.csdn.net/chg2663776/article/details/142203652)
-- [Cursor 新版本要来了，释放Claude 3.7全部潜力，估值百亿引热议，前Apple工程师：招人要会用AI。](https://blog.csdn.net/lythinking/article/details/146189144)
-- [AI大模型开发流程及涉及技术](https://blog.csdn.net/Z987421/article/details/145407346)
+- [springai+pgvector+ollama实现rag](https://blog.csdn.net/wang_keng/article/details/140192357)
+- [AI + 前端：通过图片/UI、技术栈、需求描述生成前端代码](https://blog.csdn.net/qq_14955661/article/details/144957820)
+- [GitHub 上 10 大热门开源 AI Agent 项目综述（2025 最新）](https://blog.csdn.net/nysin/article/details/145847765)
 
 ### 🛡️ 安全资讯
 - [OpenManus实战：如何用DeepSeek V3打造你的专属智能体？](https://cloud.tencent.com/developer/article/2508524)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
