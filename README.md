@@ -121,9 +121,9 @@
 - [punkpeye / awesome-mcp-servers](https://github.com/punkpeye / awesome-mcp-servers) - A collection of MCP servers.
 
 ### 📚 技术文章精选
-- [人工智能：从理论到实践的全方位解析](https://blog.csdn.net/qq_16242613/article/details/146055685)
-- [【人工智能】Transformers之Pipeline（十八）：文本生成（text-generation）](https://blog.csdn.net/weixin_48007632/article/details/142214070)
-- [CCF-CV企业交流会：打造大模型时代的可信AI，探索AI安全治理新路径](https://blog.csdn.net/m0_63947499/article/details/144545135)
+- [2025年，AI Agent干货资料、论文综述都在这了](https://blog.csdn.net/2401_85373691/article/details/145449471)
+- [5分钟教你用AI把老照片动起来，别再去花49块9的冤枉钱了](https://blog.csdn.net/xianyu120/article/details/140175999)
+- [这是DeepSeek创始人梁文锋的简历，不到2年竟做出震惊全球的AI](https://blog.csdn.net/qq_43270074/article/details/145503735)
 
 ### 🛡️ 安全资讯
 - [OpenManus实战：如何用DeepSeek V3打造你的专属智能体？](https://cloud.tencent.com/developer/article/2508524)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
