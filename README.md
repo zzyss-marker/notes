@@ -121,9 +121,9 @@
 - [tulir / whatsmeow](https://github.com/tulir / whatsmeow) - Go library for the WhatsApp web multidevice API
 
 ### 📚 技术文章精选
-- [AI性能极致体验：通过阿里云平台高效调用满血版DeepSeek-R1模型](https://blog.csdn.net/2301_80840905/article/details/145704238)
-- [VSCode中6个AI顶级插件](https://blog.csdn.net/cfy_banq/article/details/137145040)
-- [AIGI赋能未来：人工智能如何重塑电子电路学习体验](https://blog.csdn.net/qq_32682301/article/details/140216083)
+- [AI可信论坛亮点：合合信息分享视觉内容安全技术前沿](https://blog.csdn.net/weixin_50843918/article/details/144602078)
+- [【AI落地】如何创建字节的coze扣子工作流 ——以“批量获取抖音视频文案”为例](https://blog.csdn.net/YUICUI/article/details/144953810)
+- [领先的开源 AI 代码助手——Continue](https://blog.csdn.net/coderroad/article/details/145776970)
 
 ### 🛡️ 安全资讯
 - [AI时代的教育之问V：学习方式](https://cloud.tencent.com/developer/article/2508484)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
