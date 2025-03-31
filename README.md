@@ -118,12 +118,12 @@
 ### 🔥 GitHub 热门项目
 - [ahmedkhaleel2004 / gitdiagram](https://github.com/ahmedkhaleel2004 / gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [unclecode / crawl4ai](https://github.com/unclecode / crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
-- [tulir / whatsmeow](https://github.com/tulir / whatsmeow) - Go library for the WhatsApp web multidevice API
+- [punkpeye / awesome-mcp-servers](https://github.com/punkpeye / awesome-mcp-servers) - A collection of MCP servers.
 
 ### 📚 技术文章精选
-- [AI进阶篇：FLUX-5 ControlNet&IP-Adapter](https://blog.csdn.net/2401_85116933/article/details/142612536)
-- [超详细！AI Agent入门实战：智能体配置到公众号菜单、文章及评论区全攻略](https://blog.csdn.net/u013132758/article/details/146004407)
-- [DeepSeek本地部署+WebUI可视化+数据投喂训练AI之新手保姆级教程，建议收藏！](https://blog.csdn.net/2401_85390073/article/details/145530558)
+- [Dify：开箱即用的AI Agent工厂——从新手到专家的全景指南](https://blog.csdn.net/jane_xing/article/details/145884343)
+- [DeepSeek-R1 + Cherry Studio 本地部署打造个人 AI 知识库](https://blog.csdn.net/m0_59596990/article/details/145670649)
+- [2024年 AI大模型我该买一张什么显卡？](https://blog.csdn.net/zslefour/article/details/142458825)
 
 ### 🛡️ 安全资讯
 - [OpenManus实战：如何用DeepSeek V3打造你的专属智能体？](https://cloud.tencent.com/developer/article/2508524)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
