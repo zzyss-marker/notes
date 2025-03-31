@@ -121,9 +121,9 @@
 - [tulir / whatsmeow](https://github.com/tulir / whatsmeow) - Go library for the WhatsApp web multidevice API
 
 ### 📚 技术文章精选
-- [Transformers模型实例化方法：AutoModel、AutoModelForCausalLM](https://blog.csdn.net/u012856866/article/details/140497640)
-- [AI语音识别神器Openai Whisper对中文的支持如何？](https://blog.csdn.net/txhlxy/article/details/136845180)
-- [【通义千问】蓝耘智算 | 智启未来：蓝耘MaaS×通义QwQ-32B引领AI开发生产力](https://blog.csdn.net/Morse_Chen/article/details/146293849)
+- [Visual Studio 必备插件集合：AI 助力开发](https://blog.csdn.net/u012573563/article/details/140772151)
+- [AI性能极致体验：通过阿里云平台高效调用满血版DeepSeek-R1模型](https://blog.csdn.net/2301_80840905/article/details/145704238)
+- [打造私人专属AI = 个人知识库 + 本地化部署deepseek模型 / deepseek官方模型（AnythingLLM版）](https://blog.csdn.net/ygc123189/article/details/146123854)
 
 ### 🛡️ 安全资讯
 - [MCP协议详解：一文读懂跨时代的模型上下文协议](https://cloud.tencent.com/developer/article/2508227)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
