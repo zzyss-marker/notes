@@ -121,18 +121,18 @@
 - [tulir / whatsmeow](https://github.com/tulir / whatsmeow) - Go library for the WhatsApp web multidevice API
 
 ### 📚 技术文章精选
-- [Visual Studio 必备插件集合：AI 助力开发](https://blog.csdn.net/u012573563/article/details/140772151)
 - [AI性能极致体验：通过阿里云平台高效调用满血版DeepSeek-R1模型](https://blog.csdn.net/2301_80840905/article/details/145704238)
-- [打造私人专属AI = 个人知识库 + 本地化部署deepseek模型 / deepseek官方模型（AnythingLLM版）](https://blog.csdn.net/ygc123189/article/details/146123854)
+- [VSCode中6个AI顶级插件](https://blog.csdn.net/cfy_banq/article/details/137145040)
+- [AIGI赋能未来：人工智能如何重塑电子电路学习体验](https://blog.csdn.net/qq_32682301/article/details/140216083)
 
 ### 🛡️ 安全资讯
-- [MCP协议详解：一文读懂跨时代的模型上下文协议](https://cloud.tencent.com/developer/article/2508227)
 - [AI时代的教育之问V：学习方式](https://cloud.tencent.com/developer/article/2508484)
 - [OpenManus实战：如何用DeepSeek V3打造你的专属智能体？](https://cloud.tencent.com/developer/article/2508524)
+- [腾讯元宝「双模」更新：最新DeepSeekV3+混元T1正式版，一次配齐](https://cloud.tencent.com/developer/article/2508193)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
