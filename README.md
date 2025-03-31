@@ -121,9 +121,9 @@
 - [tulir / whatsmeow](https://github.com/tulir / whatsmeow) - Go library for the WhatsApp web multidevice API
 
 ### 📚 技术文章精选
-- [实现一个简易的AI流式对话，模拟ChatGPT（SpringBoot+Vue2）](https://blog.csdn.net/m0_75081815/article/details/144014347)
-- [【AI落地应用实战】LLM + TextIn文档解析技术实测 暨基于TextIn文档解析 + Kimi的智能文档解析助手](https://blog.csdn.net/air__Heaven/article/details/139103956)
-- [DeepSeek AI智能运营：重构企业效率的范式革命](https://blog.csdn.net/qq_32682301/article/details/145858137)
+- [Manus AI使用指南（从说到做，知行合一）](https://blog.csdn.net/weixin_44330367/article/details/146068835)
+- [ESP32-S3百度文心一言大模型AI语音聊天助手（支持自定义唤醒词训练）【手把手非常详细】【万字教程】](https://blog.csdn.net/chg2663776/article/details/142203652)
+- [阿里巴巴达摩院人工智能训练师（初级）](https://blog.csdn.net/huang0612123/article/details/145825336)
 
 ### 🛡️ 安全资讯
 - [AI时代的教育之问V：学习方式](https://cloud.tencent.com/developer/article/2508484)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
