@@ -121,9 +121,9 @@
 - [punkpeye / awesome-mcp-servers](https://github.com/punkpeye / awesome-mcp-servers) - A collection of MCP servers.
 
 ### 📚 技术文章精选
-- [Dify：开箱即用的AI Agent工厂——从新手到专家的全景指南](https://blog.csdn.net/jane_xing/article/details/145884343)
-- [DeepSeek-R1 + Cherry Studio 本地部署打造个人 AI 知识库](https://blog.csdn.net/m0_59596990/article/details/145670649)
-- [2024年 AI大模型我该买一张什么显卡？](https://blog.csdn.net/zslefour/article/details/142458825)
+- [告别DeepSeek崩溃！这7款Deep Seek平替AI工具又快又稳，免费还能联网！【2025年2月更新】](https://blog.csdn.net/snookeryy/article/details/145760689)
+- [解锁AIGC新时代：通义万相2.1与蓝耘智算平台的完美结合引领AI内容生成革命](https://blog.csdn.net/2301_81313679/article/details/146111299)
+- [LLMs之dataset/FT：Kiln-AI(快速AI原型制作/数据集协作/模型微调工具)的简介、安装和使用方法、案例应用之详细攻略](https://blog.csdn.net/qq_41185868/article/details/145561246)
 
 ### 🛡️ 安全资讯
 - [OpenManus实战：如何用DeepSeek V3打造你的专属智能体？](https://cloud.tencent.com/developer/article/2508524)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
