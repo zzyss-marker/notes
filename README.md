@@ -121,9 +121,9 @@
 - [punkpeye / awesome-mcp-servers](https://github.com/punkpeye / awesome-mcp-servers) - A collection of MCP servers.
 
 ### 📚 技术文章精选
-- [基于Ollama+AnythingLLM搭建本地私有知识库，汉化版本](https://blog.csdn.net/weixin_42211816/article/details/137957442)
-- [探索 AI Manus：开启智能协作新时代](https://blog.csdn.net/qq_40614721/article/details/146074860)
-- [基于开源模型的微调训练及瘦身打造随身扫描仪方案__用AI把手机变成文字识别小能手](https://blog.csdn.net/deepever/article/details/146387667)
+- [热门开源Ai搜索引擎对比分析](https://blog.csdn.net/qq_33137873/article/details/145170277)
+- [国内各种免费AI聊天机器人(ChatGPT)推荐(上)](https://blog.csdn.net/jxjdhdnd/article/details/138244659)
+- [【人工智能】Transformers之Pipeline（十六）：表格问答（table-question-answering）](https://blog.csdn.net/weixin_48007632/article/details/142092243)
 
 ### 🛡️ 安全资讯
 - [OpenManus实战：如何用DeepSeek V3打造你的专属智能体？](https://cloud.tencent.com/developer/article/2508524)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
