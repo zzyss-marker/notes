@@ -121,9 +121,9 @@
 - [tulir / whatsmeow](https://github.com/tulir / whatsmeow) - Go library for the WhatsApp web multidevice API
 
 ### 📚 技术文章精选
-- [大模型是什么？一文了解大模型，AI大模型有哪些常见的分类？](https://blog.csdn.net/python1234_/article/details/145873425)
-- [Pytorch安装](https://blog.csdn.net/weixin_48524984/article/details/140370242)
-- [Dify 零代码 AI 应用开发：快速入门与实战](https://blog.csdn.net/FrenzyTechAI/article/details/140726584)
+- [DeepSeek R1，基于局域网AI模型部署与企业内网实施方案](https://blog.csdn.net/dayawoai/article/details/145392604)
+- [CPU环境使用DeepSeek微调打造智能医学AI博士助手：从原理到实践](https://blog.csdn.net/dengdeng333/article/details/145871814)
+- [AI 赋能软件开发：从工具到思维的全面升级](https://blog.csdn.net/qq_34419312/article/details/146158856)
 
 ### 🛡️ 安全资讯
 - [OpenManus实战：如何用DeepSeek V3打造你的专属智能体？](https://cloud.tencent.com/developer/article/2508524)
@@ -134,5 +134,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
