@@ -114,19 +114,23 @@
 ## 📰 今日资讯 (2025/4/1)
 
 ### 🔥 GitHub 热门项目
+- [th-ch / youtube-music](https://github.com/th-ch / youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [ahmedkhaleel2004 / gitdiagram](https://github.com/ahmedkhaleel2004 / gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
-- [unclecode / crawl4ai](https://github.com/unclecode / crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
-- [tulir / whatsmeow](https://github.com/tulir / whatsmeow) - Go library for the WhatsApp web multidevice API
+- [nvm-sh / nvm](https://github.com/nvm-sh / nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 
 ### 📚 技术文章精选
-获取 CSDN 文章失败
+- [【图像分割】Meta分割一切（SAM）模型环境配置和使用教程](https://blog.csdn.net/Father_of_Python/article/details/130004935)
+- [NSSCTF AI 大模型攻防挑战专题 writeup](https://blog.csdn.net/CleverLee0/article/details/145882823)
+- [IDEA集成DeepSeek，通过离线安装解决无法安装Proxy AI插件问题](https://blog.csdn.net/weixin_66401877/article/details/145841545)
 
 ### 🛡️ 安全资讯
-获取安全资讯失败
+- [OpenManus实战：如何用DeepSeek V3打造你的专属智能体？](https://cloud.tencent.com/developer/article/2508524)
+- [腾讯多媒体实验室技术解析“中国戏曲数字焕新行动”阶段性工作](https://cloud.tencent.com/developer/article/2508633)
+- [o3-mini版本到底升级在哪里？](https://cloud.tencent.com/developer/article/2508782)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
