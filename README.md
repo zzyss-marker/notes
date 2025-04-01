@@ -119,9 +119,9 @@
 - [punkpeye / awesome-mcp-servers](https://github.com/punkpeye / awesome-mcp-servers) - A collection of MCP servers.
 
 ### 📚 技术文章精选
-- [数字化转型核心技术之一：什么是AI?AI的定义，四大核心技术，三大形态，四大应用](https://blog.csdn.net/2401_85325726/article/details/144785071)
-- [国产AI代码编辑器TRAE使用详解！对标Cursor](https://blog.csdn.net/a13879442471/article/details/145742463)
-- [使用Trae AI IDE，轻松实现交友聊天功能](https://blog.csdn.net/CC1991_/article/details/145778027)
+- [如何创建和使用`.env`文件](https://blog.csdn.net/qq_44154915/article/details/140317912)
+- [《塑造未来：全面解析人工智能》](https://blog.csdn.net/shaoyezhangliwei/article/details/145304031)
+- [AI：重塑电商行业的创新引擎，开启电商数字化转型新征程](https://blog.csdn.net/lilinhai548/article/details/143753452)
 
 ### 🛡️ 安全资讯
 - [OpenManus实战：如何用DeepSeek V3打造你的专属智能体？](https://cloud.tencent.com/developer/article/2508524)
@@ -132,5 +132,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
