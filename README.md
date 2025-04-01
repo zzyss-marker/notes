@@ -119,7 +119,9 @@
 - [punkpeye / awesome-mcp-servers](https://github.com/punkpeye / awesome-mcp-servers) - A collection of MCP servers.
 
 ### 📚 技术文章精选
-获取 CSDN 文章失败
+- [OpenCV与AI深度学习｜16个含源码和数据集的计算机视觉实战项目(建议收藏！)](https://blog.csdn.net/csdn_xmj/article/details/137462928)
+- [AI大模型探索之路-训练篇7：大语言模型Transformer库之HuggingFace介绍](https://blog.csdn.net/xiaobing259/article/details/138294519)
+- [AI赋能视频创作：蓝耘MaaS与海螺AI技术的深度融合](https://blog.csdn.net/lrq13965748542/article/details/146383719)
 
 ### 🛡️ 安全资讯
 - [一个 Transformer 搞定多模态理解，HaploVL让 AI “看图说话” 更懂细节](https://cloud.tencent.com/developer/article/2508615)
