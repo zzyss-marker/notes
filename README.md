@@ -116,10 +116,12 @@
 ### 🔥 GitHub 热门项目
 - [th-ch / youtube-music](https://github.com/th-ch / youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [ahmedkhaleel2004 / gitdiagram](https://github.com/ahmedkhaleel2004 / gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
-- [nvm-sh / nvm](https://github.com/nvm-sh / nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- [punkpeye / awesome-mcp-servers](https://github.com/punkpeye / awesome-mcp-servers) - A collection of MCP servers.
 
 ### 📚 技术文章精选
-获取 CSDN 文章失败
+- [数字化转型核心技术之一：什么是AI?AI的定义，四大核心技术，三大形态，四大应用](https://blog.csdn.net/2401_85325726/article/details/144785071)
+- [国产AI代码编辑器TRAE使用详解！对标Cursor](https://blog.csdn.net/a13879442471/article/details/145742463)
+- [使用Trae AI IDE，轻松实现交友聊天功能](https://blog.csdn.net/CC1991_/article/details/145778027)
 
 ### 🛡️ 安全资讯
 - [OpenManus实战：如何用DeepSeek V3打造你的专属智能体？](https://cloud.tencent.com/developer/article/2508524)
@@ -130,5 +132,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
