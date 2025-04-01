@@ -119,9 +119,9 @@
 - [punkpeye / awesome-mcp-servers](https://github.com/punkpeye / awesome-mcp-servers) - A collection of MCP servers.
 
 ### 📚 技术文章精选
-- [如何创建和使用`.env`文件](https://blog.csdn.net/qq_44154915/article/details/140317912)
-- [《塑造未来：全面解析人工智能》](https://blog.csdn.net/shaoyezhangliwei/article/details/145304031)
-- [AI：重塑电商行业的创新引擎，开启电商数字化转型新征程](https://blog.csdn.net/lilinhai548/article/details/143753452)
+- [一款由字节复刻Manus的开源AI自动化任务处理工具：LangManus，它通过LLM和网络搜索、网页爬取、浏览器控制等各种工具结合来实现任务自动化，可以实现本地部署使用，支持国产AI大模型API](https://blog.csdn.net/qq_44866828/article/details/146412259)
+- [智慧水务系统与 DeepSeek AI 技术的融合应用](https://blog.csdn.net/qq_37614659/article/details/145793946)
+- [ESP32 小智 AI 机器人入门教程从原理到实现（自己云端部署）](https://blog.csdn.net/h050210/article/details/146120433)
 
 ### 🛡️ 安全资讯
 - [OpenManus实战：如何用DeepSeek V3打造你的专属智能体？](https://cloud.tencent.com/developer/article/2508524)
@@ -132,5 +132,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
