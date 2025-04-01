@@ -119,9 +119,7 @@
 - [nvm-sh / nvm](https://github.com/nvm-sh / nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 
 ### 📚 技术文章精选
-- [解锁AIGC新时代：通义万相2.1与蓝耘智算平台的完美结合引领AI内容生成革命](https://blog.csdn.net/2301_81313679/article/details/146111299)
-- [蓝耘赋能通义万相 2.1：用 C++ 构建高效 AI 视频生成生态](https://blog.csdn.net/weixin_73295475/article/details/146127768)
-- [【AI IDE】使用人工智能AI集成开发工具（Integrated Development Environment）多轮提问快速完成一款Web端Vue3+TypeScript的经典游戏2048](https://blog.csdn.net/lmy_520/article/details/146307637)
+获取 CSDN 文章失败
 
 ### 🛡️ 安全资讯
 - [OpenManus实战：如何用DeepSeek V3打造你的专属智能体？](https://cloud.tencent.com/developer/article/2508524)
@@ -132,5 +130,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
