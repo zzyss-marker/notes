@@ -119,9 +119,7 @@
 - [punkpeye / awesome-mcp-servers](https://github.com/punkpeye / awesome-mcp-servers) - A collection of MCP servers.
 
 ### 📚 技术文章精选
-- [智能体之斯坦福AI小镇（Generative Agents: Interactive Simulacra of Human Behavior）](https://blog.csdn.net/qq_52053775/article/details/139194177)
-- [AI与黑客的结合：构建自动漏洞检测，利用工具HackAi](https://blog.csdn.net/weixin_45224590/article/details/143198134)
-- [如何本地部署AI智能体平台，带你手搓一个AI Agent](https://blog.csdn.net/2401_85328934/article/details/142130358)
+获取 CSDN 文章失败
 
 ### 🛡️ 安全资讯
 - [一个 Transformer 搞定多模态理解，HaploVL让 AI “看图说话” 更懂细节](https://cloud.tencent.com/developer/article/2508615)
@@ -132,5 +130,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
