@@ -119,9 +119,9 @@
 - [punkpeye / awesome-mcp-servers](https://github.com/punkpeye / awesome-mcp-servers) - A collection of MCP servers.
 
 ### 📚 技术文章精选
-- [嵌入式AI革命：DeepSeek开源如何终结GPU霸权，开启单片机智能新时代？](https://blog.csdn.net/AI_zhuli/article/details/145464179)
-- [MacOS本地部署Deepseek，不联网也可以使用AI，保护隐私](https://blog.csdn.net/weixin_44336445/article/details/145400324)
-- [AI+游戏开发：如何用 DeepSeek 打造高性能贪吃蛇游戏](https://blog.csdn.net/qq_32682301/article/details/146171988)
+- [springAI结合ollama简单实现](https://blog.csdn.net/var200/article/details/141380717)
+- [【AIGC】ChatGPT 的 Prompt Hacker 技巧：让简历轻松通过 AI 筛选](https://blog.csdn.net/2201_75539691/article/details/144755115)
+- [3款照片人物开口说话AI工具，跟真人说话一样~免费！短视频带货必备！（附教程）](https://blog.csdn.net/cxyxx12/article/details/142736228)
 
 ### 🛡️ 安全资讯
 - [谁是 AI 搜索先锋？ Elastic 先锋者招募令正式启动！](https://cloud.tencent.com/developer/article/2508616)
@@ -132,5 +132,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
