@@ -116,15 +116,15 @@
 ### 🔥 GitHub 热门项目
 - [ahmedkhaleel2004 / gitdiagram](https://github.com/ahmedkhaleel2004 / gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [unclecode / crawl4ai](https://github.com/unclecode / crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
-- [punkpeye / awesome-mcp-servers](https://github.com/punkpeye / awesome-mcp-servers) - A collection of MCP servers.
+- [tulir / whatsmeow](https://github.com/tulir / whatsmeow) - Go library for the WhatsApp web multidevice API
 
 ### 📚 技术文章精选
-- [OpenCV与AI深度学习｜16个含源码和数据集的计算机视觉实战项目(建议收藏！)](https://blog.csdn.net/csdn_xmj/article/details/137462928)
-- [AI大模型探索之路-训练篇7：大语言模型Transformer库之HuggingFace介绍](https://blog.csdn.net/xiaobing259/article/details/138294519)
-- [AI赋能视频创作：蓝耘MaaS与海螺AI技术的深度融合](https://blog.csdn.net/lrq13965748542/article/details/146383719)
+- [【AI大模型】为什么说更倾向于使用DeepSeek，清爽简洁，输出内容质量高，清晰明了得思考过程，真的值得拥有](https://blog.csdn.net/lmy_520/article/details/145513414)
+- [开源模型应用落地-知识巩固-生产级AI服务优化（二）](https://blog.csdn.net/qq839019311/article/details/144372314)
+- [一文搞懂LLM大模型！LLM从入门到精通万字长文（2024.12月最新）](https://blog.csdn.net/qq_45591302/article/details/140334670)
 
 ### 🛡️ 安全资讯
-- [一个 Transformer 搞定多模态理解，HaploVL让 AI “看图说话” 更懂细节](https://cloud.tencent.com/developer/article/2508615)
+- [OpenManus实战：如何用DeepSeek V3打造你的专属智能体？](https://cloud.tencent.com/developer/article/2508524)
 - [腾讯多媒体实验室技术解析“中国戏曲数字焕新行动”阶段性工作](https://cloud.tencent.com/developer/article/2508633)
 - [o3-mini版本到底升级在哪里？](https://cloud.tencent.com/developer/article/2508782)
 
