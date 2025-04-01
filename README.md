@@ -119,18 +119,18 @@
 - [punkpeye / awesome-mcp-servers](https://github.com/punkpeye / awesome-mcp-servers) - A collection of MCP servers.
 
 ### 📚 技术文章精选
-- [BGE-M3：一个能“三头六臂”的文本嵌入模型，让AI检索不再“偏科”](https://blog.csdn.net/drdairen/article/details/145512915)
-- [万物皆可AI，通达信也自带AI辅助功能了！](https://blog.csdn.net/weixin_46249649/article/details/145891062)
-- [LLM框架对比选择：MaxKB、Dify、FastGPT、RagFlow【RAG+AI工作流+Agent]](https://blog.csdn.net/m0_63171455/article/details/144411661)
+- [【AI】HR必看！DeepSeek-R1+Dify打造AI简历筛选神器，3步提效300%！](https://blog.csdn.net/david_520042/article/details/146058143)
+- [【AI实践】别再用传统API了！DeepSeek函数调用黑科技，5分钟搭建智能体工作流](https://blog.csdn.net/u014161864/article/details/145838334)
+- [[AI]从零开始的DeepSeek本地部署及本地API调用教程](https://blog.csdn.net/c858845275/article/details/145544208)
 
 ### 🛡️ 安全资讯
-- [谁是 AI 搜索先锋？ Elastic 先锋者招募令正式启动！](https://cloud.tencent.com/developer/article/2508616)
 - [一个 Transformer 搞定多模态理解，HaploVL让 AI “看图说话” 更懂细节](https://cloud.tencent.com/developer/article/2508615)
 - [腾讯多媒体实验室技术解析“中国戏曲数字焕新行动”阶段性工作](https://cloud.tencent.com/developer/article/2508633)
+- [o3-mini版本到底升级在哪里？](https://cloud.tencent.com/developer/article/2508782)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
