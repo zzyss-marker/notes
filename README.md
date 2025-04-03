@@ -30,7 +30,7 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│    │    │  1 │ ⭐ │  3 │  4 │  5 │
+│    │    │  1 │  2 │ ⭐ │  4 │  5 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  6 │  7 │  8 │  9 │ 10 │ 11 │ 12 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年4月2日
+🌟 今天是2025年4月3日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/4/2)
+## 📰 今日资讯 (2025/4/3)
 
 ### 🔥 GitHub 热门项目
+- [nvm-sh / nvm](https://github.com/nvm-sh / nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [th-ch / youtube-music](https://github.com/th-ch / youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
-- [ahmedkhaleel2004 / gitdiagram](https://github.com/ahmedkhaleel2004 / gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [punkpeye / awesome-mcp-servers](https://github.com/punkpeye / awesome-mcp-servers) - A collection of MCP servers.
 
 ### 📚 技术文章精选
-- [【DeepSeek本地部署详细指南】：从模型选择到数据投喂，再到本地API调用，打造专属AI知识库！](https://blog.csdn.net/TaloyerG/article/details/146183416)
-- [AI 写作（三）文本生成算法：创新与突破（3/10）](https://blog.csdn.net/beautifulmemory/article/details/143636998)
-- [AI集合客户端-cherry studio的使用](https://blog.csdn.net/hacker_Lees/article/details/145465658)
+- [【hacker送书第16期】Python数据分析、挖掘与可视化、AI全能助手ChatGPT职场工作效率提升技巧与案例](https://blog.csdn.net/xqe777/article/details/143859311)
+- [适合小白的本地部署AI教程（不仅仅DeepSeek）](https://blog.csdn.net/zouyh/article/details/145428640)
+- [Github 热点项目 awesome-mcp-servers MCP 服务器合集，3分钟实现AI模型自由操控万物！](https://blog.csdn.net/opentrending/article/details/146610888)
 
 ### 🛡️ 安全资讯
-- [腾讯多媒体实验室技术解析“中国戏曲数字焕新行动”阶段性工作](https://cloud.tencent.com/developer/article/2508633)
-- [o3-mini版本到底升级在哪里？](https://cloud.tencent.com/developer/article/2508782)
-- [人大、腾讯数据库联合攻坚交答卷：7项顶会论文突破，成果落地TDSQL产线](https://cloud.tencent.com/developer/article/2508831)
+- [前端开发快速入门kotlin指南](https://cloud.tencent.com/developer/article/2509098)
+- [强化学习微调（ReFT）来了，AI不再只是“记住答案”！](https://cloud.tencent.com/developer/article/2509087)
+- [直播预告｜什么是 MCP？腾讯云 EdgeOne Pages 带你从原理到实战](https://cloud.tencent.com/developer/article/2509132)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
