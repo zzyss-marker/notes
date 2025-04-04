@@ -30,7 +30,7 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│    │    │  1 │  2 │ ⭐ │  4 │  5 │
+│    │    │  1 │  2 │  3 │ ⭐ │  5 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  6 │  7 │  8 │  9 │ 10 │ 11 │ 12 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年4月3日
+🌟 今天是2025年4月4日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/4/3)
+## 📰 今日资讯 (2025/4/4)
 
 ### 🔥 GitHub 热门项目
-- [nvm-sh / nvm](https://github.com/nvm-sh / nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-- [th-ch / youtube-music](https://github.com/th-ch / youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
-- [punkpeye / awesome-mcp-servers](https://github.com/punkpeye / awesome-mcp-servers) - A collection of MCP servers.
+- [nuejs / nue](https://github.com/nuejs / nue) - Standards first web framework taking HTML, CSS, JS, and WASM to their absolute peak
+- [unclecode / crawl4ai](https://github.com/unclecode / crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+- [elie222 / inbox-zero](https://github.com/elie222 / inbox-zero) - Open source email app to reach inbox zero fast.
 
 ### 📚 技术文章精选
-- [【hacker送书第16期】Python数据分析、挖掘与可视化、AI全能助手ChatGPT职场工作效率提升技巧与案例](https://blog.csdn.net/xqe777/article/details/143859311)
-- [适合小白的本地部署AI教程（不仅仅DeepSeek）](https://blog.csdn.net/zouyh/article/details/145428640)
-- [Github 热点项目 awesome-mcp-servers MCP 服务器合集，3分钟实现AI模型自由操控万物！](https://blog.csdn.net/opentrending/article/details/146610888)
+- [【已解决】onnx无法找到CUDA的路径](https://blog.csdn.net/2202_75832991/article/details/140550441)
+- [零基础用AI—秘塔AI搜索入门指南](https://blog.csdn.net/qq_43792385/article/details/145604050)
+- [半导体数据分析： 玩转WM-811K Wafermap 数据集（一） AI 机器学习](https://blog.csdn.net/minstbe/article/details/144752689)
 
 ### 🛡️ 安全资讯
-- [前端开发快速入门kotlin指南](https://cloud.tencent.com/developer/article/2509098)
-- [强化学习微调（ReFT）来了，AI不再只是“记住答案”！](https://cloud.tencent.com/developer/article/2509087)
-- [直播预告｜什么是 MCP？腾讯云 EdgeOne Pages 带你从原理到实战](https://cloud.tencent.com/developer/article/2509132)
+- [“千人千面”的广告时代将被AI终结](https://cloud.tencent.com/developer/article/2509266)
+- [腾讯元宝X职场办公：别动手，我来](https://cloud.tencent.com/developer/article/2509265)
+- [AutoGLM 能操控手机，AI 未来已经来了？](https://cloud.tencent.com/developer/article/2509453)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
