@@ -30,7 +30,7 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│    │    │  1 │  2 │  3 │ ⭐ │  5 │
+│    │    │  1 │  2 │  3 │  4 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  6 │  7 │  8 │  9 │ 10 │ 11 │ 12 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年4月4日
+🌟 今天是2025年4月5日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,24 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/4/4)
+## 📰 今日资讯 (2025/4/5)
 
 ### 🔥 GitHub 热门项目
-- [nuejs / nue](https://github.com/nuejs / nue) - Standards first web framework taking HTML, CSS, JS, and WASM to their absolute peak
-- [unclecode / crawl4ai](https://github.com/unclecode / crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+- [nvm-sh / nvm](https://github.com/nvm-sh / nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [elie222 / inbox-zero](https://github.com/elie222 / inbox-zero) - Open source email app to reach inbox zero fast.
+- [alibaba / higress](https://github.com/alibaba / higress) - 🤖 AI Gateway | AI Native API Gateway
 
 ### 📚 技术文章精选
-- [【已解决】onnx无法找到CUDA的路径](https://blog.csdn.net/2202_75832991/article/details/140550441)
-- [零基础用AI—秘塔AI搜索入门指南](https://blog.csdn.net/qq_43792385/article/details/145604050)
-- [半导体数据分析： 玩转WM-811K Wafermap 数据集（一） AI 机器学习](https://blog.csdn.net/minstbe/article/details/144752689)
+获取 CSDN 文章失败
 
 ### 🛡️ 安全资讯
-- [“千人千面”的广告时代将被AI终结](https://cloud.tencent.com/developer/article/2509266)
-- [腾讯元宝X职场办公：别动手，我来](https://cloud.tencent.com/developer/article/2509265)
-- [AutoGLM 能操控手机，AI 未来已经来了？](https://cloud.tencent.com/developer/article/2509453)
+- [用Cursor重构Go项目，只需7步！](https://cloud.tencent.com/developer/article/2509802)
+- [EdgeOne Pages 上线「DeepSeek R1 模板」，1分钟快速部署对话型 AI 类网站](https://cloud.tencent.com/developer/article/2509971)
+- [AI幻觉下，如何识别虚假信息](https://cloud.tencent.com/developer/article/2509980)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
