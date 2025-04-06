@@ -30,9 +30,9 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│    │    │  1 │  2 │  3 │  4 │ ⭐ │
+│    │    │  1 │  2 │  3 │  4 │  5 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  6 │  7 │  8 │  9 │ 10 │ 11 │ 12 │
+│ ⭐ │  7 │  8 │  9 │ 10 │ 11 │ 12 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年4月5日
+🌟 今天是2025年4月6日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,15 +111,17 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/4/5)
+## 📰 今日资讯 (2025/4/6)
 
 ### 🔥 GitHub 热门项目
-- [nvm-sh / nvm](https://github.com/nvm-sh / nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-- [elie222 / inbox-zero](https://github.com/elie222 / inbox-zero) - Open source email app to reach inbox zero fast.
-- [alibaba / higress](https://github.com/alibaba / higress) - 🤖 AI Gateway | AI Native API Gateway
+- [nuejs / nue](https://github.com/nuejs / nue) - Standards first web framework taking HTML, CSS, JS, and WASM to their absolute peak
+- [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp / freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [Azure / azure-sdk-for-net](https://github.com/Azure / azure-sdk-for-net) - This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.
 
 ### 📚 技术文章精选
-获取 CSDN 文章失败
+- [【AI实践】应用Dify+Ollama实现基础Agent工作流（含RAG与LLM）](https://blog.csdn.net/vison20080808/article/details/143230593)
+- [通义万相 2.1 + 蓝耘算力，AI 视频生成的梦幻组合](https://blog.csdn.net/2401_82648291/article/details/146093206)
+- [Manus AI：又一个DeepSeek来了？](https://blog.csdn.net/xiatian_win123/article/details/146075030)
 
 ### 🛡️ 安全资讯
 - [用Cursor重构Go项目，只需7步！](https://cloud.tencent.com/developer/article/2509802)
@@ -130,5 +132,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
