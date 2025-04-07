@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │  1 │  2 │  3 │  4 │  5 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │  7 │  8 │  9 │ 10 │ 11 │ 12 │
+│  6 │ ⭐ │  8 │  9 │ 10 │ 11 │ 12 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年4月6日
+🌟 今天是2025年4月7日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,17 +111,17 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/4/6)
+## 📰 今日资讯 (2025/4/7)
 
 ### 🔥 GitHub 热门项目
-- [nuejs / nue](https://github.com/nuejs / nue) - Standards first web framework taking HTML, CSS, JS, and WASM to their absolute peak
-- [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp / freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
-- [Azure / azure-sdk-for-net](https://github.com/Azure / azure-sdk-for-net) - This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.
+- [meta-llama / llama-models](https://github.com/meta-llama / llama-models) - Utilities intended for use with Llama models.
+- [juliangarnier / anime](https://github.com/juliangarnier / anime) - JavaScript animation engine
+- [microsoft / markitdown](https://github.com/microsoft / markitdown) - Python tool for converting files and office documents to Markdown.
 
 ### 📚 技术文章精选
-- [【AI实践】应用Dify+Ollama实现基础Agent工作流（含RAG与LLM）](https://blog.csdn.net/vison20080808/article/details/143230593)
-- [通义万相 2.1 + 蓝耘算力，AI 视频生成的梦幻组合](https://blog.csdn.net/2401_82648291/article/details/146093206)
-- [Manus AI：又一个DeepSeek来了？](https://blog.csdn.net/xiatian_win123/article/details/146075030)
+- [不用开口也能当歌星？AI声音克隆新玩法来啦！](https://blog.csdn.net/xfour_free_world/article/details/146129758)
+- [全球首款通用AI Agent产品Manus深度分析报告](https://blog.csdn.net/agito_cheung/article/details/146062874)
+- [科研人必备：这8款AI神器，正在取代谷歌学术，轻松搞定文献筛选](https://blog.csdn.net/dinaxuejie/article/details/146639358)
 
 ### 🛡️ 安全资讯
 - [用Cursor重构Go项目，只需7步！](https://cloud.tencent.com/developer/article/2509802)
@@ -132,5 +132,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
