@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │  1 │  2 │  3 │  4 │  5 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  6 │ ⭐ │  8 │  9 │ 10 │ 11 │ 12 │
+│  6 │  7 │ ⭐ │  9 │ 10 │ 11 │ 12 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年4月7日
+🌟 今天是2025年4月8日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/4/7)
+## 📰 今日资讯 (2025/4/8)
 
 ### 🔥 GitHub 热门项目
-- [meta-llama / llama-models](https://github.com/meta-llama / llama-models) - Utilities intended for use with Llama models.
-- [juliangarnier / anime](https://github.com/juliangarnier / anime) - JavaScript animation engine
 - [microsoft / markitdown](https://github.com/microsoft / markitdown) - Python tool for converting files and office documents to Markdown.
+- [meta-llama / llama-models](https://github.com/meta-llama / llama-models) - Utilities intended for use with Llama models.
+- [funstory-ai / BabelDOC](https://github.com/funstory-ai / BabelDOC) - Yet Another Document Translator
 
 ### 📚 技术文章精选
-- [不用开口也能当歌星？AI声音克隆新玩法来啦！](https://blog.csdn.net/xfour_free_world/article/details/146129758)
-- [全球首款通用AI Agent产品Manus深度分析报告](https://blog.csdn.net/agito_cheung/article/details/146062874)
-- [科研人必备：这8款AI神器，正在取代谷歌学术，轻松搞定文献筛选](https://blog.csdn.net/dinaxuejie/article/details/146639358)
+- [神仙级AI大模型提示词（Prompt）入门教程，从入门到精通，看这一篇就够了](https://blog.csdn.net/l01011_/article/details/142406640)
+- [了解AIGC：让AI创造内容，改变未来](https://blog.csdn.net/double222222/article/details/139653135)
+- [成本不到50的AI对话机器人，如何自建服务端？自定义角色+语音克隆，个人隐私不外传](https://blog.csdn.net/u010522887/article/details/145897239)
 
 ### 🛡️ 安全资讯
-- [用Cursor重构Go项目，只需7步！](https://cloud.tencent.com/developer/article/2509802)
-- [EdgeOne Pages 上线「DeepSeek R1 模板」，1分钟快速部署对话型 AI 类网站](https://cloud.tencent.com/developer/article/2509971)
-- [AI幻觉下，如何识别虚假信息](https://cloud.tencent.com/developer/article/2509980)
+- [AI抢饭碗真相：不能只考虑发钱，人的工作还关乎尊严](https://cloud.tencent.com/developer/article/2510020)
+- [腾讯云X一汽丰田：智能客服AI大模型独立解决率提升至84%](https://cloud.tencent.com/developer/article/2510019)
+- [【运维自动化-标准运维】执行方案如何使用？](https://cloud.tencent.com/developer/article/2510095)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
