@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │  1 │  2 │  3 │  4 │  5 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  6 │  7 │ ⭐ │  9 │ 10 │ 11 │ 12 │
+│  6 │  7 │  8 │ ⭐ │ 10 │ 11 │ 12 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年4月8日
+🌟 今天是2025年4月9日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/4/8)
+## 📰 今日资讯 (2025/4/9)
 
 ### 🔥 GitHub 热门项目
 - [microsoft / markitdown](https://github.com/microsoft / markitdown) - Python tool for converting files and office documents to Markdown.
-- [meta-llama / llama-models](https://github.com/meta-llama / llama-models) - Utilities intended for use with Llama models.
-- [funstory-ai / BabelDOC](https://github.com/funstory-ai / BabelDOC) - Yet Another Document Translator
+- [HKUDS / LightRAG](https://github.com/HKUDS / LightRAG) - "LightRAG: Simple and Fast Retrieval-Augmented Generation"
+- [supabase-community / supabase-mcp](https://github.com/supabase-community / supabase-mcp) - Connect Supabase to your AI assistants
 
 ### 📚 技术文章精选
-- [神仙级AI大模型提示词（Prompt）入门教程，从入门到精通，看这一篇就够了](https://blog.csdn.net/l01011_/article/details/142406640)
-- [了解AIGC：让AI创造内容，改变未来](https://blog.csdn.net/double222222/article/details/139653135)
-- [成本不到50的AI对话机器人，如何自建服务端？自定义角色+语音克隆，个人隐私不外传](https://blog.csdn.net/u010522887/article/details/145897239)
+- [AI Agent之AutoGen框架部署、测试](https://blog.csdn.net/lucky_chaichai/article/details/143212429)
+- [IDEA + DeepSeek 实现 AI辅助编程，提升效率10倍（全网超详细的终极图文实战指南）](https://blog.csdn.net/martian665/article/details/145923641)
+- [基于DeepSeek+Vue3的AI对话聊天系统开发实战](https://blog.csdn.net/qq_16242613/article/details/145763603)
 
 ### 🛡️ 安全资讯
-- [AI抢饭碗真相：不能只考虑发钱，人的工作还关乎尊严](https://cloud.tencent.com/developer/article/2510020)
-- [腾讯云X一汽丰田：智能客服AI大模型独立解决率提升至84%](https://cloud.tencent.com/developer/article/2510019)
 - [【运维自动化-标准运维】执行方案如何使用？](https://cloud.tencent.com/developer/article/2510095)
+- [当漏洞攻击遇上腾讯混元超能力：EdgeOne 的 Web 安全赛博决斗](https://cloud.tencent.com/developer/article/2510080)
+- [3个Agent多模态感知秘诀，让AI真正具备“思考+执行”能力！](https://cloud.tencent.com/developer/article/2510283)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
