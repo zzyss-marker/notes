@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │  1 │  2 │  3 │  4 │  5 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  6 │  7 │  8 │  9 │ ⭐ │ 11 │ 12 │
+│  6 │  7 │  8 │  9 │ 10 │ ⭐ │ 12 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年4月10日
+🌟 今天是2025年4月11日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/4/10)
+## 📰 今日资讯 (2025/4/11)
 
 ### 🔥 GitHub 热门项目
-- [microsoft / markitdown](https://github.com/microsoft / markitdown) - Python tool for converting files and office documents to Markdown.
-- [supabase-community / supabase-mcp](https://github.com/supabase-community / supabase-mcp) - Connect Supabase to your AI assistants
-- [datawhalechina / llm-cookbook](https://github.com/datawhalechina / llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
+- [girafe-ai / ml-course](https://github.com/girafe-ai / ml-course) - Open Machine Learning course
+- [caddyserver / caddy](https://github.com/caddyserver / caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [clockworklabs / SpacetimeDB](https://github.com/clockworklabs / SpacetimeDB) - Multiplayer at the speed of light
 
 ### 📚 技术文章精选
-- [电商平台的AI 大模型实践：搜索推荐系统是核心，数据质量控制是关键](https://blog.csdn.net/universsky2015/article/details/143278094)
-- [Manus中国团队发布的通用型 AI Agent 产品!附Manus邀请码申请技巧！](https://blog.csdn.net/qq_41314882/article/details/146092827)
-- [视觉 注意力机制——通道注意力、空间注意力、自注意力、交叉注意力](https://blog.csdn.net/qq_46981910/article/details/140419662)
+- [【大模型】WPS 接入 DeepSeek-R1详解，打造全能AI办公助手](https://blog.csdn.net/zhangcongyi420/article/details/145963655)
+- [AI工具wiseflow-一个爬虫王者神器，让你百倍速挖掘各行业最新知识](https://blog.csdn.net/qq_35338960/article/details/143858146)
+- [Python酷库之旅-第三方库Pandas(060)](https://blog.csdn.net/ygb_1024/article/details/140856382)
 
 ### 🛡️ 安全资讯
-- [腾讯云 AI 存储解决方案持续升级，为 AI 全业务场景提供全面支持](https://cloud.tencent.com/developer/article/2510338)
-- [「腾讯混元大模型应用实战课程」上线国家智慧教育平台](https://cloud.tencent.com/developer/article/2510335)
-- [只是文档灌Dify？RAG发展一篇文就入门！](https://cloud.tencent.com/developer/article/2510343)
+- [活动预告｜OpenTenBase 城市行杭州站诚邀您参加](https://cloud.tencent.com/developer/article/2512491)
+- [诚邀报名 | OpenCloudOS城市行上海站：OS为基，AI为翼，驱动产业革新](https://cloud.tencent.com/developer/article/2512493)
+- [如何在OpenCloudOS 8上使用 vLLM运行opt](https://cloud.tencent.com/developer/article/2512492)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
