@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │  1 │  2 │  3 │  4 │  5 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  6 │  7 │  8 │  9 │ 10 │ ⭐ │ 12 │
+│  6 │  7 │  8 │  9 │ 10 │ 11 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年4月11日
+🌟 今天是2025年4月12日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/4/11)
+## 📰 今日资讯 (2025/4/12)
 
 ### 🔥 GitHub 热门项目
-- [girafe-ai / ml-course](https://github.com/girafe-ai / ml-course) - Open Machine Learning course
-- [caddyserver / caddy](https://github.com/caddyserver / caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [clockworklabs / SpacetimeDB](https://github.com/clockworklabs / SpacetimeDB) - Multiplayer at the speed of light
+- [jiji262 / douyin-downloader](https://github.com/jiji262 / douyin-downloader) - 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！
+- [yeongpin / cursor-free-vip](https://github.com/yeongpin / cursor-free-vip) - [Support 0.48.x]（Reset Cursor AI MachineID & Auto Sign Up / In & Bypass Higher Token Limit）自动注册 Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+- [krillinai / KrillinAI](https://github.com/krillinai / KrillinAI) - A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
 
 ### 📚 技术文章精选
-- [【大模型】WPS 接入 DeepSeek-R1详解，打造全能AI办公助手](https://blog.csdn.net/zhangcongyi420/article/details/145963655)
-- [AI工具wiseflow-一个爬虫王者神器，让你百倍速挖掘各行业最新知识](https://blog.csdn.net/qq_35338960/article/details/143858146)
-- [Python酷库之旅-第三方库Pandas(060)](https://blog.csdn.net/ygb_1024/article/details/140856382)
+- [AI+Mermaid 制作流程图](https://blog.csdn.net/weixin_42549534/article/details/146170800)
+- [Manus开源了，使用OWL 3分钟打造自己的ai员工！（保姆级教程）](https://blog.csdn.net/lizhijianwill/article/details/146216401)
+- [2025年最火IT岗——AI大模型开发工程师，月薪25k都算低的](https://blog.csdn.net/2301_81940605/article/details/145606458)
 
 ### 🛡️ 安全资讯
-- [活动预告｜OpenTenBase 城市行杭州站诚邀您参加](https://cloud.tencent.com/developer/article/2512491)
-- [诚邀报名 | OpenCloudOS城市行上海站：OS为基，AI为翼，驱动产业革新](https://cloud.tencent.com/developer/article/2512493)
-- [如何在OpenCloudOS 8上使用 vLLM运行opt](https://cloud.tencent.com/developer/article/2512492)
+- [Rust workspace Dependencies继承](https://cloud.tencent.com/developer/article/2512829)
+- [支付系统设计入门：核心账户体系架构](https://cloud.tencent.com/developer/article/2512782)
+- [腾讯云上线「AI开发套件」：5分钟搭建AI Agent小程序，支持MCP托管](https://cloud.tencent.com/developer/article/2512755)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
