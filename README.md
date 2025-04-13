@@ -32,9 +32,9 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │  1 │  2 │  3 │  4 │  5 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  6 │  7 │  8 │  9 │ 10 │ 11 │ ⭐ │
+│  6 │  7 │  8 │  9 │ 10 │ 11 │ 12 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │
+│ ⭐ │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 20 │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年4月12日
+🌟 今天是2025年4月13日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,17 +111,17 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/4/12)
+## 📰 今日资讯 (2025/4/13)
 
 ### 🔥 GitHub 热门项目
-- [jiji262 / douyin-downloader](https://github.com/jiji262 / douyin-downloader) - 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！
 - [yeongpin / cursor-free-vip](https://github.com/yeongpin / cursor-free-vip) - [Support 0.48.x]（Reset Cursor AI MachineID & Auto Sign Up / In & Bypass Higher Token Limit）自动注册 Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-- [krillinai / KrillinAI](https://github.com/krillinai / KrillinAI) - A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
+- [microsoft / ai-agents-for-beginners](https://github.com/microsoft / ai-agents-for-beginners) - 10 Lessons to Get Started Building AI Agents
+- [GuijiAI / HeyGem.ai](https://github.com/GuijiAI / HeyGem.ai) - 
 
 ### 📚 技术文章精选
-- [AI+Mermaid 制作流程图](https://blog.csdn.net/weixin_42549534/article/details/146170800)
-- [Manus开源了，使用OWL 3分钟打造自己的ai员工！（保姆级教程）](https://blog.csdn.net/lizhijianwill/article/details/146216401)
-- [2025年最火IT岗——AI大模型开发工程师，月薪25k都算低的](https://blog.csdn.net/2301_81940605/article/details/145606458)
+- [Spring AI 框架：从零开始掌握 AI 与 Spring 的完美结合！](https://blog.csdn.net/2301_78858041/article/details/146076432)
+- [为什么要学习人工智能（AI）？—— 未来已来，AI引领时代变革](https://blog.csdn.net/qq_34419312/article/details/146352238)
+- [AI角色扮演游戏框架SillyTavern（酒馆）的本地与云服务器搭建](https://blog.csdn.net/sanshanjianke/article/details/145436006)
 
 ### 🛡️ 安全资讯
 - [Rust workspace Dependencies继承](https://cloud.tencent.com/developer/article/2512829)
@@ -132,5 +132,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
