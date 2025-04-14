@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  6 │  7 │  8 │  9 │ 10 │ 11 │ 12 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │
+│ 13 │ ⭐ │ 15 │ 16 │ 17 │ 18 │ 19 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 20 │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年4月13日
+🌟 今天是2025年4月14日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/4/13)
+## 📰 今日资讯 (2025/4/14)
 
 ### 🔥 GitHub 热门项目
 - [yeongpin / cursor-free-vip](https://github.com/yeongpin / cursor-free-vip) - [Support 0.48.x]（Reset Cursor AI MachineID & Auto Sign Up / In & Bypass Higher Token Limit）自动注册 Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-- [microsoft / ai-agents-for-beginners](https://github.com/microsoft / ai-agents-for-beginners) - 10 Lessons to Get Started Building AI Agents
-- [GuijiAI / HeyGem.ai](https://github.com/GuijiAI / HeyGem.ai) - 
+- [vercel / ai-chatbot](https://github.com/vercel / ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
+- [krillinai / KrillinAI](https://github.com/krillinai / KrillinAI) - A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
 
 ### 📚 技术文章精选
-- [Spring AI 框架：从零开始掌握 AI 与 Spring 的完美结合！](https://blog.csdn.net/2301_78858041/article/details/146076432)
-- [为什么要学习人工智能（AI）？—— 未来已来，AI引领时代变革](https://blog.csdn.net/qq_34419312/article/details/146352238)
-- [AI角色扮演游戏框架SillyTavern（酒馆）的本地与云服务器搭建](https://blog.csdn.net/sanshanjianke/article/details/145436006)
+- [AI模型训练到底在训练什么？](https://blog.csdn.net/Code1994/article/details/144503655)
+- [Vscode的AI插件 —— Cline](https://blog.csdn.net/snowman1019/article/details/145388276)
+- [Manus再遭复刻！开源多智能体协作工具，实时查看每个AI员工的“脑回路“](https://blog.csdn.net/qq_19841021/article/details/146382987)
 
 ### 🛡️ 安全资讯
-- [Rust workspace Dependencies继承](https://cloud.tencent.com/developer/article/2512829)
-- [支付系统设计入门：核心账户体系架构](https://cloud.tencent.com/developer/article/2512782)
-- [腾讯云上线「AI开发套件」：5分钟搭建AI Agent小程序，支持MCP托管](https://cloud.tencent.com/developer/article/2512755)
+- [Windows月度安全补丁安装回滚的通用解决办法](https://cloud.tencent.com/developer/article/2512966)
+- [AI敏捷协作精研班来袭！解锁AI时代敏捷研发新姿势](https://cloud.tencent.com/developer/article/2513048)
+- [腾讯云叶嘉梁：大模型驱动的腾讯云储存应用创新与底层优化 | 智见](https://cloud.tencent.com/developer/article/2513049)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
