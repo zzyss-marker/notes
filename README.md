@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  6 │  7 │  8 │  9 │ 10 │ 11 │ 12 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 13 │ ⭐ │ 15 │ 16 │ 17 │ 18 │ 19 │
+│ 13 │ 14 │ ⭐ │ 16 │ 17 │ 18 │ 19 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 20 │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年4月14日
+🌟 今天是2025年4月15日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/4/14)
+## 📰 今日资讯 (2025/4/15)
 
 ### 🔥 GitHub 热门项目
 - [yeongpin / cursor-free-vip](https://github.com/yeongpin / cursor-free-vip) - [Support 0.48.x]（Reset Cursor AI MachineID & Auto Sign Up / In & Bypass Higher Token Limit）自动注册 Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-- [vercel / ai-chatbot](https://github.com/vercel / ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [krillinai / KrillinAI](https://github.com/krillinai / KrillinAI) - A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
+- [virattt / ai-hedge-fund](https://github.com/virattt / ai-hedge-fund) - An AI Hedge Fund Team
 
 ### 📚 技术文章精选
-- [AI模型训练到底在训练什么？](https://blog.csdn.net/Code1994/article/details/144503655)
-- [Vscode的AI插件 —— Cline](https://blog.csdn.net/snowman1019/article/details/145388276)
-- [Manus再遭复刻！开源多智能体协作工具，实时查看每个AI员工的“脑回路“](https://blog.csdn.net/qq_19841021/article/details/146382987)
+- [全面整理人工智能(AI)学习路线图及资源推荐，非常详细收藏我这一篇就够了](https://blog.csdn.net/m0_65555479/article/details/142756245)
+- [【开源代码解读】AI检索系统R1-Searcher通过强化学习RL激励大模型LLM的搜索能力](https://blog.csdn.net/aqfcca/article/details/146275215)
+- [字节跳动开源UI-TARS Desktop：用自然语言操控电脑的AI智能体来了！](https://blog.csdn.net/2401_85343303/article/details/146774446)
 
 ### 🛡️ 安全资讯
-- [Windows月度安全补丁安装回滚的通用解决办法](https://cloud.tencent.com/developer/article/2512966)
 - [AI敏捷协作精研班来袭！解锁AI时代敏捷研发新姿势](https://cloud.tencent.com/developer/article/2513048)
+- [推理模型升级浪潮下，Agentic RAG 如何借力 DeepSeek 实现知识革命？](https://cloud.tencent.com/developer/article/2513050)
 - [腾讯云叶嘉梁：大模型驱动的腾讯云储存应用创新与底层优化 | 智见](https://cloud.tencent.com/developer/article/2513049)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
