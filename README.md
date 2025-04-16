@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  6 │  7 │  8 │  9 │ 10 │ 11 │ 12 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 13 │ 14 │ ⭐ │ 16 │ 17 │ 18 │ 19 │
+│ 13 │ 14 │ 15 │ ⭐ │ 17 │ 18 │ 19 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 20 │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年4月15日
+🌟 今天是2025年4月16日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/4/15)
+## 📰 今日资讯 (2025/4/16)
 
 ### 🔥 GitHub 热门项目
-- [yeongpin / cursor-free-vip](https://github.com/yeongpin / cursor-free-vip) - [Support 0.48.x]（Reset Cursor AI MachineID & Auto Sign Up / In & Bypass Higher Token Limit）自动注册 Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-- [krillinai / KrillinAI](https://github.com/krillinai / KrillinAI) - A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
 - [virattt / ai-hedge-fund](https://github.com/virattt / ai-hedge-fund) - An AI Hedge Fund Team
+- [svcvit / Awesome-Dify-Workflow](https://github.com/svcvit / Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
+- [vanna-ai / vanna](https://github.com/vanna-ai / vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 
 ### 📚 技术文章精选
-- [全面整理人工智能(AI)学习路线图及资源推荐，非常详细收藏我这一篇就够了](https://blog.csdn.net/m0_65555479/article/details/142756245)
-- [【开源代码解读】AI检索系统R1-Searcher通过强化学习RL激励大模型LLM的搜索能力](https://blog.csdn.net/aqfcca/article/details/146275215)
-- [字节跳动开源UI-TARS Desktop：用自然语言操控电脑的AI智能体来了！](https://blog.csdn.net/2401_85343303/article/details/146774446)
+- [LangChain4j 从入门到放弃，java可以使用的 LLM 大模型 AI 框架（1）快速开始](https://blog.csdn.net/TangBoBoa/article/details/144213080)
+- [Pycharm中AI Assistant怎么使用](https://blog.csdn.net/l99ove/article/details/144452588)
+- [OCR+AI双引擎驱动：手把手教学构建智能财报分析系统](https://blog.csdn.net/weixin_41793160/article/details/146526017)
 
 ### 🛡️ 安全资讯
-- [AI敏捷协作精研班来袭！解锁AI时代敏捷研发新姿势](https://cloud.tencent.com/developer/article/2513048)
-- [推理模型升级浪潮下，Agentic RAG 如何借力 DeepSeek 实现知识革命？](https://cloud.tencent.com/developer/article/2513050)
-- [腾讯云叶嘉梁：大模型驱动的腾讯云储存应用创新与底层优化 | 智见](https://cloud.tencent.com/developer/article/2513049)
+- [主要贡献者！腾讯云 EdgeOne 产品能力进入 3GPP 最新版国际通信标准](https://cloud.tencent.com/developer/article/2513046)
+- [从Oracle迁移到TDSQL如何做兼容性评估？这份指南帮你轻松搞定](https://cloud.tencent.com/developer/article/2513042)
+- [智能专业“不费妈”，腾讯云音视频AI实时对话助力伴鱼智学打造“真人1v1”教学体验](https://cloud.tencent.com/developer/article/2513047)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
