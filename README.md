@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  6 │  7 │  8 │  9 │ 10 │ 11 │ 12 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 13 │ 14 │ 15 │ ⭐ │ 17 │ 18 │ 19 │
+│ 13 │ 14 │ 15 │ 16 │ ⭐ │ 18 │ 19 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 20 │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年4月16日
+🌟 今天是2025年4月17日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/4/16)
+## 📰 今日资讯 (2025/4/17)
 
 ### 🔥 GitHub 热门项目
 - [virattt / ai-hedge-fund](https://github.com/virattt / ai-hedge-fund) - An AI Hedge Fund Team
-- [svcvit / Awesome-Dify-Workflow](https://github.com/svcvit / Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
-- [vanna-ai / vanna](https://github.com/vanna-ai / vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
+- [Anduin2017 / HowToCook](https://github.com/Anduin2017 / HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+- [Anxcye / anx-reader](https://github.com/Anxcye / anx-reader) - Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused. 集成多种 AI 能力，支持丰富的电子书格式，让阅读更智能、更专注。
 
 ### 📚 技术文章精选
-- [LangChain4j 从入门到放弃，java可以使用的 LLM 大模型 AI 框架（1）快速开始](https://blog.csdn.net/TangBoBoa/article/details/144213080)
-- [Pycharm中AI Assistant怎么使用](https://blog.csdn.net/l99ove/article/details/144452588)
-- [OCR+AI双引擎驱动：手把手教学构建智能财报分析系统](https://blog.csdn.net/weixin_41793160/article/details/146526017)
+- [玩转大语言模型——使用Kiln AI可视化环境进行大语言模型微调数据合成](https://blog.csdn.net/DuLNode/article/details/145509518)
+- [Google Imagen 3 ——它会是最强的 AI 图像生成模型吗？](https://blog.csdn.net/qq449245884/article/details/146003764)
+- [计算机视觉应用｜医疗影像的智能化革命：病理切片AI辅助诊断系统的现状与未来](https://blog.csdn.net/u013132758/article/details/146145539)
 
 ### 🛡️ 安全资讯
-- [主要贡献者！腾讯云 EdgeOne 产品能力进入 3GPP 最新版国际通信标准](https://cloud.tencent.com/developer/article/2513046)
-- [从Oracle迁移到TDSQL如何做兼容性评估？这份指南帮你轻松搞定](https://cloud.tencent.com/developer/article/2513042)
-- [智能专业“不费妈”，腾讯云音视频AI实时对话助力伴鱼智学打造“真人1v1”教学体验](https://cloud.tencent.com/developer/article/2513047)
+- [k8s部署grafana](https://cloud.tencent.com/developer/article/2513158)
+- [Flutter实现不依赖Firebase的多平台的Google登录](https://cloud.tencent.com/developer/article/2513060)
+- [意识研究是不是“伪科学”？](https://cloud.tencent.com/developer/article/2513198)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
