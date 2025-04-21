@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │
+│ 20 │ ⭐ │ 22 │ 23 │ 24 │ 25 │ 26 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 27 │ 28 │ 29 │ 30 │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年4月20日
+🌟 今天是2025年4月21日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/4/20)
+## 📰 今日资讯 (2025/4/21)
 
 ### 🔥 GitHub 热门项目
-- [Anduin2017 / HowToCook](https://github.com/Anduin2017 / HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 - [microsoft / BitNet](https://github.com/microsoft / BitNet) - Official inference framework for 1-bit LLMs
-- [jlowin / fastmcp](https://github.com/jlowin / fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients
+- [Byaidu / PDFMathTranslate](https://github.com/Byaidu / PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker/Zotero
+- [public-apis / public-apis](https://github.com/public-apis / public-apis) - A collective list of free APIs
 
 ### 📚 技术文章精选
-- [【大模型API调用初尝试一】智谱AI && 通义千问](https://blog.csdn.net/massive_jiang/article/details/136622163)
-- [杀疯了！即梦AI生图3.0吊打GPT-4o，图片文字再也不会有乱码了，设计师又要 emo了！](https://blog.csdn.net/2502_91140257/article/details/146990885)
-- [AI Agents系列之构建多智能体系统](https://blog.csdn.net/qq_36603091/article/details/147290256)
+- [当AI回答问题时，它的“大脑”里在炒什么菜？](https://blog.csdn.net/Z_oioihoii/article/details/146212654)
+- [Spring AI Java程序员的AI之Spring AI（三）RAG实战](https://blog.csdn.net/qq_42731358/article/details/143001116)
+- [机器学习——解释性AI（Explainable AI）](https://blog.csdn.net/2303_80737493/article/details/142875507)
 
 ### 🛡️ 安全资讯
-- [当漏洞攻击遇上腾讯混元超能力：EdgeOne 的 Web 安全赛博决斗](https://cloud.tencent.com/developer/article/2514618)
-- [腾讯蝉联 MSU 4K 视频编码器大赛第一名，领跑 4K 编码赛道，加速 AIGC 创新落地](https://cloud.tencent.com/developer/article/2514616)
-- [游戏、电商、Web3……「腾讯云可观测」护航企业出海，精准规避跨境网络暗礁](https://cloud.tencent.com/developer/article/2514624)
+- [腾讯云 TVP 走进三一集团，揭秘 AI+DeepSeek 工业智造新未来](https://cloud.tencent.com/developer/article/2514625)
+- [腾讯蝉联 MSU 4K 视频编码器大赛第一名，领跑 4K 编码赛道，加速 AIGC 创新落地](https://cloud.tencent.com/developer/article/2514620)
+- [30分钟上架鸿蒙原生应用，即时通信IM UI组件库全面适配HarmonyOS](https://cloud.tencent.com/developer/article/2514619)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
