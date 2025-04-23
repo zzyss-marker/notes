@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 20 │ 21 │ ⭐ │ 23 │ 24 │ 25 │ 26 │
+│ 20 │ 21 │ 22 │ ⭐ │ 24 │ 25 │ 26 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 27 │ 28 │ 29 │ 30 │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年4月22日
+🌟 今天是2025年4月23日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/4/22)
+## 📰 今日资讯 (2025/4/23)
 
 ### 🔥 GitHub 热门项目
 - [microsoft / markitdown](https://github.com/microsoft / markitdown) - Python tool for converting files and office documents to Markdown.
 - [microsoft / BitNet](https://github.com/microsoft / BitNet) - Official inference framework for 1-bit LLMs
-- [elie222 / inbox-zero](https://github.com/elie222 / inbox-zero) - AI personal assistant for email. Open source app to help you reach inbox zero fast.
+- [Byaidu / PDFMathTranslate](https://github.com/Byaidu / PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 
 ### 📚 技术文章精选
-- [字节跳动AI编辑器Trae基本配置教程](https://blog.csdn.net/weixin_43811753/article/details/145687074)
-- [Topaz Photo AI 3.5.1（人工智能图片降噪软件）简体中文汉化版](https://blog.csdn.net/woshifer/article/details/145735846)
-- [智创 AI 新视界 -- AI 在交通运输领域的智能优化应用（16 - 9）](https://blog.csdn.net/atgfg/article/details/144382390)
+- [小白闯AI：Llama模型Lora中文微调实战](https://blog.csdn.net/roykingw/article/details/146418598)
+- [【AI大模型】大模型是怎么运作的？一文拆解底层原理、架构设计与系统关键路径](https://blog.csdn.net/sinat_28461591/article/details/147316179)
+- [智能购物时代：AI在电商平台的革命性应用](https://blog.csdn.net/beautifulmemory/article/details/143838897)
 
 ### 🛡️ 安全资讯
-- [MCP协议从原理到开发：一文读懂大模型交互的标准化革命！](https://cloud.tencent.com/developer/article/2514626)
-- [GitHub 限制国内访问？别慌，完美解决方案来了](https://cloud.tencent.com/developer/article/2514663)
-- [火花思维大数据Serverless实践总结](https://cloud.tencent.com/developer/article/2514990)
+- [腾讯混元开源角色定制化图像生成插件](https://cloud.tencent.com/developer/article/2514992)
+- [AI编程的理解和CoLadder: 论文](https://cloud.tencent.com/developer/article/2515069)
+- [​前端开发者的 Kotlin 之旅：理解Maven与Kotlin依赖管理](https://cloud.tencent.com/developer/article/2515090)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
