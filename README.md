@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 20 │ 21 │ 22 │ ⭐ │ 24 │ 25 │ 26 │
+│ 20 │ 21 │ 22 │ 23 │ ⭐ │ 25 │ 26 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 27 │ 28 │ 29 │ 30 │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年4月23日
+🌟 今天是2025年4月24日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/4/23)
+## 📰 今日资讯 (2025/4/24)
 
 ### 🔥 GitHub 热门项目
 - [microsoft / markitdown](https://github.com/microsoft / markitdown) - Python tool for converting files and office documents to Markdown.
-- [microsoft / BitNet](https://github.com/microsoft / BitNet) - Official inference framework for 1-bit LLMs
-- [Byaidu / PDFMathTranslate](https://github.com/Byaidu / PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+- [hydralauncher / hydra](https://github.com/hydralauncher / hydra) - Hydra is a game launcher with its own embedded bittorrent client
+- [pocketbase / pocketbase](https://github.com/pocketbase / pocketbase) - Open Source realtime backend in 1 file
 
 ### 📚 技术文章精选
-- [小白闯AI：Llama模型Lora中文微调实战](https://blog.csdn.net/roykingw/article/details/146418598)
-- [【AI大模型】大模型是怎么运作的？一文拆解底层原理、架构设计与系统关键路径](https://blog.csdn.net/sinat_28461591/article/details/147316179)
-- [智能购物时代：AI在电商平台的革命性应用](https://blog.csdn.net/beautifulmemory/article/details/143838897)
+- [轻量级多模型部署实践：Ollama 与 vLLM 快速构建高效 AI 工作流20250306](https://blog.csdn.net/Narutolxy/article/details/146063762)
+- [AI: Unsloth + Llama 3 微调实践,基于Colab](https://blog.csdn.net/qq_14829643/article/details/145647815)
+- [如何使用AI高效读论文，照做这些方法和指令你也可以一天阅读50篇](https://blog.csdn.net/wyj20082004/article/details/145269903)
 
 ### 🛡️ 安全资讯
-- [腾讯混元开源角色定制化图像生成插件](https://cloud.tencent.com/developer/article/2514992)
-- [AI编程的理解和CoLadder: 论文](https://cloud.tencent.com/developer/article/2515069)
-- [​前端开发者的 Kotlin 之旅：理解Maven与Kotlin依赖管理](https://cloud.tencent.com/developer/article/2515090)
+- [EdgeOne 第一季度产品动态｜边缘安全、边缘媒体板块重磅能力上线，掌上小程序正式发布](https://cloud.tencent.com/developer/article/2515244)
+- [EdgeOne 助力跨境电商安全出海，打造全球极致购物体验](https://cloud.tencent.com/developer/article/2515243)
+- [EdgeOne Pages 拥抱全球 MCP 生态平台，提升全球开发体验](https://cloud.tencent.com/developer/article/2515242)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
