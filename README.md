@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 20 │ 21 │ 22 │ 23 │ ⭐ │ 25 │ 26 │
+│ 20 │ 21 │ 22 │ 23 │ 24 │ ⭐ │ 26 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 27 │ 28 │ 29 │ 30 │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年4月24日
+🌟 今天是2025年4月25日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/4/24)
+## 📰 今日资讯 (2025/4/25)
 
 ### 🔥 GitHub 热门项目
-- [microsoft / markitdown](https://github.com/microsoft / markitdown) - Python tool for converting files and office documents to Markdown.
-- [hydralauncher / hydra](https://github.com/hydralauncher / hydra) - Hydra is a game launcher with its own embedded bittorrent client
-- [pocketbase / pocketbase](https://github.com/pocketbase / pocketbase) - Open Source realtime backend in 1 file
+- [kortix-ai / suna](https://github.com/kortix-ai / suna) - Suna - Open Source Generalist AI Agent
+- [RVC-Boss / GPT-SoVITS](https://github.com/RVC-Boss / GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
+- [cloudcommunity / Free-Certifications](https://github.com/cloudcommunity / Free-Certifications) - A curated list of free courses with certifications. Also available at https://free-certifications.com/
 
 ### 📚 技术文章精选
-- [轻量级多模型部署实践：Ollama 与 vLLM 快速构建高效 AI 工作流20250306](https://blog.csdn.net/Narutolxy/article/details/146063762)
-- [AI: Unsloth + Llama 3 微调实践,基于Colab](https://blog.csdn.net/qq_14829643/article/details/145647815)
-- [如何使用AI高效读论文，照做这些方法和指令你也可以一天阅读50篇](https://blog.csdn.net/wyj20082004/article/details/145269903)
+- [DeepSeek办公实战：5分钟搭建【文档识别+审核】AI自动化工作流](https://blog.csdn.net/TextIn666/article/details/146417450)
+- [“小浣熊家族AI办公助手”产品体验 — “人人都是数据分析师”](https://blog.csdn.net/2301_77888392/article/details/143191842)
+- [从 0 到 1：开发一个现代炫酷的 AI 聊天页面](https://blog.csdn.net/qq_37703224/article/details/145093172)
 
 ### 🛡️ 安全资讯
-- [EdgeOne 第一季度产品动态｜边缘安全、边缘媒体板块重磅能力上线，掌上小程序正式发布](https://cloud.tencent.com/developer/article/2515244)
-- [EdgeOne 助力跨境电商安全出海，打造全球极致购物体验](https://cloud.tencent.com/developer/article/2515243)
-- [EdgeOne Pages 拥抱全球 MCP 生态平台，提升全球开发体验](https://cloud.tencent.com/developer/article/2515242)
+- [氛围式编程什么鬼！？](https://cloud.tencent.com/developer/article/2515669)
+- [module 'torch._C' has no attribute 'TensorBase' 如何解决及定位方法](https://cloud.tencent.com/developer/article/2515712)
+- [ascend pytorch 踩坑.](https://cloud.tencent.com/developer/article/2515726)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
