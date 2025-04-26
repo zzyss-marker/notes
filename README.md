@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 20 │ 21 │ 22 │ 23 │ 24 │ ⭐ │ 26 │
+│ 20 │ 21 │ 22 │ 23 │ 24 │ 25 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 27 │ 28 │ 29 │ 30 │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年4月25日
+🌟 今天是2025年4月26日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,24 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/4/25)
+## 📰 今日资讯 (2025/4/26)
 
 ### 🔥 GitHub 热门项目
 - [kortix-ai / suna](https://github.com/kortix-ai / suna) - Suna - Open Source Generalist AI Agent
-- [RVC-Boss / GPT-SoVITS](https://github.com/RVC-Boss / GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
-- [cloudcommunity / Free-Certifications](https://github.com/cloudcommunity / Free-Certifications) - A curated list of free courses with certifications. Also available at https://free-certifications.com/
+- [bytedance / UI-TARS](https://github.com/bytedance / UI-TARS) - 
+- [jujumilk3 / leaked-system-prompts](https://github.com/jujumilk3 / leaked-system-prompts) - Collection of leaked system prompts
 
 ### 📚 技术文章精选
-- [DeepSeek办公实战：5分钟搭建【文档识别+审核】AI自动化工作流](https://blog.csdn.net/TextIn666/article/details/146417450)
-- [“小浣熊家族AI办公助手”产品体验 — “人人都是数据分析师”](https://blog.csdn.net/2301_77888392/article/details/143191842)
-- [从 0 到 1：开发一个现代炫酷的 AI 聊天页面](https://blog.csdn.net/qq_37703224/article/details/145093172)
+获取 CSDN 文章失败
 
 ### 🛡️ 安全资讯
-- [氛围式编程什么鬼！？](https://cloud.tencent.com/developer/article/2515669)
-- [module 'torch._C' has no attribute 'TensorBase' 如何解决及定位方法](https://cloud.tencent.com/developer/article/2515712)
-- [ascend pytorch 踩坑.](https://cloud.tencent.com/developer/article/2515726)
+- [深入微服务核心：从架构设计到规模化](https://cloud.tencent.com/developer/article/2515903)
+- [Ascend 910b vllm运行报错: cannot import name 'log' from 'torch.distributed.elastic](https://cloud.tencent.com/developer/article/2515942)
+- [Ascend 910b 运行vllm报错 libatb.so: cannot open shared object file](https://cloud.tencent.com/developer/article/2515947)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
