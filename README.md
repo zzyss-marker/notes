@@ -38,14 +38,14 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 20 │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 27 │ ⭐ │ 29 │ 30 │    │    │    │
+│ 27 │ 28 │ ⭐ │ 30 │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年4月28日
+🌟 今天是2025年4月29日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/4/28)
+## 📰 今日资讯 (2025/4/29)
 
 ### 🔥 GitHub 热门项目
+- [hacksider / Deep-Live-Cam](https://github.com/hacksider / Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+- [lapce / lapce](https://github.com/lapce / lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [getzep / graphiti](https://github.com/getzep / graphiti) - Build Real-Time Knowledge Graphs for AI Agents
-- [microsoft / generative-ai-for-beginners](https://github.com/microsoft / generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
-- [rowboatlabs / rowboat](https://github.com/rowboatlabs / rowboat) - AI-powered multi-agent builder
 
 ### 📚 技术文章精选
-- [政安晨的AI大模型训练实践 十二 - 基于千问的Qwen2.5-VL-3B-Instruct 多模态模型进行微调参数认知 3](https://blog.csdn.net/snowdenkeke/article/details/145854281)
-- [C++ 实现对战AI五子棋](https://blog.csdn.net/zhoubancheng/article/details/135299090)
-- [免费的9款国产AI视频生成工具](https://blog.csdn.net/weixin_43836661/article/details/141637195)
+- [一文了解人工智能顶级会议AAAI 2025的研究热点与最新趋势](https://blog.csdn.net/audyxiao001/article/details/146407866)
+- [借助 Spring AI 调用 DeepSeek：全流程指引与实战解析](https://blog.csdn.net/qq_36743472/article/details/146006604)
+- [零基础玩转AI智能体，我该怎么选！与Coze(扣子)、Dify区别在哪？](https://blog.csdn.net/2401_85390073/article/details/147194809)
 
 ### 🛡️ 安全资讯
-- [ascend cann镜像构建失败, 报错"ImportError: libascend_hal.so: cannot open shared object"](https://cloud.tencent.com/developer/article/2516143)
-- [腾讯云Craft智能体上线：平均编码时间缩短40%](https://cloud.tencent.com/developer/article/2516097)
-- [Llama 4发布即开源 | 实测效果如何？](https://cloud.tencent.com/developer/article/2516122)
+- [实测文心 4.5 模型](https://cloud.tencent.com/developer/article/2516292)
+- [three.js中的重要基础概念](https://cloud.tencent.com/developer/article/2516304)
+- [COS端到端质量系列——终端COS SDK网络优化](https://cloud.tencent.com/developer/article/2516488)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
