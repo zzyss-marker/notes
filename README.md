@@ -38,14 +38,14 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 20 │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 27 │ 28 │ ⭐ │ 30 │    │    │    │
+│ 27 │ 28 │ 29 │ ⭐ │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年4月29日
+🌟 今天是2025年4月30日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/4/29)
+## 📰 今日资讯 (2025/4/30)
 
 ### 🔥 GitHub 热门项目
 - [hacksider / Deep-Live-Cam](https://github.com/hacksider / Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-- [lapce / lapce](https://github.com/lapce / lapce) - Lightning-fast and Powerful Code Editor written in Rust
-- [getzep / graphiti](https://github.com/getzep / graphiti) - Build Real-Time Knowledge Graphs for AI Agents
+- [bgstaal / multipleWindow3dScene](https://github.com/bgstaal / multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
+- [0xk1h0 / ChatGPT_DAN](https://github.com/0xk1h0 / ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
 
 ### 📚 技术文章精选
-- [一文了解人工智能顶级会议AAAI 2025的研究热点与最新趋势](https://blog.csdn.net/audyxiao001/article/details/146407866)
-- [借助 Spring AI 调用 DeepSeek：全流程指引与实战解析](https://blog.csdn.net/qq_36743472/article/details/146006604)
-- [零基础玩转AI智能体，我该怎么选！与Coze(扣子)、Dify区别在哪？](https://blog.csdn.net/2401_85390073/article/details/147194809)
+- [【AI】推荐12个AI智能体应用开发平台](https://blog.csdn.net/ZYC88888/article/details/145454314)
+- [40款主流的AI工具集盘点，这些好用的AI软件一定要知道！](https://blog.csdn.net/qq_20314339/article/details/142986842)
+- [Java 版 Manus 实现来了，Spring AI Alibaba 发布开源 OpenManus 实现](https://blog.csdn.net/musicml/article/details/146636414)
 
 ### 🛡️ 安全资讯
-- [实测文心 4.5 模型](https://cloud.tencent.com/developer/article/2516292)
-- [three.js中的重要基础概念](https://cloud.tencent.com/developer/article/2516304)
-- [COS端到端质量系列——终端COS SDK网络优化](https://cloud.tencent.com/developer/article/2516488)
+- [赋能 AI 运维革新：Prometheus 容器化 GPU 监控一站式解决方案](https://cloud.tencent.com/developer/article/2516486)
+- [一文搞懂：RAG、Agent与多模态的行业实践与未来趋势](https://cloud.tencent.com/developer/article/2516485)
+- [前端开发者的 Kotlin 之旅：理解kotlin协程](https://cloud.tencent.com/developer/article/2516504)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
