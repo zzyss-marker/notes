@@ -30,7 +30,7 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│    │    │    │    │ ⭐ │  2 │  3 │
+│    │    │    │    │  1 │ ⭐ │  3 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  4 │  5 │  6 │  7 │  8 │  9 │ 10 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年5月1日
+🌟 今天是2025年5月2日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,24 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/5/1)
+## 📰 今日资讯 (2025/5/2)
 
 ### 🔥 GitHub 热门项目
 - [hacksider / Deep-Live-Cam](https://github.com/hacksider / Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-- [patchy631 / ai-engineering-hub](https://github.com/patchy631 / ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 - [QwenLM / Qwen-Agent](https://github.com/QwenLM / Qwen-Agent) - Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
+- [teableio / teable](https://github.com/teableio / teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 
 ### 📚 技术文章精选
-获取 CSDN 文章失败
+- [Cursor+MCP，解锁AI更多可能！](https://blog.csdn.net/atbigapp/article/details/146205537)
+- [免费又强大！谷歌Gemini 2.5 Pro超详细使用指南（含AI Studio设置保姆级教程）](https://blog.csdn.net/Survivor_sl/article/details/146876858)
+- [OpenAI宣布支持MCP协议#关于MCP和人工智能工具的未来](https://blog.csdn.net/shadowcz007/article/details/146582518)
 
 ### 🛡️ 安全资讯
-- [大模型知识引擎X大参林：打造首个医药零售AI知识库](https://cloud.tencent.com/developer/article/2517029)
-- [「EMR 开发指南」之 Sqoop 使用说明](https://cloud.tencent.com/developer/article/2516999)
-- [如何使用DeepSeek-R1的知识库](https://cloud.tencent.com/developer/article/2517053)
+- [企业数据变革迫在眉睫，TDSQL多模一体化如何支撑企业多业务扩展？](https://cloud.tencent.com/developer/article/2517158)
+- [面向大模型时代的云存储架构](https://cloud.tencent.com/developer/article/2517162)
+- [Kubernetes 实战：用 Prometheus 提高 K8s 集群弹性伸缩能力的准确性](https://cloud.tencent.com/developer/article/2517170)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
