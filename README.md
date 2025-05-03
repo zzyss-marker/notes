@@ -30,7 +30,7 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│    │    │    │    │  1 │ ⭐ │  3 │
+│    │    │    │    │  1 │  2 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  4 │  5 │  6 │  7 │  8 │  9 │ 10 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年5月2日
+🌟 今天是2025年5月3日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/5/2)
+## 📰 今日资讯 (2025/5/3)
 
 ### 🔥 GitHub 热门项目
 - [hacksider / Deep-Live-Cam](https://github.com/hacksider / Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-- [QwenLM / Qwen-Agent](https://github.com/QwenLM / Qwen-Agent) - Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
-- [teableio / teable](https://github.com/teableio / teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
+- [aipotheosis-labs / aci](https://github.com/aipotheosis-labs / aci) - ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.
+- [MODSetter / SurfSense](https://github.com/MODSetter / SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.
 
 ### 📚 技术文章精选
-- [Cursor+MCP，解锁AI更多可能！](https://blog.csdn.net/atbigapp/article/details/146205537)
-- [免费又强大！谷歌Gemini 2.5 Pro超详细使用指南（含AI Studio设置保姆级教程）](https://blog.csdn.net/Survivor_sl/article/details/146876858)
-- [OpenAI宣布支持MCP协议#关于MCP和人工智能工具的未来](https://blog.csdn.net/shadowcz007/article/details/146582518)
+- [Spring AI开发MCP Server和MCP Client](https://blog.csdn.net/wxz258/article/details/147122965)
+- [人工智能与机器学习：Python从零实现性回归模型](https://blog.csdn.net/qq_36603091/article/details/147518756)
+- [「youlai-boot」进阶篇：Java & Spring Boot 企业级权限管理系统实战指南（全功能详解）](https://blog.csdn.net/u013737132/article/details/145178880)
 
 ### 🛡️ 安全资讯
-- [企业数据变革迫在眉睫，TDSQL多模一体化如何支撑企业多业务扩展？](https://cloud.tencent.com/developer/article/2517158)
+- [​​腾讯专有云：安全合规护航金融核心系统建设​](https://cloud.tencent.com/developer/article/2517160)
 - [面向大模型时代的云存储架构](https://cloud.tencent.com/developer/article/2517162)
-- [Kubernetes 实战：用 Prometheus 提高 K8s 集群弹性伸缩能力的准确性](https://cloud.tencent.com/developer/article/2517170)
+- [智能运维新时代：如何打造你的专属知识库](https://cloud.tencent.com/developer/article/2517172)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
