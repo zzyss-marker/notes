@@ -30,9 +30,9 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│    │    │    │    │  1 │  2 │ ⭐ │
+│    │    │    │    │  1 │  2 │  3 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  4 │  5 │  6 │  7 │  8 │  9 │ 10 │
+│ ⭐ │  5 │  6 │  7 │  8 │  9 │ 10 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年5月3日
+🌟 今天是2025年5月4日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/5/3)
+## 📰 今日资讯 (2025/5/4)
 
 ### 🔥 GitHub 热门项目
-- [hacksider / Deep-Live-Cam](https://github.com/hacksider / Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [aipotheosis-labs / aci](https://github.com/aipotheosis-labs / aci) - ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.
-- [MODSetter / SurfSense](https://github.com/MODSetter / SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.
+- [unionlabs / union](https://github.com/unionlabs / union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
+- [Atmosphere-NX / Atmosphere](https://github.com/Atmosphere-NX / Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 
 ### 📚 技术文章精选
-- [Spring AI开发MCP Server和MCP Client](https://blog.csdn.net/wxz258/article/details/147122965)
-- [人工智能与机器学习：Python从零实现性回归模型](https://blog.csdn.net/qq_36603091/article/details/147518756)
-- [「youlai-boot」进阶篇：Java & Spring Boot 企业级权限管理系统实战指南（全功能详解）](https://blog.csdn.net/u013737132/article/details/145178880)
+- [Trae 国内版正式上线！一键安装，解锁 AI 编程](https://blog.csdn.net/weixin_52648900/article/details/146179622)
+- [蓝桥杯人工智能备赛建议](https://blog.csdn.net/weixin_71737891/article/details/139423734)
+- [深入探索人工智能的未来：DeepSeek R1与蓝耘智算平台的完美结合](https://blog.csdn.net/2302_79177254/article/details/145552086)
 
 ### 🛡️ 安全资讯
-- [​​腾讯专有云：安全合规护航金融核心系统建设​](https://cloud.tencent.com/developer/article/2517160)
-- [面向大模型时代的云存储架构](https://cloud.tencent.com/developer/article/2517162)
 - [智能运维新时代：如何打造你的专属知识库](https://cloud.tencent.com/developer/article/2517172)
+- [企业数据变革迫在眉睫，TDSQL多模一体化如何支撑企业多业务扩展？](https://cloud.tencent.com/developer/article/2517158)
+- [Kubernetes 实战：用 Prometheus 提高 K8s 集群弹性伸缩能力的准确性](https://cloud.tencent.com/developer/article/2517170)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
