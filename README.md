@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │    │    │  1 │  2 │  3 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │  5 │  6 │  7 │  8 │  9 │ 10 │
+│  4 │ ⭐ │  6 │  7 │  8 │  9 │ 10 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年5月4日
+🌟 今天是2025年5月5日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,20 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/5/4)
+## 📰 今日资讯 (2025/5/5)
 
 ### 🔥 GitHub 热门项目
+- [hacksider / Deep-Live-Cam](https://github.com/hacksider / Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+- [jj-vcs / jj](https://github.com/jj-vcs / jj) - A Git-compatible VCS that is both simple and powerful
 - [aipotheosis-labs / aci](https://github.com/aipotheosis-labs / aci) - ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.
-- [unionlabs / union](https://github.com/unionlabs / union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
-- [Atmosphere-NX / Atmosphere](https://github.com/Atmosphere-NX / Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 
 ### 📚 技术文章精选
-- [Trae 国内版正式上线！一键安装，解锁 AI 编程](https://blog.csdn.net/weixin_52648900/article/details/146179622)
-- [蓝桥杯人工智能备赛建议](https://blog.csdn.net/weixin_71737891/article/details/139423734)
-- [深入探索人工智能的未来：DeepSeek R1与蓝耘智算平台的完美结合](https://blog.csdn.net/2302_79177254/article/details/145552086)
+获取 CSDN 文章失败
 
 ### 🛡️ 安全资讯
-- [智能运维新时代：如何打造你的专属知识库](https://cloud.tencent.com/developer/article/2517172)
 - [企业数据变革迫在眉睫，TDSQL多模一体化如何支撑企业多业务扩展？](https://cloud.tencent.com/developer/article/2517158)
 - [Kubernetes 实战：用 Prometheus 提高 K8s 集群弹性伸缩能力的准确性](https://cloud.tencent.com/developer/article/2517170)
+- [打起来了！MCP VS A2A，谁才是Agent的未来事实标准？](https://cloud.tencent.com/developer/article/2517173)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
