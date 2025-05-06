@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │    │    │  1 │  2 │  3 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  4 │ ⭐ │  6 │  7 │  8 │  9 │ 10 │
+│  4 │  5 │ ⭐ │  7 │  8 │  9 │ 10 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年5月5日
+🌟 今天是2025年5月6日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,24 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/5/5)
+## 📰 今日资讯 (2025/5/6)
 
 ### 🔥 GitHub 热门项目
 - [hacksider / Deep-Live-Cam](https://github.com/hacksider / Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-- [jj-vcs / jj](https://github.com/jj-vcs / jj) - A Git-compatible VCS that is both simple and powerful
-- [aipotheosis-labs / aci](https://github.com/aipotheosis-labs / aci) - ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.
+- [LadybirdBrowser / ladybird](https://github.com/LadybirdBrowser / ladybird) - Truly independent web browser
+- [EbookFoundation / free-programming-books](https://github.com/EbookFoundation / free-programming-books) - 📚 Freely available programming books
 
 ### 📚 技术文章精选
-获取 CSDN 文章失败
+- [Java面试实战：谢飞机的求职记 - Spring Boot、Redis与微服务技术问答解析](https://blog.csdn.net/sinat_26229211/article/details/147416054)
+- [Spring AI MCP Client + DeepSeek R1 搭建自定义可扩展的AI助手服务](https://blog.csdn.net/qq_43692950/article/details/147334720)
+- [基于LoRA的Llama 2二次预训练实践：高效低成本的大模型领域适配](https://blog.csdn.net/2501_91383091/article/details/147399247)
 
 ### 🛡️ 安全资讯
-- [企业数据变革迫在眉睫，TDSQL多模一体化如何支撑企业多业务扩展？](https://cloud.tencent.com/developer/article/2517158)
-- [Kubernetes 实战：用 Prometheus 提高 K8s 集群弹性伸缩能力的准确性](https://cloud.tencent.com/developer/article/2517170)
+- [智能运维新时代：如何打造你的专属知识库](https://cloud.tencent.com/developer/article/2517172)
 - [打起来了！MCP VS A2A，谁才是Agent的未来事实标准？](https://cloud.tencent.com/developer/article/2517173)
+- [重磅！CodeBuddy腾讯云代码助手「首席试玩官」内容创作大赛，好礼送不停🎁](https://cloud.tencent.com/developer/article/2516978)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
