@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │    │    │  1 │  2 │  3 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  4 │  5 │ ⭐ │  7 │  8 │  9 │ 10 │
+│  4 │  5 │  6 │ ⭐ │  8 │  9 │ 10 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年5月6日
+🌟 今天是2025年5月7日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/5/6)
+## 📰 今日资讯 (2025/5/7)
 
 ### 🔥 GitHub 热门项目
-- [hacksider / Deep-Live-Cam](https://github.com/hacksider / Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+- [GoogleCloudPlatform / kubectl-ai](https://github.com/GoogleCloudPlatform / kubectl-ai) - AI powered Kubernetes Assistant
 - [LadybirdBrowser / ladybird](https://github.com/LadybirdBrowser / ladybird) - Truly independent web browser
-- [EbookFoundation / free-programming-books](https://github.com/EbookFoundation / free-programming-books) - 📚 Freely available programming books
+- [521xueweihan / HelloGitHub](https://github.com/521xueweihan / HelloGitHub) - 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 
 ### 📚 技术文章精选
-- [Java面试实战：谢飞机的求职记 - Spring Boot、Redis与微服务技术问答解析](https://blog.csdn.net/sinat_26229211/article/details/147416054)
-- [Spring AI MCP Client + DeepSeek R1 搭建自定义可扩展的AI助手服务](https://blog.csdn.net/qq_43692950/article/details/147334720)
-- [基于LoRA的Llama 2二次预训练实践：高效低成本的大模型领域适配](https://blog.csdn.net/2501_91383091/article/details/147399247)
+- [ubuntu 24.04 安装 Nvidia 显卡驱动 + CUDA + cuDNN，配置 AI 深度学习训练环境，简单易懂，一看就会！](https://blog.csdn.net/u010912615/article/details/141195878)
+- [Java8+Spring Boot + Vue + Langchain4j 实现阿里云百炼平台 AI 流式对话对接](https://blog.csdn.net/qq_43257103/article/details/147042987)
+- [2025百度Create AI开发者大会解读](https://blog.csdn.net/linshantang/article/details/147539661)
 
 ### 🛡️ 安全资讯
-- [智能运维新时代：如何打造你的专属知识库](https://cloud.tencent.com/developer/article/2517172)
-- [打起来了！MCP VS A2A，谁才是Agent的未来事实标准？](https://cloud.tencent.com/developer/article/2517173)
-- [重磅！CodeBuddy腾讯云代码助手「首席试玩官」内容创作大赛，好礼送不停🎁](https://cloud.tencent.com/developer/article/2516978)
+- [遇到一例奇葩case如下，必须用就地升级的方式维修](https://cloud.tencent.com/developer/article/2517326)
+- [前端开发者的 Kotlin 之旅：Kotlin DSL进阶](https://cloud.tencent.com/developer/article/2517317)
+- [ChatGPT 开启“记忆模式”，你说的每一句话都可能被永久记住！](https://cloud.tencent.com/developer/article/2517356)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
