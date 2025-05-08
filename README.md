@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │    │    │  1 │  2 │  3 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  4 │  5 │  6 │ ⭐ │  8 │  9 │ 10 │
+│  4 │  5 │  6 │  7 │ ⭐ │  9 │ 10 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年5月7日
+🌟 今天是2025年5月8日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/5/7)
+## 📰 今日资讯 (2025/5/8)
 
 ### 🔥 GitHub 热门项目
 - [GoogleCloudPlatform / kubectl-ai](https://github.com/GoogleCloudPlatform / kubectl-ai) - AI powered Kubernetes Assistant
 - [LadybirdBrowser / ladybird](https://github.com/LadybirdBrowser / ladybird) - Truly independent web browser
-- [521xueweihan / HelloGitHub](https://github.com/521xueweihan / HelloGitHub) - 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+- [microsoft / ai-agents-for-beginners](https://github.com/microsoft / ai-agents-for-beginners) - 10 Lessons to Get Started Building AI Agents
 
 ### 📚 技术文章精选
-- [ubuntu 24.04 安装 Nvidia 显卡驱动 + CUDA + cuDNN，配置 AI 深度学习训练环境，简单易懂，一看就会！](https://blog.csdn.net/u010912615/article/details/141195878)
-- [Java8+Spring Boot + Vue + Langchain4j 实现阿里云百炼平台 AI 流式对话对接](https://blog.csdn.net/qq_43257103/article/details/147042987)
-- [2025百度Create AI开发者大会解读](https://blog.csdn.net/linshantang/article/details/147539661)
+- [不被AI取代的工程师](https://blog.csdn.net/significantfrank/article/details/145866309)
+- [AI做小红小绿书，自动配图+文案（Coze工作流）](https://blog.csdn.net/python12222_/article/details/143657998)
+- [【AI模型学习】关于写论文——论文的审美](https://blog.csdn.net/wwl412095144/article/details/147342044)
 
 ### 🛡️ 安全资讯
-- [遇到一例奇葩case如下，必须用就地升级的方式维修](https://cloud.tencent.com/developer/article/2517326)
-- [前端开发者的 Kotlin 之旅：Kotlin DSL进阶](https://cloud.tencent.com/developer/article/2517317)
-- [ChatGPT 开启“记忆模式”，你说的每一句话都可能被永久记住！](https://cloud.tencent.com/developer/article/2517356)
+- [缓存设计问题杂谈](https://cloud.tencent.com/developer/article/2517411)
+- [权限系统设计](https://cloud.tencent.com/developer/article/2517408)
+- [腾讯云WeData：数据质量监控架构的创新与实践](https://cloud.tencent.com/developer/article/2517484)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
