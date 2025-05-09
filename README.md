@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │    │    │  1 │  2 │  3 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  4 │  5 │  6 │  7 │ ⭐ │  9 │ 10 │
+│  4 │  5 │  6 │  7 │  8 │ ⭐ │ 10 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年5月8日
+🌟 今天是2025年5月9日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/5/8)
+## 📰 今日资讯 (2025/5/9)
 
 ### 🔥 GitHub 热门项目
 - [GoogleCloudPlatform / kubectl-ai](https://github.com/GoogleCloudPlatform / kubectl-ai) - AI powered Kubernetes Assistant
-- [LadybirdBrowser / ladybird](https://github.com/LadybirdBrowser / ladybird) - Truly independent web browser
-- [microsoft / ai-agents-for-beginners](https://github.com/microsoft / ai-agents-for-beginners) - 10 Lessons to Get Started Building AI Agents
+- [awslabs / agent-squad](https://github.com/awslabs / agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
+- [78 / xiaozhi-esp32](https://github.com/78 / xiaozhi-esp32) - Build your own AI friend
 
 ### 📚 技术文章精选
-- [不被AI取代的工程师](https://blog.csdn.net/significantfrank/article/details/145866309)
-- [AI做小红小绿书，自动配图+文案（Coze工作流）](https://blog.csdn.net/python12222_/article/details/143657998)
-- [【AI模型学习】关于写论文——论文的审美](https://blog.csdn.net/wwl412095144/article/details/147342044)
+获取 CSDN 文章失败
 
 ### 🛡️ 安全资讯
-- [缓存设计问题杂谈](https://cloud.tencent.com/developer/article/2517411)
-- [权限系统设计](https://cloud.tencent.com/developer/article/2517408)
-- [腾讯云WeData：数据质量监控架构的创新与实践](https://cloud.tencent.com/developer/article/2517484)
+获取安全资讯失败
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
