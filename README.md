@@ -32,9 +32,9 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │    │    │  1 │  2 │  3 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  4 │  5 │  6 │  7 │  8 │  9 │ ⭐ │
+│  4 │  5 │  6 │  7 │  8 │  9 │ 10 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │
+│ ⭐ │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年5月10日
+🌟 今天是2025年5月11日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/5/10)
+## 📰 今日资讯 (2025/5/11)
 
 ### 🔥 GitHub 热门项目
-- [longbridge / gpui-component](https://github.com/longbridge / gpui-component) - UI components for building fantastic desktop application by using GPUI.
 - [harry0703 / MoneyPrinterTurbo](https://github.com/harry0703 / MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-- [GoogleCloudPlatform / kubectl-ai](https://github.com/GoogleCloudPlatform / kubectl-ai) - AI powered Kubernetes Assistant
+- [Blaizzy / mlx-audio](https://github.com/Blaizzy / mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
+- [voideditor / void](https://github.com/voideditor / void) - 
 
 ### 📚 技术文章精选
-- [【CSDN活动】人工智能：前沿科技中的创业机遇与挑战](https://blog.csdn.net/qq_44214428/article/details/137538954)
-- [时频分析法——连续小波变换(CWT)](https://blog.csdn.net/m0_71995775/article/details/140890109)
-- [手把手带你搭建RAGflow，专业AI知识库的开源工具，RAGflow零基础入门到精通，看这一篇就够了！](https://blog.csdn.net/2401_85375298/article/details/146035558)
+- [AI 编程工具 TRAE 使用介绍](https://blog.csdn.net/i042416/article/details/146020204)
+- [VScode神级AI插件：Cline和Continue怎么选？网友：小孩才做选择](https://blog.csdn.net/2401_84380512/article/details/145918218)
+- [Ai提示词不会写，看这一篇就够了！（附：套用模板）](https://blog.csdn.net/qkh1234567/article/details/143204167)
 
 ### 🛡️ 安全资讯
-- [“3秒克隆周杰伦声音”？普通人也能玩转AI换声，太疯了！](https://cloud.tencent.com/developer/article/2518427)
-- [腾讯云 X DHL：「大模型」上岗，跨境客服解决率提升至74%](https://cloud.tencent.com/developer/article/2518443)
-- [苹果手机用了15年才“通用”，机器人还要多久？｜具身之路02期](https://cloud.tencent.com/developer/article/2518445)
+- [做Windows自定义镜像前配置开机后首次自动重启](https://cloud.tencent.com/developer/article/2518598)
+- [ChatGPT和大语言模型入门指南](https://cloud.tencent.com/developer/article/2518734)
+- [胡泳：在“推荐就是一切”的时代](https://cloud.tencent.com/developer/article/2518771)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
