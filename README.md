@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  4 │  5 │  6 │  7 │  8 │  9 │ 10 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │
+│ 11 │ ⭐ │ 13 │ 14 │ 15 │ 16 │ 17 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年5月11日
+🌟 今天是2025年5月12日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/5/11)
+## 📰 今日资讯 (2025/5/12)
 
 ### 🔥 GitHub 热门项目
 - [harry0703 / MoneyPrinterTurbo](https://github.com/harry0703 / MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-- [Blaizzy / mlx-audio](https://github.com/Blaizzy / mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
 - [voideditor / void](https://github.com/voideditor / void) - 
+- [Lightricks / LTX-Video](https://github.com/Lightricks / LTX-Video) - Official repository for LTX-Video
 
 ### 📚 技术文章精选
-- [AI 编程工具 TRAE 使用介绍](https://blog.csdn.net/i042416/article/details/146020204)
-- [VScode神级AI插件：Cline和Continue怎么选？网友：小孩才做选择](https://blog.csdn.net/2401_84380512/article/details/145918218)
-- [Ai提示词不会写，看这一篇就够了！（附：套用模板）](https://blog.csdn.net/qkh1234567/article/details/143204167)
+- [Napkin AI 深度解析：年终总结效率提升利器（附实战技巧）](https://blog.csdn.net/Allen101zhang/article/details/145263643)
+- [Trae 是一款由 AI 驱动的 IDE，让编程更加愉悦和高效。国际版集成了 GPT-4 和 Claude 3.5，国内版集成了DeepSeek-r1](https://blog.csdn.net/skywalk8163/article/details/146009760)
+- [autoMate - AI实现电脑任务自动化的本地工具](https://blog.csdn.net/puterkey/article/details/146147497)
 
 ### 🛡️ 安全资讯
-- [做Windows自定义镜像前配置开机后首次自动重启](https://cloud.tencent.com/developer/article/2518598)
-- [ChatGPT和大语言模型入门指南](https://cloud.tencent.com/developer/article/2518734)
-- [胡泳：在“推荐就是一切”的时代](https://cloud.tencent.com/developer/article/2518771)
+- [AI Agent：四大核心能力详解与技术演进](https://cloud.tencent.com/developer/article/2518792)
+- [在浏览器使用 MCP，纯边缘函数实现 MCP Client & Server](https://cloud.tencent.com/developer/article/2518848)
+- [没有公网的Windows机器，安装部分FoD(Features on Demand)可选功能(按需功能）时可能会报错，比如0x8024402C](https://cloud.tencent.com/developer/article/2518917)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
