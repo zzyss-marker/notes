@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  4 │  5 │  6 │  7 │  8 │  9 │ 10 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 11 │ ⭐ │ 13 │ 14 │ 15 │ 16 │ 17 │
+│ 11 │ 12 │ ⭐ │ 14 │ 15 │ 16 │ 17 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年5月12日
+🌟 今天是2025年5月13日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/5/12)
+## 📰 今日资讯 (2025/5/13)
 
 ### 🔥 GitHub 热门项目
 - [harry0703 / MoneyPrinterTurbo](https://github.com/harry0703 / MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-- [voideditor / void](https://github.com/voideditor / void) - 
-- [Lightricks / LTX-Video](https://github.com/Lightricks / LTX-Video) - Official repository for LTX-Video
+- [i-am-alice / 3rd-devs](https://github.com/i-am-alice / 3rd-devs) - 
+- [Blaizzy / mlx-audio](https://github.com/Blaizzy / mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
 
 ### 📚 技术文章精选
-- [Napkin AI 深度解析：年终总结效率提升利器（附实战技巧）](https://blog.csdn.net/Allen101zhang/article/details/145263643)
-- [Trae 是一款由 AI 驱动的 IDE，让编程更加愉悦和高效。国际版集成了 GPT-4 和 Claude 3.5，国内版集成了DeepSeek-r1](https://blog.csdn.net/skywalk8163/article/details/146009760)
-- [autoMate - AI实现电脑任务自动化的本地工具](https://blog.csdn.net/puterkey/article/details/146147497)
+- [GTC Taipei 2025 医疗域前瞻：从AI代理到医疗生态，解码医疗健康与生命科学的未来图景](https://blog.csdn.net/kkiron/article/details/147617052)
+- [分享12个国内AI对话聊天的免费网站（含DeepSeek大模型）](https://blog.csdn.net/weixin_42132035/article/details/146418044)
+- [AI在医疗领域的10大应用：从疾病预测到手术机器人](https://blog.csdn.net/qq_16242613/article/details/147714941)
 
 ### 🛡️ 安全资讯
-- [AI Agent：四大核心能力详解与技术演进](https://cloud.tencent.com/developer/article/2518792)
-- [在浏览器使用 MCP，纯边缘函数实现 MCP Client & Server](https://cloud.tencent.com/developer/article/2518848)
-- [没有公网的Windows机器，安装部分FoD(Features on Demand)可选功能(按需功能）时可能会报错，比如0x8024402C](https://cloud.tencent.com/developer/article/2518917)
+- [4月产品月报 | TDMQ Pulsar 版支持支持虚拟集群平滑迁移至专业集群](https://cloud.tencent.com/developer/article/2519022)
+- [AI 编程再进化？来 TVP 吐槽大会看 CodeBuddy 巅峰对决！](https://cloud.tencent.com/developer/article/2519067)
+- [腾讯云音视频解决方案连续9次获得国内份额第一，视频直播、媒体处理持续领跑，AIGC实践亮眼](https://cloud.tencent.com/developer/article/2519019)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
