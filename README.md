@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 18 │ ⭐ │ 20 │ 21 │ 22 │ 23 │ 24 │
+│ 18 │ 19 │ ⭐ │ 21 │ 22 │ 23 │ 24 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 25 │ 26 │ 27 │ 28 │ 29 │ 30 │ 31 │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年5月19日
+🌟 今天是2025年5月20日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/5/19)
+## 📰 今日资讯 (2025/5/20)
 
 ### 🔥 GitHub 热门项目
+- [virattt / ai-hedge-fund](https://github.com/virattt / ai-hedge-fund) - An AI Hedge Fund Team
 - [public-apis / public-apis](https://github.com/public-apis / public-apis) - A collective list of free APIs
-- [TapXWorld / ChinaTextbook](https://github.com/TapXWorld / ChinaTextbook) - 所有小初高、大学PDF教材。
-- [th-ch / youtube-music](https://github.com/th-ch / youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+- [CopilotKit / CopilotKit](https://github.com/CopilotKit / CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
 
 ### 📚 技术文章精选
-- [做PPT再也不求人！办公必备的AI美化PPT软件盘点！](https://blog.csdn.net/l1m0_/article/details/147073187)
-- [2. 快速在Spring Boot中集成Spring AI](https://blog.csdn.net/p793049488/article/details/145738129)
-- [重塑数学边界：人工智能如何引领数学研究的新纪元](https://blog.csdn.net/xiaofeng10330111/article/details/147685605)
+- [警惕AI“黑箱”：当我们依赖大模型决策时，究竟放弃了什么？](https://blog.csdn.net/guohuang/article/details/146418444)
+- [Spring AI TikaDocumentReader](https://blog.csdn.net/mqiqe/article/details/145279232)
+- [大厂都在用的 12 大主流 AI 前端组件库！阿里、蚂蚁、腾讯也纷纷推出 AI 组件库！](https://blog.csdn.net/m0_49394096/article/details/147407733)
 
 ### 🛡️ 安全资讯
-- [这才是真正的Git——Git实用技巧](https://cloud.tencent.com/developer/article/2520356)
-- [奥特曼最新专访：2025，AI智能体正加速登场](https://cloud.tencent.com/developer/article/2520313)
-- [CodeBuddy Craft使用感受~](https://cloud.tencent.com/developer/article/2520507)
+- [腾讯云ES再进化，新特性「智能搜索开发」助力LLM应用落地](https://cloud.tencent.com/developer/article/2521000)
+- [失控的容器=裸奔的云端 | 容器OS镜像保卫战](https://cloud.tencent.com/developer/article/2520997)
+- [腾讯专有云：全栈智能云平台驱动出行智算升级](https://cloud.tencent.com/developer/article/2520995)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
