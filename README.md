@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 18 │ 19 │ 20 │ ⭐ │ 22 │ 23 │ 24 │
+│ 18 │ 19 │ 20 │ 21 │ ⭐ │ 23 │ 24 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 25 │ 26 │ 27 │ 28 │ 29 │ 30 │ 31 │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年5月21日
+🌟 今天是2025年5月22日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/5/21)
+## 📰 今日资讯 (2025/5/22)
 
 ### 🔥 GitHub 热门项目
+- [microsoft / WSL](https://github.com/microsoft / WSL) - Windows Subsystem for Linux
 - [virattt / ai-hedge-fund](https://github.com/virattt / ai-hedge-fund) - An AI Hedge Fund Team
-- [public-apis / public-apis](https://github.com/public-apis / public-apis) - A collective list of free APIs
-- [appwrite / appwrite](https://github.com/appwrite / appwrite) - The open-source Vercel alternative
+- [modelcontextprotocol / registry](https://github.com/modelcontextprotocol / registry) - A community driven registry service for Model Context Protocol (MCP) servers.
 
 ### 📚 技术文章精选
-- [【结肠息肉AI论文集】Polyper:BoundarySensitivePolypSegmentation](https://blog.csdn.net/weixin_43571113/article/details/145591474)
-- [基于Video-ReTalking的AI数字人模型部署](https://blog.csdn.net/a287100886/article/details/143642098)
-- [如何利用DeepSeek+OCR技术打造一款AI投标工具：自动解析招标文件并生成投标标书的工具？](https://blog.csdn.net/qq_36603091/article/details/146114691)
+- [jax 和 jaxlib 的 cuda 版本安装](https://blog.csdn.net/weixin_51793361/article/details/140308835)
+- [记录 ESP32S3 小智AI 体验过程，0基础玩小智AI](https://blog.csdn.net/weixin_53944340/article/details/146869952)
+- [昇腾AI生态组件全解析：与英伟达生态的深度对比](https://blog.csdn.net/weixin_45631123/article/details/145811974)
 
 ### 🛡️ 安全资讯
-- [「重磅预告」腾讯企点营销云即将推出全新产品](https://cloud.tencent.com/developer/article/2521127)
-- [重磅！腾讯智能工作台ima，获信通院AI大模型应用精选案例奖](https://cloud.tencent.com/developer/article/2521002)
-- [mysql学习总结05 — 用户权限](https://cloud.tencent.com/developer/article/2521235)
+- [通过 numpy 生成数据的几种常用方式](https://cloud.tencent.com/developer/article/2522114)
+- [使用 Matplotlib 绘制函数曲线的编码范式](https://cloud.tencent.com/developer/article/2522117)
+- [首个毫秒级响应的实时生图大模型，发布！](https://cloud.tencent.com/developer/article/2521733)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
