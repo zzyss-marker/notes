@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 18 │ 19 │ 20 │ 21 │ ⭐ │ 23 │ 24 │
+│ 18 │ 19 │ 20 │ 21 │ 22 │ ⭐ │ 24 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 25 │ 26 │ 27 │ 28 │ 29 │ 30 │ 31 │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年5月22日
+🌟 今天是2025年5月23日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/5/22)
+## 📰 今日资讯 (2025/5/23)
 
 ### 🔥 GitHub 热门项目
-- [microsoft / WSL](https://github.com/microsoft / WSL) - Windows Subsystem for Linux
-- [virattt / ai-hedge-fund](https://github.com/virattt / ai-hedge-fund) - An AI Hedge Fund Team
-- [modelcontextprotocol / registry](https://github.com/modelcontextprotocol / registry) - A community driven registry service for Model Context Protocol (MCP) servers.
+- [All-Hands-AI / OpenHands](https://github.com/All-Hands-AI / OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [appwrite / appwrite](https://github.com/appwrite / appwrite) - The open-source Vercel alternative
+- [panaversity / learn-agentic-ai](https://github.com/panaversity / learn-agentic-ai) - Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.
 
 ### 📚 技术文章精选
-- [jax 和 jaxlib 的 cuda 版本安装](https://blog.csdn.net/weixin_51793361/article/details/140308835)
-- [记录 ESP32S3 小智AI 体验过程，0基础玩小智AI](https://blog.csdn.net/weixin_53944340/article/details/146869952)
-- [昇腾AI生态组件全解析：与英伟达生态的深度对比](https://blog.csdn.net/weixin_45631123/article/details/145811974)
+- [AI自动化测试框架browser use 项目测试总结](https://blog.csdn.net/m0_56232078/article/details/145933624)
+- [AI大模型ms-swift框架实战指南（十一）：模型评测实战指南](https://blog.csdn.net/xiaobing259/article/details/147527383)
+- [AI 实战：手把手教你使用「扣子/coze」来搭建个人blog知识库（附教程）](https://blog.csdn.net/Y525698136/article/details/146198323)
 
 ### 🛡️ 安全资讯
-- [通过 numpy 生成数据的几种常用方式](https://cloud.tencent.com/developer/article/2522114)
-- [使用 Matplotlib 绘制函数曲线的编码范式](https://cloud.tencent.com/developer/article/2522117)
-- [首个毫秒级响应的实时生图大模型，发布！](https://cloud.tencent.com/developer/article/2521733)
+- [别错过！OpenTenBase 城市行上海站 —— 数据库技术盛宴即将开启](https://cloud.tencent.com/developer/article/2523019)
+- [打字即出图！混元图像2.0让AI生图进入“零延迟”时](https://cloud.tencent.com/developer/article/2522856)
+- [腾讯云副总裁沙开波：坚定自研，打造公私同源的云服务](https://cloud.tencent.com/developer/article/2523020)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
