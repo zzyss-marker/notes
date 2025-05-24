@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 18 │ 19 │ 20 │ 21 │ 22 │ ⭐ │ 24 │
+│ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 25 │ 26 │ 27 │ 28 │ 29 │ 30 │ 31 │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年5月23日
+🌟 今天是2025年5月24日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/5/23)
+## 📰 今日资讯 (2025/5/24)
 
 ### 🔥 GitHub 热门项目
+- [microsoft / qlib](https://github.com/microsoft / qlib) - Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
 - [All-Hands-AI / OpenHands](https://github.com/All-Hands-AI / OpenHands) - 🙌 OpenHands: Code Less, Make More
-- [appwrite / appwrite](https://github.com/appwrite / appwrite) - The open-source Vercel alternative
-- [panaversity / learn-agentic-ai](https://github.com/panaversity / learn-agentic-ai) - Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.
+- [modelcontextprotocol / registry](https://github.com/modelcontextprotocol / registry) - A community driven registry service for Model Context Protocol (MCP) servers.
 
 ### 📚 技术文章精选
-- [AI自动化测试框架browser use 项目测试总结](https://blog.csdn.net/m0_56232078/article/details/145933624)
-- [AI大模型ms-swift框架实战指南（十一）：模型评测实战指南](https://blog.csdn.net/xiaobing259/article/details/147527383)
-- [AI 实战：手把手教你使用「扣子/coze」来搭建个人blog知识库（附教程）](https://blog.csdn.net/Y525698136/article/details/146198323)
+- [Grok AI上手体验：国内免费用+本地部署，程序员必看](https://blog.csdn.net/weixin_63301206/article/details/145795401)
+- [最新 AI 编程工具全面对比：v0、Bolt.new、Cursor、Windsurf](https://blog.csdn.net/qq_41865545/article/details/144347441)
+- [第十：如何在Pycharm中安装AI插件(Proxy AI)](https://blog.csdn.net/hyq413950612/article/details/147039970)
 
 ### 🛡️ 安全资讯
-- [别错过！OpenTenBase 城市行上海站 —— 数据库技术盛宴即将开启](https://cloud.tencent.com/developer/article/2523019)
-- [打字即出图！混元图像2.0让AI生图进入“零延迟”时](https://cloud.tencent.com/developer/article/2522856)
-- [腾讯云副总裁沙开波：坚定自研，打造公私同源的云服务](https://cloud.tencent.com/developer/article/2523020)
+- [关于vscode remote-ssh远程开发的常见问题](https://cloud.tencent.com/developer/article/2522862)
+- [集群存在read only表](https://cloud.tencent.com/developer/article/2523265)
+- [实操干货！MCP Server开发从0到1](https://cloud.tencent.com/developer/article/2523025)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
