@@ -36,16 +36,16 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │ ⭐ │
+│ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 25 │ 26 │ 27 │ 28 │ 29 │ 30 │ 31 │
+│ ⭐ │ 26 │ 27 │ 28 │ 29 │ 30 │ 31 │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年5月24日
+🌟 今天是2025年5月25日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,17 +111,17 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/5/24)
+## 📰 今日资讯 (2025/5/25)
 
 ### 🔥 GitHub 热门项目
+- [mindsdb / mindsdb](https://github.com/mindsdb / mindsdb) - AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
 - [microsoft / qlib](https://github.com/microsoft / qlib) - Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
-- [All-Hands-AI / OpenHands](https://github.com/All-Hands-AI / OpenHands) - 🙌 OpenHands: Code Less, Make More
-- [modelcontextprotocol / registry](https://github.com/modelcontextprotocol / registry) - A community driven registry service for Model Context Protocol (MCP) servers.
+- [anthropics / claude-code](https://github.com/anthropics / claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
 ### 📚 技术文章精选
-- [Grok AI上手体验：国内免费用+本地部署，程序员必看](https://blog.csdn.net/weixin_63301206/article/details/145795401)
-- [最新 AI 编程工具全面对比：v0、Bolt.new、Cursor、Windsurf](https://blog.csdn.net/qq_41865545/article/details/144347441)
-- [第十：如何在Pycharm中安装AI插件(Proxy AI)](https://blog.csdn.net/hyq413950612/article/details/147039970)
+- [LLM模型压缩技术：在边缘设备部署AI Agent](https://blog.csdn.net/2301_79832637/article/details/146781186)
+- [AI Agent新范式：FastGPT+MCP协议实现工具增强型智能体构建](https://blog.csdn.net/qq_40477248/article/details/147630838)
+- [机器学习算法——常规算法，在同的业务场景也需要使用不同的算法(二)](https://blog.csdn.net/2301_77628600/article/details/140756236)
 
 ### 🛡️ 安全资讯
 - [关于vscode remote-ssh远程开发的常见问题](https://cloud.tencent.com/developer/article/2522862)
@@ -132,5 +132,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
