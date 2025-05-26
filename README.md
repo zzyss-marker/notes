@@ -38,14 +38,14 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │ 26 │ 27 │ 28 │ 29 │ 30 │ 31 │
+│ 25 │ ⭐ │ 27 │ 28 │ 29 │ 30 │ 31 │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年5月25日
+🌟 今天是2025年5月26日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/5/25)
+## 📰 今日资讯 (2025/5/26)
 
 ### 🔥 GitHub 热门项目
+- [Fosowl / agenticSeek](https://github.com/Fosowl / agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
 - [mindsdb / mindsdb](https://github.com/mindsdb / mindsdb) - AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
 - [microsoft / qlib](https://github.com/microsoft / qlib) - Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
-- [anthropics / claude-code](https://github.com/anthropics / claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
 ### 📚 技术文章精选
-- [LLM模型压缩技术：在边缘设备部署AI Agent](https://blog.csdn.net/2301_79832637/article/details/146781186)
-- [AI Agent新范式：FastGPT+MCP协议实现工具增强型智能体构建](https://blog.csdn.net/qq_40477248/article/details/147630838)
-- [机器学习算法——常规算法，在同的业务场景也需要使用不同的算法(二)](https://blog.csdn.net/2301_77628600/article/details/140756236)
+- [VS Code 最佳AI代码提示插件全解析：释放编程效率的终极指南](https://blog.csdn.net/xcvmonkey/article/details/146500904)
+- [Cursor高效Java开发实战指南：从环境搭建到AI编码提效](https://blog.csdn.net/2301_78414177/article/details/147578815)
+- [基于腾讯云MCP广场的AI自动化实践：爬取小红书热门话题](https://blog.csdn.net/lwcwam/article/details/147805601)
 
 ### 🛡️ 安全资讯
-- [关于vscode remote-ssh远程开发的常见问题](https://cloud.tencent.com/developer/article/2522862)
-- [集群存在read only表](https://cloud.tencent.com/developer/article/2523265)
-- [实操干货！MCP Server开发从0到1](https://cloud.tencent.com/developer/article/2523025)
+- [Electron以慢著称，腾讯文档却能实现内存优化60%降幅？](https://cloud.tencent.com/developer/article/2523335)
+- [腾讯大模型战略全景亮相](https://cloud.tencent.com/developer/article/2523308)
+- [curl.exe做客户端以post方式告知python服务端消息的简单demo](https://cloud.tencent.com/developer/article/2523506)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
