@@ -38,14 +38,14 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 25 │ ⭐ │ 27 │ 28 │ 29 │ 30 │ 31 │
+│ 25 │ 26 │ ⭐ │ 28 │ 29 │ 30 │ 31 │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年5月26日
+🌟 今天是2025年5月27日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/5/26)
+## 📰 今日资讯 (2025/5/27)
 
 ### 🔥 GitHub 热门项目
 - [Fosowl / agenticSeek](https://github.com/Fosowl / agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
-- [mindsdb / mindsdb](https://github.com/mindsdb / mindsdb) - AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
+- [groupultra / telegram-search](https://github.com/groupultra / telegram-search) - 🔍 一个功能强大的 Telegram 聊天记录搜索客户端，支持聊天记录备份和向量搜索。
 - [microsoft / qlib](https://github.com/microsoft / qlib) - Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
 
 ### 📚 技术文章精选
-- [VS Code 最佳AI代码提示插件全解析：释放编程效率的终极指南](https://blog.csdn.net/xcvmonkey/article/details/146500904)
-- [Cursor高效Java开发实战指南：从环境搭建到AI编码提效](https://blog.csdn.net/2301_78414177/article/details/147578815)
-- [基于腾讯云MCP广场的AI自动化实践：爬取小红书热门话题](https://blog.csdn.net/lwcwam/article/details/147805601)
+- [AI助力高效PPT制作：从内容生成到设计优化](https://blog.csdn.net/weixin_42132035/article/details/147002366)
+- [【STM32开发笔记】移植AI框架TensorFlow到STM32单片机【上篇】](https://blog.csdn.net/xusiwei1236/article/details/142467410)
+- [基于Spring AI Alibaba + Spring Boot + Ollama搭建本地AI对话机器人API](https://blog.csdn.net/weixin_45793745/article/details/147540722)
 
 ### 🛡️ 安全资讯
-- [Electron以慢著称，腾讯文档却能实现内存优化60%降幅？](https://cloud.tencent.com/developer/article/2523335)
-- [腾讯大模型战略全景亮相](https://cloud.tencent.com/developer/article/2523308)
 - [curl.exe做客户端以post方式告知python服务端消息的简单demo](https://cloud.tencent.com/developer/article/2523506)
+- [三角函数基础](https://cloud.tencent.com/developer/article/2523620)
+- [当 AI 浪潮席卷企业，你准备好了吗？文末扫码预约直播](https://cloud.tencent.com/developer/article/2523544)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
