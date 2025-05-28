@@ -38,14 +38,14 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 25 │ 26 │ ⭐ │ 28 │ 29 │ 30 │ 31 │
+│ 25 │ 26 │ 27 │ ⭐ │ 29 │ 30 │ 31 │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年5月27日
+🌟 今天是2025年5月28日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/5/27)
+## 📰 今日资讯 (2025/5/28)
 
 ### 🔥 GitHub 热门项目
 - [Fosowl / agenticSeek](https://github.com/Fosowl / agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
-- [groupultra / telegram-search](https://github.com/groupultra / telegram-search) - 🔍 一个功能强大的 Telegram 聊天记录搜索客户端，支持聊天记录备份和向量搜索。
+- [ossu / computer-science](https://github.com/ossu / computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [microsoft / qlib](https://github.com/microsoft / qlib) - Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
 
 ### 📚 技术文章精选
-- [AI助力高效PPT制作：从内容生成到设计优化](https://blog.csdn.net/weixin_42132035/article/details/147002366)
-- [【STM32开发笔记】移植AI框架TensorFlow到STM32单片机【上篇】](https://blog.csdn.net/xusiwei1236/article/details/142467410)
-- [基于Spring AI Alibaba + Spring Boot + Ollama搭建本地AI对话机器人API](https://blog.csdn.net/weixin_45793745/article/details/147540722)
+- [【大模型】Transformers库单机多卡推理之device_map](https://blog.csdn.net/u012856866/article/details/140498484)
+- [ESP32 小智 AI 机器人入门教程从原理到实现（自己云端部署）](https://blog.csdn.net/h050210/article/details/146120433)
+- [优云智算赋能国产AI：DeepSeek配合通义万相2.1文生视频模型生成高质量视频](https://blog.csdn.net/g310773517/article/details/146165068)
 
 ### 🛡️ 安全资讯
-- [curl.exe做客户端以post方式告知python服务端消息的简单demo](https://cloud.tencent.com/developer/article/2523506)
-- [三角函数基础](https://cloud.tencent.com/developer/article/2523620)
-- [当 AI 浪潮席卷企业，你准备好了吗？文末扫码预约直播](https://cloud.tencent.com/developer/article/2523544)
+- [用AI驱动营销链路全面升级，腾讯企点营销云智能体正式发布！](https://cloud.tencent.com/developer/article/2523847)
+- [基于 sympy 进行极限计算](https://cloud.tencent.com/developer/article/2524014)
+- [Windows机器扩容非相邻磁盘分区](https://cloud.tencent.com/developer/article/2524042)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
