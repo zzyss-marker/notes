@@ -38,14 +38,14 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 25 │ 26 │ 27 │ ⭐ │ 29 │ 30 │ 31 │
+│ 25 │ 26 │ 27 │ 28 │ ⭐ │ 30 │ 31 │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年5月28日
+🌟 今天是2025年5月29日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/5/28)
+## 📰 今日资讯 (2025/5/29)
 
 ### 🔥 GitHub 热门项目
 - [Fosowl / agenticSeek](https://github.com/Fosowl / agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
+- [duixcom / Duix.mobile](https://github.com/duixcom / Duix.mobile) - 
 - [ossu / computer-science](https://github.com/ossu / computer-science) - 🎓 Path to a free self-taught education in Computer Science!
-- [microsoft / qlib](https://github.com/microsoft / qlib) - Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
 
 ### 📚 技术文章精选
-- [【大模型】Transformers库单机多卡推理之device_map](https://blog.csdn.net/u012856866/article/details/140498484)
-- [ESP32 小智 AI 机器人入门教程从原理到实现（自己云端部署）](https://blog.csdn.net/h050210/article/details/146120433)
-- [优云智算赋能国产AI：DeepSeek配合通义万相2.1文生视频模型生成高质量视频](https://blog.csdn.net/g310773517/article/details/146165068)
+- [AI知识梳理——RAG、Agent、ReAct、LangChain、LangGraph、MCP、Function Calling、JSON-RPC](https://blog.csdn.net/m0_55049655/article/details/148032686)
+- [MCP - 使用 BlenderMCP 让 Claude AI 控制你的 Blender 模型创作](https://blog.csdn.net/fenglingguitar/article/details/146746000)
+- [为什么你必须降AI？——写给每一位学生与科研人](https://blog.csdn.net/weixin_46211269/article/details/148051689)
 
 ### 🛡️ 安全资讯
-- [用AI驱动营销链路全面升级，腾讯企点营销云智能体正式发布！](https://cloud.tencent.com/developer/article/2523847)
-- [基于 sympy 进行极限计算](https://cloud.tencent.com/developer/article/2524014)
-- [Windows机器扩容非相邻磁盘分区](https://cloud.tencent.com/developer/article/2524042)
+- [腾讯五大协同办公产品AI升级：从单点提效迈向全流程智能](https://cloud.tencent.com/developer/article/2524521)
+- [从效率革命到技术觉醒-解锁 AI 编程的未来密码 | TVP 技术夜未眠](https://cloud.tencent.com/developer/article/2524797)
+- [大模型巨浪的下一个方向：AI Ascent 2025的十个启示](https://cloud.tencent.com/developer/article/2524812)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
