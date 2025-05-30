@@ -38,14 +38,14 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 25 │ 26 │ 27 │ 28 │ ⭐ │ 30 │ 31 │
+│ 25 │ 26 │ 27 │ 28 │ 29 │ ⭐ │ 31 │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年5月29日
+🌟 今天是2025年5月30日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/5/29)
+## 📰 今日资讯 (2025/5/30)
 
 ### 🔥 GitHub 热门项目
 - [Fosowl / agenticSeek](https://github.com/Fosowl / agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
-- [duixcom / Duix.mobile](https://github.com/duixcom / Duix.mobile) - 
-- [ossu / computer-science](https://github.com/ossu / computer-science) - 🎓 Path to a free self-taught education in Computer Science!
+- [WhiskeySockets / Baileys](https://github.com/WhiskeySockets / Baileys) - Lightweight full-featured typescript/javascript WhatsApp Web API
+- [vuejs / core](https://github.com/vuejs / core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 
 ### 📚 技术文章精选
-- [AI知识梳理——RAG、Agent、ReAct、LangChain、LangGraph、MCP、Function Calling、JSON-RPC](https://blog.csdn.net/m0_55049655/article/details/148032686)
-- [MCP - 使用 BlenderMCP 让 Claude AI 控制你的 Blender 模型创作](https://blog.csdn.net/fenglingguitar/article/details/146746000)
-- [为什么你必须降AI？——写给每一位学生与科研人](https://blog.csdn.net/weixin_46211269/article/details/148051689)
+- [2024年博客之星主题创作｜猫头虎分享AI技术洞察：2025年AI发展趋势前瞻与展望](https://blog.csdn.net/qq_44866828/article/details/145250503)
+- [生成式人工智能的未来之路：对话系统与自主代理的交汇与展望](https://blog.csdn.net/Srlua/article/details/140611304)
+- [AI 平台技术架构设计方案](https://blog.csdn.net/hbwzhsh/article/details/145245909)
 
 ### 🛡️ 安全资讯
-- [腾讯五大协同办公产品AI升级：从单点提效迈向全流程智能](https://cloud.tencent.com/developer/article/2524521)
-- [从效率革命到技术觉醒-解锁 AI 编程的未来密码 | TVP 技术夜未眠](https://cloud.tencent.com/developer/article/2524797)
-- [大模型巨浪的下一个方向：AI Ascent 2025的十个启示](https://cloud.tencent.com/developer/article/2524812)
+- [ICDE2025论文解读丨如何解决数据库隔离性检测效率低难题？](https://cloud.tencent.com/developer/article/2525127)
+- [想让DeepSeek帮你分析反馈？小程序“AI反馈”免费使用，点我开通！](https://cloud.tencent.com/developer/article/2525129)
+- [2025腾讯云AI峰会：协同办公专场亮点回顾](https://cloud.tencent.com/developer/article/2525128)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
