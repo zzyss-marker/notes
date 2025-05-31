@@ -38,14 +38,14 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 25 │ 26 │ 27 │ 28 │ 29 │ ⭐ │ 31 │
+│ 25 │ 26 │ 27 │ 28 │ 29 │ 30 │ ⭐ │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年5月30日
+🌟 今天是2025年5月31日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/5/30)
+## 📰 今日资讯 (2025/5/31)
 
 ### 🔥 GitHub 热门项目
-- [Fosowl / agenticSeek](https://github.com/Fosowl / agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
-- [WhiskeySockets / Baileys](https://github.com/WhiskeySockets / Baileys) - Lightweight full-featured typescript/javascript WhatsApp Web API
-- [vuejs / core](https://github.com/vuejs / core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [anthropics / prompt-eng-interactive-tutorial](https://github.com/anthropics / prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
+- [microsoft / ai-agents-for-beginners](https://github.com/microsoft / ai-agents-for-beginners) - 11 Lessons to Get Started Building AI Agents
+- [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray / the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 ### 📚 技术文章精选
-- [2024年博客之星主题创作｜猫头虎分享AI技术洞察：2025年AI发展趋势前瞻与展望](https://blog.csdn.net/qq_44866828/article/details/145250503)
-- [生成式人工智能的未来之路：对话系统与自主代理的交汇与展望](https://blog.csdn.net/Srlua/article/details/140611304)
-- [AI 平台技术架构设计方案](https://blog.csdn.net/hbwzhsh/article/details/145245909)
+- [Genspark：重新定义搜索体验的AI智能体引擎](https://blog.csdn.net/YuKeeHgg/article/details/146984681)
+- [使用 Spring AI OpenAI Starter 快速集成指南](https://blog.csdn.net/baidu_34422713/article/details/146470180)
+- [AI Infra | VeRL 框架入门&代码带读](https://blog.csdn.net/qq_27590277/article/details/146056820)
 
 ### 🛡️ 安全资讯
-- [ICDE2025论文解读丨如何解决数据库隔离性检测效率低难题？](https://cloud.tencent.com/developer/article/2525127)
-- [想让DeepSeek帮你分析反馈？小程序“AI反馈”免费使用，点我开通！](https://cloud.tencent.com/developer/article/2525129)
-- [2025腾讯云AI峰会：协同办公专场亮点回顾](https://cloud.tencent.com/developer/article/2525128)
+- [AI赋能引爆短剧全球化风潮，腾讯云媒体处理助力短剧平台出海吸金](https://cloud.tencent.com/developer/article/2525345)
+- [每个企业都能轻松用好的AI助手，它来了](https://cloud.tencent.com/developer/article/2525460)
+- [​Qt QTreeView 使用方法详解](https://cloud.tencent.com/developer/article/2525475)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
