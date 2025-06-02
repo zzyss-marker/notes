@@ -30,7 +30,7 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │  2 │  3 │  4 │  5 │  6 │  7 │
+│  1 │ ⭐ │  3 │  4 │  5 │  6 │  7 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年6月1日
+🌟 今天是2025年6月2日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/6/1)
+## 📰 今日资讯 (2025/6/2)
 
 ### 🔥 GitHub 热门项目
 - [anthropics / prompt-eng-interactive-tutorial](https://github.com/anthropics / prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
-- [onlook-dev / onlook](https://github.com/onlook-dev / onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
-- [aaPanel / BillionMail](https://github.com/aaPanel / BillionMail) - BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV
+- [anthropics / courses](https://github.com/anthropics / courses) - Anthropic's educational courses
+- [frdel / agent-zero](https://github.com/frdel / agent-zero) - Agent Zero AI framework
 
 ### 📚 技术文章精选
-- [云端微光，AI启航：低代码开发的智造未来](https://blog.csdn.net/2301_79849925/article/details/143954781)
-- [探索神经符号系统：医疗AI的范式化进程分析](https://blog.csdn.net/kkiron/article/details/147711191)
-- [从0到1：让AI赋能计算机的全流程实践指南](https://blog.csdn.net/user340/article/details/147285688)
+- [Windsurf 下载和调试（超越cursor的免费的 AI IDE）](https://blog.csdn.net/calvin189s/article/details/146425040)
+- [Trae 宝藏功能实测：从 Mcp 搭建天气系统，到 AI 重塑 Excel 数据处理](https://blog.csdn.net/2301_80863610/article/details/147530912)
+- [10个AI网站生成神器，还没等咖啡凉透，网站就搭好了！](https://blog.csdn.net/qq449245884/article/details/147358737)
 
 ### 🛡️ 安全资讯
-- [如何在网络带宽和设备性能有限的环境下实现流畅直播，减少卡顿、提升清晰度](https://cloud.tencent.com/developer/article/2525501)
 - [理解并解决高丢包率问题，构建清晰流畅的实时音视频通话](https://cloud.tencent.com/developer/article/2525498)
+- [基于 sympy 的代数运算入门](https://cloud.tencent.com/developer/article/2525720)
 - [前端开发](https://cloud.tencent.com/developer/article/2525785)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
