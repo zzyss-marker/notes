@@ -30,7 +30,7 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  1 │ ⭐ │  3 │  4 │  5 │  6 │  7 │
+│  1 │  2 │ ⭐ │  4 │  5 │  6 │  7 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年6月2日
+🌟 今天是2025年6月3日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/6/2)
+## 📰 今日资讯 (2025/6/3)
 
 ### 🔥 GitHub 热门项目
+- [onlook-dev / onlook](https://github.com/onlook-dev / onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
+- [donnemartin / system-design-primer](https://github.com/donnemartin / system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 - [anthropics / prompt-eng-interactive-tutorial](https://github.com/anthropics / prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
-- [anthropics / courses](https://github.com/anthropics / courses) - Anthropic's educational courses
-- [frdel / agent-zero](https://github.com/frdel / agent-zero) - Agent Zero AI framework
 
 ### 📚 技术文章精选
-- [Windsurf 下载和调试（超越cursor的免费的 AI IDE）](https://blog.csdn.net/calvin189s/article/details/146425040)
-- [Trae 宝藏功能实测：从 Mcp 搭建天气系统，到 AI 重塑 Excel 数据处理](https://blog.csdn.net/2301_80863610/article/details/147530912)
-- [10个AI网站生成神器，还没等咖啡凉透，网站就搭好了！](https://blog.csdn.net/qq449245884/article/details/147358737)
+- [使用droidrun库实现AI控制安卓手机](https://blog.csdn.net/hejiahao_/article/details/147335680)
+- [多智体具身人工智能：进展与未来方向（上）](https://blog.csdn.net/yorkhunter/article/details/147872059)
+- [VSCode结合GitHub Copilot：高效自动编程的AI工具](https://blog.csdn.net/babyai996/article/details/147238499)
 
 ### 🛡️ 安全资讯
-- [理解并解决高丢包率问题，构建清晰流畅的实时音视频通话](https://cloud.tencent.com/developer/article/2525498)
-- [基于 sympy 的代数运算入门](https://cloud.tencent.com/developer/article/2525720)
 - [前端开发](https://cloud.tencent.com/developer/article/2525785)
+- [胡泳：超级能动性——如何将人类潜能提升到新高度](https://cloud.tencent.com/developer/article/2525819)
+- [全面解析鸿蒙相关概念：鸿蒙、开源鸿蒙、鸿蒙 Next 有何区别](https://cloud.tencent.com/developer/article/2525828)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
