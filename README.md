@@ -30,7 +30,7 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  1 │  2 │ ⭐ │  4 │  5 │  6 │  7 │
+│  1 │  2 │  3 │ ⭐ │  5 │  6 │  7 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年6月3日
+🌟 今天是2025年6月4日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/6/3)
+## 📰 今日资讯 (2025/6/4)
 
 ### 🔥 GitHub 热门项目
 - [onlook-dev / onlook](https://github.com/onlook-dev / onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
-- [donnemartin / system-design-primer](https://github.com/donnemartin / system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-- [anthropics / prompt-eng-interactive-tutorial](https://github.com/anthropics / prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
+- [nautechsystems / nautilus_trader](https://github.com/nautechsystems / nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
+- [frdel / agent-zero](https://github.com/frdel / agent-zero) - Agent Zero AI framework
 
 ### 📚 技术文章精选
-- [使用droidrun库实现AI控制安卓手机](https://blog.csdn.net/hejiahao_/article/details/147335680)
-- [多智体具身人工智能：进展与未来方向（上）](https://blog.csdn.net/yorkhunter/article/details/147872059)
-- [VSCode结合GitHub Copilot：高效自动编程的AI工具](https://blog.csdn.net/babyai996/article/details/147238499)
+- [【2025版】最详细的人工智能学习路线梳理，从零基础到精通，精通收藏这篇就够了！](https://blog.csdn.net/Libra1313/article/details/145847452)
+- [人工智能演讲PPT：普及这一篇就够了](https://blog.csdn.net/gitblog_06628/article/details/142556667)
+- [Windows电脑安装IOPaint超炫AI修图神器与随时随地远程处理照片](https://blog.csdn.net/weixin_44976692/article/details/145187302)
 
 ### 🛡️ 安全资讯
-- [前端开发](https://cloud.tencent.com/developer/article/2525785)
-- [胡泳：超级能动性——如何将人类潜能提升到新高度](https://cloud.tencent.com/developer/article/2525819)
-- [全面解析鸿蒙相关概念：鸿蒙、开源鸿蒙、鸿蒙 Next 有何区别](https://cloud.tencent.com/developer/article/2525828)
+- [Kibana 访问异常问题 security Privileges are missing](https://cloud.tencent.com/developer/article/2526552)
+- [1天400万次访问！我的网站又被盗刷了](https://cloud.tencent.com/developer/article/2526822)
+- [面试题：在spring框架下面，Bean的属性lazy-init有什么作用，默认值是多少](https://cloud.tencent.com/developer/article/2527151)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
