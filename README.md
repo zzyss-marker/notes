@@ -30,7 +30,7 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  1 │  2 │  3 │  4 │ ⭐ │  6 │  7 │
+│  1 │  2 │  3 │  4 │  5 │ ⭐ │  7 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年6月5日
+🌟 今天是2025年6月6日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/6/5)
+## 📰 今日资讯 (2025/6/6)
 
 ### 🔥 GitHub 热门项目
-- [onlook-dev / onlook](https://github.com/onlook-dev / onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
-- [gitroomhq / postiz-app](https://github.com/gitroomhq / postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
+- [frdel / agent-zero](https://github.com/frdel / agent-zero) - Agent Zero AI framework
 - [nautechsystems / nautilus_trader](https://github.com/nautechsystems / nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
+- [scrapy / scrapy](https://github.com/scrapy / scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 
 ### 📚 技术文章精选
-- [使用 Spring AI OpenAI Starter 快速集成指南](https://blog.csdn.net/baidu_34422713/article/details/146470180)
-- [2025年中国AI大模型综合排名及分析](https://blog.csdn.net/qq_52497256/article/details/145584711)
-- [基于Spring AI 搭建MCP服务，保姆级教程来了！](https://blog.csdn.net/static_coder/article/details/147732655)
+- [巧用AI大模型轻松学会Python金融数据分析：从入门到实战](https://blog.csdn.net/qq_44273429/article/details/147786478)
+- [适合小白的本地部署AI教程（不仅仅DeepSeek）](https://blog.csdn.net/zouyh/article/details/145428640)
+- [论文查重率太高？5款AI降重工具助你轻松过关](https://blog.csdn.net/chataigc/article/details/142492801)
 
 ### 🛡️ 安全资讯
-- [以单变量函数为例进行导数定义的验证与计算](https://cloud.tencent.com/developer/article/2527626)
-- [三角函数的导数与极限总结](https://cloud.tencent.com/developer/article/2527745)
-- [ChaCha20-Poly1305 算法介绍](https://cloud.tencent.com/developer/article/2528025)
+- [腾讯司晓：大模型时代，内容产业智变新浪潮](https://cloud.tencent.com/developer/article/2528060)
+- [存在写分布式表数量超10张](https://cloud.tencent.com/developer/article/2528147)
+- [存在Replication queue任务延迟超10min的表](https://cloud.tencent.com/developer/article/2528162)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
