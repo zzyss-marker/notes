@@ -30,7 +30,7 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  1 │  2 │  3 │  4 │  5 │ ⭐ │  7 │
+│  1 │  2 │  3 │  4 │  5 │  6 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年6月6日
+🌟 今天是2025年6月7日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/6/6)
+## 📰 今日资讯 (2025/6/7)
 
 ### 🔥 GitHub 热门项目
-- [frdel / agent-zero](https://github.com/frdel / agent-zero) - Agent Zero AI framework
-- [nautechsystems / nautilus_trader](https://github.com/nautechsystems / nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
-- [scrapy / scrapy](https://github.com/scrapy / scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
+- [netbirdio / netbird](https://github.com/netbirdio / netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+- [lastmile-ai / mcp-agent](https://github.com/lastmile-ai / mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
+- [topoteretes / cognee](https://github.com/topoteretes / cognee) - Memory for AI Agents in 5 lines of code
 
 ### 📚 技术文章精选
-- [巧用AI大模型轻松学会Python金融数据分析：从入门到实战](https://blog.csdn.net/qq_44273429/article/details/147786478)
-- [适合小白的本地部署AI教程（不仅仅DeepSeek）](https://blog.csdn.net/zouyh/article/details/145428640)
-- [论文查重率太高？5款AI降重工具助你轻松过关](https://blog.csdn.net/chataigc/article/details/142492801)
+- [手把手教你用Deepseek打造会聊天的桌宠！AI语音互动全流程拆解【爱莉希雅向】](https://blog.csdn.net/X2222212/article/details/145569508)
+- [深入解析AI音乐创作原理：从算法到艺术](https://blog.csdn.net/weixin_42132035/article/details/146197068)
+- [字节跳动开源DeerFlow，解锁AI研究新姿势](https://blog.csdn.net/weixin_42348125/article/details/147905007)
 
 ### 🛡️ 安全资讯
-- [腾讯司晓：大模型时代，内容产业智变新浪潮](https://cloud.tencent.com/developer/article/2528060)
-- [存在写分布式表数量超10张](https://cloud.tencent.com/developer/article/2528147)
-- [存在Replication queue任务延迟超10min的表](https://cloud.tencent.com/developer/article/2528162)
+- [存在超10min的mutations](https://cloud.tencent.com/developer/article/2528181)
+- [记一次Win11系统优化过程](https://cloud.tencent.com/developer/article/2528111)
+- [全球AI原生企业：基本格局、生态特点与核心策略](https://cloud.tencent.com/developer/article/2528205)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
