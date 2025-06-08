@@ -30,9 +30,9 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  1 │  2 │  3 │  4 │  5 │  6 │ ⭐ │
+│  1 │  2 │  3 │  4 │  5 │  6 │  7 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
+│ ⭐ │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年6月7日
+🌟 今天是2025年6月8日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,17 +111,17 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/6/7)
+## 📰 今日资讯 (2025/6/8)
 
 ### 🔥 GitHub 热门项目
-- [netbirdio / netbird](https://github.com/netbirdio / netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
-- [lastmile-ai / mcp-agent](https://github.com/lastmile-ai / mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [topoteretes / cognee](https://github.com/topoteretes / cognee) - Memory for AI Agents in 5 lines of code
+- [netbirdio / netbird](https://github.com/netbirdio / netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+- [codexu / note-gen](https://github.com/codexu / note-gen) - A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
 
 ### 📚 技术文章精选
-- [手把手教你用Deepseek打造会聊天的桌宠！AI语音互动全流程拆解【爱莉希雅向】](https://blog.csdn.net/X2222212/article/details/145569508)
-- [深入解析AI音乐创作原理：从算法到艺术](https://blog.csdn.net/weixin_42132035/article/details/146197068)
-- [字节跳动开源DeerFlow，解锁AI研究新姿势](https://blog.csdn.net/weixin_42348125/article/details/147905007)
+- [AI大模型太多，傻傻分不清？一文整理国内外主流大模型](https://blog.csdn.net/EnjoyEDU/article/details/146823145)
+- [联邦学习架构深度分析：支持多家医院协作训练AI模型方案分析](https://blog.csdn.net/kkiron/article/details/148439406)
+- [办公创作好帮助手：海鹦Office AI](https://blog.csdn.net/weixin_40078683/article/details/147784067)
 
 ### 🛡️ 安全资讯
 - [存在超10min的mutations](https://cloud.tencent.com/developer/article/2528181)
@@ -132,5 +132,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
