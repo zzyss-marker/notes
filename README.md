@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  1 │  2 │  3 │  4 │  5 │  6 │  7 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
+│  8 │ ⭐ │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年6月8日
+🌟 今天是2025年6月9日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/6/8)
+## 📰 今日资讯 (2025/6/9)
 
 ### 🔥 GitHub 热门项目
-- [topoteretes / cognee](https://github.com/topoteretes / cognee) - Memory for AI Agents in 5 lines of code
-- [netbirdio / netbird](https://github.com/netbirdio / netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+- [tensorzero / tensorzero](https://github.com/tensorzero / tensorzero) - TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
 - [codexu / note-gen](https://github.com/codexu / note-gen) - A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
+- [langgenius / dify](https://github.com/langgenius / dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
 
 ### 📚 技术文章精选
-- [AI大模型太多，傻傻分不清？一文整理国内外主流大模型](https://blog.csdn.net/EnjoyEDU/article/details/146823145)
-- [联邦学习架构深度分析：支持多家医院协作训练AI模型方案分析](https://blog.csdn.net/kkiron/article/details/148439406)
-- [办公创作好帮助手：海鹦Office AI](https://blog.csdn.net/weixin_40078683/article/details/147784067)
+- [Burp Suite + AI 究竟有多强？最新插件Hackvertor的使用技巧](https://blog.csdn.net/weixin_43847838/article/details/146186648)
+- [零门槛AI视频生成技术解析：多模态模型应用实践及实操案例](https://blog.csdn.net/weiX_houge7885/article/details/147271366)
+- [开源免费！AI视频分析神器，智能识别画面，1秒提取关键帧！附详细教程](https://blog.csdn.net/2301_78677192/article/details/147051988)
 
 ### 🛡️ 安全资讯
-- [存在超10min的mutations](https://cloud.tencent.com/developer/article/2528181)
-- [记一次Win11系统优化过程](https://cloud.tencent.com/developer/article/2528111)
-- [全球AI原生企业：基本格局、生态特点与核心策略](https://cloud.tencent.com/developer/article/2528205)
+- [Java与Golang语法核心区别](https://cloud.tencent.com/developer/article/2528399)
+- [功能设计-如何设计一个回调功能](https://cloud.tencent.com/developer/article/2528427)
+- [MCP、传统API与函数调用的解析](https://cloud.tencent.com/developer/article/2528434)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
