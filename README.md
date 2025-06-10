@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  1 │  2 │  3 │  4 │  5 │  6 │  7 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  8 │ ⭐ │ 10 │ 11 │ 12 │ 13 │ 14 │
+│  8 │  9 │ ⭐ │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年6月9日
+🌟 今天是2025年6月10日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/6/9)
+## 📰 今日资讯 (2025/6/10)
 
 ### 🔥 GitHub 热门项目
+- [alphacep / vosk-api](https://github.com/alphacep / vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 - [tensorzero / tensorzero](https://github.com/tensorzero / tensorzero) - TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
-- [codexu / note-gen](https://github.com/codexu / note-gen) - A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
-- [langgenius / dify](https://github.com/langgenius / dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+- [XTLS / Xray-core](https://github.com/XTLS / Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
 
 ### 📚 技术文章精选
-- [Burp Suite + AI 究竟有多强？最新插件Hackvertor的使用技巧](https://blog.csdn.net/weixin_43847838/article/details/146186648)
-- [零门槛AI视频生成技术解析：多模态模型应用实践及实操案例](https://blog.csdn.net/weiX_houge7885/article/details/147271366)
-- [开源免费！AI视频分析神器，智能识别画面，1秒提取关键帧！附详细教程](https://blog.csdn.net/2301_78677192/article/details/147051988)
+- [利用ai工具快速创建数据库er关系图](https://blog.csdn.net/hengwei1/article/details/146968435)
+- [【传感器多模态融合与AI驱动】](https://blog.csdn.net/weixin_62244995/article/details/147900686)
+- [3天狂揽2.8k星！manus 开源替代又又又又又又又来啦！ 逆天AI助理Suna开源！免费替你搞定一切，效率飙升！](https://blog.csdn.net/2401_85375151/article/details/147520581)
 
 ### 🛡️ 安全资讯
-- [Java与Golang语法核心区别](https://cloud.tencent.com/developer/article/2528399)
-- [功能设计-如何设计一个回调功能](https://cloud.tencent.com/developer/article/2528427)
-- [MCP、传统API与函数调用的解析](https://cloud.tencent.com/developer/article/2528434)
+- [TKE 助力 Agent 可观测及评估体系建设，靠谱助手轻松养成！](https://cloud.tencent.com/developer/article/2529700)
+- [腾讯专有云智算套件，助力普惠大模型落地](https://cloud.tencent.com/developer/article/2529704)
+- [云顾问 × ES：助力“顶流客户”平稳度过618](https://cloud.tencent.com/developer/article/2529709)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
