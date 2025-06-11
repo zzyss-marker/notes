@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  1 │  2 │  3 │  4 │  5 │  6 │  7 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  8 │  9 │ ⭐ │ 11 │ 12 │ 13 │ 14 │
+│  8 │  9 │ 10 │ ⭐ │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年6月10日
+🌟 今天是2025年6月11日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/6/10)
+## 📰 今日资讯 (2025/6/11)
 
 ### 🔥 GitHub 热门项目
-- [alphacep / vosk-api](https://github.com/alphacep / vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
+- [jwohlwend / boltz](https://github.com/jwohlwend / boltz) - Official repository for the Boltz biomolecular interaction models
 - [tensorzero / tensorzero](https://github.com/tensorzero / tensorzero) - TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
-- [XTLS / Xray-core](https://github.com/XTLS / Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
+- [alphacep / vosk-api](https://github.com/alphacep / vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 
 ### 📚 技术文章精选
-- [利用ai工具快速创建数据库er关系图](https://blog.csdn.net/hengwei1/article/details/146968435)
-- [【传感器多模态融合与AI驱动】](https://blog.csdn.net/weixin_62244995/article/details/147900686)
-- [3天狂揽2.8k星！manus 开源替代又又又又又又又来啦！ 逆天AI助理Suna开源！免费替你搞定一切，效率飙升！](https://blog.csdn.net/2401_85375151/article/details/147520581)
+- [【人工智能】手把手教你安装CUDA：从版本确认到安装完成](https://blog.csdn.net/u013589130/article/details/147295634)
+- [AI大模型接入小米音箱：一篇文章教你无需代码基础也能完成](https://blog.csdn.net/m0_65555479/article/details/145215344)
+- [GPUSEEK算力平台热门AI大模型：API详细调用教程](https://blog.csdn.net/weixin_43151418/article/details/147847144)
 
 ### 🛡️ 安全资讯
-- [TKE 助力 Agent 可观测及评估体系建设，靠谱助手轻松养成！](https://cloud.tencent.com/developer/article/2529700)
-- [腾讯专有云智算套件，助力普惠大模型落地](https://cloud.tencent.com/developer/article/2529704)
-- [云顾问 × ES：助力“顶流客户”平稳度过618](https://cloud.tencent.com/developer/article/2529709)
+- [吹过头了](https://cloud.tencent.com/developer/article/2529724)
+- [腾讯云架构师技术沙龙 · 长沙站圆满落幕，共话AI驱动下的技术架构与前沿应用](https://cloud.tencent.com/developer/article/2529720)
+- [腾讯健康药箱上新：微信扫一扫，杜绝「二手药」](https://cloud.tencent.com/developer/article/2529791)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
