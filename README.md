@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  1 │  2 │  3 │  4 │  5 │  6 │  7 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  8 │  9 │ 10 │ 11 │ ⭐ │ 13 │ 14 │
+│  8 │  9 │ 10 │ 11 │ 12 │ ⭐ │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年6月12日
+🌟 今天是2025年6月13日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/6/12)
+## 📰 今日资讯 (2025/6/13)
 
 ### 🔥 GitHub 热门项目
-- [sindresorhus / awesome](https://github.com/sindresorhus / awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo / awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-- [alphacep / vosk-api](https://github.com/alphacep / vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
+- [sindresorhus / awesome](https://github.com/sindresorhus / awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [xiangechen / chili3d](https://github.com/xiangechen / chili3d) - A web-based 3D CAD application for online model design and editing
 
 ### 📚 技术文章精选
-- [2025年全球人工智能AI信任、态度与应用研究报告530+份汇总解读|附PDF下载](https://blog.csdn.net/qq_19600291/article/details/147978056)
-- [好投不拒稿！人工智能1-4区SCI大盘点，安全非预警，直接闭眼冲](https://blog.csdn.net/zkyf2022/article/details/144876011)
-- [AI大模型学习二十二、DifyV1.4.0安装并解决无法添加Ollama模型的问题，创建Agent应用和chatflow应用两种方法 通过MCP 插件接入高德地图MCP Server](https://blog.csdn.net/jiangkp/article/details/147933924)
+- [【证书】2025上海市人工智能训练师—高级/三级考试介绍与复习（SJTU版）](https://blog.csdn.net/qq_33957603/article/details/148212060)
+- [Trae 是一款由 AI 驱动的 IDE，让编程更加愉悦和高效。国际版集成了 GPT-4 和 Claude 3.5，国内版集成了DeepSeek-r1](https://blog.csdn.net/skywalk8163/article/details/146009760)
+- [多台Macmini利用EXO搭建分布式AI集群提高deepseek -r1:14b推理能力方案分享（实测可用）](https://blog.csdn.net/buvuvib66/article/details/146114658)
 
 ### 🛡️ 安全资讯
-- [一个简单的指数函数极限问题竟要动用两大 AI 共同分析？看两大 AI 在数学问题上各显神通](https://cloud.tencent.com/developer/article/2529919)
-- [腾讯 BiFang——业界首个生产级湖流一体解决方案](https://cloud.tencent.com/developer/article/2530094)
-- [Windows系统如何查询为硬件保留的内存](https://cloud.tencent.com/developer/article/2530072)
+- [腾讯×广发证券：下一个七年更加「AI」](https://cloud.tencent.com/developer/article/2530316)
+- [图灵奖得主Richard S. Sutton：AI受困于人类数据](https://cloud.tencent.com/developer/article/2530317)
+- [腾讯Kona JDK获得中国软件评测中心权威认证](https://cloud.tencent.com/developer/article/2530418)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
