@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
+│ 15 │ ⭐ │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年6月15日
+🌟 今天是2025年6月16日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/6/15)
+## 📰 今日资讯 (2025/6/16)
 
 ### 🔥 GitHub 热门项目
-- [Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo / awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [sindresorhus / awesome](https://github.com/sindresorhus / awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [xiangechen / chili3d](https://github.com/xiangechen / chili3d) - A web-based 3D CAD application for online model design and editing
+- [datawhalechina / self-llm](https://github.com/datawhalechina / self-llm) - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
 
 ### 📚 技术文章精选
-- [一分钟上手AI神器——Kimi (附_ 官方提示词)](https://blog.csdn.net/zpj779878443/article/details/139089787)
-- [AI代码助手行业深潜，看文心快码如何重塑企业开发](https://blog.csdn.net/FengKukejizixun/article/details/148084557)
-- [本地多卡(3090)部署通义千问Qwen-72B大模型提速实践：从龟速到够用](https://blog.csdn.net/weixin_44652758/article/details/140245282)
+- [【结肠息肉AI论文集】Polyper:BoundarySensitivePolypSegmentation](https://blog.csdn.net/weixin_43571113/article/details/145591474)
+- [智能穿戴平台与医疗AI融合发展路径研究](https://blog.csdn.net/kkiron/article/details/148653500)
+- [AI Hedge Fund，智能体投资策略模拟平台的安装与使用指南](https://blog.csdn.net/igwork/article/details/147263935)
 
 ### 🛡️ 安全资讯
-- [sql中left join、right join、inner join区别](https://cloud.tencent.com/developer/article/2530461)
-- [OC 城市行・广州站报名火热开启！云原生与 AI 驱动的技术盛宴等你解锁](https://cloud.tencent.com/developer/article/2530421)
-- [微分基础总结](https://cloud.tencent.com/developer/article/2530435)
+- [3个趋势，看AI到底是怎么重构广告行业的？](https://cloud.tencent.com/developer/article/2530740)
+- [中国专利金奖，拿下！](https://cloud.tencent.com/developer/article/2530737)
+- [MCP广场隐私政策](https://cloud.tencent.com/developer/article/2530896)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
