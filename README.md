@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 15 │ ⭐ │ 17 │ 18 │ 19 │ 20 │ 21 │
+│ 15 │ 16 │ ⭐ │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年6月16日
+🌟 今天是2025年6月17日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/6/16)
+## 📰 今日资讯 (2025/6/17)
 
 ### 🔥 GitHub 热门项目
-- [sindresorhus / awesome](https://github.com/sindresorhus / awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [xiangechen / chili3d](https://github.com/xiangechen / chili3d) - A web-based 3D CAD application for online model design and editing
-- [datawhalechina / self-llm](https://github.com/datawhalechina / self-llm) - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
+- [microsoft / fluentui-system-icons](https://github.com/microsoft / fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
+- [anthropics / anthropic-cookbook](https://github.com/anthropics / anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+- [anthropics / prompt-eng-interactive-tutorial](https://github.com/anthropics / prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
 
 ### 📚 技术文章精选
-- [【结肠息肉AI论文集】Polyper:BoundarySensitivePolypSegmentation](https://blog.csdn.net/weixin_43571113/article/details/145591474)
-- [智能穿戴平台与医疗AI融合发展路径研究](https://blog.csdn.net/kkiron/article/details/148653500)
-- [AI Hedge Fund，智能体投资策略模拟平台的安装与使用指南](https://blog.csdn.net/igwork/article/details/147263935)
+- [AI数字人| Fay开源项目、UE5数字人、本地大模型](https://blog.csdn.net/wunan233/article/details/146097253)
+- [LangGraph实战教程：构建会思考、能记忆、可人工干预的多智能体AI系统](https://blog.csdn.net/m0_46510245/article/details/148531571)
+- [从算力困境到创新突破：GPUGEEK如何重塑我的AI开发之旅](https://blog.csdn.net/weixin_66401877/article/details/147980709)
 
 ### 🛡️ 安全资讯
-- [3个趋势，看AI到底是怎么重构广告行业的？](https://cloud.tencent.com/developer/article/2530740)
-- [中国专利金奖，拿下！](https://cloud.tencent.com/developer/article/2530737)
-- [MCP广场隐私政策](https://cloud.tencent.com/developer/article/2530896)
+- [腾讯云开发者MCP广场软件许可及服务协议](https://cloud.tencent.com/developer/article/2530899)
+- [CodeBuddy特邀创作者奖品信息公示](https://cloud.tencent.com/developer/article/2531016)
+- [如何画好架构图：架构思维的三大底层逻辑](https://cloud.tencent.com/developer/article/2530797)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
