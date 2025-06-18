@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 15 │ 16 │ ⭐ │ 18 │ 19 │ 20 │ 21 │
+│ 15 │ 16 │ 17 │ ⭐ │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年6月17日
+🌟 今天是2025年6月18日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/6/17)
+## 📰 今日资讯 (2025/6/18)
 
 ### 🔥 GitHub 热门项目
 - [microsoft / fluentui-system-icons](https://github.com/microsoft / fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
+- [menloresearch / jan](https://github.com/menloresearch / jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [anthropics / anthropic-cookbook](https://github.com/anthropics / anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-- [anthropics / prompt-eng-interactive-tutorial](https://github.com/anthropics / prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
 
 ### 📚 技术文章精选
-- [AI数字人| Fay开源项目、UE5数字人、本地大模型](https://blog.csdn.net/wunan233/article/details/146097253)
-- [LangGraph实战教程：构建会思考、能记忆、可人工干预的多智能体AI系统](https://blog.csdn.net/m0_46510245/article/details/148531571)
-- [从算力困境到创新突破：GPUGEEK如何重塑我的AI开发之旅](https://blog.csdn.net/weixin_66401877/article/details/147980709)
+- [大模型五年内或被抛弃？AI大佬的“泼冷水“与未来之路](https://blog.csdn.net/linshantang/article/details/148531280)
+- [刚刚，Claude 4 重磅发布！免费可用，全球最强编程 AI！](https://blog.csdn.net/weixin_40774379/article/details/148152561)
+- [Manus AI与多语言手写识别的创新革命：从技术突破到行业赋能](https://blog.csdn.net/qq_32682301/article/details/148406847)
 
 ### 🛡️ 安全资讯
-- [腾讯云开发者MCP广场软件许可及服务协议](https://cloud.tencent.com/developer/article/2530899)
-- [CodeBuddy特邀创作者奖品信息公示](https://cloud.tencent.com/developer/article/2531016)
-- [如何画好架构图：架构思维的三大底层逻辑](https://cloud.tencent.com/developer/article/2530797)
+- [【运维自动化-标准运维】如何设置代理执行人](https://cloud.tencent.com/developer/article/2531410)
+- [黄铁军对大模型的四个预判：洗牌、安全核爆、GPT-5与再造DeepSeek](https://cloud.tencent.com/developer/article/2531429)
+- [Efficiently Compiling Efficient Query Plans for Modern Hardware（解读）](https://cloud.tencent.com/developer/article/2531441)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
