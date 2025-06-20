@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 15 │ 16 │ 17 │ 18 │ ⭐ │ 20 │ 21 │
+│ 15 │ 16 │ 17 │ 18 │ 19 │ ⭐ │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年6月19日
+🌟 今天是2025年6月20日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/6/19)
+## 📰 今日资讯 (2025/6/20)
 
 ### 🔥 GitHub 热门项目
-- [automatisch / automatisch](https://github.com/automatisch / automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
-- [anthropics / anthropic-cookbook](https://github.com/anthropics / anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-- [microsoft / fluentui-system-icons](https://github.com/microsoft / fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
+- [DataExpert-io / data-engineer-handbook](https://github.com/DataExpert-io / data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
+- [menloresearch / jan](https://github.com/menloresearch / jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+- [dail8859 / NotepadNext](https://github.com/dail8859 / NotepadNext) - A cross-platform, reimplementation of Notepad++
 
 ### 📚 技术文章精选
-- [AI独立游戏素材生成实操](https://blog.csdn.net/benben044/article/details/148144892)
-- [【EdgeAI实战】（3）边缘AI开发套件 STM32N6570X0 用户手册](https://blog.csdn.net/youcans/article/details/148586380)
-- [全球首款Java专用AI开发助手实测：一句话生成完整工程代码——飞算 JavaAI](https://blog.csdn.net/2301_76341691/article/details/148697903)
+- [Tailwind CSS 实战，基于 Kooboo 构建 AI 对话框页面（三）：实现暗黑模式主题切换](https://blog.csdn.net/2501_91137919/article/details/148287229)
+- [一文彻底搞懂什么是AI Agent、coze？如何搭建coze智能体？看完你就懂了！](https://blog.csdn.net/2401_85325726/article/details/146907723)
+- [人工智能：重塑未来的力量](https://blog.csdn.net/lilinhai548/article/details/143167345)
 
 ### 🛡️ 安全资讯
-- [版权保护+安全追踪，腾讯云音视频助力全场景媒体内容安全](https://cloud.tencent.com/developer/article/2531565)
-- [ReAct如何改变大模型 AI 能力](https://cloud.tencent.com/developer/article/2531679)
-- [CVPR传来好消息，腾讯混元3D 2.1全链路开源](https://cloud.tencent.com/developer/article/2531564)
+- [腾讯混元3D 2.1大模型，全链路开源](https://cloud.tencent.com/developer/article/2532075)
+- [云原生数据库的“网络革新”：存算分离时代，HARP协议如何突破RDMA瓶颈，构建高可靠传输底座](https://cloud.tencent.com/developer/article/2532057)
+- [人类高考“封王”的大模型，离真正的“AI状元”还有多远？](https://cloud.tencent.com/developer/article/2532076)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
