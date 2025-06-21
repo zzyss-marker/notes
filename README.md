@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 15 │ 16 │ 17 │ 18 │ 19 │ ⭐ │ 21 │
+│ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年6月20日
+🌟 今天是2025年6月21日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/6/20)
+## 📰 今日资讯 (2025/6/21)
 
 ### 🔥 GitHub 热门项目
 - [DataExpert-io / data-engineer-handbook](https://github.com/DataExpert-io / data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
-- [menloresearch / jan](https://github.com/menloresearch / jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [dail8859 / NotepadNext](https://github.com/dail8859 / NotepadNext) - A cross-platform, reimplementation of Notepad++
+- [automatisch / automatisch](https://github.com/automatisch / automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 
 ### 📚 技术文章精选
-- [Tailwind CSS 实战，基于 Kooboo 构建 AI 对话框页面（三）：实现暗黑模式主题切换](https://blog.csdn.net/2501_91137919/article/details/148287229)
-- [一文彻底搞懂什么是AI Agent、coze？如何搭建coze智能体？看完你就懂了！](https://blog.csdn.net/2401_85325726/article/details/146907723)
-- [人工智能：重塑未来的力量](https://blog.csdn.net/lilinhai548/article/details/143167345)
+- [一文讲清楚AI Agent（智能体）](https://blog.csdn.net/EnjoyEDU/article/details/147551392)
+- [AI辅助工具规则管理更新，智能体开发更符合预期](https://blog.csdn.net/2501_91473950/article/details/148689213)
+- [采用Bright Data+n8n+AI打造自动化新闻助手：每天5分钟实现内容日更](https://blog.csdn.net/air__Heaven/article/details/148265648)
 
 ### 🛡️ 安全资讯
-- [腾讯混元3D 2.1大模型，全链路开源](https://cloud.tencent.com/developer/article/2532075)
-- [云原生数据库的“网络革新”：存算分离时代，HARP协议如何突破RDMA瓶颈，构建高可靠传输底座](https://cloud.tencent.com/developer/article/2532057)
-- [人类高考“封王”的大模型，离真正的“AI状元”还有多远？](https://cloud.tencent.com/developer/article/2532076)
+- [sconfig显示的update配置是手动就不会重启了吗？](https://cloud.tencent.com/developer/article/2532216)
+- [企业应用观测中枢建设](https://cloud.tencent.com/developer/article/2532234)
+- [从黑箱到显微镜：大模型可解释性的现状与未来](https://cloud.tencent.com/developer/article/2532380)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
