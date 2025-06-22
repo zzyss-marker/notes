@@ -34,9 +34,9 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ ⭐ │
+│ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │
+│ ⭐ │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 29 │ 30 │    │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年6月21日
+🌟 今天是2025年6月22日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/6/21)
+## 📰 今日资讯 (2025/6/22)
 
 ### 🔥 GitHub 热门项目
-- [DataExpert-io / data-engineer-handbook](https://github.com/DataExpert-io / data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
+- [typst / typst](https://github.com/typst / typst) - A new markup-based typesetting system that is powerful and easy to learn.
+- [patchy631 / ai-engineering-hub](https://github.com/patchy631 / ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 - [dail8859 / NotepadNext](https://github.com/dail8859 / NotepadNext) - A cross-platform, reimplementation of Notepad++
-- [automatisch / automatisch](https://github.com/automatisch / automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 
 ### 📚 技术文章精选
-- [一文讲清楚AI Agent（智能体）](https://blog.csdn.net/EnjoyEDU/article/details/147551392)
-- [AI辅助工具规则管理更新，智能体开发更符合预期](https://blog.csdn.net/2501_91473950/article/details/148689213)
-- [采用Bright Data+n8n+AI打造自动化新闻助手：每天5分钟实现内容日更](https://blog.csdn.net/air__Heaven/article/details/148265648)
+- [Arduino IDE ESP32 S3 AI 智能摄像头，现在已经成功接入小智啦，以下是我的学习经验分享。](https://blog.csdn.net/m0_72100006/article/details/148051899)
+- [Dify部署与使用介绍-生成式 AI 应用创新引擎](https://blog.csdn.net/wt334502157/article/details/146047633)
+- [Manus AI与多语言手写识别的创新革命：从技术突破到行业赋能](https://blog.csdn.net/qq_32682301/article/details/148406847)
 
 ### 🛡️ 安全资讯
-- [sconfig显示的update配置是手动就不会重启了吗？](https://cloud.tencent.com/developer/article/2532216)
-- [企业应用观测中枢建设](https://cloud.tencent.com/developer/article/2532234)
-- [从黑箱到显微镜：大模型可解释性的现状与未来](https://cloud.tencent.com/developer/article/2532380)
+- [程序员版「长安的荔枝」：别当职场软柿子，掌握核心竞争力](https://cloud.tencent.com/developer/article/2532613)
+- [从一朵棉花到6100万会员：腾讯企点如何助力全棉时代精细化突围](https://cloud.tencent.com/developer/article/2532777)
+- [登录时出现"User Profile Service 服务未能登录，无法加载用户配置文件"、"Group Policy Client 服务未能登录，拒绝访问"](https://cloud.tencent.com/developer/article/2532867)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
