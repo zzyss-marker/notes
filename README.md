@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │
+│ 22 │ ⭐ │ 24 │ 25 │ 26 │ 27 │ 28 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 29 │ 30 │    │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年6月22日
+🌟 今天是2025年6月23日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/6/22)
+## 📰 今日资讯 (2025/6/23)
 
 ### 🔥 GitHub 热门项目
-- [typst / typst](https://github.com/typst / typst) - A new markup-based typesetting system that is powerful and easy to learn.
+- [rasbt / LLMs-from-scratch](https://github.com/rasbt / LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [patchy631 / ai-engineering-hub](https://github.com/patchy631 / ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-- [dail8859 / NotepadNext](https://github.com/dail8859 / NotepadNext) - A cross-platform, reimplementation of Notepad++
+- [ManimCommunity / manim](https://github.com/ManimCommunity / manim) - A community-maintained Python framework for creating mathematical animations.
 
 ### 📚 技术文章精选
-- [Arduino IDE ESP32 S3 AI 智能摄像头，现在已经成功接入小智啦，以下是我的学习经验分享。](https://blog.csdn.net/m0_72100006/article/details/148051899)
-- [Dify部署与使用介绍-生成式 AI 应用创新引擎](https://blog.csdn.net/wt334502157/article/details/146047633)
-- [Manus AI与多语言手写识别的创新革命：从技术突破到行业赋能](https://blog.csdn.net/qq_32682301/article/details/148406847)
+- [ChatGPT与认知科学：人机协同的未来图景](https://blog.csdn.net/m0_64357419/article/details/148219737)
+- [DiT、 U-Net 与自回归模型的优势](https://blog.csdn.net/qq_43069203/article/details/148216412)
+- [本地部署FreeGPT+内网穿透公网远程访问，搞定ChatGPT外网访问难题](https://blog.csdn.net/csghdn/article/details/148158857)
 
 ### 🛡️ 安全资讯
-- [程序员版「长安的荔枝」：别当职场软柿子，掌握核心竞争力](https://cloud.tencent.com/developer/article/2532613)
-- [从一朵棉花到6100万会员：腾讯企点如何助力全棉时代精细化突围](https://cloud.tencent.com/developer/article/2532777)
 - [登录时出现"User Profile Service 服务未能登录，无法加载用户配置文件"、"Group Policy Client 服务未能登录，拒绝访问"](https://cloud.tencent.com/developer/article/2532867)
+- [胡泳：人工智能会夺走我们的生活意义吗？](https://cloud.tencent.com/developer/article/2532931)
+- [分享一个讲透任意知识点的万能框架，程序员提升个人技术影响力必备！](https://cloud.tencent.com/developer/article/2532906)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
