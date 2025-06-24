@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 22 │ ⭐ │ 24 │ 25 │ 26 │ 27 │ 28 │
+│ 22 │ 23 │ ⭐ │ 25 │ 26 │ 27 │ 28 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 29 │ 30 │    │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年6月23日
+🌟 今天是2025年6月24日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/6/23)
+## 📰 今日资讯 (2025/6/24)
 
 ### 🔥 GitHub 热门项目
-- [rasbt / LLMs-from-scratch](https://github.com/rasbt / LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-- [patchy631 / ai-engineering-hub](https://github.com/patchy631 / ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-- [ManimCommunity / manim](https://github.com/ManimCommunity / manim) - A community-maintained Python framework for creating mathematical animations.
+- [microsoft / edit](https://github.com/microsoft / edit) - We all edit.
+- [voideditor / void](https://github.com/voideditor / void) - 
+- [ghostty-org / ghostty](https://github.com/ghostty-org / ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
 ### 📚 技术文章精选
-- [ChatGPT与认知科学：人机协同的未来图景](https://blog.csdn.net/m0_64357419/article/details/148219737)
-- [DiT、 U-Net 与自回归模型的优势](https://blog.csdn.net/qq_43069203/article/details/148216412)
-- [本地部署FreeGPT+内网穿透公网远程访问，搞定ChatGPT外网访问难题](https://blog.csdn.net/csghdn/article/details/148158857)
+- [开源模型应用落地-工具使用篇-Spring AI-Function Call（八）](https://blog.csdn.net/qq839019311/article/details/136514465)
+- [DeepSeek深度起底：这家人工智能公司可能给代码打了玻尿酸？](https://blog.csdn.net/effort123_/article/details/147598351)
+- [图说人工智能简史，每一张图片都是一个里程碑](https://blog.csdn.net/caoxiaoye/article/details/144561974)
 
 ### 🛡️ 安全资讯
-- [登录时出现"User Profile Service 服务未能登录，无法加载用户配置文件"、"Group Policy Client 服务未能登录，拒绝访问"](https://cloud.tencent.com/developer/article/2532867)
-- [胡泳：人工智能会夺走我们的生活意义吗？](https://cloud.tencent.com/developer/article/2532931)
-- [分享一个讲透任意知识点的万能框架，程序员提升个人技术影响力必备！](https://cloud.tencent.com/developer/article/2532906)
+- [如何设计一个工作流系统分享](https://cloud.tencent.com/developer/article/2533100)
+- [Windows系统下，如何确认nvme ssd的PCI BDF(Bus总线,Device设备,Function功能)](https://cloud.tencent.com/developer/article/2533083)
+- [热点技术有奖征文｜“荔”刻出发！用“算法”运送 长安的荔枝？](https://cloud.tencent.com/developer/article/2533082)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
