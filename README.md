@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 22 │ 23 │ 24 │ ⭐ │ 26 │ 27 │ 28 │
+│ 22 │ 23 │ 24 │ 25 │ ⭐ │ 27 │ 28 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 29 │ 30 │    │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年6月25日
+🌟 今天是2025年6月26日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,18 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/6/25)
+## 📰 今日资讯 (2025/6/26)
 
 ### 🔥 GitHub 热门项目
-- [DrKLO / Telegram](https://github.com/DrKLO / Telegram) - Telegram for Android source
-- [patchy631 / ai-engineering-hub](https://github.com/patchy631 / ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-- [microsoft / edit](https://github.com/microsoft / edit) - We all edit.
+- [DioxusLabs / dioxus](https://github.com/DioxusLabs / dioxus) - Fullstack app framework for web, desktop, and mobile.
+- [vitejs / vite](https://github.com/vitejs / vite) - Next generation frontend tooling. It's fast!
+- [musistudio / claude-code-router](https://github.com/musistudio / claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 
 ### 📚 技术文章精选
-获取 CSDN 文章失败
+- [8. Spring Ai之入门到精通（超级详细）](https://blog.csdn.net/weixin_46203834/article/details/140807594)
+- [如何借助DeepSeek、ChatGPT等AI模型构建自己的量化交易策略？](https://blog.csdn.net/Le_temps/article/details/145479431)
+- [Could not find artifact org.springframework.ai:spring-ai-openai-spring-boot-starter:pom:unknown in](https://blog.csdn.net/m0_75134325/article/details/147317029)
 
 ### 🛡️ 安全资讯
-获取安全资讯失败
+- [斯坦福最新研究：硅谷的AI创业潮，其实是一场大型的资源错配](https://cloud.tencent.com/developer/article/2533402)
+- [大模型应用开发基础-Prompt工程](https://cloud.tencent.com/developer/article/2533715)
+- [腾讯云全球数据库正式上线，三大核心能力驱动全球业务无界体验](https://cloud.tencent.com/developer/article/2533797)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
