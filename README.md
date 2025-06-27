@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 22 │ 23 │ 24 │ 25 │ ⭐ │ 27 │ 28 │
+│ 22 │ 23 │ 24 │ 25 │ 26 │ ⭐ │ 28 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 29 │ 30 │    │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年6月26日
+🌟 今天是2025年6月27日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/6/26)
+## 📰 今日资讯 (2025/6/27)
 
 ### 🔥 GitHub 热门项目
-- [DioxusLabs / dioxus](https://github.com/DioxusLabs / dioxus) - Fullstack app framework for web, desktop, and mobile.
-- [vitejs / vite](https://github.com/vitejs / vite) - Next generation frontend tooling. It's fast!
-- [musistudio / claude-code-router](https://github.com/musistudio / claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+- [microsoft / edit](https://github.com/microsoft / edit) - We all edit.
+- [mui / base-ui](https://github.com/mui / base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
+- [gitleaks / gitleaks](https://github.com/gitleaks / gitleaks) - Find secrets with Gitleaks 🔑
 
 ### 📚 技术文章精选
-- [8. Spring Ai之入门到精通（超级详细）](https://blog.csdn.net/weixin_46203834/article/details/140807594)
-- [如何借助DeepSeek、ChatGPT等AI模型构建自己的量化交易策略？](https://blog.csdn.net/Le_temps/article/details/145479431)
-- [Could not find artifact org.springframework.ai:spring-ai-openai-spring-boot-starter:pom:unknown in](https://blog.csdn.net/m0_75134325/article/details/147317029)
+- [奇异值分解（SVD）：线性代数在AI大模型中的核心工具](https://blog.csdn.net/martian665/article/details/147767663)
+- [机器能做科学家吗？一场关于开放式科研的 AI 革命](https://blog.csdn.net/xiaofeng10330111/article/details/147672833)
+- [VSCode 2025最新AI辅助开发插件汇总（AI代码生成、代码补全、代码注释、文档增强）](https://blog.csdn.net/qq_51646682/article/details/146242372)
 
 ### 🛡️ 安全资讯
-- [斯坦福最新研究：硅谷的AI创业潮，其实是一场大型的资源错配](https://cloud.tencent.com/developer/article/2533402)
-- [大模型应用开发基础-Prompt工程](https://cloud.tencent.com/developer/article/2533715)
 - [腾讯云全球数据库正式上线，三大核心能力驱动全球业务无界体验](https://cloud.tencent.com/developer/article/2533797)
+- [11亿，具身智能单笔最大融资出现，我们独家对话了银河通用创始人王鹤](https://cloud.tencent.com/developer/article/2533809)
+- [腾讯首款数字疗法进入临床应用](https://cloud.tencent.com/developer/article/2533808)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
