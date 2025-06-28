@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 22 │ 23 │ 24 │ 25 │ 26 │ ⭐ │ 28 │
+│ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 29 │ 30 │    │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年6月27日
+🌟 今天是2025年6月28日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/6/27)
+## 📰 今日资讯 (2025/6/28)
 
 ### 🔥 GitHub 热门项目
-- [microsoft / edit](https://github.com/microsoft / edit) - We all edit.
-- [mui / base-ui](https://github.com/mui / base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
+- [coleam00 / ottomator-agents](https://github.com/coleam00 / ottomator-agents) - All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
+- [sindresorhus / awesome](https://github.com/sindresorhus / awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [gitleaks / gitleaks](https://github.com/gitleaks / gitleaks) - Find secrets with Gitleaks 🔑
 
 ### 📚 技术文章精选
-- [奇异值分解（SVD）：线性代数在AI大模型中的核心工具](https://blog.csdn.net/martian665/article/details/147767663)
-- [机器能做科学家吗？一场关于开放式科研的 AI 革命](https://blog.csdn.net/xiaofeng10330111/article/details/147672833)
-- [VSCode 2025最新AI辅助开发插件汇总（AI代码生成、代码补全、代码注释、文档增强）](https://blog.csdn.net/qq_51646682/article/details/146242372)
+- [AI 写作（六）：核心技术与多元应用（6/10）](https://blog.csdn.net/beautifulmemory/article/details/143661892)
+- [Heygem：免费！开源！本地电脑运行的AI数字人，电脑没有显卡不用看了](https://blog.csdn.net/mmhh1024/article/details/147468819)
+- [巴西医疗巨头尤迈Kafka数据泄露事件的全过程分析与AI安防策略分析](https://blog.csdn.net/kkiron/article/details/148500424)
 
 ### 🛡️ 安全资讯
-- [腾讯云全球数据库正式上线，三大核心能力驱动全球业务无界体验](https://cloud.tencent.com/developer/article/2533797)
-- [11亿，具身智能单笔最大融资出现，我们独家对话了银河通用创始人王鹤](https://cloud.tencent.com/developer/article/2533809)
 - [腾讯首款数字疗法进入临床应用](https://cloud.tencent.com/developer/article/2533808)
+- [东华软件携手OC推出衍生版Donghua NTOS 2025，构建自主可控数字底座](https://cloud.tencent.com/developer/article/2534070)
+- [一键生成歌曲，腾讯AI Lab开源音乐生成大模型 SongGeneration](https://cloud.tencent.com/developer/article/2533799)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
