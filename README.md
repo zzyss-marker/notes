@@ -36,16 +36,16 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │ ⭐ │
+│ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 29 │ 30 │    │    │    │    │    │
+│ ⭐ │ 30 │    │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年6月28日
+🌟 今天是2025年6月29日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/6/28)
+## 📰 今日资讯 (2025/6/29)
 
 ### 🔥 GitHub 热门项目
-- [coleam00 / ottomator-agents](https://github.com/coleam00 / ottomator-agents) - All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
-- [sindresorhus / awesome](https://github.com/sindresorhus / awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [gitleaks / gitleaks](https://github.com/gitleaks / gitleaks) - Find secrets with Gitleaks 🔑
+- [twentyhq / twenty](https://github.com/twentyhq / twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [black-forest-labs / flux](https://github.com/black-forest-labs / flux) - Official inference repo for FLUX.1 models
+- [GraphiteEditor / Graphite](https://github.com/GraphiteEditor / Graphite) - 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
 
 ### 📚 技术文章精选
-- [AI 写作（六）：核心技术与多元应用（6/10）](https://blog.csdn.net/beautifulmemory/article/details/143661892)
-- [Heygem：免费！开源！本地电脑运行的AI数字人，电脑没有显卡不用看了](https://blog.csdn.net/mmhh1024/article/details/147468819)
-- [巴西医疗巨头尤迈Kafka数据泄露事件的全过程分析与AI安防策略分析](https://blog.csdn.net/kkiron/article/details/148500424)
+- [SuperMemory：最强大的AI知识管理工具？打造第二大脑](https://blog.csdn.net/coderroad/article/details/148402126)
+- [智能新时代：探索【人工智能】、【机器学习】与【深度学习】的前沿技术与应用](https://blog.csdn.net/2303_77720864/article/details/141589608)
+- [双卡 RTX 5090 深度体验：AI 推理框架选择与性能限制实测](https://blog.csdn.net/nulifancuoAI/article/details/146706930)
 
 ### 🛡️ 安全资讯
-- [腾讯首款数字疗法进入临床应用](https://cloud.tencent.com/developer/article/2533808)
-- [东华软件携手OC推出衍生版Donghua NTOS 2025，构建自主可控数字底座](https://cloud.tencent.com/developer/article/2534070)
-- [一键生成歌曲，腾讯AI Lab开源音乐生成大模型 SongGeneration](https://cloud.tencent.com/developer/article/2533799)
+- [腾讯云 TDP 第五届线上发展交流大会邀您 | 共赴开发者之约](https://cloud.tencent.com/developer/article/2534700)
+- [从LSP到MCP：基础架构、核心组件和协议未来](https://cloud.tencent.com/developer/article/2534767)
+- [无缝互操作：腾讯云KMS在SM2国密算法上与 EasyGmSSL 的兼容实践](https://cloud.tencent.com/developer/article/2534764)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
