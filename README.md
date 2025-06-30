@@ -38,14 +38,14 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │ 30 │    │    │    │    │    │
+│ 29 │ ⭐ │    │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年6月29日
+🌟 今天是2025年6月30日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/6/29)
+## 📰 今日资讯 (2025/6/30)
 
 ### 🔥 GitHub 热门项目
 - [twentyhq / twenty](https://github.com/twentyhq / twenty) - Building a modern alternative to Salesforce, powered by the community.
-- [black-forest-labs / flux](https://github.com/black-forest-labs / flux) - Official inference repo for FLUX.1 models
 - [GraphiteEditor / Graphite](https://github.com/GraphiteEditor / Graphite) - 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
+- [octra-labs / wallet-gen](https://github.com/octra-labs / wallet-gen) - 
 
 ### 📚 技术文章精选
-- [SuperMemory：最强大的AI知识管理工具？打造第二大脑](https://blog.csdn.net/coderroad/article/details/148402126)
-- [智能新时代：探索【人工智能】、【机器学习】与【深度学习】的前沿技术与应用](https://blog.csdn.net/2303_77720864/article/details/141589608)
-- [双卡 RTX 5090 深度体验：AI 推理框架选择与性能限制实测](https://blog.csdn.net/nulifancuoAI/article/details/146706930)
+- [AI自动化测试框架browser use 项目测试总结](https://blog.csdn.net/m0_56232078/article/details/145933624)
+- [亮点抢先看！4月16-17日，百度Create大会开设“AI公开课”，大咖带你打造赚钱工具](https://blog.csdn.net/magicyangjay111/article/details/136801457)
+- [AI炼丹日志-24 - MCP 自动操作 提高模型上下文能力 Cursor + Sequential Thinking Server Memory](https://blog.csdn.net/w776341482/article/details/148329142)
 
 ### 🛡️ 安全资讯
-- [腾讯云 TDP 第五届线上发展交流大会邀您 | 共赴开发者之约](https://cloud.tencent.com/developer/article/2534700)
-- [从LSP到MCP：基础架构、核心组件和协议未来](https://cloud.tencent.com/developer/article/2534767)
 - [无缝互操作：腾讯云KMS在SM2国密算法上与 EasyGmSSL 的兼容实践](https://cloud.tencent.com/developer/article/2534764)
+- [混元这6篇论文，入选国际顶级学术会议ICML2025](https://cloud.tencent.com/developer/article/2535032)
+- [从理论到实战！MCP看这一篇就够了](https://cloud.tencent.com/developer/article/2534765)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
