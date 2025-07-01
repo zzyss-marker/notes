@@ -26,26 +26,26 @@
 
 <!-- CALENDAR_START -->
 ```
-📅 2025年6月
+📅 2025年7月
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  1 │  2 │  3 │  4 │  5 │  6 │  7 │
+│    │    │ ⭐ │  2 │  3 │  4 │  5 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
+│  6 │  7 │  8 │  9 │ 10 │ 11 │ 12 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
+│ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │
+│ 20 │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 29 │ ⭐ │    │    │    │    │    │
+│ 27 │ 28 │ 29 │ 30 │ 31 │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年6月30日
+🌟 今天是2025年7月1日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/6/30)
+## 📰 今日资讯 (2025/7/1)
 
 ### 🔥 GitHub 热门项目
+- [GraphiteEditor / Graphite](https://github.com/GraphiteEditor / Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
 - [twentyhq / twenty](https://github.com/twentyhq / twenty) - Building a modern alternative to Salesforce, powered by the community.
-- [GraphiteEditor / Graphite](https://github.com/GraphiteEditor / Graphite) - 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
-- [octra-labs / wallet-gen](https://github.com/octra-labs / wallet-gen) - 
+- [nextcloud / all-in-one](https://github.com/nextcloud / all-in-one) - 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 
 ### 📚 技术文章精选
-- [AI自动化测试框架browser use 项目测试总结](https://blog.csdn.net/m0_56232078/article/details/145933624)
-- [亮点抢先看！4月16-17日，百度Create大会开设“AI公开课”，大咖带你打造赚钱工具](https://blog.csdn.net/magicyangjay111/article/details/136801457)
-- [AI炼丹日志-24 - MCP 自动操作 提高模型上下文能力 Cursor + Sequential Thinking Server Memory](https://blog.csdn.net/w776341482/article/details/148329142)
+- [AI界的新宠儿：L20显卡凭什么让云服务商趋之若鹜？](https://blog.csdn.net/holdcloud/article/details/142216898)
+- [基于YoloV11和驱动级鼠标模拟实现Ai自瞄](https://blog.csdn.net/2401_86455622/article/details/145545779)
+- [【人工智能agent】--docker本地部署dify教程](https://blog.csdn.net/qq_58602552/article/details/147443007)
 
 ### 🛡️ 安全资讯
-- [无缝互操作：腾讯云KMS在SM2国密算法上与 EasyGmSSL 的兼容实践](https://cloud.tencent.com/developer/article/2534764)
-- [混元这6篇论文，入选国际顶级学术会议ICML2025](https://cloud.tencent.com/developer/article/2535032)
-- [从理论到实战！MCP看这一篇就够了](https://cloud.tencent.com/developer/article/2534765)
+- [直播预告：TCS异构算力管理与成本优化](https://cloud.tencent.com/developer/article/2535356)
+- [混元这6篇论文，入选国际顶级学术会议ICML2025](https://cloud.tencent.com/developer/article/2535358)
+- [腾讯云RayData全新推出“行业解决方案模板”，一键快捷制作3D数据可视化作品](https://cloud.tencent.com/developer/article/2535367)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
