@@ -30,7 +30,7 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│    │    │ ⭐ │  2 │  3 │  4 │  5 │
+│    │    │  1 │ ⭐ │  3 │  4 │  5 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  6 │  7 │  8 │  9 │ 10 │ 11 │ 12 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年7月1日
+🌟 今天是2025年7月2日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/7/1)
+## 📰 今日资讯 (2025/7/2)
 
 ### 🔥 GitHub 热门项目
+- [microsoft / generative-ai-for-beginners](https://github.com/microsoft / generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [GraphiteEditor / Graphite](https://github.com/GraphiteEditor / Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
-- [twentyhq / twenty](https://github.com/twentyhq / twenty) - Building a modern alternative to Salesforce, powered by the community.
-- [nextcloud / all-in-one](https://github.com/nextcloud / all-in-one) - 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
+- [confident-ai / deepeval](https://github.com/confident-ai / deepeval) - The LLM Evaluation Framework
 
 ### 📚 技术文章精选
-- [AI界的新宠儿：L20显卡凭什么让云服务商趋之若鹜？](https://blog.csdn.net/holdcloud/article/details/142216898)
-- [基于YoloV11和驱动级鼠标模拟实现Ai自瞄](https://blog.csdn.net/2401_86455622/article/details/145545779)
-- [【人工智能agent】--docker本地部署dify教程](https://blog.csdn.net/qq_58602552/article/details/147443007)
+- [AI 解题评分系统：学生答题 → 自动批改 + 步骤评分 + 针对性建议反馈 HarmonyOS 5.0.0+](https://blog.csdn.net/weixin_43815680/article/details/147954436)
+- [Gemini CLI：谷歌免费开源AI终端工具介绍与安装](https://blog.csdn.net/dudly/article/details/148925475)
+- [基于DeepSeek+Vue3的AI对话聊天系统开发实战](https://blog.csdn.net/qq_16242613/article/details/145763603)
 
 ### 🛡️ 安全资讯
-- [直播预告：TCS异构算力管理与成本优化](https://cloud.tencent.com/developer/article/2535356)
-- [混元这6篇论文，入选国际顶级学术会议ICML2025](https://cloud.tencent.com/developer/article/2535358)
-- [腾讯云RayData全新推出“行业解决方案模板”，一键快捷制作3D数据可视化作品](https://cloud.tencent.com/developer/article/2535367)
+- [腾讯云联合 Gartner 权威发布《Data+AI下一代数智平台建设指南》「附下载」](https://cloud.tencent.com/developer/article/2535369)
+- [腾讯技术创作特训营特别场——极客创作茶话会](https://cloud.tencent.com/developer/article/2535375)
+- [「2025腾讯犀牛鸟开源人才培养计划」正式发布，欢迎报名！](https://cloud.tencent.com/developer/article/2535362)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
