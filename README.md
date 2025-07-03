@@ -30,7 +30,7 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│    │    │  1 │ ⭐ │  3 │  4 │  5 │
+│    │    │  1 │  2 │ ⭐ │  4 │  5 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  6 │  7 │  8 │  9 │ 10 │ 11 │ 12 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年7月2日
+🌟 今天是2025年7月3日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/7/2)
+## 📰 今日资讯 (2025/7/3)
 
 ### 🔥 GitHub 热门项目
 - [microsoft / generative-ai-for-beginners](https://github.com/microsoft / generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
-- [GraphiteEditor / Graphite](https://github.com/GraphiteEditor / Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
-- [confident-ai / deepeval](https://github.com/confident-ai / deepeval) - The LLM Evaluation Framework
+- [NanmiCoder / MediaCrawler](https://github.com/NanmiCoder / MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+- [zaidmukaddam / scira](https://github.com/zaidmukaddam / scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
 
 ### 📚 技术文章精选
-- [AI 解题评分系统：学生答题 → 自动批改 + 步骤评分 + 针对性建议反馈 HarmonyOS 5.0.0+](https://blog.csdn.net/weixin_43815680/article/details/147954436)
-- [Gemini CLI：谷歌免费开源AI终端工具介绍与安装](https://blog.csdn.net/dudly/article/details/148925475)
-- [基于DeepSeek+Vue3的AI对话聊天系统开发实战](https://blog.csdn.net/qq_16242613/article/details/145763603)
+- [基于AI的逆向工程](https://blog.csdn.net/Jailman/article/details/147610836)
+- [人工智能技术的广阔前景](https://blog.csdn.net/qq_52143611/article/details/143187130)
+- [【论文阅读-问答】人工智能生成内容增强的甲状腺结节计算机辅助诊断模型:CHATGPT风格的助手](https://blog.csdn.net/wtyuong/article/details/137824216)
 
 ### 🛡️ 安全资讯
-- [腾讯云联合 Gartner 权威发布《Data+AI下一代数智平台建设指南》「附下载」](https://cloud.tencent.com/developer/article/2535369)
-- [腾讯技术创作特训营特别场——极客创作茶话会](https://cloud.tencent.com/developer/article/2535375)
-- [「2025腾讯犀牛鸟开源人才培养计划」正式发布，欢迎报名！](https://cloud.tencent.com/developer/article/2535362)
+- [前端开发者的 Kotlin 之旅：再谈协程核心概念](https://cloud.tencent.com/developer/article/2535541)
+- [AI 志愿填报火了～](https://cloud.tencent.com/developer/article/2535890)
+- [Angularjs和jQuery的ajax的请求区别](https://cloud.tencent.com/developer/article/2536036)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
