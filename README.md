@@ -30,7 +30,7 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│    │    │  1 │  2 │ ⭐ │  4 │  5 │
+│    │    │  1 │  2 │  3 │ ⭐ │  5 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  6 │  7 │  8 │  9 │ 10 │ 11 │ 12 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年7月3日
+🌟 今天是2025年7月4日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/7/3)
+## 📰 今日资讯 (2025/7/4)
 
 ### 🔥 GitHub 热门项目
-- [microsoft / generative-ai-for-beginners](https://github.com/microsoft / generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [NanmiCoder / MediaCrawler](https://github.com/NanmiCoder / MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
-- [zaidmukaddam / scira](https://github.com/zaidmukaddam / scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
+- [mrdoob / three.js](https://github.com/mrdoob / three.js) - JavaScript 3D Library.
+- [microsoft / generative-ai-for-beginners](https://github.com/microsoft / generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
 
 ### 📚 技术文章精选
-- [基于AI的逆向工程](https://blog.csdn.net/Jailman/article/details/147610836)
-- [人工智能技术的广阔前景](https://blog.csdn.net/qq_52143611/article/details/143187130)
-- [【论文阅读-问答】人工智能生成内容增强的甲状腺结节计算机辅助诊断模型:CHATGPT风格的助手](https://blog.csdn.net/wtyuong/article/details/137824216)
+- [Ai工具分享(2):Vscode+Cline无限免费的使用教程](https://blog.csdn.net/2401_84380512/article/details/148997757)
+- [Trae 接入 Claude 3.7：AI 编程工具界的“卷王”，完全免费使用！](https://blog.csdn.net/qq_19841021/article/details/145953724)
+- [2025最全面的AI面试题指南，面试前要看这一篇](https://blog.csdn.net/CSDN_430422/article/details/145795444)
 
 ### 🛡️ 安全资讯
-- [前端开发者的 Kotlin 之旅：再谈协程核心概念](https://cloud.tencent.com/developer/article/2535541)
-- [AI 志愿填报火了～](https://cloud.tencent.com/developer/article/2535890)
-- [Angularjs和jQuery的ajax的请求区别](https://cloud.tencent.com/developer/article/2536036)
+- [腾讯混元首款开源混合推理MoE模型发布，性能优异，激活参数仅13B](https://cloud.tencent.com/developer/article/2536652)
+- [腾讯云X新网银行：金融风控大奖，拿下！](https://cloud.tencent.com/developer/article/2536662)
+- [腾讯云联合 Gartner 权威发布《Data+AI下一代数智平台建设指南》「附下载」](https://cloud.tencent.com/developer/article/2536648)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
