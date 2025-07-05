@@ -30,7 +30,7 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│    │    │  1 │  2 │  3 │ ⭐ │  5 │
+│    │    │  1 │  2 │  3 │  4 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  6 │  7 │  8 │  9 │ 10 │ 11 │ 12 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年7月4日
+🌟 今天是2025年7月5日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/7/4)
+## 📰 今日资讯 (2025/7/5)
 
 ### 🔥 GitHub 热门项目
 - [NanmiCoder / MediaCrawler](https://github.com/NanmiCoder / MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
-- [mrdoob / three.js](https://github.com/mrdoob / three.js) - JavaScript 3D Library.
-- [microsoft / generative-ai-for-beginners](https://github.com/microsoft / generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [Genesis-Embodied-AI / Genesis](https://github.com/Genesis-Embodied-AI / Genesis) - A generative world for general-purpose robotics & embodied AI learning.
+- [LadybirdBrowser / ladybird](https://github.com/LadybirdBrowser / ladybird) - Truly independent web browser
 
 ### 📚 技术文章精选
-- [Ai工具分享(2):Vscode+Cline无限免费的使用教程](https://blog.csdn.net/2401_84380512/article/details/148997757)
-- [Trae 接入 Claude 3.7：AI 编程工具界的“卷王”，完全免费使用！](https://blog.csdn.net/qq_19841021/article/details/145953724)
-- [2025最全面的AI面试题指南，面试前要看这一篇](https://blog.csdn.net/CSDN_430422/article/details/145795444)
+- [10款AI生成代码的IntelliJ IDEA插件](https://blog.csdn.net/weixin_45737215/article/details/146109235)
+- [大模型之Spring AI实战系列（十一）：Spring Boot + OpenAI 集成本地向量数据库Chroma](https://blog.csdn.net/xiaobing259/article/details/148045864)
+- [探秘 AI Agent 之 Coze 智能体：从简介到搭建全攻略（4/30）](https://blog.csdn.net/beautifulmemory/article/details/144468678)
 
 ### 🛡️ 安全资讯
-- [腾讯混元首款开源混合推理MoE模型发布，性能优异，激活参数仅13B](https://cloud.tencent.com/developer/article/2536652)
-- [腾讯云X新网银行：金融风控大奖，拿下！](https://cloud.tencent.com/developer/article/2536662)
-- [腾讯云联合 Gartner 权威发布《Data+AI下一代数智平台建设指南》「附下载」](https://cloud.tencent.com/developer/article/2536648)
+- [中国版Cursor实战，利用「CodeBuddy」零代码构建“网络热词”小程序](https://cloud.tencent.com/developer/article/2536987)
+- [斯坦福对话：硅谷在用“新故事”收割全世界](https://cloud.tencent.com/developer/article/2537059)
+- [TDSQL-C MySQL 版数据高可用升级：从误操作到精准恢复的范式革新](https://cloud.tencent.com/developer/article/2537304)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
