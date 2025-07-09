@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │  1 │  2 │  3 │  4 │  5 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  6 │  7 │ ⭐ │  9 │ 10 │ 11 │ 12 │
+│  6 │  7 │  8 │ ⭐ │ 10 │ 11 │ 12 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年7月8日
+🌟 今天是2025年7月9日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/7/8)
+## 📰 今日资讯 (2025/7/9)
 
 ### 🔥 GitHub 热门项目
-- [rustfs / rustfs](https://github.com/rustfs / rustfs) - 🚀 High-performance distributed object storage for MinIO alternative.
-- [anthropics / prompt-eng-interactive-tutorial](https://github.com/anthropics / prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
+- [humanlayer / 12-factor-agents](https://github.com/humanlayer / 12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+- [Alibaba-NLP / WebAgent](https://github.com/Alibaba-NLP / WebAgent) - 🌐 WebAgent for Information Seeking bulit by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592
 - [th-ch / youtube-music](https://github.com/th-ch / youtube-music) - YouTube Music Desktop App bundled with custom plugins
 
 ### 📚 技术文章精选
-- [基于AI的逆向工程](https://blog.csdn.net/Jailman/article/details/147610836)
-- [Word排版/格式调整太磨人？[特殊字符] 试试这款【AI +Word智能助手】！一句话搞定！✨](https://blog.csdn.net/weixin_49807630/article/details/147740456)
-- [飞算 JavaAI：我的编程强力助推引擎](https://blog.csdn.net/sixpp/article/details/149044488)
+- [破局 AI 2.0 时代：利用 AI 提升自我核心竞争力](https://blog.csdn.net/weixin_46412417/article/details/140227495)
+- [Anthropic 公开人工智能“独家秘方”，深入揭秘 Claude AI 的系统提示](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/141654299)
+- [阿里云-通义灵码：筑牢代码安全防线的 AI 利器](https://blog.csdn.net/Pocker_Spades_A/article/details/149120635)
 
 ### 🛡️ 安全资讯
-- [MCP广场开源版权声明](https://cloud.tencent.com/developer/article/2537547)
-- [预训练通往AGI之路已死？杨立昆揭示了LLM无法跨越的认知鸿沟](https://cloud.tencent.com/developer/article/2537770)
-- [设置元素样式](https://cloud.tencent.com/developer/article/2537767)
+- [AI 时代：它正在改变搜索，但远未取代搜索](https://cloud.tencent.com/developer/article/2537795)
+- [大模型多模态统一架构全景](https://cloud.tencent.com/developer/article/2537869)
+- [【0代码革命】我用「CloudBase AI ToolKit」一天做出“网络热词”小程序](https://cloud.tencent.com/developer/article/2537907)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
