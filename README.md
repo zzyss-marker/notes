@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │  1 │  2 │  3 │  4 │  5 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  6 │  7 │  8 │ ⭐ │ 10 │ 11 │ 12 │
+│  6 │  7 │  8 │  9 │ ⭐ │ 11 │ 12 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年7月9日
+🌟 今天是2025年7月10日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/7/9)
+## 📰 今日资讯 (2025/7/10)
 
 ### 🔥 GitHub 热门项目
-- [humanlayer / 12-factor-agents](https://github.com/humanlayer / 12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
-- [Alibaba-NLP / WebAgent](https://github.com/Alibaba-NLP / WebAgent) - 🌐 WebAgent for Information Seeking bulit by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592
-- [th-ch / youtube-music](https://github.com/th-ch / youtube-music) - YouTube Music Desktop App bundled with custom plugins
+- [googleapis / genai-toolbox](https://github.com/googleapis / genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
+- [rustfs / rustfs](https://github.com/rustfs / rustfs) - 🚀 High-performance distributed object storage for MinIO alternative.
+- [anthropics / prompt-eng-interactive-tutorial](https://github.com/anthropics / prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
 
 ### 📚 技术文章精选
-- [破局 AI 2.0 时代：利用 AI 提升自我核心竞争力](https://blog.csdn.net/weixin_46412417/article/details/140227495)
-- [Anthropic 公开人工智能“独家秘方”，深入揭秘 Claude AI 的系统提示](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/141654299)
-- [阿里云-通义灵码：筑牢代码安全防线的 AI 利器](https://blog.csdn.net/Pocker_Spades_A/article/details/149120635)
+- [Sonic× 蓝耘：AI 界 “王炸” 组合，肖像动画 “炫技” 出圈！](https://blog.csdn.net/2401_84813926/article/details/146212246)
+- [基于AI的股票分析系统Stock-Scanner](https://blog.csdn.net/wbsu2004/article/details/145977839)
+- [基于SpringBoot+Vue的高校心理健康服务平台（AI心理分析、websocket即时通讯）](https://blog.csdn.net/paopaokaka_luck/article/details/149120090)
 
 ### 🛡️ 安全资讯
-- [AI 时代：它正在改变搜索，但远未取代搜索](https://cloud.tencent.com/developer/article/2537795)
-- [大模型多模态统一架构全景](https://cloud.tencent.com/developer/article/2537869)
-- [【0代码革命】我用「CloudBase AI ToolKit」一天做出“网络热词”小程序](https://cloud.tencent.com/developer/article/2537907)
+- [基于Redis实现生产级消息队列](https://cloud.tencent.com/developer/article/2537998)
+- [为什么大模型总喜欢说“嗯”？背后的真正原因其实很有意思](https://cloud.tencent.com/developer/article/2538038)
+- [科学吃瓜！华为否认抄袭阿里，这次我站华为](https://cloud.tencent.com/developer/article/2538055)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
