@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │  1 │  2 │  3 │  4 │  5 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  6 │  7 │  8 │  9 │ ⭐ │ 11 │ 12 │
+│  6 │  7 │  8 │  9 │ 10 │ ⭐ │ 12 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年7月10日
+🌟 今天是2025年7月11日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/7/10)
+## 📰 今日资讯 (2025/7/11)
 
 ### 🔥 GitHub 热门项目
+- [Alibaba-NLP / WebAgent](https://github.com/Alibaba-NLP / WebAgent) - 🌐 WebAgent for Information Seeking bulit by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592
+- [WordPress / wordpress-develop](https://github.com/WordPress / wordpress-develop) - WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.
 - [googleapis / genai-toolbox](https://github.com/googleapis / genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
-- [rustfs / rustfs](https://github.com/rustfs / rustfs) - 🚀 High-performance distributed object storage for MinIO alternative.
-- [anthropics / prompt-eng-interactive-tutorial](https://github.com/anthropics / prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
 
 ### 📚 技术文章精选
-- [Sonic× 蓝耘：AI 界 “王炸” 组合，肖像动画 “炫技” 出圈！](https://blog.csdn.net/2401_84813926/article/details/146212246)
-- [基于AI的股票分析系统Stock-Scanner](https://blog.csdn.net/wbsu2004/article/details/145977839)
-- [基于SpringBoot+Vue的高校心理健康服务平台（AI心理分析、websocket即时通讯）](https://blog.csdn.net/paopaokaka_luck/article/details/149120090)
+- [AI白嫖完全指南：2025年6月份免费AI工具盘点](https://blog.csdn.net/weixin_43101805/article/details/148813458)
+- [【MCP探索实践】Cherry Studio+MCP实战：3步让AI自动抓网页/读文件/调API](https://blog.csdn.net/xiaobing259/article/details/147589551)
+- [10个AI网站生成神器，还没等咖啡凉透，网站就搭好了！](https://blog.csdn.net/qq449245884/article/details/147358737)
 
 ### 🛡️ 安全资讯
-- [基于Redis实现生产级消息队列](https://cloud.tencent.com/developer/article/2537998)
-- [为什么大模型总喜欢说“嗯”？背后的真正原因其实很有意思](https://cloud.tencent.com/developer/article/2538038)
-- [科学吃瓜！华为否认抄袭阿里，这次我站华为](https://cloud.tencent.com/developer/article/2538055)
+- [中国广告法的数字转型之思：从“全链条管制”到“分类治理”](https://cloud.tencent.com/developer/article/2538358)
+- [解锁Python高并发：asyncio核心机制与实战应用精讲](https://cloud.tencent.com/developer/article/2538355)
+- [微信更新！聊天记录终于有救了](https://cloud.tencent.com/developer/article/2538356)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
