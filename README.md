@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │  1 │  2 │  3 │  4 │  5 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  6 │  7 │  8 │  9 │ 10 │ ⭐ │ 12 │
+│  6 │  7 │  8 │  9 │ 10 │ 11 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年7月11日
+🌟 今天是2025年7月12日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/7/11)
+## 📰 今日资讯 (2025/7/12)
 
 ### 🔥 GitHub 热门项目
-- [Alibaba-NLP / WebAgent](https://github.com/Alibaba-NLP / WebAgent) - 🌐 WebAgent for Information Seeking bulit by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592
-- [WordPress / wordpress-develop](https://github.com/WordPress / wordpress-develop) - WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.
+- [protocolbuffers / protobuf](https://github.com/protocolbuffers / protobuf) - Protocol Buffers - Google's data interchange format
 - [googleapis / genai-toolbox](https://github.com/googleapis / genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
+- [Alibaba-NLP / WebAgent](https://github.com/Alibaba-NLP / WebAgent) - 🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592
 
 ### 📚 技术文章精选
-- [AI白嫖完全指南：2025年6月份免费AI工具盘点](https://blog.csdn.net/weixin_43101805/article/details/148813458)
-- [【MCP探索实践】Cherry Studio+MCP实战：3步让AI自动抓网页/读文件/调API](https://blog.csdn.net/xiaobing259/article/details/147589551)
-- [10个AI网站生成神器，还没等咖啡凉透，网站就搭好了！](https://blog.csdn.net/qq449245884/article/details/147358737)
+- [小智 AI 控制 IOT 设备的探索与实践](https://blog.csdn.net/JeremyWang0102/article/details/147032574)
+- [聊聊Spring AI的Tool Calling](https://blog.csdn.net/hello_ejb3/article/details/147133843)
+- [从0到1彻底掌握Trae：手把手带你实战开发AI Chatbot，提升开发效率的必备指南！](https://blog.csdn.net/weixin_60159567/article/details/145386760)
 
 ### 🛡️ 安全资讯
-- [中国广告法的数字转型之思：从“全链条管制”到“分类治理”](https://cloud.tencent.com/developer/article/2538358)
 - [解锁Python高并发：asyncio核心机制与实战应用精讲](https://cloud.tencent.com/developer/article/2538355)
-- [微信更新！聊天记录终于有救了](https://cloud.tencent.com/developer/article/2538356)
+- [TDP云声计划第二期——用EdgeOne，点亮边缘未来](https://cloud.tencent.com/developer/article/2538558)
+- [AI 搜索 vs 传统搜索：替代还是共存？](https://cloud.tencent.com/developer/article/2538726)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
