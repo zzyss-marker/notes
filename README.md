@@ -32,9 +32,9 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │  1 │  2 │  3 │  4 │  5 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  6 │  7 │  8 │  9 │ 10 │ 11 │ ⭐ │
+│  6 │  7 │  8 │  9 │ 10 │ 11 │ 12 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │
+│ ⭐ │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 20 │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年7月12日
+🌟 今天是2025年7月13日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/7/12)
+## 📰 今日资讯 (2025/7/13)
 
 ### 🔥 GitHub 热门项目
-- [protocolbuffers / protobuf](https://github.com/protocolbuffers / protobuf) - Protocol Buffers - Google's data interchange format
+- [snap-stanford / Biomni](https://github.com/snap-stanford / Biomni) - Biomni: a general-purpose biomedical AI agent
+- [open-telemetry / opentelemetry-go](https://github.com/open-telemetry / opentelemetry-go) - OpenTelemetry Go API and SDK
 - [googleapis / genai-toolbox](https://github.com/googleapis / genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
-- [Alibaba-NLP / WebAgent](https://github.com/Alibaba-NLP / WebAgent) - 🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592
 
 ### 📚 技术文章精选
-- [小智 AI 控制 IOT 设备的探索与实践](https://blog.csdn.net/JeremyWang0102/article/details/147032574)
-- [聊聊Spring AI的Tool Calling](https://blog.csdn.net/hello_ejb3/article/details/147133843)
-- [从0到1彻底掌握Trae：手把手带你实战开发AI Chatbot，提升开发效率的必备指南！](https://blog.csdn.net/weixin_60159567/article/details/145386760)
+- [AI智能体｜扣子（Coze）搭建工作流入门教程，看完这篇你也可以！](https://blog.csdn.net/Z987421/article/details/148530999)
+- [对标Cursor！百度文心快码AI IDE上线，首创设计稿一键转代码、支持MCP](https://blog.csdn.net/qq_38951259/article/details/148852475)
+- [前端与AI共存：AI盛行时代，前端如何转变并提升自己](https://blog.csdn.net/weixin_67925256/article/details/147924986)
 
 ### 🛡️ 安全资讯
-- [解锁Python高并发：asyncio核心机制与实战应用精讲](https://cloud.tencent.com/developer/article/2538355)
-- [TDP云声计划第二期——用EdgeOne，点亮边缘未来](https://cloud.tencent.com/developer/article/2538558)
-- [AI 搜索 vs 传统搜索：替代还是共存？](https://cloud.tencent.com/developer/article/2538726)
+- [Linux流量分析：tcpdump&amp;wireshark](https://cloud.tencent.com/developer/article/2539253)
+- [客户端请求服务端用什么限流算法好-思路分析分享](https://cloud.tencent.com/developer/article/2539314)
+- [算法破茧｜腾讯研究院三万字报告](https://cloud.tencent.com/developer/article/2539329)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
