@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  6 │  7 │  8 │  9 │ 10 │ 11 │ 12 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │
+│ 13 │ ⭐ │ 15 │ 16 │ 17 │ 18 │ 19 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 20 │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年7月13日
+🌟 今天是2025年7月14日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/7/13)
+## 📰 今日资讯 (2025/7/14)
 
 ### 🔥 GitHub 热门项目
-- [snap-stanford / Biomni](https://github.com/snap-stanford / Biomni) - Biomni: a general-purpose biomedical AI agent
-- [open-telemetry / opentelemetry-go](https://github.com/open-telemetry / opentelemetry-go) - OpenTelemetry Go API and SDK
-- [googleapis / genai-toolbox](https://github.com/googleapis / genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
+- [anthropics / claude-code](https://github.com/anthropics / claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+- [vercel / commerce](https://github.com/vercel / commerce) - Next.js Commerce
+- [block / goose](https://github.com/block / goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 
 ### 📚 技术文章精选
-- [AI智能体｜扣子（Coze）搭建工作流入门教程，看完这篇你也可以！](https://blog.csdn.net/Z987421/article/details/148530999)
-- [对标Cursor！百度文心快码AI IDE上线，首创设计稿一键转代码、支持MCP](https://blog.csdn.net/qq_38951259/article/details/148852475)
-- [前端与AI共存：AI盛行时代，前端如何转变并提升自己](https://blog.csdn.net/weixin_67925256/article/details/147924986)
+- [[AI开发配环境]VSCode远程连接ssh服务器](https://blog.csdn.net/qq_34342853/article/details/138955424)
+- [飞算 JavaAI 智能编程助手：颠覆编程旧模式，重构新生态](https://blog.csdn.net/2302_79751907/article/details/149275967)
+- [阿里云-通义灵码：筑牢代码安全防线的 AI 利器](https://blog.csdn.net/Pocker_Spades_A/article/details/149120635)
 
 ### 🛡️ 安全资讯
-- [Linux流量分析：tcpdump&amp;wireshark](https://cloud.tencent.com/developer/article/2539253)
-- [客户端请求服务端用什么限流算法好-思路分析分享](https://cloud.tencent.com/developer/article/2539314)
-- [算法破茧｜腾讯研究院三万字报告](https://cloud.tencent.com/developer/article/2539329)
+- [从对比学习到密集定位：SigLIP 2 的多技融合之道](https://cloud.tencent.com/developer/article/2539597)
+- [文档分割提高RAG的常用技巧](https://cloud.tencent.com/developer/article/2539600)
+- [腾讯云程彬：构建下一代数智平台，加速Data+AI融合落地](https://cloud.tencent.com/developer/article/2539713)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
