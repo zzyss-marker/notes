@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  6 │  7 │  8 │  9 │ 10 │ 11 │ 12 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 13 │ ⭐ │ 15 │ 16 │ 17 │ 18 │ 19 │
+│ 13 │ 14 │ ⭐ │ 16 │ 17 │ 18 │ 19 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 20 │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年7月14日
+🌟 今天是2025年7月15日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/7/14)
+## 📰 今日资讯 (2025/7/15)
 
 ### 🔥 GitHub 热门项目
 - [anthropics / claude-code](https://github.com/anthropics / claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- [vercel / commerce](https://github.com/vercel / commerce) - Next.js Commerce
-- [block / goose](https://github.com/block / goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [microsoft / markitdown](https://github.com/microsoft / markitdown) - Python tool for converting files and office documents to Markdown.
+- [gorhill / uBlock](https://github.com/gorhill / uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 
 ### 📚 技术文章精选
-- [[AI开发配环境]VSCode远程连接ssh服务器](https://blog.csdn.net/qq_34342853/article/details/138955424)
-- [飞算 JavaAI 智能编程助手：颠覆编程旧模式，重构新生态](https://blog.csdn.net/2302_79751907/article/details/149275967)
-- [阿里云-通义灵码：筑牢代码安全防线的 AI 利器](https://blog.csdn.net/Pocker_Spades_A/article/details/149120635)
+- [PS2025 v26.7 Photoshop2025+AI生图扩充版，支持AI画图](https://blog.csdn.net/qq_57187936/article/details/148194487)
+- [《AI大模型应知应会100篇》第46篇：大模型推理优化技术：量化、剪枝与蒸馏](https://blog.csdn.net/yweng18/article/details/147688695)
+- [【AI】推荐12个AI智能体应用开发平台](https://blog.csdn.net/ZYC88888/article/details/145454314)
 
 ### 🛡️ 安全资讯
-- [从对比学习到密集定位：SigLIP 2 的多技融合之道](https://cloud.tencent.com/developer/article/2539597)
-- [文档分割提高RAG的常用技巧](https://cloud.tencent.com/developer/article/2539600)
-- [腾讯云程彬：构建下一代数智平台，加速Data+AI融合落地](https://cloud.tencent.com/developer/article/2539713)
+- [腾讯 BiFang | 湖流一体数据实时读取原理和优化](https://cloud.tencent.com/developer/article/2539740)
+- [浅谈 K8s Container 管理机制](https://cloud.tencent.com/developer/article/2539735)
+- [考试宝 × 向量数据库：助力AI时代教育体验升级](https://cloud.tencent.com/developer/article/2539738)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
