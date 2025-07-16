@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  6 │  7 │  8 │  9 │ 10 │ 11 │ 12 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 13 │ 14 │ ⭐ │ 16 │ 17 │ 18 │ 19 │
+│ 13 │ 14 │ 15 │ ⭐ │ 17 │ 18 │ 19 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 20 │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年7月15日
+🌟 今天是2025年7月16日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/7/15)
+## 📰 今日资讯 (2025/7/16)
 
 ### 🔥 GitHub 热门项目
-- [anthropics / claude-code](https://github.com/anthropics / claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 - [microsoft / markitdown](https://github.com/microsoft / markitdown) - Python tool for converting files and office documents to Markdown.
-- [gorhill / uBlock](https://github.com/gorhill / uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+- [x1xhlol / system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol / system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
+- [getzep / graphiti](https://github.com/getzep / graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 
 ### 📚 技术文章精选
-- [PS2025 v26.7 Photoshop2025+AI生图扩充版，支持AI画图](https://blog.csdn.net/qq_57187936/article/details/148194487)
-- [《AI大模型应知应会100篇》第46篇：大模型推理优化技术：量化、剪枝与蒸馏](https://blog.csdn.net/yweng18/article/details/147688695)
-- [【AI】推荐12个AI智能体应用开发平台](https://blog.csdn.net/ZYC88888/article/details/145454314)
+- [crawl4ai 框架的入门讲解和实战指南——基于Python的智能爬虫框架，集成AI（如NLP/OCR）实现自动化数据采集与处理](https://blog.csdn.net/m0_37721946/article/details/148771212)
+- [【免费下载】 PANTONE 潘通色标薄全系列AI色板库](https://blog.csdn.net/gitblog_06780/article/details/147664885)
+- [Botgroup.chat：超有趣的开源 AI 聊天室！多个 AI 在线互怼，一键搭建你的专属 AI 社群](https://blog.csdn.net/qq_19841021/article/details/146268320)
 
 ### 🛡️ 安全资讯
-- [腾讯 BiFang | 湖流一体数据实时读取原理和优化](https://cloud.tencent.com/developer/article/2539740)
-- [浅谈 K8s Container 管理机制](https://cloud.tencent.com/developer/article/2539735)
-- [考试宝 × 向量数据库：助力AI时代教育体验升级](https://cloud.tencent.com/developer/article/2539738)
+- [业务有诉求，资源会响应：TKE 智能调度实践​](https://cloud.tencent.com/developer/article/2539736)
+- [SIGMOD论文精读丨TDSQL锁管理优化如何破解高并发性能困局？](https://cloud.tencent.com/developer/article/2539737)
+- [腾讯云TRTC助力豆神教育打造全新产品“超能训练场”](https://cloud.tencent.com/developer/article/2539779)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
