@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  6 │  7 │  8 │  9 │ 10 │ 11 │ 12 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 13 │ 14 │ 15 │ ⭐ │ 17 │ 18 │ 19 │
+│ 13 │ 14 │ 15 │ 16 │ ⭐ │ 18 │ 19 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 20 │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年7月16日
+🌟 今天是2025年7月17日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/7/16)
+## 📰 今日资讯 (2025/7/17)
 
 ### 🔥 GitHub 热门项目
 - [microsoft / markitdown](https://github.com/microsoft / markitdown) - Python tool for converting files and office documents to Markdown.
-- [x1xhlol / system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol / system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
-- [getzep / graphiti](https://github.com/getzep / graphiti) - Build Real-Time Knowledge Graphs for AI Agents
+- [PromtEngineer / localGPT](https://github.com/PromtEngineer / localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
+- [maotoumao / MusicFree](https://github.com/maotoumao / MusicFree) - 插件化、定制化、无广告的免费音乐播放器
 
 ### 📚 技术文章精选
-- [crawl4ai 框架的入门讲解和实战指南——基于Python的智能爬虫框架，集成AI（如NLP/OCR）实现自动化数据采集与处理](https://blog.csdn.net/m0_37721946/article/details/148771212)
-- [【免费下载】 PANTONE 潘通色标薄全系列AI色板库](https://blog.csdn.net/gitblog_06780/article/details/147664885)
-- [Botgroup.chat：超有趣的开源 AI 聊天室！多个 AI 在线互怼，一键搭建你的专属 AI 社群](https://blog.csdn.net/qq_19841021/article/details/146268320)
+- [Java程序员的职业加速器：飞算JavaAI一键生成完整工程代码，轻松应对开发挑战](https://blog.csdn.net/qq_44866828/article/details/148909094)
+- [AI智能体|扣子(Coze)搭建【自动生成爆款视频】工作流保姆级教学](https://blog.csdn.net/m0_53539063/article/details/147284325)
+- [飞算AI来帮你高效完成任务，美好享受生活](https://blog.csdn.net/Ds236/article/details/149276858)
 
 ### 🛡️ 安全资讯
-- [业务有诉求，资源会响应：TKE 智能调度实践​](https://cloud.tencent.com/developer/article/2539736)
-- [SIGMOD论文精读丨TDSQL锁管理优化如何破解高并发性能困局？](https://cloud.tencent.com/developer/article/2539737)
-- [腾讯云TRTC助力豆神教育打造全新产品“超能训练场”](https://cloud.tencent.com/developer/article/2539779)
+- [一线投资人深度复盘：估值百亿的AI独角兽，都有哪些特质？](https://cloud.tencent.com/developer/article/2540693)
+- [机器有公网时用外网ip远程快，无公网时用内网ip远程慢，why](https://cloud.tencent.com/developer/article/2540982)
+- [英伟达×OpenAI深度植入AI内核，搜索框时代宣告终结？](https://cloud.tencent.com/developer/article/2541088)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
