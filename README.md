@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  6 │  7 │  8 │  9 │ 10 │ 11 │ 12 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 13 │ 14 │ 15 │ 16 │ 17 │ ⭐ │ 19 │
+│ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 20 │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年7月18日
+🌟 今天是2025年7月19日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/7/18)
+## 📰 今日资讯 (2025/7/19)
 
 ### 🔥 GitHub 热门项目
 - [microsoft / markitdown](https://github.com/microsoft / markitdown) - Python tool for converting files and office documents to Markdown.
-- [gitleaks / gitleaks](https://github.com/gitleaks / gitleaks) - Find secrets with Gitleaks 🔑
-- [soxoj / maigret](https://github.com/soxoj / maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
+- [langchain-ai / open_deep_research](https://github.com/langchain-ai / open_deep_research) - 
+- [facebookresearch / segment-anything](https://github.com/facebookresearch / segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 
 ### 📚 技术文章精选
-- [RockyLinux 10 正式发布：更快、更稳、更安全、更AI！](https://blog.csdn.net/hnpmilgh/article/details/148600071)
-- [华为云Flexus+DeepSeek征文｜云智融合·构建AI开发创新引擎·Web Search工作流搭建2.0版本的DeepSeek：简易浏览器](https://blog.csdn.net/Dovis5884/article/details/148544044)
-- [C#智驭AI未来：一堂ML.NET实战课，解锁客户流失预测密码](https://blog.csdn.net/z_344791576/article/details/138287618)
+- [2025 Java开发生态全景图：云原生、AI与性能优化的技术融合](https://blog.csdn.net/yiridancan/article/details/148930166)
+- [NVIDIA NIM平台如何打造AI图表识别系统](https://blog.csdn.net/2301_79516858/article/details/142964794)
+- [为什么 Agent 会成为下一个 AI 应用爆发点？如何为企业带来盈利](https://blog.csdn.net/weixin_53269650/article/details/148781787)
 
 ### 🛡️ 安全资讯
-- [直播预约 | 2025腾讯云金融数智峰会崭新亮相](https://cloud.tencent.com/developer/article/2541480)
-- [破局企业增长和管理提效！腾讯TAPD AI敏捷协作精研班，7 月三地开启实战课](https://cloud.tencent.com/developer/article/2541489)
-- [架构师如何与 AI 共生进化？2025 腾讯云架构师峰会来揭晓！](https://cloud.tencent.com/developer/article/2541496)
+- [AI时代的数据挑战与应对：向量数据库的升级与实践](https://cloud.tencent.com/developer/article/2541483)
+- [RAG彻底爆了！一文读懂其架构演进及核心要点](https://cloud.tencent.com/developer/article/2541498)
+- [LoTLIP：用100M长文，给CLIP插上深读翅膀](https://cloud.tencent.com/developer/article/2541546)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
