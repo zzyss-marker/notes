@@ -34,9 +34,9 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  6 │  7 │  8 │  9 │ 10 │ 11 │ 12 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │ ⭐ │
+│ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 20 │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │
+│ ⭐ │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 27 │ 28 │ 29 │ 30 │ 31 │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年7月19日
+🌟 今天是2025年7月20日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/7/19)
+## 📰 今日资讯 (2025/7/20)
 
 ### 🔥 GitHub 热门项目
-- [microsoft / markitdown](https://github.com/microsoft / markitdown) - Python tool for converting files and office documents to Markdown.
+- [hyprwm / Hyprland](https://github.com/hyprwm / Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [langchain-ai / open_deep_research](https://github.com/langchain-ai / open_deep_research) - 
-- [facebookresearch / segment-anything](https://github.com/facebookresearch / segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+- [bluenviron / mediamtx](https://github.com/bluenviron / mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 
 ### 📚 技术文章精选
-- [2025 Java开发生态全景图：云原生、AI与性能优化的技术融合](https://blog.csdn.net/yiridancan/article/details/148930166)
-- [NVIDIA NIM平台如何打造AI图表识别系统](https://blog.csdn.net/2301_79516858/article/details/142964794)
-- [为什么 Agent 会成为下一个 AI 应用爆发点？如何为企业带来盈利](https://blog.csdn.net/weixin_53269650/article/details/148781787)
+- [SpringAI 集成指南](https://blog.csdn.net/weixin_41902931/article/details/148151708)
+- [java 使用 spring AI 实战MCP](https://blog.csdn.net/YXWik/article/details/146939732)
+- [【AI视频】AI虚拟主播制作初体验：从生成数字人到视频创作全流程](https://blog.csdn.net/2201_75539691/article/details/141474531)
 
 ### 🛡️ 安全资讯
-- [AI时代的数据挑战与应对：向量数据库的升级与实践](https://cloud.tencent.com/developer/article/2541483)
-- [RAG彻底爆了！一文读懂其架构演进及核心要点](https://cloud.tencent.com/developer/article/2541498)
-- [LoTLIP：用100M长文，给CLIP插上深读翅膀](https://cloud.tencent.com/developer/article/2541546)
+- [首发丨黄仁勋、王坚链博会炉边对话：计算支撑AI，硅是一切的起源](https://cloud.tencent.com/developer/article/2542561)
+- [别光看图了，AI 现在能“看视频聊天”了！](https://cloud.tencent.com/developer/article/2542497)
+- [文档分割提高RAG的常用技巧](https://cloud.tencent.com/developer/article/2542916)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
