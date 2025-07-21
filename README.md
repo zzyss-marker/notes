@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │
+│ 20 │ ⭐ │ 22 │ 23 │ 24 │ 25 │ 26 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 27 │ 28 │ 29 │ 30 │ 31 │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年7月20日
+🌟 今天是2025年7月21日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/7/20)
+## 📰 今日资讯 (2025/7/21)
 
 ### 🔥 GitHub 热门项目
+- [srbhr / Resume-Matcher](https://github.com/srbhr / Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [hyprwm / Hyprland](https://github.com/hyprwm / Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
-- [langchain-ai / open_deep_research](https://github.com/langchain-ai / open_deep_research) - 
-- [bluenviron / mediamtx](https://github.com/bluenviron / mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+- [better-auth / better-auth](https://github.com/better-auth / better-auth) - The most comprehensive authentication framework for TypeScript
 
 ### 📚 技术文章精选
-- [SpringAI 集成指南](https://blog.csdn.net/weixin_41902931/article/details/148151708)
-- [java 使用 spring AI 实战MCP](https://blog.csdn.net/YXWik/article/details/146939732)
-- [【AI视频】AI虚拟主播制作初体验：从生成数字人到视频创作全流程](https://blog.csdn.net/2201_75539691/article/details/141474531)
+- [Spring AI（5）——通过嵌入模型进行数据的向量化处理](https://blog.csdn.net/weixin_43886636/article/details/147929199)
+- [Matlab Copilot_AI代码生成神器：基于DeepSeek的Matlab AI编程实战指南(附多版本代码，不限于Matlab 2025a)](https://blog.csdn.net/kaisherxy31/article/details/148906207)
+- [【AI智能体】Dify 基于知识库搭建智能客服问答应用详解](https://blog.csdn.net/zhangcongyi420/article/details/149102134)
 
 ### 🛡️ 安全资讯
 - [首发丨黄仁勋、王坚链博会炉边对话：计算支撑AI，硅是一切的起源](https://cloud.tencent.com/developer/article/2542561)
 - [别光看图了，AI 现在能“看视频聊天”了！](https://cloud.tencent.com/developer/article/2542497)
-- [文档分割提高RAG的常用技巧](https://cloud.tencent.com/developer/article/2542916)
+- [加锁与令牌桶算法-限流设计对比](https://cloud.tencent.com/developer/article/2542915)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
