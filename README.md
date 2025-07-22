@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 20 │ ⭐ │ 22 │ 23 │ 24 │ 25 │ 26 │
+│ 20 │ 21 │ ⭐ │ 23 │ 24 │ 25 │ 26 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 27 │ 28 │ 29 │ 30 │ 31 │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年7月21日
+🌟 今天是2025年7月22日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/7/21)
+## 📰 今日资讯 (2025/7/22)
 
 ### 🔥 GitHub 热门项目
-- [srbhr / Resume-Matcher](https://github.com/srbhr / Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
-- [hyprwm / Hyprland](https://github.com/hyprwm / Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
-- [better-auth / better-auth](https://github.com/better-auth / better-auth) - The most comprehensive authentication framework for TypeScript
+- [maybe-finance / maybe](https://github.com/maybe-finance / maybe) - The personal finance app for everyone
+- [ChatGPTNextWeb / NextChat](https://github.com/ChatGPTNextWeb / NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows
+- [hesreallyhim / awesome-claude-code](https://github.com/hesreallyhim / awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
 
 ### 📚 技术文章精选
-- [Spring AI（5）——通过嵌入模型进行数据的向量化处理](https://blog.csdn.net/weixin_43886636/article/details/147929199)
-- [Matlab Copilot_AI代码生成神器：基于DeepSeek的Matlab AI编程实战指南(附多版本代码，不限于Matlab 2025a)](https://blog.csdn.net/kaisherxy31/article/details/148906207)
-- [【AI智能体】Dify 基于知识库搭建智能客服问答应用详解](https://blog.csdn.net/zhangcongyi420/article/details/149102134)
+- [医疗AI与融合数据库的整合：挑战、架构与未来展望（下）](https://blog.csdn.net/kkiron/article/details/149462931)
+- [应用场景全解析：飞算 JavaAI 的实战舞台](https://blog.csdn.net/2301_80543957/article/details/149048451)
+- [华为云Flexus+DeepSeek征文｜基于华为云Flexus云服务的Dify搭建工作流AI Agent焦虑拆解师智能体](https://blog.csdn.net/weixin_52908342/article/details/148934384)
 
 ### 🛡️ 安全资讯
-- [首发丨黄仁勋、王坚链博会炉边对话：计算支撑AI，硅是一切的起源](https://cloud.tencent.com/developer/article/2542561)
-- [别光看图了，AI 现在能“看视频聊天”了！](https://cloud.tencent.com/developer/article/2542497)
-- [加锁与令牌桶算法-限流设计对比](https://cloud.tencent.com/developer/article/2542915)
+- [技术干货｜TDSQL 快照和可见性机制剖析](https://cloud.tencent.com/developer/article/2542951)
+- [每个程序员都必须了解的AI系统设计与挑战](https://cloud.tencent.com/developer/article/2542962)
+- [如何设计一个工作流系统分享](https://cloud.tencent.com/developer/article/2542913)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
