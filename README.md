@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 20 │ 21 │ ⭐ │ 23 │ 24 │ 25 │ 26 │
+│ 20 │ 21 │ 22 │ ⭐ │ 24 │ 25 │ 26 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 27 │ 28 │ 29 │ 30 │ 31 │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年7月22日
+🌟 今天是2025年7月23日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/7/22)
+## 📰 今日资讯 (2025/7/23)
 
 ### 🔥 GitHub 热门项目
+- [srbhr / Resume-Matcher](https://github.com/srbhr / Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [maybe-finance / maybe](https://github.com/maybe-finance / maybe) - The personal finance app for everyone
-- [ChatGPTNextWeb / NextChat](https://github.com/ChatGPTNextWeb / NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows
-- [hesreallyhim / awesome-claude-code](https://github.com/hesreallyhim / awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
+- [roboflow / supervision](https://github.com/roboflow / supervision) - We write your reusable computer vision tools. 💜
 
 ### 📚 技术文章精选
-- [医疗AI与融合数据库的整合：挑战、架构与未来展望（下）](https://blog.csdn.net/kkiron/article/details/149462931)
-- [应用场景全解析：飞算 JavaAI 的实战舞台](https://blog.csdn.net/2301_80543957/article/details/149048451)
-- [华为云Flexus+DeepSeek征文｜基于华为云Flexus云服务的Dify搭建工作流AI Agent焦虑拆解师智能体](https://blog.csdn.net/weixin_52908342/article/details/148934384)
+- [ChatGPT 4：解锁AI文案、绘画与视频创作新纪元](https://blog.csdn.net/qq_32682301/article/details/147024487)
+- [Spring AI 框架：从零开始掌握 AI 与 Spring 的完美结合！](https://blog.csdn.net/2301_78858041/article/details/146076432)
+- [Spring AI-18.聊天模型对比（Chat Models Comparison）](https://blog.csdn.net/youyong/article/details/148452369)
 
 ### 🛡️ 安全资讯
-- [技术干货｜TDSQL 快照和可见性机制剖析](https://cloud.tencent.com/developer/article/2542951)
-- [每个程序员都必须了解的AI系统设计与挑战](https://cloud.tencent.com/developer/article/2542962)
-- [如何设计一个工作流系统分享](https://cloud.tencent.com/developer/article/2542913)
+- [EdgeOne 第二季度产品动态｜规则引擎、源站防护全新升级](https://cloud.tencent.com/developer/article/2543028)
+- [“从科幻到现实：GPT Agent已经能像人类一样操作电脑了](https://cloud.tencent.com/developer/article/2543271)
+- [【二进制优化 | 性能优化】（篇1）什么是 BOLT（Binary Optimization and Layout Tool）？BOLT 的基本流程是啥？如何使用？](https://cloud.tencent.com/developer/article/2543672)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
