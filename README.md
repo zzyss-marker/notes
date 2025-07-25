@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 20 │ 21 │ 22 │ 23 │ ⭐ │ 25 │ 26 │
+│ 20 │ 21 │ 22 │ 23 │ 24 │ ⭐ │ 26 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 27 │ 28 │ 29 │ 30 │ 31 │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年7月24日
+🌟 今天是2025年7月25日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/7/24)
+## 📰 今日资讯 (2025/7/25)
 
 ### 🔥 GitHub 热门项目
 - [srbhr / Resume-Matcher](https://github.com/srbhr / Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
-- [maybe-finance / maybe](https://github.com/maybe-finance / maybe) - The personal finance app for everyone
 - [OpenBB-finance / OpenBB](https://github.com/OpenBB-finance / OpenBB) - Investment Research for Everyone, Everywhere.
+- [HumanSignal / label-studio](https://github.com/HumanSignal / label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 
 ### 📚 技术文章精选
-- [AI 在软件测试中的应用：从自动化到智能化的跨越](https://blog.csdn.net/tester_sc/article/details/147108621)
-- [基于人工智能的无人机网络系统](https://blog.csdn.net/ccsss22/article/details/149252722)
-- [华为云Flexus+DeepSeek征文｜一键部署Dify平台并绑定专属域名打造个人AI Agent](https://blog.csdn.net/qq_44273429/article/details/148717355)
+- [Dify 推出全新版本！Dify-v1.4.3本地部署教程：开发效率飙升，快速打造 AI 应用！](https://blog.csdn.net/SJJS_1/article/details/148772763)
+- [微信零代码接入DeepSeek+Coze智能体：打造AI智能客服完整指南](https://blog.csdn.net/lileihappy/article/details/147720410)
+- [AI：PS软件：ps软件中如何使用人工智能（AI）？](https://blog.csdn.net/weixin_44123420/article/details/147405383)
 
 ### 🛡️ 安全资讯
-- [腾讯云ChatBI：多表关联重磅来袭，四大能力升级提升智能分析体验](https://cloud.tencent.com/developer/article/2543992)
-- [腾讯云 GooseFS 团队与厦门大学合作成果 AC-Cache 入选 PPOPP](https://cloud.tencent.com/developer/article/2545284)
-- [小程序给图片添加水印（时间，经纬度信息）](https://cloud.tencent.com/developer/article/2545315)
+- [从技术跃迁到规则重塑：智能浪潮中的中国广告业新图景](https://cloud.tencent.com/developer/article/2545286)
+- [golang map面试考点](https://cloud.tencent.com/developer/article/2546010)
+- [AI来了，打工人能快乐摸鱼吗?](https://cloud.tencent.com/developer/article/2545990)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
