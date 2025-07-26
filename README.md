@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 20 │ 21 │ 22 │ 23 │ 24 │ ⭐ │ 26 │
+│ 20 │ 21 │ 22 │ 23 │ 24 │ 25 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 27 │ 28 │ 29 │ 30 │ 31 │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年7月25日
+🌟 今天是2025年7月26日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/7/25)
+## 📰 今日资讯 (2025/7/26)
 
 ### 🔥 GitHub 热门项目
-- [srbhr / Resume-Matcher](https://github.com/srbhr / Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
-- [OpenBB-finance / OpenBB](https://github.com/OpenBB-finance / OpenBB) - Investment Research for Everyone, Everywhere.
-- [HumanSignal / label-studio](https://github.com/HumanSignal / label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
+- [QwenLM / Qwen3-Coder](https://github.com/QwenLM / Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
+- [m1k1o / neko](https://github.com/m1k1o / neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
+- [juspay / hyperswitch](https://github.com/juspay / hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 
 ### 📚 技术文章精选
-- [Dify 推出全新版本！Dify-v1.4.3本地部署教程：开发效率飙升，快速打造 AI 应用！](https://blog.csdn.net/SJJS_1/article/details/148772763)
-- [微信零代码接入DeepSeek+Coze智能体：打造AI智能客服完整指南](https://blog.csdn.net/lileihappy/article/details/147720410)
-- [AI：PS软件：ps软件中如何使用人工智能（AI）？](https://blog.csdn.net/weixin_44123420/article/details/147405383)
+- [华为云Flexus+DeepSeek征文｜华为云快速搭建Dify-LLM应用开发平台-构建AI智能体—智能菜谱救星](https://blog.csdn.net/weixin_52908342/article/details/148878954)
+- [华为昇腾310P 176T算力AI 智能计算模组规格书](https://blog.csdn.net/2403_88922712/article/details/143712065)
+- [百度AI工具Comate IDE正式发布，一个前端开发者的AI编程工具进化论](https://blog.csdn.net/AIzhinanzhen/article/details/148945963)
 
 ### 🛡️ 安全资讯
-- [从技术跃迁到规则重塑：智能浪潮中的中国广告业新图景](https://cloud.tencent.com/developer/article/2545286)
-- [golang map面试考点](https://cloud.tencent.com/developer/article/2546010)
-- [AI来了，打工人能快乐摸鱼吗?](https://cloud.tencent.com/developer/article/2545990)
+- [Redis与数据库一致性](https://cloud.tencent.com/developer/article/2546011)
+- [TAPD 6月功能更新一览！](https://cloud.tencent.com/developer/article/2546342)
+- [如何用开源敲开腾讯大门？](https://cloud.tencent.com/developer/article/2546340)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
