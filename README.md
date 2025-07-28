@@ -38,14 +38,14 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 20 │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │ 28 │ 29 │ 30 │ 31 │    │    │
+│ 27 │ ⭐ │ 29 │ 30 │ 31 │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年7月27日
+🌟 今天是2025年7月28日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/7/27)
+## 📰 今日资讯 (2025/7/28)
 
 ### 🔥 GitHub 热门项目
+- [Genesis-Embodied-AI / Genesis](https://github.com/Genesis-Embodied-AI / Genesis) - A generative world for general-purpose robotics & embodied AI learning.
+- [Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo / awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [frappe / hrms](https://github.com/frappe / hrms) - Open Source HR and Payroll Software
-- [QwenLM / Qwen3-Coder](https://github.com/QwenLM / Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
-- [juspay / hyperswitch](https://github.com/juspay / hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 
 ### 📚 技术文章精选
-- [游戏实操课 | AI我用AI做游戏：打造2D角色生成工作流](https://blog.csdn.net/Java_Joker/article/details/146310997)
-- [2025年7月6日~2025年7月12日AI领域国际与国内大事回顾](https://blog.csdn.net/yuntongliangda/article/details/149303947)
-- [医疗AI全光网络下的“边缘-云端“智能架构部署方案：从理论到实践的深度解析(上)](https://blog.csdn.net/kkiron/article/details/149214968)
+- [AI智能体入门指南：从概念到实践](https://blog.csdn.net/IRpickstars/article/details/149105819)
+- [飞算JavaAI：从“码农”到“代码指挥官”的终极进化论](https://blog.csdn.net/hanwangyyds/article/details/149056819)
+- [【颠覆认知！文心开源大模型全解析：从部署到实战，小白也能玩转AI】](https://blog.csdn.net/Aileenvov/article/details/149351630)
 
 ### 🛡️ 安全资讯
-- [轻量化 + 全场景：腾讯云 APM 应用安全能力升级，一键开启无死角监测](https://cloud.tencent.com/developer/article/2546346)
-- [TAPD亮相2025可信云大会，获中国信通院多项权威认证，共同发布AI技术在项目管理中的应用洞察报告](https://cloud.tencent.com/developer/article/2546343)
 - [不画一张架构图讲透架构思维](https://cloud.tencent.com/developer/article/2546348)
+- [IDC中国金融行业分布式事务型数据库报告：腾讯云蝉联金融及银行市场第一](https://cloud.tencent.com/developer/article/2546339)
+- [一文读懂AI Search：从RAG到DeepSearch](https://cloud.tencent.com/developer/article/2546350)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
