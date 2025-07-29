@@ -38,14 +38,14 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 20 │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 27 │ ⭐ │ 29 │ 30 │ 31 │    │    │
+│ 27 │ 28 │ ⭐ │ 30 │ 31 │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年7月28日
+🌟 今天是2025年7月29日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/7/28)
+## 📰 今日资讯 (2025/7/29)
 
 ### 🔥 GitHub 热门项目
-- [Genesis-Embodied-AI / Genesis](https://github.com/Genesis-Embodied-AI / Genesis) - A generative world for general-purpose robotics & embodied AI learning.
 - [Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo / awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-- [frappe / hrms](https://github.com/frappe / hrms) - Open Source HR and Payroll Software
+- [Genesis-Embodied-AI / Genesis](https://github.com/Genesis-Embodied-AI / Genesis) - A generative world for general-purpose robotics & embodied AI learning.
+- [daveebbelaar / ai-cookbook](https://github.com/daveebbelaar / ai-cookbook) - Examples and tutorials to help developers build AI systems
 
 ### 📚 技术文章精选
-- [AI智能体入门指南：从概念到实践](https://blog.csdn.net/IRpickstars/article/details/149105819)
-- [飞算JavaAI：从“码农”到“代码指挥官”的终极进化论](https://blog.csdn.net/hanwangyyds/article/details/149056819)
-- [【颠覆认知！文心开源大模型全解析：从部署到实战，小白也能玩转AI】](https://blog.csdn.net/Aileenvov/article/details/149351630)
+- [用基础模型构建应用（第七章）AI Engineering: Building Applications with Foundation Models学习笔记](https://blog.csdn.net/weixin_44923674/article/details/149133228)
+- [深度解析 AI 提示词工程(Prompt Engineering)](https://blog.csdn.net/jinhope/article/details/149359568)
+- [Sim2Real（Simulation-to-Reality，从仿真到现实） 是机器人学、人工智能和自动化领域的核心技术范式](https://blog.csdn.net/ZhuBin365/article/details/148318891)
 
 ### 🛡️ 安全资讯
-- [不画一张架构图讲透架构思维](https://cloud.tencent.com/developer/article/2546348)
-- [IDC中国金融行业分布式事务型数据库报告：腾讯云蝉联金融及银行市场第一](https://cloud.tencent.com/developer/article/2546339)
-- [一文读懂AI Search：从RAG到DeepSearch](https://cloud.tencent.com/developer/article/2546350)
+- [OpenAI的 OpenAPI 规范简介](https://cloud.tencent.com/developer/article/2546689)
+- [【运维自动化-标准运维】各类全局变量使用说明(下)](https://cloud.tencent.com/developer/article/2546924)
+- [Windows多虚拟网卡可能影响内网服务对应ip的路由，如何人为干预](https://cloud.tencent.com/developer/article/2546938)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
