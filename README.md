@@ -38,14 +38,14 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 20 │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 27 │ 28 │ ⭐ │ 30 │ 31 │    │    │
+│ 27 │ 28 │ 29 │ ⭐ │ 31 │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年7月29日
+🌟 今天是2025年7月30日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/7/29)
+## 📰 今日资讯 (2025/7/30)
 
 ### 🔥 GitHub 热门项目
-- [Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo / awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-- [Genesis-Embodied-AI / Genesis](https://github.com/Genesis-Embodied-AI / Genesis) - A generative world for general-purpose robotics & embodied AI learning.
-- [daveebbelaar / ai-cookbook](https://github.com/daveebbelaar / ai-cookbook) - Examples and tutorials to help developers build AI systems
+- [9001 / copyparty](https://github.com/9001 / copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+- [cloudwego / eino](https://github.com/cloudwego / eino) - The ultimate LLM/AI application development framework in Golang.
+- [n0-computer / iroh](https://github.com/n0-computer / iroh) - peer-2-peer that just works
 
 ### 📚 技术文章精选
-- [用基础模型构建应用（第七章）AI Engineering: Building Applications with Foundation Models学习笔记](https://blog.csdn.net/weixin_44923674/article/details/149133228)
-- [深度解析 AI 提示词工程(Prompt Engineering)](https://blog.csdn.net/jinhope/article/details/149359568)
-- [Sim2Real（Simulation-to-Reality，从仿真到现实） 是机器人学、人工智能和自动化领域的核心技术范式](https://blog.csdn.net/ZhuBin365/article/details/148318891)
+- [【华为开发者空间 x DeepSeek】2小时基于华为开发者空间和DeepSeek应用助力电商企业AI “数据飞轮”分析方案最佳实践落地](https://blog.csdn.net/2301_77888392/article/details/149151256)
+- [2025年AI智能体元年：多智能体系统的产品与技术路线深度解析](https://blog.csdn.net/zuiyuelong/article/details/149132565)
+- [Trae IDE评测体验：通过 MCP Server - Figma AI Bridge 一键将 Figma 转为前端代码](https://blog.csdn.net/qq_44866828/article/details/149056771)
 
 ### 🛡️ 安全资讯
-- [OpenAI的 OpenAPI 规范简介](https://cloud.tencent.com/developer/article/2546689)
 - [【运维自动化-标准运维】各类全局变量使用说明(下)](https://cloud.tencent.com/developer/article/2546924)
 - [Windows多虚拟网卡可能影响内网服务对应ip的路由，如何人为干预](https://cloud.tencent.com/developer/article/2546938)
+- [云数据库 PostgreSQL 自动缓存淘汰机制](https://cloud.tencent.com/developer/article/2547133)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
