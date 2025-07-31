@@ -38,14 +38,14 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 20 │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 27 │ 28 │ 29 │ ⭐ │ 31 │    │    │
+│ 27 │ 28 │ 29 │ 30 │ ⭐ │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年7月30日
+🌟 今天是2025年7月31日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/7/30)
+## 📰 今日资讯 (2025/7/31)
 
 ### 🔥 GitHub 热门项目
 - [9001 / copyparty](https://github.com/9001 / copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
-- [cloudwego / eino](https://github.com/cloudwego / eino) - The ultimate LLM/AI application development framework in Golang.
-- [n0-computer / iroh](https://github.com/n0-computer / iroh) - peer-2-peer that just works
+- [roboflow / supervision](https://github.com/roboflow / supervision) - We write your reusable computer vision tools. 💜
+- [outline / outline](https://github.com/outline / outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 
 ### 📚 技术文章精选
-- [【华为开发者空间 x DeepSeek】2小时基于华为开发者空间和DeepSeek应用助力电商企业AI “数据飞轮”分析方案最佳实践落地](https://blog.csdn.net/2301_77888392/article/details/149151256)
-- [2025年AI智能体元年：多智能体系统的产品与技术路线深度解析](https://blog.csdn.net/zuiyuelong/article/details/149132565)
-- [Trae IDE评测体验：通过 MCP Server - Figma AI Bridge 一键将 Figma 转为前端代码](https://blog.csdn.net/qq_44866828/article/details/149056771)
+- [蓝湖+Cursor打造现代校园网站全流程 AI辅助前端开发实战](https://blog.csdn.net/web22050702/article/details/148144008)
+- [AI数据标注全流程：从清洗到标注的技巧](https://blog.csdn.net/qq_16242613/article/details/148024620)
+- [智能化投标：基于AI的招标文件解析与方案生成全流程指南](https://blog.csdn.net/yuntongliangda/article/details/148461917)
 
 ### 🛡️ 安全资讯
-- [【运维自动化-标准运维】各类全局变量使用说明(下)](https://cloud.tencent.com/developer/article/2546924)
-- [Windows多虚拟网卡可能影响内网服务对应ip的路由，如何人为干预](https://cloud.tencent.com/developer/article/2546938)
-- [云数据库 PostgreSQL 自动缓存淘汰机制](https://cloud.tencent.com/developer/article/2547133)
+- [大模型应用之：SSE流式响应](https://cloud.tencent.com/developer/article/2547375)
+- [获取元素属性](https://cloud.tencent.com/developer/article/2548427)
+- [AI Coding⾮共识报告丨AI透镜系列研究](https://cloud.tencent.com/developer/article/2547550)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
