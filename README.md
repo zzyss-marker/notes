@@ -30,7 +30,7 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│    │    │    │    │    │ ⭐ │  2 │
+│    │    │    │    │    │  1 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  3 │  4 │  5 │  6 │  7 │  8 │  9 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年8月1日
+🌟 今天是2025年8月2日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,26 +113,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/8/1)
+## 📰 今日资讯 (2025/8/2)
 
 ### 🔥 GitHub 热门项目
-- [kijai / ComfyUI-WanVideoWrapper](https://github.com/kijai / ComfyUI-WanVideoWrapper) - 
-- [stenzek / duckstation](https://github.com/stenzek / duckstation) - Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
-- [SkyworkAI / SkyReels-V2](https://github.com/SkyworkAI / SkyReels-V2) - SkyReels-V2: Infinite-length Film Generative model
+- [OpenPipe / ART](https://github.com/OpenPipe / ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!
+- [TandoorRecipes / recipes](https://github.com/TandoorRecipes / recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
+- [devlikeapro / waha](https://github.com/devlikeapro / waha) - WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)
 
 ### 📚 技术文章精选
-- [AI重构教育生态：从课堂革命到人机协同的未来图景](https://blog.csdn.net/Start_mswin/article/details/148240910)
-- [【GitHub项目推荐--AI 股票量化交易工具】【转载】](https://blog.csdn.net/j8267643/article/details/147318384)
-- [开源ChatBI ：深入解密 Spring AI Alibaba 的中文NL2SQL智能引擎](https://blog.csdn.net/zhangshenghang/article/details/148768445)
+- [为什么 AI 干不了体力活——对话清华大学教授刘嘉 | 万有引力](https://blog.csdn.net/tangxiaoyin/article/details/149172084)
+- [​​​​​​​Github AI开发者生态最新动态今日速览（20250408）](https://blog.csdn.net/xinxiyinhe/article/details/147063480)
+- [SpringBoot 整合 Langchain4j AIService 深度使用详解](https://blog.csdn.net/zhangcongyi420/article/details/148995160)
 
 ### 🛡️ 安全资讯
-- [腾讯云X杨国福：为全球7000家门店搭建「麻辣烫知识库」](https://cloud.tencent.com/developer/article/2549439)
-- [来了！腾讯混元3D世界模型正式发布并开源](https://cloud.tencent.com/developer/article/2548846)
-- [关于更新微软补丁KB5060842后重启导致Windows Server 2025+AMD规格实例无法启动的公告](https://cloud.tencent.com/developer/article/2549587)
+- [非域环境，2008R2系统重装为2019系统后，数据盘的共享文件夹丢失共享效果，如何恢复？](https://cloud.tencent.com/developer/article/2550051)
+- [大模型应用之概念篇（1）：文件结构、模型命名、参数规模](https://cloud.tencent.com/developer/article/2550145)
+- [GPU云服务器设置独显分辨率](https://cloud.tencent.com/developer/article/2550082)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
