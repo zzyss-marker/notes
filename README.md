@@ -30,9 +30,9 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│    │    │    │    │    │  1 │ ⭐ │
+│    │    │    │    │    │  1 │  2 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  3 │  4 │  5 │  6 │  7 │  8 │  9 │
+│ ⭐ │  4 │  5 │  6 │  7 │  8 │  9 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 10 │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年8月2日
+🌟 今天是2025年8月3日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,22 +113,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/8/2)
+## 📰 今日资讯 (2025/8/3)
 
 ### 🔥 GitHub 热门项目
-- [OpenPipe / ART](https://github.com/OpenPipe / ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!
-- [TandoorRecipes / recipes](https://github.com/TandoorRecipes / recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
-- [devlikeapro / waha](https://github.com/devlikeapro / waha) - WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)
+- [dyad-sh / dyad](https://github.com/dyad-sh / dyad) - Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!
+- [pointfreeco / swift-composable-architecture](https://github.com/pointfreeco / swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+- [MotiaDev / motia](https://github.com/MotiaDev / motia) - Unified Backend Framework for APIs, Events, and AI Agents
 
 ### 📚 技术文章精选
-- [为什么 AI 干不了体力活——对话清华大学教授刘嘉 | 万有引力](https://blog.csdn.net/tangxiaoyin/article/details/149172084)
-- [​​​​​​​Github AI开发者生态最新动态今日速览（20250408）](https://blog.csdn.net/xinxiyinhe/article/details/147063480)
-- [SpringBoot 整合 Langchain4j AIService 深度使用详解](https://blog.csdn.net/zhangcongyi420/article/details/148995160)
+- [如何构建个人综合AI智能助手](https://blog.csdn.net/weixin_39815573/article/details/144104954)
+- [LM Studio 本地部署DeepSeek及其他AI模型的详细操作教程及硬件要求](https://blog.csdn.net/hj960511/article/details/145390784)
+- [飞算 JavaAI 进阶实战：从代码生成到系统架构优化的全流程指南](https://blog.csdn.net/weixin_43151418/article/details/149200891)
 
 ### 🛡️ 安全资讯
-- [非域环境，2008R2系统重装为2019系统后，数据盘的共享文件夹丢失共享效果，如何恢复？](https://cloud.tencent.com/developer/article/2550051)
-- [大模型应用之概念篇（1）：文件结构、模型命名、参数规模](https://cloud.tencent.com/developer/article/2550145)
 - [GPU云服务器设置独显分辨率](https://cloud.tencent.com/developer/article/2550082)
+- [大模型应用之概念篇（1）：文件结构、模型命名、参数规模](https://cloud.tencent.com/developer/article/2550145)
+- [大模型应用之概念篇（3）：模型分类、不可能三角](https://cloud.tencent.com/developer/article/2550148)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
