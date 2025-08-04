@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │    │    │    │  1 │  2 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │  4 │  5 │  6 │  7 │  8 │  9 │
+│  3 │ ⭐ │  5 │  6 │  7 │  8 │  9 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 10 │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年8月3日
+🌟 今天是2025年8月4日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,26 +113,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/8/3)
+## 📰 今日资讯 (2025/8/4)
 
 ### 🔥 GitHub 热门项目
 - [dyad-sh / dyad](https://github.com/dyad-sh / dyad) - Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!
-- [pointfreeco / swift-composable-architecture](https://github.com/pointfreeco / swift-composable-architecture) - A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
-- [MotiaDev / motia](https://github.com/MotiaDev / motia) - Unified Backend Framework for APIs, Events, and AI Agents
+- [wg-easy / wg-easy](https://github.com/wg-easy / wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
+- [eclipse-sumo / sumo](https://github.com/eclipse-sumo / sumo) - Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.
 
 ### 📚 技术文章精选
-- [如何构建个人综合AI智能助手](https://blog.csdn.net/weixin_39815573/article/details/144104954)
-- [LM Studio 本地部署DeepSeek及其他AI模型的详细操作教程及硬件要求](https://blog.csdn.net/hj960511/article/details/145390784)
-- [飞算 JavaAI 进阶实战：从代码生成到系统架构优化的全流程指南](https://blog.csdn.net/weixin_43151418/article/details/149200891)
+- [我希望未来10年，人工智能可以帮我解决这4件小事](https://blog.csdn.net/xingyu_qie/article/details/138486211)
+- [【AI时代速通QT】第五节：Qt Creator如何引入第三方库，以OpenCV为例](https://blog.csdn.net/linshantang/article/details/149311945)
+- [【AI智能体】Dify 核心组件从使用到实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/148510216)
 
 ### 🛡️ 安全资讯
-- [GPU云服务器设置独显分辨率](https://cloud.tencent.com/developer/article/2550082)
-- [大模型应用之概念篇（1）：文件结构、模型命名、参数规模](https://cloud.tencent.com/developer/article/2550145)
 - [大模型应用之概念篇（3）：模型分类、不可能三角](https://cloud.tencent.com/developer/article/2550148)
+- [字符串截取](https://cloud.tencent.com/developer/article/2550155)
+- [AI时代如何把想象力变成一种竞争优势？](https://cloud.tencent.com/developer/article/2550189)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
