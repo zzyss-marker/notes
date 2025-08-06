@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │    │    │    │  1 │  2 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  3 │  4 │ ⭐ │  6 │  7 │  8 │  9 │
+│  3 │  4 │  5 │ ⭐ │  7 │  8 │  9 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 10 │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年8月5日
+🌟 今天是2025年8月6日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,22 +113,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/8/5)
+## 📰 今日资讯 (2025/8/6)
 
 ### 🔥 GitHub 热门项目
-- [dyad-sh / dyad](https://github.com/dyad-sh / dyad) - Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!
-- [souzatharsis / podcastfy](https://github.com/souzatharsis / podcastfy) - An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
-- [actualbudget / actual](https://github.com/actualbudget / actual) - A local-first personal finance app
+- [dyad-sh / dyad](https://github.com/dyad-sh / dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+- [reflex-dev / reflex](https://github.com/reflex-dev / reflex) - 🕸️ Web apps in pure Python 🐍
+- [ethereum / solidity](https://github.com/ethereum / solidity) - Solidity, the Smart Contract Programming Language
 
 ### 📚 技术文章精选
-- [AI智能体（Agent）深度解析：从“贾维斯”的构想到代码实现](https://blog.csdn.net/Rqaqedamancy/article/details/149235245)
-- [【Java】飞算JavaAI——Java开发的“超级英雄”](https://blog.csdn.net/qq_38628970/article/details/149017866)
-- [【大模型保姆级教程】AI+办公革命：8大应用场景全面解析，从理论到实践赋能未来办公！](https://blog.csdn.net/2401_84494441/article/details/148334474)
+- [选择合适的AI模型：解析Trae编辑器中的多款模型及其应用场景](https://blog.csdn.net/smileKH/article/details/148051452)
+- [Trae AI 全新功能 SSHremote助力开发者个人产品打造，高效构建全栈应用](https://blog.csdn.net/sjw890821sjw/article/details/146328826)
+- [【AI视频】Runway注册、基本设置、主界面详解](https://blog.csdn.net/2201_75539691/article/details/141754594)
 
 ### 🛡️ 安全资讯
-- [腾讯云蝉联Gartner亚太区“客户之选”第一象限，Data+AI能力驱动数据管理新纪元](https://cloud.tencent.com/developer/article/2550741)
-- [瑞众保险×腾讯专有云TCE：共塑金融数智化多芯架构](https://cloud.tencent.com/developer/article/2550743)
-- [腾讯云蝉联Gartner亚太区“客户之选”第一象限，Data+AI能力驱动数据管理新纪元](https://cloud.tencent.com/developer/article/2550746)
+- [腾讯云ChatBI重磅升级：一键生成深度洞察报告，从问数智能体跃升为决策智能体！](https://cloud.tencent.com/developer/article/2550745)
+- [C++小协程栈和临时变量及作用域的栈溢出问题分析](https://cloud.tencent.com/developer/article/2550918)
+- [中国科技行业“35岁危机”的破局之道](https://cloud.tencent.com/developer/article/2550993)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
