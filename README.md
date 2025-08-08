@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │    │    │    │  1 │  2 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  3 │  4 │  5 │  6 │ ⭐ │  8 │  9 │
+│  3 │  4 │  5 │  6 │  7 │ ⭐ │  9 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 10 │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年8月7日
+🌟 今天是2025年8月8日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,26 +113,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/8/7)
+## 📰 今日资讯 (2025/8/8)
 
 ### 🔥 GitHub 热门项目
 - [nautechsystems / nautilus_trader](https://github.com/nautechsystems / nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
-- [dyad-sh / dyad](https://github.com/dyad-sh / dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
-- [simstudioai / sim](https://github.com/simstudioai / sim) - Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+- [browserbase / stagehand](https://github.com/browserbase / stagehand) - The AI Browser Automation Framework
+- [lvgl / lvgl](https://github.com/lvgl / lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
 
 ### 📚 技术文章精选
-- [《DeepSeek 行业应用大全（微课视频版）》人工智能深度剖析：解锁 AIGC 新生产力](https://blog.csdn.net/weixin_43151418/article/details/147542857)
-- [边缘计算 AI 部署：如何用 TensorFlow Lite 2025 实现毫秒级响应](https://blog.csdn.net/2503_92849275/article/details/149858201)
-- [2025 年就业竞争激烈！当1222 万毕业生遭遇 “35 岁门槛” 与 AI 革命的双重冲击](https://blog.csdn.net/EnjoyEDU/article/details/149217756)
+- [华为盘古模型“抄袭”阿里？0.927相似度+6000字爆料撕开了国产AI的残酷真相。](https://blog.csdn.net/weixin_40774379/article/details/149188039)
+- [飞算 JavaAI：让 Java 开发效率飙升的智能助手，日常开发全场景应用指南](https://blog.csdn.net/weixin_43151418/article/details/149023767)
+- [Ambience Healthcare：AI驱动的医疗行政效率革命——从C轮2.43亿美元融资看医疗操作系统未来(上)](https://blog.csdn.net/kkiron/article/details/149946604)
 
 ### 🛡️ 安全资讯
-- [如何把一个程序跑在指定vCPU上压测单核性能](https://cloud.tencent.com/developer/article/2551237)
-- [对话凯文·凯利：不必过多担忧，AI变强后，人类只需专注于“玩”](https://cloud.tencent.com/developer/article/2551267)
 - [腾讯一口气开源4款新模型，最小仅0.5B](https://cloud.tencent.com/developer/article/2551264)
+- [书本大纲：从芯片、分布式到云计算AI时代](https://cloud.tencent.com/developer/article/2551389)
+- [我的代码背叛了我？为什么 a=1, b=2，最后x和y都等于0？](https://cloud.tencent.com/developer/article/2551392)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
