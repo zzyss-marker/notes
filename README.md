@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │    │    │    │  1 │  2 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  3 │  4 │  5 │  6 │  7 │ ⭐ │  9 │
+│  3 │  4 │  5 │  6 │  7 │  8 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 10 │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年8月8日
+🌟 今天是2025年8月9日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,26 +113,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/8/8)
+## 📰 今日资讯 (2025/8/9)
 
 ### 🔥 GitHub 热门项目
 - [nautechsystems / nautilus_trader](https://github.com/nautechsystems / nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
-- [browserbase / stagehand](https://github.com/browserbase / stagehand) - The AI Browser Automation Framework
-- [lvgl / lvgl](https://github.com/lvgl / lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
+- [openai / openai-cookbook](https://github.com/openai / openai-cookbook) - Examples and guides for using the OpenAI API
+- [openai / codex](https://github.com/openai / codex) - Lightweight coding agent that runs in your terminal
 
 ### 📚 技术文章精选
-- [华为盘古模型“抄袭”阿里？0.927相似度+6000字爆料撕开了国产AI的残酷真相。](https://blog.csdn.net/weixin_40774379/article/details/149188039)
-- [飞算 JavaAI：让 Java 开发效率飙升的智能助手，日常开发全场景应用指南](https://blog.csdn.net/weixin_43151418/article/details/149023767)
-- [Ambience Healthcare：AI驱动的医疗行政效率革命——从C轮2.43亿美元融资看医疗操作系统未来(上)](https://blog.csdn.net/kkiron/article/details/149946604)
+- [智能车模糊pid的简单使用教程](https://blog.csdn.net/m0_69153234/article/details/140850601)
+- [自定义一个简单的MCP Server：使用SpringAI + Cline + DeepSeek实现AI创建文件并写入内容](https://blog.csdn.net/qq_39354140/article/details/147821131)
+- [一文教会你使用 LangSmith 搭建 AI 应用监测平台](https://blog.csdn.net/fengshi_fengshi/article/details/144493414)
 
 ### 🛡️ 安全资讯
-- [腾讯一口气开源4款新模型，最小仅0.5B](https://cloud.tencent.com/developer/article/2551264)
-- [书本大纲：从芯片、分布式到云计算AI时代](https://cloud.tencent.com/developer/article/2551389)
-- [我的代码背叛了我？为什么 a=1, b=2，最后x和y都等于0？](https://cloud.tencent.com/developer/article/2551392)
+- [codeBuddy最佳实践(测试勿删)](https://cloud.tencent.com/developer/article/2551726)
+- [1行Python代码，实现PDF的加密、解密](https://cloud.tencent.com/developer/article/2551732)
+- [【专家说】方天戟：从LLM普惠浪潮到混合云重构，揭秘“十五五”智算云选型](https://cloud.tencent.com/developer/article/2551775)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
