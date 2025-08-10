@@ -32,9 +32,9 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │    │    │    │  1 │  2 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  3 │  4 │  5 │  6 │  7 │  8 │ ⭐ │
+│  3 │  4 │  5 │  6 │  7 │  8 │  9 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 10 │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │
+│ ⭐ │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 17 │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年8月9日
+🌟 今天是2025年8月10日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,26 +113,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/8/9)
+## 📰 今日资讯 (2025/8/10)
 
 ### 🔥 GitHub 热门项目
-- [nautechsystems / nautilus_trader](https://github.com/nautechsystems / nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
-- [openai / openai-cookbook](https://github.com/openai / openai-cookbook) - Examples and guides for using the OpenAI API
 - [openai / codex](https://github.com/openai / codex) - Lightweight coding agent that runs in your terminal
+- [xiaoyaocz / dart_simple_live](https://github.com/xiaoyaocz / dart_simple_live) - 简简单单的看直播
+- [nautechsystems / nautilus_trader](https://github.com/nautechsystems / nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
 
 ### 📚 技术文章精选
-- [智能车模糊pid的简单使用教程](https://blog.csdn.net/m0_69153234/article/details/140850601)
-- [自定义一个简单的MCP Server：使用SpringAI + Cline + DeepSeek实现AI创建文件并写入内容](https://blog.csdn.net/qq_39354140/article/details/147821131)
-- [一文教会你使用 LangSmith 搭建 AI 应用监测平台](https://blog.csdn.net/fengshi_fengshi/article/details/144493414)
+- [【AI大模型前沿】MedReason：大规模医学推理数据集、借用知识图谱将大模型打造成医术专家](https://blog.csdn.net/xiaobing259/article/details/147877622)
+- [AI智能体｜扣子（Coze）搭建工作流入门教程，看完这篇你也可以！](https://blog.csdn.net/kaka0722ww/article/details/148310125)
+- [Spring AI 框架：从零开始掌握 AI 与 Spring 的完美结合！](https://blog.csdn.net/2301_78858041/article/details/146076432)
 
 ### 🛡️ 安全资讯
-- [codeBuddy最佳实践(测试勿删)](https://cloud.tencent.com/developer/article/2551726)
-- [1行Python代码，实现PDF的加密、解密](https://cloud.tencent.com/developer/article/2551732)
-- [【专家说】方天戟：从LLM普惠浪潮到混合云重构，揭秘“十五五”智算云选型](https://cloud.tencent.com/developer/article/2551775)
+- [人形机器人的进化之路｜2.5万字圆桌实录](https://cloud.tencent.com/developer/article/2551797)
+- [深度解读！腾讯研效提升的两大破局之道：WeDev融合互通+智能化](https://cloud.tencent.com/developer/article/2551778)
+- [继续开源：腾讯混元 0.5B、1.8B、4B、7B模型发布](https://cloud.tencent.com/developer/article/2551776)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
