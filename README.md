@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  3 │  4 │  5 │  6 │  7 │  8 │  9 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │
+│ 10 │ ⭐ │ 12 │ 13 │ 14 │ 15 │ 16 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 17 │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年8月10日
+🌟 今天是2025年8月11日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,22 +113,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/8/10)
+## 📰 今日资讯 (2025/8/11)
 
 ### 🔥 GitHub 热门项目
-- [openai / codex](https://github.com/openai / codex) - Lightweight coding agent that runs in your terminal
-- [xiaoyaocz / dart_simple_live](https://github.com/xiaoyaocz / dart_simple_live) - 简简单单的看直播
-- [nautechsystems / nautilus_trader](https://github.com/nautechsystems / nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
+- [umami-software / umami](https://github.com/umami-software / umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
+- [libsdl-org / SDL](https://github.com/libsdl-org / SDL) - Simple Directmedia Layer
+- [menloresearch / jan](https://github.com/menloresearch / jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 
 ### 📚 技术文章精选
-- [【AI大模型前沿】MedReason：大规模医学推理数据集、借用知识图谱将大模型打造成医术专家](https://blog.csdn.net/xiaobing259/article/details/147877622)
-- [AI智能体｜扣子（Coze）搭建工作流入门教程，看完这篇你也可以！](https://blog.csdn.net/kaka0722ww/article/details/148310125)
-- [Spring AI 框架：从零开始掌握 AI 与 Spring 的完美结合！](https://blog.csdn.net/2301_78858041/article/details/146076432)
+- [Unity AI数字人开发笔记](https://blog.csdn.net/qq_17523181/article/details/148255809)
+- [【Spring AI 0基础教程】1、基础篇 | 环境搭建 - 智能天气预报助手](https://blog.csdn.net/brownxd/article/details/147001607)
+- [蓝耘元生代引领AI开发新潮流：DeepSeek R1/V3满血版亮相，开启高效应用新时代](https://blog.csdn.net/null18/article/details/145789599)
 
 ### 🛡️ 安全资讯
-- [人形机器人的进化之路｜2.5万字圆桌实录](https://cloud.tencent.com/developer/article/2551797)
-- [深度解读！腾讯研效提升的两大破局之道：WeDev融合互通+智能化](https://cloud.tencent.com/developer/article/2551778)
-- [继续开源：腾讯混元 0.5B、1.8B、4B、7B模型发布](https://cloud.tencent.com/developer/article/2551776)
+- [首次披露：腾讯研效提升背后的两大核心驱动力](https://cloud.tencent.com/developer/article/2552363)
+- [AI时代的职业与教育](https://cloud.tencent.com/developer/article/2552384)
+- [为什么i++不是原子操作？一个让无数并发程序崩溃的“常识”](https://cloud.tencent.com/developer/article/2552416)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
