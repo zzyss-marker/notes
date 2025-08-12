@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  3 │  4 │  5 │  6 │  7 │  8 │  9 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 10 │ ⭐ │ 12 │ 13 │ 14 │ 15 │ 16 │
+│ 10 │ 11 │ ⭐ │ 13 │ 14 │ 15 │ 16 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 17 │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年8月11日
+🌟 今天是2025年8月12日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,26 +113,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/8/11)
+## 📰 今日资讯 (2025/8/12)
 
 ### 🔥 GitHub 热门项目
-- [umami-software / umami](https://github.com/umami-software / umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
-- [libsdl-org / SDL](https://github.com/libsdl-org / SDL) - Simple Directmedia Layer
-- [menloresearch / jan](https://github.com/menloresearch / jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+- [nomic-ai / gpt4all](https://github.com/nomic-ai / gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+- [tadata-org / fastapi_mcp](https://github.com/tadata-org / fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
+- [trailofbits / buttercup](https://github.com/trailofbits / buttercup) - 
 
 ### 📚 技术文章精选
-- [Unity AI数字人开发笔记](https://blog.csdn.net/qq_17523181/article/details/148255809)
-- [【Spring AI 0基础教程】1、基础篇 | 环境搭建 - 智能天气预报助手](https://blog.csdn.net/brownxd/article/details/147001607)
-- [蓝耘元生代引领AI开发新潮流：DeepSeek R1/V3满血版亮相，开启高效应用新时代](https://blog.csdn.net/null18/article/details/145789599)
+- [AI+物理融合新范式：物理信息神经网络（PINN）的深度研究报告](https://blog.csdn.net/weixin_42878111/article/details/149975656)
+- [别再用笨办法做AI提示词了！PromptX 让你一键打造“智能体工厂”](https://blog.csdn.net/2401_85325557/article/details/149031340)
+- [AI论文写作靠不靠谱？九款软件深度评测与避坑指南](https://blog.csdn.net/xiaoyiccczi/article/details/147935767)
 
 ### 🛡️ 安全资讯
-- [首次披露：腾讯研效提升背后的两大核心驱动力](https://cloud.tencent.com/developer/article/2552363)
-- [AI时代的职业与教育](https://cloud.tencent.com/developer/article/2552384)
-- [为什么i++不是原子操作？一个让无数并发程序崩溃的“常识”](https://cloud.tencent.com/developer/article/2552416)
+- [【运维自动化-标准运维】各类全局变量使用说明-元变量(完结)](https://cloud.tencent.com/developer/article/2552926)
+- [第42届CCF中国数据库学术会议(NDBC 2025)在长春成功举行](https://cloud.tencent.com/developer/article/2553349)
+- [7月产品月报 | CKafka 连接器正式商业化](https://cloud.tencent.com/developer/article/2553353)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
