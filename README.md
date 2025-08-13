@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  3 │  4 │  5 │  6 │  7 │  8 │  9 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 10 │ 11 │ ⭐ │ 13 │ 14 │ 15 │ 16 │
+│ 10 │ 11 │ 12 │ ⭐ │ 14 │ 15 │ 16 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 17 │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年8月12日
+🌟 今天是2025年8月13日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,26 +113,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/8/12)
+## 📰 今日资讯 (2025/8/13)
 
 ### 🔥 GitHub 热门项目
-- [nomic-ai / gpt4all](https://github.com/nomic-ai / gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-- [tadata-org / fastapi_mcp](https://github.com/tadata-org / fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
-- [trailofbits / buttercup](https://github.com/trailofbits / buttercup) - 
+- [ubicloud / ubicloud](https://github.com/ubicloud / ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
+- [microsoft / poml](https://github.com/microsoft / poml) - Prompt Orchestration Markup Language
+- [denizsafak / abogen](https://github.com/denizsafak / abogen) - Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
 
 ### 📚 技术文章精选
-- [AI+物理融合新范式：物理信息神经网络（PINN）的深度研究报告](https://blog.csdn.net/weixin_42878111/article/details/149975656)
-- [别再用笨办法做AI提示词了！PromptX 让你一键打造“智能体工厂”](https://blog.csdn.net/2401_85325557/article/details/149031340)
-- [AI论文写作靠不靠谱？九款软件深度评测与避坑指南](https://blog.csdn.net/xiaoyiccczi/article/details/147935767)
+- [基于腾讯云MCP广场的AI自动化实践：爬取小红书热门话题](https://blog.csdn.net/lwcwam/article/details/147805601)
+- [【AI智能体】Spring AI Tool 从使用到实战详解](https://blog.csdn.net/zhangcongyi420/article/details/147963334)
+- [最新版最全面的 Java+AI 学习路线来了！（2025 版）](https://blog.csdn.net/2301_78858041/article/details/145573069)
 
 ### 🛡️ 安全资讯
-- [【运维自动化-标准运维】各类全局变量使用说明-元变量(完结)](https://cloud.tencent.com/developer/article/2552926)
 - [第42届CCF中国数据库学术会议(NDBC 2025)在长春成功举行](https://cloud.tencent.com/developer/article/2553349)
-- [7月产品月报 | CKafka 连接器正式商业化](https://cloud.tencent.com/developer/article/2553353)
+- [南方电网×腾讯专有云TCS：多云微服务治理创新斩获「可信云·用户最佳实践奖」](https://cloud.tencent.com/developer/article/2553350)
+- [客户评分全球第三国内第一！腾讯云连续3年入选Gartner®容器管理魔力象限](https://cloud.tencent.com/developer/article/2553347)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
