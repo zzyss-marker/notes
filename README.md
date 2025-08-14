@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  3 │  4 │  5 │  6 │  7 │  8 │  9 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 10 │ 11 │ 12 │ ⭐ │ 14 │ 15 │ 16 │
+│ 10 │ 11 │ 12 │ 13 │ ⭐ │ 15 │ 16 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 17 │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年8月13日
+🌟 今天是2025年8月14日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,22 +113,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/8/13)
+## 📰 今日资讯 (2025/8/14)
 
 ### 🔥 GitHub 热门项目
 - [ubicloud / ubicloud](https://github.com/ubicloud / ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
-- [microsoft / poml](https://github.com/microsoft / poml) - Prompt Orchestration Markup Language
-- [denizsafak / abogen](https://github.com/denizsafak / abogen) - Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
+- [apple / embedding-atlas](https://github.com/apple / embedding-atlas) - Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.
+- [jitsi / jitsi-meet](https://github.com/jitsi / jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 
 ### 📚 技术文章精选
-- [基于腾讯云MCP广场的AI自动化实践：爬取小红书热门话题](https://blog.csdn.net/lwcwam/article/details/147805601)
-- [【AI智能体】Spring AI Tool 从使用到实战详解](https://blog.csdn.net/zhangcongyi420/article/details/147963334)
-- [最新版最全面的 Java+AI 学习路线来了！（2025 版）](https://blog.csdn.net/2301_78858041/article/details/145573069)
+- [AI大模型多并发部署：从理论到实践](https://blog.csdn.net/csdn122345/article/details/147686421)
+- [2025年第27届中国机器人及人工智能大赛自主巡航实战经验分享](https://blog.csdn.net/wangyuchen00/article/details/147630802)
+- [2025年AI视频生成大混战！5大免费神器PK谷歌VEO 2](https://blog.csdn.net/qq_35698714/article/details/147593745)
 
 ### 🛡️ 安全资讯
-- [第42届CCF中国数据库学术会议(NDBC 2025)在长春成功举行](https://cloud.tencent.com/developer/article/2553349)
-- [南方电网×腾讯专有云TCS：多云微服务治理创新斩获「可信云·用户最佳实践奖」](https://cloud.tencent.com/developer/article/2553350)
-- [客户评分全球第三国内第一！腾讯云连续3年入选Gartner®容器管理魔力象限](https://cloud.tencent.com/developer/article/2553347)
+- [人类在被大语言模型“反向图灵测试”](https://cloud.tencent.com/developer/article/2553533)
+- [Hello World背后藏着什么秘密？一行代码看懂Java的“跨平台”魔法](https://cloud.tencent.com/developer/article/2553537)
+- [练习时长两年半，我不再“写”代码，而是“指挥”一个AI团队](https://cloud.tencent.com/developer/article/2553521)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
