@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  3 │  4 │  5 │  6 │  7 │  8 │  9 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 10 │ 11 │ 12 │ 13 │ ⭐ │ 15 │ 16 │
+│ 10 │ 11 │ 12 │ 13 │ 14 │ ⭐ │ 16 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 17 │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年8月14日
+🌟 今天是2025年8月15日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,26 +113,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/8/14)
+## 📰 今日资讯 (2025/8/15)
 
 ### 🔥 GitHub 热门项目
 - [ubicloud / ubicloud](https://github.com/ubicloud / ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
-- [apple / embedding-atlas](https://github.com/apple / embedding-atlas) - Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.
-- [jitsi / jitsi-meet](https://github.com/jitsi / jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+- [microsoft / poml](https://github.com/microsoft / poml) - Prompt Orchestration Markup Language
+- [pathwaycom / pathway](https://github.com/pathwaycom / pathway) - Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
 
 ### 📚 技术文章精选
-- [AI大模型多并发部署：从理论到实践](https://blog.csdn.net/csdn122345/article/details/147686421)
-- [2025年第27届中国机器人及人工智能大赛自主巡航实战经验分享](https://blog.csdn.net/wangyuchen00/article/details/147630802)
-- [2025年AI视频生成大混战！5大免费神器PK谷歌VEO 2](https://blog.csdn.net/qq_35698714/article/details/147593745)
+- [【MCP探索实践】Cherry Studio+MCP实战：3步让AI自动抓网页/读文件/调API](https://blog.csdn.net/xiaobing259/article/details/147589551)
+- [截断重要性采样（TIS）在医疗AI大模型训练中的优化路径](https://blog.csdn.net/kkiron/article/details/150379333)
+- [智能自主运动体与人工智能技术——环境感知、SLAM定位、路径规划、运动控制、多智能体协同](https://blog.csdn.net/ccsss22/article/details/149116289)
 
 ### 🛡️ 安全资讯
-- [人类在被大语言模型“反向图灵测试”](https://cloud.tencent.com/developer/article/2553533)
-- [Hello World背后藏着什么秘密？一行代码看懂Java的“跨平台”魔法](https://cloud.tencent.com/developer/article/2553537)
-- [练习时长两年半，我不再“写”代码，而是“指挥”一个AI团队](https://cloud.tencent.com/developer/article/2553521)
+- [tcp进程监听](https://cloud.tencent.com/developer/article/2553908)
+- [浏览器端如何获取客户端ip](https://cloud.tencent.com/developer/article/2553910)
+- [腾讯云CPaaS：连续三年上榜，国内唯一，多项第一](https://cloud.tencent.com/developer/article/2553952)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
