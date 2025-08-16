@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  3 │  4 │  5 │  6 │  7 │  8 │  9 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 10 │ 11 │ 12 │ 13 │ 14 │ ⭐ │ 16 │
+│ 10 │ 11 │ 12 │ 13 │ 14 │ 15 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 17 │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年8月15日
+🌟 今天是2025年8月16日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,26 +113,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/8/15)
+## 📰 今日资讯 (2025/8/16)
 
 ### 🔥 GitHub 热门项目
+- [tadata-org / fastapi_mcp](https://github.com/tadata-org / fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
 - [ubicloud / ubicloud](https://github.com/ubicloud / ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
-- [microsoft / poml](https://github.com/microsoft / poml) - Prompt Orchestration Markup Language
-- [pathwaycom / pathway](https://github.com/pathwaycom / pathway) - Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
+- [budtmo / docker-android](https://github.com/budtmo / docker-android) - Android in docker solution with noVNC supported and video recording
 
 ### 📚 技术文章精选
-- [【MCP探索实践】Cherry Studio+MCP实战：3步让AI自动抓网页/读文件/调API](https://blog.csdn.net/xiaobing259/article/details/147589551)
-- [截断重要性采样（TIS）在医疗AI大模型训练中的优化路径](https://blog.csdn.net/kkiron/article/details/150379333)
-- [智能自主运动体与人工智能技术——环境感知、SLAM定位、路径规划、运动控制、多智能体协同](https://blog.csdn.net/ccsss22/article/details/149116289)
+- [用Java飞算AI打造磁盘大文件搜寻助手，轻松解决C盘爆满难题](https://blog.csdn.net/weixin_66401877/article/details/150112505)
+- [第三章-提示词-初级：一文带你入门提示词工程，开启AI高效交互之旅（11/36）](https://blog.csdn.net/beautifulmemory/article/details/149448525)
+- [飞算 JavaAI：需求转在线考试系统全流程体验-代码驱动的智能开发革命](https://blog.csdn.net/Pocker_Spades_A/article/details/150162884)
 
 ### 🛡️ 安全资讯
-- [tcp进程监听](https://cloud.tencent.com/developer/article/2553908)
-- [浏览器端如何获取客户端ip](https://cloud.tencent.com/developer/article/2553910)
-- [腾讯云CPaaS：连续三年上榜，国内唯一，多项第一](https://cloud.tencent.com/developer/article/2553952)
+- [从前端 UI 框架到底层编译器的智能测试](https://cloud.tencent.com/developer/article/2554647)
+- [用户之声（VOC）需求征集 - 第一期](https://cloud.tencent.com/developer/article/2554669)
+- [混元之力・腾讯混元 AIGC 多模态挑战赛](https://cloud.tencent.com/developer/article/2554715)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
