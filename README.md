@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 10 │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │
+│ 17 │ ⭐ │ 19 │ 20 │ 21 │ 22 │ 23 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 24 │ 25 │ 26 │ 27 │ 28 │ 29 │ 30 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年8月17日
+🌟 今天是2025年8月18日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,26 +113,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/8/17)
+## 📰 今日资讯 (2025/8/18)
 
 ### 🔥 GitHub 热门项目
 - [coleam00 / Archon](https://github.com/coleam00 / Archon) - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
-- [microsoft / poml](https://github.com/microsoft / poml) - Prompt Orchestration Markup Language
-- [LMCache / LMCache](https://github.com/LMCache / LMCache) - Supercharge Your LLM with the Fastest KV Cache Layer
+- [emcie-co / parlant](https://github.com/emcie-co / parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes.
+- [Shubhamsaboo / awesome-llm-apps](https://github.com/Shubhamsaboo / awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 
 ### 📚 技术文章精选
-- [Kiro vs Cursor: AI IDE 终极对比指南](https://blog.csdn.net/daiziguizhong/article/details/149423174)
-- [MCP革命：Anthropic如何重新定义AI与外部世界的连接标准](https://blog.csdn.net/IRpickstars/article/details/149881049)
-- [【探展WAIC】从“眼见为虚”到“AI识真”：如何用大模型筑造多模态鉴伪盾牌](https://blog.csdn.net/air__Heaven/article/details/150080705)
+- [【2025版】最适合小白的大模型教程——教你免费把AI大模型接入小米音箱，（非常详细0从零基础到精通，精通收藏这篇就够了！](https://blog.csdn.net/Python_0011/article/details/148406524)
+- [深度学习整合：OpenCV调用YOLOv5实现实时目标检测（人工智能丨模型部署丨计算机视觉丨图像处理丨pytorch）](https://blog.csdn.net/2501_91798322/article/details/147991200)
+- [​​​​​​​Github AI开发者生态最新动态今日速览（20250408）](https://blog.csdn.net/xinxiyinhe/article/details/147063480)
 
 ### 🛡️ 安全资讯
-- [用户之声（VOC）需求征集 - 第一期](https://cloud.tencent.com/developer/article/2554669)
-- [混元之力・腾讯混元 AIGC 多模态挑战赛](https://cloud.tencent.com/developer/article/2554715)
-- [恭喜！TCS荣登「2025数字金融“上云赋智”产品目录」](https://cloud.tencent.com/developer/article/2554866)
+- [张笑宇：我们相对于AI，就是史前动物](https://cloud.tencent.com/developer/article/2554856)
+- [如何设计一个支付系统：链路优化详解丨架构师系列文集](https://cloud.tencent.com/developer/article/2554869)
+- [国家级认可！腾讯云智能体开发核心能力领跑行业](https://cloud.tencent.com/developer/article/2555227)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
