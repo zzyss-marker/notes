@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 10 │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 17 │ 18 │ ⭐ │ 20 │ 21 │ 22 │ 23 │
+│ 17 │ 18 │ 19 │ ⭐ │ 21 │ 22 │ 23 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 24 │ 25 │ 26 │ 27 │ 28 │ 29 │ 30 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年8月19日
+🌟 今天是2025年8月20日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,26 +113,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/8/19)
+## 📰 今日资讯 (2025/8/20)
 
 ### 🔥 GitHub 热门项目
-- [coleam00 / Archon](https://github.com/coleam00 / Archon) - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
 - [emcie-co / parlant](https://github.com/emcie-co / parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes.
-- [DataExpert-io / data-engineer-handbook](https://github.com/DataExpert-io / data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
+- [coleam00 / Archon](https://github.com/coleam00 / Archon) - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
+- [LMCache / LMCache](https://github.com/LMCache / LMCache) - Supercharge Your LLM with the Fastest KV Cache Layer
 
 ### 📚 技术文章精选
-- [【飞算JavaAI】智能开发助手赋能Java领域，飞算JavaAI全方位解析](https://blog.csdn.net/Morse_Chen/article/details/149048031)
-- [AI 驱动 + 亮数据赋能：揭秘亚马逊电商数据高效爬取的技术密码](https://blog.csdn.net/2301_80863610/article/details/147773422)
-- [【AI智能体】Dify 搭建发票识别助手操作实战详解](https://blog.csdn.net/zhangcongyi420/article/details/150356677)
+- [费雪成长股选择的AI革新：多智能体系统的角色](https://blog.csdn.net/universsky2015/article/details/149473678)
+- [「源力觉醒 创作者计划」_文心大模型 4.5 开源 28 天：从车间轴承到山村课堂的 AI 突围](https://blog.csdn.net/atgfg/article/details/149782180)
+- [【人工智能机器学习基础篇】——深入详解监督学习之回归与分类：理解线性回归、逻辑回归、支持向量机（SVM）、决策树、随机森林、梯度提升机（GBM）等算法](https://blog.csdn.net/martian665/article/details/144538935)
 
 ### 🛡️ 安全资讯
-- [领航项目管理升级，共创战略价值新纪元 —— 2025年TAPD&amp;PMI项目管理论坛广州站圆满落幕](https://cloud.tencent.com/developer/article/2555272)
-- [腾云悦智 x 腾讯云：从“技术代差”到“效能标杆”​，重构国产化技术规则](https://cloud.tencent.com/developer/article/2555270)
-- [运营商实战成果！分布式架构可观测能力建设全攻略](https://cloud.tencent.com/developer/article/2555382)
+- [传统大数据团队如何做多维数据分析-团队分类](https://cloud.tencent.com/developer/article/2555897)
+- [“代码跑着跑着，就变快了？”——揭秘Java性能幕后引擎：即时编译器](https://cloud.tencent.com/developer/article/2555938)
+- [大模型背后的“新搜索”生意，水有多深](https://cloud.tencent.com/developer/article/2555972)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
