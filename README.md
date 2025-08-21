@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 10 │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 17 │ 18 │ 19 │ ⭐ │ 21 │ 22 │ 23 │
+│ 17 │ 18 │ 19 │ 20 │ ⭐ │ 22 │ 23 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 24 │ 25 │ 26 │ 27 │ 28 │ 29 │ 30 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年8月20日
+🌟 今天是2025年8月21日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,26 +113,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/8/20)
+## 📰 今日资讯 (2025/8/21)
 
 ### 🔥 GitHub 热门项目
-- [emcie-co / parlant](https://github.com/emcie-co / parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes.
-- [coleam00 / Archon](https://github.com/coleam00 / Archon) - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
-- [LMCache / LMCache](https://github.com/LMCache / LMCache) - Supercharge Your LLM with the Fastest KV Cache Layer
+- [simstudioai / sim](https://github.com/simstudioai / sim) - Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+- [moeru-ai / airi](https://github.com/moeru-ai / airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+- [puppeteer / puppeteer](https://github.com/puppeteer / puppeteer) - JavaScript API for Chrome and Firefox
 
 ### 📚 技术文章精选
-- [费雪成长股选择的AI革新：多智能体系统的角色](https://blog.csdn.net/universsky2015/article/details/149473678)
-- [「源力觉醒 创作者计划」_文心大模型 4.5 开源 28 天：从车间轴承到山村课堂的 AI 突围](https://blog.csdn.net/atgfg/article/details/149782180)
-- [【人工智能机器学习基础篇】——深入详解监督学习之回归与分类：理解线性回归、逻辑回归、支持向量机（SVM）、决策树、随机森林、梯度提升机（GBM）等算法](https://blog.csdn.net/martian665/article/details/144538935)
+- [Dify Hackathon：低代码AI开发赋能企业数智化实战](https://blog.csdn.net/2501_92796370/article/details/149939884)
+- [Ambience Healthcare：AI驱动的医疗行政效率革命——从C轮2.43亿美元融资看医疗操作系统未来(上)](https://blog.csdn.net/kkiron/article/details/149946604)
+- [飞算 JavaAI：我的编程强力助推引擎](https://blog.csdn.net/sixpp/article/details/149044488)
 
 ### 🛡️ 安全资讯
-- [传统大数据团队如何做多维数据分析-团队分类](https://cloud.tencent.com/developer/article/2555897)
 - [“代码跑着跑着，就变快了？”——揭秘Java性能幕后引擎：即时编译器](https://cloud.tencent.com/developer/article/2555938)
 - [大模型背后的“新搜索”生意，水有多深](https://cloud.tencent.com/developer/article/2555972)
+- [腾权科技 x 腾讯云：从“地域鸿沟”到“无界课堂”​，激活普惠教育新引擎](https://cloud.tencent.com/developer/article/2556089)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
