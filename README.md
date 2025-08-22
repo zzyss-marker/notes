@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 10 │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 17 │ 18 │ 19 │ 20 │ ⭐ │ 22 │ 23 │
+│ 17 │ 18 │ 19 │ 20 │ 21 │ ⭐ │ 23 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 24 │ 25 │ 26 │ 27 │ 28 │ 29 │ 30 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年8月21日
+🌟 今天是2025年8月22日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,26 +113,24 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/8/21)
+## 📰 今日资讯 (2025/8/22)
 
 ### 🔥 GitHub 热门项目
-- [simstudioai / sim](https://github.com/simstudioai / sim) - Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
 - [moeru-ai / airi](https://github.com/moeru-ai / airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-- [puppeteer / puppeteer](https://github.com/puppeteer / puppeteer) - JavaScript API for Chrome and Firefox
+- [simstudioai / sim](https://github.com/simstudioai / sim) - Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+- [google / googletest](https://github.com/google / googletest) - GoogleTest - Google Testing and Mocking Framework
 
 ### 📚 技术文章精选
-- [Dify Hackathon：低代码AI开发赋能企业数智化实战](https://blog.csdn.net/2501_92796370/article/details/149939884)
-- [Ambience Healthcare：AI驱动的医疗行政效率革命——从C轮2.43亿美元融资看医疗操作系统未来(上)](https://blog.csdn.net/kkiron/article/details/149946604)
-- [飞算 JavaAI：我的编程强力助推引擎](https://blog.csdn.net/sixpp/article/details/149044488)
+获取 CSDN 文章失败
 
 ### 🛡️ 安全资讯
-- [“代码跑着跑着，就变快了？”——揭秘Java性能幕后引擎：即时编译器](https://cloud.tencent.com/developer/article/2555938)
-- [大模型背后的“新搜索”生意，水有多深](https://cloud.tencent.com/developer/article/2555972)
-- [腾权科技 x 腾讯云：从“地域鸿沟”到“无界课堂”​，激活普惠教育新引擎](https://cloud.tencent.com/developer/article/2556089)
+- [腾讯云 IM 方案升级：搭建 AI 聊天机器人竟只需5分钟？](https://cloud.tencent.com/developer/article/2556092)
+- [人工智能“入侵”人类新闻网站腹地](https://cloud.tencent.com/developer/article/2556186)
+- [腾讯云TI-AOI平台能力全新升级！算法性能、训练模式与部署能力全面进阶](https://cloud.tencent.com/developer/article/2556195)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
