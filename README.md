@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 10 │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 17 │ 18 │ 19 │ 20 │ 21 │ ⭐ │ 23 │
+│ 17 │ 18 │ 19 │ 20 │ 21 │ 22 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 24 │ 25 │ 26 │ 27 │ 28 │ 29 │ 30 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年8月22日
+🌟 今天是2025年8月23日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,24 +113,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/8/22)
+## 📰 今日资讯 (2025/8/23)
 
 ### 🔥 GitHub 热门项目
+- [simstudioai / sim](https://github.com/simstudioai / sim) - Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
 - [moeru-ai / airi](https://github.com/moeru-ai / airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-- [simstudioai / sim](https://github.com/simstudioai / sim) - Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
 - [google / googletest](https://github.com/google / googletest) - GoogleTest - Google Testing and Mocking Framework
 
 ### 📚 技术文章精选
-获取 CSDN 文章失败
+- [AI写小说真能看？实测5款工具，我想说句公道话](https://blog.csdn.net/chataigc/article/details/150015355)
+- [idea使用插件proxyAI接入deepseek](https://blog.csdn.net/LX13619022295/article/details/145878446)
+- [【AI智能体】Coze 搭建个人旅游规划助手实战详解](https://blog.csdn.net/zhangcongyi420/article/details/148367462)
 
 ### 🛡️ 安全资讯
-- [腾讯云 IM 方案升级：搭建 AI 聊天机器人竟只需5分钟？](https://cloud.tencent.com/developer/article/2556092)
-- [人工智能“入侵”人类新闻网站腹地](https://cloud.tencent.com/developer/article/2556186)
-- [腾讯云TI-AOI平台能力全新升级！算法性能、训练模式与部署能力全面进阶](https://cloud.tencent.com/developer/article/2556195)
+- [一篇文理解AI核心基本概念：LLM、Function Call、Agent…](https://cloud.tencent.com/developer/article/2556711)
+- [WeChat-YATT：微信强化学习大模型训练库](https://cloud.tencent.com/developer/article/2556704)
+- [mark.js的使用方法](https://cloud.tencent.com/developer/article/2556851)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
