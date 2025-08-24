@@ -36,9 +36,9 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 10 │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 17 │ 18 │ 19 │ 20 │ 21 │ 22 │ ⭐ │
+│ 17 │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 24 │ 25 │ 26 │ 27 │ 28 │ 29 │ 30 │
+│ ⭐ │ 25 │ 26 │ 27 │ 28 │ 29 │ 30 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 31 │    │    │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年8月23日
+🌟 今天是2025年8月24日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,26 +113,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/8/23)
+## 📰 今日资讯 (2025/8/24)
 
 ### 🔥 GitHub 热门项目
-- [simstudioai / sim](https://github.com/simstudioai / sim) - Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
 - [moeru-ai / airi](https://github.com/moeru-ai / airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-- [google / googletest](https://github.com/google / googletest) - GoogleTest - Google Testing and Mocking Framework
+- [plait-board / drawnix](https://github.com/plait-board / drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
+- [Budibase / budibase](https://github.com/Budibase / budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
 
 ### 📚 技术文章精选
-- [AI写小说真能看？实测5款工具，我想说句公道话](https://blog.csdn.net/chataigc/article/details/150015355)
-- [idea使用插件proxyAI接入deepseek](https://blog.csdn.net/LX13619022295/article/details/145878446)
-- [【AI智能体】Coze 搭建个人旅游规划助手实战详解](https://blog.csdn.net/zhangcongyi420/article/details/148367462)
+- [【Gemini】Google AI Studio 使用指南：轻松玩转 Gemini 模型(免费试用(百万token) Gemini 2.5 Flash Preview 05-20)](https://blog.csdn.net/O_____V_____O/article/details/148260130)
+- [GpuGeek全栈AI开发实战：从零构建企业级大模型生产管线（附完整案例）](https://blog.csdn.net/Dreamy_zsy/article/details/147902059)
+- [【智能协同云图库】智能协同云图库第八弹：基于阿里云百炼大模型—实现 AI 扩图功能](https://blog.csdn.net/2402_84916296/article/details/149759315)
 
 ### 🛡️ 安全资讯
-- [一篇文理解AI核心基本概念：LLM、Function Call、Agent…](https://cloud.tencent.com/developer/article/2556711)
-- [WeChat-YATT：微信强化学习大模型训练库](https://cloud.tencent.com/developer/article/2556704)
-- [mark.js的使用方法](https://cloud.tencent.com/developer/article/2556851)
+- [Manus是什么](https://cloud.tencent.com/developer/article/2557312)
+- [OpenTenBase 内容征集大赛 | 企业级开源数据库，抢先体验赢大奖🏅](https://cloud.tencent.com/developer/article/2556062)
+- [Java编译器优化秘籍：字节码背后的IR魔法与常见技巧](https://cloud.tencent.com/developer/article/2557513)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
