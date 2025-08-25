@@ -38,7 +38,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 17 │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │ 25 │ 26 │ 27 │ 28 │ 29 │ 30 │
+│ 24 │ ⭐ │ 26 │ 27 │ 28 │ 29 │ 30 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 31 │    │    │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年8月24日
+🌟 今天是2025年8月25日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,22 +113,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/8/24)
+## 📰 今日资讯 (2025/8/25)
 
 ### 🔥 GitHub 热门项目
+- [winapps-org / winapps](https://github.com/winapps-org / winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
 - [moeru-ai / airi](https://github.com/moeru-ai / airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-- [plait-board / drawnix](https://github.com/plait-board / drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
-- [Budibase / budibase](https://github.com/Budibase / budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
+- [HKUDS / DeepCode](https://github.com/HKUDS / DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
 
 ### 📚 技术文章精选
-- [【Gemini】Google AI Studio 使用指南：轻松玩转 Gemini 模型(免费试用(百万token) Gemini 2.5 Flash Preview 05-20)](https://blog.csdn.net/O_____V_____O/article/details/148260130)
-- [GpuGeek全栈AI开发实战：从零构建企业级大模型生产管线（附完整案例）](https://blog.csdn.net/Dreamy_zsy/article/details/147902059)
-- [【智能协同云图库】智能协同云图库第八弹：基于阿里云百炼大模型—实现 AI 扩图功能](https://blog.csdn.net/2402_84916296/article/details/149759315)
+- [写小说怎么投稿赚钱？七猫番茄新手指南+AI写小说软件分享](https://blog.csdn.net/2301_79545694/article/details/150338932)
+- [idea 安装 proxyai 后的使用方法](https://blog.csdn.net/u014642921/article/details/147099246)
+- [颠覆原型设计！Figma Make 实测：AI 真的能帮你写完前端吗？](https://blog.csdn.net/IT_ORACLE/article/details/149711382)
 
 ### 🛡️ 安全资讯
-- [Manus是什么](https://cloud.tencent.com/developer/article/2557312)
-- [OpenTenBase 内容征集大赛 | 企业级开源数据库，抢先体验赢大奖🏅](https://cloud.tencent.com/developer/article/2556062)
-- [Java编译器优化秘籍：字节码背后的IR魔法与常见技巧](https://cloud.tencent.com/developer/article/2557513)
+- [当AI学会编程，最焦虑的是高级工程师](https://cloud.tencent.com/developer/article/2557709)
+- [企业微信5.0重大版本上线：推出六大全新AI能力](https://cloud.tencent.com/developer/article/2557708)
+- [解锁硬件潜能：Java向量化计算，性能飙升W倍！](https://cloud.tencent.com/developer/article/2557897)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
