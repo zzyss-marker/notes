@@ -38,7 +38,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 17 │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 24 │ ⭐ │ 26 │ 27 │ 28 │ 29 │ 30 │
+│ 24 │ 25 │ ⭐ │ 27 │ 28 │ 29 │ 30 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 31 │    │    │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年8月25日
+🌟 今天是2025年8月26日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,26 +113,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/8/25)
+## 📰 今日资讯 (2025/8/26)
 
 ### 🔥 GitHub 热门项目
-- [winapps-org / winapps](https://github.com/winapps-org / winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
-- [moeru-ai / airi](https://github.com/moeru-ai / airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+- [plait-board / drawnix](https://github.com/plait-board / drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
 - [HKUDS / DeepCode](https://github.com/HKUDS / DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+- [winapps-org / winapps](https://github.com/winapps-org / winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
 
 ### 📚 技术文章精选
-- [写小说怎么投稿赚钱？七猫番茄新手指南+AI写小说软件分享](https://blog.csdn.net/2301_79545694/article/details/150338932)
-- [idea 安装 proxyai 后的使用方法](https://blog.csdn.net/u014642921/article/details/147099246)
-- [颠覆原型设计！Figma Make 实测：AI 真的能帮你写完前端吗？](https://blog.csdn.net/IT_ORACLE/article/details/149711382)
+- [探索RAGFlow：解锁生成式AI的无限潜能（2/6）](https://blog.csdn.net/beautifulmemory/article/details/148676799)
+- [SpringBoot 整合 Langchain4j AIService 深度使用详解](https://blog.csdn.net/zhangcongyi420/article/details/148995160)
+- [Java (Spring AI) 实现MCP server实现数据库的智能问答](https://blog.csdn.net/qq_43548590/article/details/149539795)
 
 ### 🛡️ 安全资讯
-- [当AI学会编程，最焦虑的是高级工程师](https://cloud.tencent.com/developer/article/2557709)
-- [企业微信5.0重大版本上线：推出六大全新AI能力](https://cloud.tencent.com/developer/article/2557708)
-- [解锁硬件潜能：Java向量化计算，性能飙升W倍！](https://cloud.tencent.com/developer/article/2557897)
+- [深入理解Agent中的ReAct模式](https://cloud.tencent.com/developer/article/2558368)
+- [【腾讯云ES×AI实战】告别复杂！在一个技术栈内，基于混合搜索快速搭建RAG](https://cloud.tencent.com/developer/article/2558418)
+- [更懂人心的伙伴，腾讯云助力逗逗AI打造时刻同频的全方位陪伴体验](https://cloud.tencent.com/developer/article/2558417)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
