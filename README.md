@@ -38,7 +38,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 17 │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 24 │ 25 │ ⭐ │ 27 │ 28 │ 29 │ 30 │
+│ 24 │ 25 │ 26 │ ⭐ │ 28 │ 29 │ 30 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 31 │    │    │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年8月26日
+🌟 今天是2025年8月27日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,22 +113,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/8/26)
+## 📰 今日资讯 (2025/8/27)
 
 ### 🔥 GitHub 热门项目
+- [asgeirtj / system_prompts_leaks](https://github.com/asgeirtj / system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [plait-board / drawnix](https://github.com/plait-board / drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
-- [HKUDS / DeepCode](https://github.com/HKUDS / DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
-- [winapps-org / winapps](https://github.com/winapps-org / winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
+- [willccbb / verifiers](https://github.com/willccbb / verifiers) - Verifiers for LLM Reinforcement Learning
 
 ### 📚 技术文章精选
-- [探索RAGFlow：解锁生成式AI的无限潜能（2/6）](https://blog.csdn.net/beautifulmemory/article/details/148676799)
-- [SpringBoot 整合 Langchain4j AIService 深度使用详解](https://blog.csdn.net/zhangcongyi420/article/details/148995160)
-- [Java (Spring AI) 实现MCP server实现数据库的智能问答](https://blog.csdn.net/qq_43548590/article/details/149539795)
+- [从“替代”到“重构”：AI如何重新定义人类生产价值的坐标](https://blog.csdn.net/ailuloo/article/details/149564228)
+- [云原生+AI核心技术＆最佳实践](https://blog.csdn.net/2301_82300081/article/details/143481147)
+- [【AI大模型实战】Spring AI + LangGraph4j 多智能体开发，太强大了！](https://blog.csdn.net/Android23333/article/details/149353550)
 
 ### 🛡️ 安全资讯
-- [深入理解Agent中的ReAct模式](https://cloud.tencent.com/developer/article/2558368)
-- [【腾讯云ES×AI实战】告别复杂！在一个技术栈内，基于混合搜索快速搭建RAG](https://cloud.tencent.com/developer/article/2558418)
 - [更懂人心的伙伴，腾讯云助力逗逗AI打造时刻同频的全方位陪伴体验](https://cloud.tencent.com/developer/article/2558417)
+- [找到了！节省Token的9+1个邪修办法](https://cloud.tencent.com/developer/article/2558421)
+- [开源公告｜腾讯Kuikly开源框架新增支持Web，开启一码五端新体验！](https://cloud.tencent.com/developer/article/2558415)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
