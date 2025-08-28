@@ -38,7 +38,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 17 │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 24 │ 25 │ 26 │ ⭐ │ 28 │ 29 │ 30 │
+│ 24 │ 25 │ 26 │ 27 │ ⭐ │ 29 │ 30 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 31 │    │    │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年8月27日
+🌟 今天是2025年8月28日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,26 +113,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/8/27)
+## 📰 今日资讯 (2025/8/28)
 
 ### 🔥 GitHub 热门项目
 - [asgeirtj / system_prompts_leaks](https://github.com/asgeirtj / system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [plait-board / drawnix](https://github.com/plait-board / drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
-- [willccbb / verifiers](https://github.com/willccbb / verifiers) - Verifiers for LLM Reinforcement Learning
+- [QuentinFuxa / WhisperLiveKit](https://github.com/QuentinFuxa / WhisperLiveKit) - Python package for Real-time, Local Speech-to-Text and Speaker Diarization. FastAPI Server & Web Interface
 
 ### 📚 技术文章精选
-- [从“替代”到“重构”：AI如何重新定义人类生产价值的坐标](https://blog.csdn.net/ailuloo/article/details/149564228)
-- [云原生+AI核心技术＆最佳实践](https://blog.csdn.net/2301_82300081/article/details/143481147)
-- [【AI大模型实战】Spring AI + LangGraph4j 多智能体开发，太强大了！](https://blog.csdn.net/Android23333/article/details/149353550)
+- [Soul AI：智能社交的新纪元](https://blog.csdn.net/Songxianshengbei/article/details/137456223)
+- [GPT-5发布会：AI新纪元的启幕还是旧章的延续？](https://blog.csdn.net/beautifulmemory/article/details/150075236)
+- [【GitHub开源AI精选】Salesforce开源项目MAS-Zero：零监督下的多智能体系统设计框架](https://blog.csdn.net/xiaobing259/article/details/149859945)
 
 ### 🛡️ 安全资讯
-- [更懂人心的伙伴，腾讯云助力逗逗AI打造时刻同频的全方位陪伴体验](https://cloud.tencent.com/developer/article/2558417)
-- [找到了！节省Token的9+1个邪修办法](https://cloud.tencent.com/developer/article/2558421)
-- [开源公告｜腾讯Kuikly开源框架新增支持Web，开启一码五端新体验！](https://cloud.tencent.com/developer/article/2558415)
+- [用Python获取 Windows 上的 CPU 插槽数、物理核数、逻辑处理器数](https://cloud.tencent.com/developer/article/2558896)
+- [传统大数据团队如何做多维数据分析3-OLAP云原生验证方案架构](https://cloud.tencent.com/developer/article/2558899)
+- [什么是vibecoding](https://cloud.tencent.com/developer/article/2558932)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
