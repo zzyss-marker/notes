@@ -38,7 +38,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 17 │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 24 │ 25 │ 26 │ 27 │ ⭐ │ 29 │ 30 │
+│ 24 │ 25 │ 26 │ 27 │ 28 │ ⭐ │ 30 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 31 │    │    │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年8月28日
+🌟 今天是2025年8月29日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,26 +113,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/8/28)
+## 📰 今日资讯 (2025/8/29)
 
 ### 🔥 GitHub 热门项目
 - [asgeirtj / system_prompts_leaks](https://github.com/asgeirtj / system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
-- [plait-board / drawnix](https://github.com/plait-board / drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
-- [QuentinFuxa / WhisperLiveKit](https://github.com/QuentinFuxa / WhisperLiveKit) - Python package for Real-time, Local Speech-to-Text and Speaker Diarization. FastAPI Server & Web Interface
+- [Canner / WrenAI](https://github.com/Canner / WrenAI) - ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.
+- [firecracker-microvm / firecracker](https://github.com/firecracker-microvm / firecracker) - Secure and fast microVMs for serverless computing.
 
 ### 📚 技术文章精选
-- [Soul AI：智能社交的新纪元](https://blog.csdn.net/Songxianshengbei/article/details/137456223)
-- [GPT-5发布会：AI新纪元的启幕还是旧章的延续？](https://blog.csdn.net/beautifulmemory/article/details/150075236)
-- [【GitHub开源AI精选】Salesforce开源项目MAS-Zero：零监督下的多智能体系统设计框架](https://blog.csdn.net/xiaobing259/article/details/149859945)
+- [【DeepSeek应用实践】通义灵码 + DeepSeek：AI 编程助手的实战指南](https://blog.csdn.net/xiaobing259/article/details/145945480)
+- [Ruoyi AI 部署指南：从环境搭建到项目运行](https://blog.csdn.net/csdn122345/article/details/146460350)
+- [Java后端开发神器：飞算JavaAI让我从菜鸟变高手](https://blog.csdn.net/linshantang/article/details/149048831)
 
 ### 🛡️ 安全资讯
-- [用Python获取 Windows 上的 CPU 插槽数、物理核数、逻辑处理器数](https://cloud.tencent.com/developer/article/2558896)
-- [传统大数据团队如何做多维数据分析3-OLAP云原生验证方案架构](https://cloud.tencent.com/developer/article/2558899)
-- [什么是vibecoding](https://cloud.tencent.com/developer/article/2558932)
+- [IDE 国内版公测丨支持最新 DeepSeek V3.1](https://cloud.tencent.com/developer/article/2558869)
+- [什么是vibecoding](https://cloud.tencent.com/developer/article/2558931)
+- [传统大数据团队如何做多维数据分析3- OLAP WareHouse](https://cloud.tencent.com/developer/article/2558906)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
