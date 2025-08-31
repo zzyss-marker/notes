@@ -38,16 +38,16 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 17 │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 24 │ 25 │ 26 │ 27 │ 28 │ 29 │ ⭐ │
+│ 24 │ 25 │ 26 │ 27 │ 28 │ 29 │ 30 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 31 │    │    │    │    │    │    │
+│ ⭐ │    │    │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年8月30日
+🌟 今天是2025年8月31日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,26 +113,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/8/30)
+## 📰 今日资讯 (2025/8/31)
 
 ### 🔥 GitHub 热门项目
-- [QuentinFuxa / WhisperLiveKit](https://github.com/QuentinFuxa / WhisperLiveKit) - Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
+- [juspay / hyperswitch](https://github.com/juspay / hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
+- [inventree / InvenTree](https://github.com/inventree / InvenTree) - Open Source Inventory Management System
 - [microsoft / mcp](https://github.com/microsoft / mcp) - Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration
-- [Canner / WrenAI](https://github.com/Canner / WrenAI) - ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.
 
 ### 📚 技术文章精选
-- [AI智能体|扣子(Coze)搭建【一键转换为Word/pdf/Excel】工作流保姆级教学](https://blog.csdn.net/m0_53539063/article/details/147285833)
-- [人工智能概念之十：人工神经网络（ANN）](https://blog.csdn.net/Springfield3006/article/details/149769012)
-- [【AI】入门必看：大模型提示词的“有效长度”是多少？](https://blog.csdn.net/xcshap/article/details/149929227)
+- [CodeBuddy IDE 实用技巧上线，如何让你的 AI 更懂你](https://blog.csdn.net/csdn565973850/article/details/150213833)
+- [AI 编程助手 Claude Code 高效使用攻略](https://blog.csdn.net/wxaiway/article/details/149265914)
+- [超绝AI 编程助手：快速上手 Augment Code，提升开发效率！](https://blog.csdn.net/brownxd/article/details/149023511)
 
 ### 🛡️ 安全资讯
-- [【二叉树 - LeetCode】236. 二叉树的最近公共祖先](https://cloud.tencent.com/developer/article/2559051)
-- [【DFS 或 BFS 或拓扑排序 - LeetCode】329. 矩阵中的最长递增路径](https://cloud.tencent.com/developer/article/2559052)
-- [【栈 - LeetCode】739.每日温度](https://cloud.tencent.com/developer/article/2559054)
+- [DeepSeek-V3.1，全面接入！](https://cloud.tencent.com/developer/article/2559075)
+- [DeepSeek上线两天后再回看：一次“小更新”，一场架构“豪赌”](https://cloud.tencent.com/developer/article/2559076)
+- [AI影响就业的量化悖论](https://cloud.tencent.com/developer/article/2559925)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
