@@ -26,28 +26,26 @@
 
 <!-- CALENDAR_START -->
 ```
-📅 2025年8月
+📅 2025年9月
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│    │    │    │    │    │  1 │  2 │
+│    │ ⭐ │  2 │  3 │  4 │  5 │  6 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  3 │  4 │  5 │  6 │  7 │  8 │  9 │
+│  7 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 10 │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │
+│ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 17 │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │
+│ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 24 │ 25 │ 26 │ 27 │ 28 │ 29 │ 30 │
-├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │    │    │    │    │    │    │
+│ 28 │ 29 │ 30 │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年8月31日
+🌟 今天是2025年9月1日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/8/31)
+## 📰 今日资讯 (2025/9/1)
 
 ### 🔥 GitHub 热门项目
-- [juspay / hyperswitch](https://github.com/juspay / hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
-- [inventree / InvenTree](https://github.com/inventree / InvenTree) - Open Source Inventory Management System
-- [microsoft / mcp](https://github.com/microsoft / mcp) - Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration
+- [QuentinFuxa / WhisperLiveKit](https://github.com/QuentinFuxa / WhisperLiveKit) - Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
+- [dockur / windows](https://github.com/dockur / windows) - Windows inside a Docker container.
+- [laramies / theHarvester](https://github.com/laramies / theHarvester) - E-mails, subdomains and names Harvester - OSINT
 
 ### 📚 技术文章精选
-- [CodeBuddy IDE 实用技巧上线，如何让你的 AI 更懂你](https://blog.csdn.net/csdn565973850/article/details/150213833)
-- [AI 编程助手 Claude Code 高效使用攻略](https://blog.csdn.net/wxaiway/article/details/149265914)
-- [超绝AI 编程助手：快速上手 Augment Code，提升开发效率！](https://blog.csdn.net/brownxd/article/details/149023511)
+- [Spring AI 中 ChatClient常用方法](https://blog.csdn.net/CSDN2497242041/article/details/148290111)
+- [当 AI 生成的代码像黑箱：初级开发者的「代码翻译官」养成记](https://blog.csdn.net/qq_33650655/article/details/149910479)
+- [AI独立游戏素材生成实操](https://blog.csdn.net/benben044/article/details/148144892)
 
 ### 🛡️ 安全资讯
-- [DeepSeek-V3.1，全面接入！](https://cloud.tencent.com/developer/article/2559075)
 - [DeepSeek上线两天后再回看：一次“小更新”，一场架构“豪赌”](https://cloud.tencent.com/developer/article/2559076)
-- [AI影响就业的量化悖论](https://cloud.tencent.com/developer/article/2559925)
+- [DeepSeek-V3.1，全面接入！](https://cloud.tencent.com/developer/article/2559075)
+- [首家！腾讯云数据库AI服务通过数据库运维智能体技术要求测试](https://cloud.tencent.com/developer/article/2559922)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
