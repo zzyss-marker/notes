@@ -30,7 +30,7 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│    │ ⭐ │  2 │  3 │  4 │  5 │  6 │
+│    │  1 │ ⭐ │  3 │  4 │  5 │  6 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  7 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年9月1日
+🌟 今天是2025年9月2日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,24 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/9/1)
+## 📰 今日资讯 (2025/9/2)
 
 ### 🔥 GitHub 热门项目
-- [QuentinFuxa / WhisperLiveKit](https://github.com/QuentinFuxa / WhisperLiveKit) - Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
 - [dockur / windows](https://github.com/dockur / windows) - Windows inside a Docker container.
-- [laramies / theHarvester](https://github.com/laramies / theHarvester) - E-mails, subdomains and names Harvester - OSINT
+- [JetBrains / koog](https://github.com/JetBrains / koog) - Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
+- [juspay / hyperswitch](https://github.com/juspay / hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 
 ### 📚 技术文章精选
-- [Spring AI 中 ChatClient常用方法](https://blog.csdn.net/CSDN2497242041/article/details/148290111)
-- [当 AI 生成的代码像黑箱：初级开发者的「代码翻译官」养成记](https://blog.csdn.net/qq_33650655/article/details/149910479)
-- [AI独立游戏素材生成实操](https://blog.csdn.net/benben044/article/details/148144892)
+获取 CSDN 文章失败
 
 ### 🛡️ 安全资讯
-- [DeepSeek上线两天后再回看：一次“小更新”，一场架构“豪赌”](https://cloud.tencent.com/developer/article/2559076)
-- [DeepSeek-V3.1，全面接入！](https://cloud.tencent.com/developer/article/2559075)
-- [首家！腾讯云数据库AI服务通过数据库运维智能体技术要求测试](https://cloud.tencent.com/developer/article/2559922)
+- [胡泳：什么是“信息蜂房型”的互联网产品？](https://cloud.tencent.com/developer/article/2561758)
+- [DevOps工具链选型指南](https://cloud.tencent.com/developer/article/2562475)
+- [可视化RocketMQ配置工具](https://cloud.tencent.com/developer/article/2562765)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
