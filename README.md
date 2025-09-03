@@ -30,7 +30,7 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│    │  1 │ ⭐ │  3 │  4 │  5 │  6 │
+│    │  1 │  2 │ ⭐ │  4 │  5 │  6 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  7 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年9月2日
+🌟 今天是2025年9月3日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,24 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/9/2)
+## 📰 今日资讯 (2025/9/3)
 
 ### 🔥 GitHub 热门项目
 - [dockur / windows](https://github.com/dockur / windows) - Windows inside a Docker container.
+- [crewAIInc / crewAI](https://github.com/crewAIInc / crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [JetBrains / koog](https://github.com/JetBrains / koog) - Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
-- [juspay / hyperswitch](https://github.com/juspay / hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 
 ### 📚 技术文章精选
-获取 CSDN 文章失败
+- [VS2022 安装CodeGeeX AI插件实现高效编程体验](https://blog.csdn.net/m0_45463480/article/details/148202826)
+- [跨模态学习在AI Agent中的应用从特征提取到智能决策](https://blog.csdn.net/weixin_52908342/article/details/150143963)
+- [AI 眼镜新纪元：贴片式TF卡与 SOC 芯片的黄金组合破局智能穿戴](https://blog.csdn.net/sixpp/article/details/148313627)
 
 ### 🛡️ 安全资讯
-- [胡泳：什么是“信息蜂房型”的互联网产品？](https://cloud.tencent.com/developer/article/2561758)
-- [DevOps工具链选型指南](https://cloud.tencent.com/developer/article/2562475)
-- [可视化RocketMQ配置工具](https://cloud.tencent.com/developer/article/2562765)
+- [AI是通向“超人”的阶梯，还是退回“猿猴”的陷阱？](https://cloud.tencent.com/developer/article/2562847)
+- [Elasticsearch 节点说明](https://cloud.tencent.com/developer/article/2562944)
+- [Markdown简要语法规则](https://cloud.tencent.com/developer/article/2563180)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
