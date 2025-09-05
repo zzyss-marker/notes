@@ -30,7 +30,7 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│    │  1 │  2 │  3 │ ⭐ │  5 │  6 │
+│    │  1 │  2 │  3 │  4 │ ⭐ │  6 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  7 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年9月4日
+🌟 今天是2025年9月5日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/9/4)
+## 📰 今日资讯 (2025/9/5)
 
 ### 🔥 GitHub 热门项目
-- [pedroslopez / whatsapp-web.js](https://github.com/pedroslopez / whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
-- [dockur / windows](https://github.com/dockur / windows) - Windows inside a Docker container.
-- [JetBrains / koog](https://github.com/JetBrains / koog) - Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
+- [bytebot-ai / bytebot](https://github.com/bytebot-ai / bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
+- [LukeGus / Termix](https://github.com/LukeGus / Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
+- [rustdesk / rustdesk](https://github.com/rustdesk / rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 ### 📚 技术文章精选
-- [飞算JavaAI：手动写代码 VS 飞算JavaAI辅助开发：效率差距竟如此夸张？](https://blog.csdn.net/2401_82610555/article/details/149504282)
-- [办公创作好帮助手：海鹦Office AI](https://blog.csdn.net/weixin_40078683/article/details/147784067)
-- [【AI】大模型提示词的“最小可行性提问”原则：先求对再求优](https://blog.csdn.net/xcshap/article/details/149960647)
+- [【Spring AI+Spring AI Albaba从零开始的学习之旅】之工具调用（Tool Calling）篇](https://blog.csdn.net/m0_74808313/article/details/149880999)
+- [飞算AI 3.2.0实战评测：10分钟搭建企业级RBAC权限系统](https://blog.csdn.net/IRpickstars/article/details/150419471)
+- [大语言模型系列(1): 3分钟上手，在骁龙AI PC上部署DeepSeek!](https://blog.csdn.net/csdnsqst0050/article/details/149425691)
 
 ### 🛡️ 安全资讯
-- [突破语音智能体前沿，腾讯AI Lab与港科大两项研究入选国际学术顶会](https://cloud.tencent.com/developer/article/2563573)
-- [tRPC-Agent-Go：让Go开发者轻松构建智能AI应用](https://cloud.tencent.com/developer/article/2563563)
-- [同济大学余明锋：AI是人类文明的木马](https://cloud.tencent.com/developer/article/2563574)
+- [硬盘性能提升100倍的秘密：看懂顺序I/O的魔力](https://cloud.tencent.com/developer/article/2564172)
+- [再获认可！腾讯云入选Gartner® API管理市场指南](https://cloud.tencent.com/developer/article/2564398)
+- [「腾讯轻量云 AI 创想家」AI 能力实践赛 | 电竞级外设好礼等你来！](https://cloud.tencent.com/developer/article/2564203)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
