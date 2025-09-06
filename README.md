@@ -30,7 +30,7 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│    │  1 │  2 │  3 │  4 │ ⭐ │  6 │
+│    │  1 │  2 │  3 │  4 │  5 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  7 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年9月5日
+🌟 今天是2025年9月6日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/9/5)
+## 📰 今日资讯 (2025/9/6)
 
 ### 🔥 GitHub 热门项目
 - [bytebot-ai / bytebot](https://github.com/bytebot-ai / bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
-- [LukeGus / Termix](https://github.com/LukeGus / Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
-- [rustdesk / rustdesk](https://github.com/rustdesk / rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+- [microsoft / BitNet](https://github.com/microsoft / BitNet) - Official inference framework for 1-bit LLMs
+- [aquasecurity / trivy](https://github.com/aquasecurity / trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
 ### 📚 技术文章精选
-- [【Spring AI+Spring AI Albaba从零开始的学习之旅】之工具调用（Tool Calling）篇](https://blog.csdn.net/m0_74808313/article/details/149880999)
-- [飞算AI 3.2.0实战评测：10分钟搭建企业级RBAC权限系统](https://blog.csdn.net/IRpickstars/article/details/150419471)
-- [大语言模型系列(1): 3分钟上手，在骁龙AI PC上部署DeepSeek!](https://blog.csdn.net/csdnsqst0050/article/details/149425691)
+- [【粉丝福利社】MCP协议与AI Agent开发：标准、应用与实现](https://blog.csdn.net/aa2528877987/article/details/148770269)
+- [AI 的工具集专栏：选对工具做对事，高效玩转 AI 时代](https://blog.csdn.net/weixin_43151418/article/details/149877563)
+- [AI图像修复工具CodeFormer实测：马赛克去除与画质增强效果评测](https://blog.csdn.net/W791026/article/details/149224306)
 
 ### 🛡️ 安全资讯
-- [硬盘性能提升100倍的秘密：看懂顺序I/O的魔力](https://cloud.tencent.com/developer/article/2564172)
-- [再获认可！腾讯云入选Gartner® API管理市场指南](https://cloud.tencent.com/developer/article/2564398)
-- [「腾讯轻量云 AI 创想家」AI 能力实践赛 | 电竞级外设好礼等你来！](https://cloud.tencent.com/developer/article/2564203)
+- [TDMQ CKafka 版客户端实战指南系列之二：消费消息最佳实践](https://cloud.tencent.com/developer/article/2564525)
+- [AI独孤九剑：AI没有场景，无法落地？不存在的。](https://cloud.tencent.com/developer/article/2564519)
+- [恒生电子 x 腾讯云：​系统性能和建设成本双重优化，构筑资管核心安全底座](https://cloud.tencent.com/developer/article/2564528)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
