@@ -30,9 +30,9 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│    │  1 │  2 │  3 │  4 │  5 │ ⭐ │
+│    │  1 │  2 │  3 │  4 │  5 │  6 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  7 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │
+│ ⭐ │  8 │  9 │ 10 │ 11 │ 12 │ 13 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年9月6日
+🌟 今天是2025年9月7日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/9/6)
+## 📰 今日资讯 (2025/9/7)
 
 ### 🔥 GitHub 热门项目
-- [bytebot-ai / bytebot](https://github.com/bytebot-ai / bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
-- [microsoft / BitNet](https://github.com/microsoft / BitNet) - Official inference framework for 1-bit LLMs
+- [zama-ai / fhevm](https://github.com/zama-ai / fhevm) - FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
 - [aquasecurity / trivy](https://github.com/aquasecurity / trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [trufflesecurity / trufflehog](https://github.com/trufflesecurity / trufflehog) - Find, verify, and analyze leaked credentials
 
 ### 📚 技术文章精选
-- [【粉丝福利社】MCP协议与AI Agent开发：标准、应用与实现](https://blog.csdn.net/aa2528877987/article/details/148770269)
-- [AI 的工具集专栏：选对工具做对事，高效玩转 AI 时代](https://blog.csdn.net/weixin_43151418/article/details/149877563)
-- [AI图像修复工具CodeFormer实测：马赛克去除与画质增强效果评测](https://blog.csdn.net/W791026/article/details/149224306)
+- [基于Graphiti构建AI知识图谱服务：从集成到实践](https://blog.csdn.net/csdn122345/article/details/148514362)
+- [九款主流AI语音转文字工具深度横评：随身鹿、飞书、夸克、Whisper...谁是王者？](https://blog.csdn.net/weixin_65986338/article/details/149357913)
+- [Spring AI入门教学：从零搭建智能应用（2025最新实践）](https://blog.csdn.net/liujibo520/article/details/146282554)
 
 ### 🛡️ 安全资讯
-- [TDMQ CKafka 版客户端实战指南系列之二：消费消息最佳实践](https://cloud.tencent.com/developer/article/2564525)
-- [AI独孤九剑：AI没有场景，无法落地？不存在的。](https://cloud.tencent.com/developer/article/2564519)
-- [恒生电子 x 腾讯云：​系统性能和建设成本双重优化，构筑资管核心安全底座](https://cloud.tencent.com/developer/article/2564528)
+- [架构火花｜一线视角下的AI：从应用边界到落地难题](https://cloud.tencent.com/developer/article/2564523)
+- [腾讯云云拨测：筑牢网络稳定防线，持续保障业务连续性](https://cloud.tencent.com/developer/article/2564524)
+- [AI 时代，职场不慌！前快狗打车CTO沈剑来支招](https://cloud.tencent.com/developer/article/2564520)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
