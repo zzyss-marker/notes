@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │  1 │  2 │  3 │  4 │  5 │  6 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │  8 │  9 │ 10 │ 11 │ 12 │ 13 │
+│  7 │ ⭐ │  9 │ 10 │ 11 │ 12 │ 13 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年9月7日
+🌟 今天是2025年9月8日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/9/7)
+## 📰 今日资讯 (2025/9/8)
 
 ### 🔥 GitHub 热门项目
+- [emcie-co / parlant](https://github.com/emcie-co / parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes.
 - [zama-ai / fhevm](https://github.com/zama-ai / fhevm) - FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
-- [aquasecurity / trivy](https://github.com/aquasecurity / trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [trufflesecurity / trufflehog](https://github.com/trufflesecurity / trufflehog) - Find, verify, and analyze leaked credentials
+- [coleam00 / ottomator-agents](https://github.com/coleam00 / ottomator-agents) - All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
 
 ### 📚 技术文章精选
-- [基于Graphiti构建AI知识图谱服务：从集成到实践](https://blog.csdn.net/csdn122345/article/details/148514362)
-- [九款主流AI语音转文字工具深度横评：随身鹿、飞书、夸克、Whisper...谁是王者？](https://blog.csdn.net/weixin_65986338/article/details/149357913)
-- [Spring AI入门教学：从零搭建智能应用（2025最新实践）](https://blog.csdn.net/liujibo520/article/details/146282554)
+- [Cursor区域限制问题解决方案：AI模型访问技术突破与环境隔离实践](https://blog.csdn.net/yangshuo1281/article/details/149400461)
+- [阿里巴巴达摩院人工智能训练师（高级）](https://blog.csdn.net/huang0612123/article/details/145726587)
+- [告别熬夜写文档！我用AI在10分钟内生成了全套项目文档](https://blog.csdn.net/No_1_is_me/article/details/150150177)
 
 ### 🛡️ 安全资讯
-- [架构火花｜一线视角下的AI：从应用边界到落地难题](https://cloud.tencent.com/developer/article/2564523)
-- [腾讯云云拨测：筑牢网络稳定防线，持续保障业务连续性](https://cloud.tencent.com/developer/article/2564524)
+- [恒生电子 x 腾讯云：​系统性能和建设成本双重优化，构筑资管核心安全底座](https://cloud.tencent.com/developer/article/2564528)
 - [AI 时代，职场不慌！前快狗打车CTO沈剑来支招](https://cloud.tencent.com/developer/article/2564520)
+- [腾讯云云拨测：筑牢网络稳定防线，持续保障业务连续性](https://cloud.tencent.com/developer/article/2564524)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
