@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │  1 │  2 │  3 │  4 │  5 │  6 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  7 │  8 │  9 │ ⭐ │ 11 │ 12 │ 13 │
+│  7 │  8 │  9 │ 10 │ ⭐ │ 12 │ 13 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年9月10日
+🌟 今天是2025年9月11日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/9/10)
+## 📰 今日资讯 (2025/9/11)
 
 ### 🔥 GitHub 热门项目
-- [emcie-co / parlant](https://github.com/emcie-co / parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes.
-- [Vector-Wangel / XLeRobot](https://github.com/Vector-Wangel / XLeRobot) - XLeRobot: Practical Dual-Arm Mobile Home Robot for $660
-- [x1xhlol / system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol / system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.
+- [Physical-Intelligence / openpi](https://github.com/Physical-Intelligence / openpi) - 
+- [modelcontextprotocol / registry](https://github.com/modelcontextprotocol / registry) - A community driven registry service for Model Context Protocol (MCP) servers.
+- [vercel / examples](https://github.com/vercel / examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
 
 ### 📚 技术文章精选
-- [开源全自动 AI 工具 Bytebot：用自然语言控制你的电脑](https://blog.csdn.net/JustJavaC/article/details/149704841)
-- [AI医疗革命：英伟达GTC 2025医疗健康与生命科学会议全分析](https://blog.csdn.net/kkiron/article/details/146460369)
-- [【MCP探索实践】Chrome MCP Server：基于Chrome扩展的AI浏览器自动化神器——技术解析与实践指南](https://blog.csdn.net/xiaobing259/article/details/150157446)
+- [3个免费AI视频修复神器，大幅提升视频清晰度](https://blog.csdn.net/CCEEHM/article/details/150342412)
+- [从“给链接”到“给答案”：AI搜索时代的GEO实战策略](https://blog.csdn.net/Baixue5209/article/details/150213590)
+- [引爆2025的AI办公神器TOP5：一键PPT、远程操控](https://blog.csdn.net/weixin_66401877/article/details/151407312)
 
 ### 🛡️ 安全资讯
-- [菜鸡才用AI写代码，10倍程序员这样用Claude重塑编程工作流](https://cloud.tencent.com/developer/article/2564603)
-- [十年大厂员工终明白：MySQL性能优化的尽头，是对B+树的极致理解](https://cloud.tencent.com/developer/article/2564733)
 - [可否直接挂载.vmdk，然后用dism命令离线集成virtio驱动？](https://cloud.tencent.com/developer/article/2564865)
+- [泡泡共同体](https://cloud.tencent.com/developer/article/2564905)
+- [Windows如何跳过微软帐户登录？又如何恢复微软帐户登录？](https://cloud.tencent.com/developer/article/2564770)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
