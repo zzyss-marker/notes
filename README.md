@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │  1 │  2 │  3 │  4 │  5 │  6 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  7 │  8 │  9 │ 10 │ ⭐ │ 12 │ 13 │
+│  7 │  8 │  9 │ 10 │ 11 │ ⭐ │ 13 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年9月11日
+🌟 今天是2025年9月12日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/9/11)
+## 📰 今日资讯 (2025/9/12)
 
 ### 🔥 GitHub 热门项目
 - [Physical-Intelligence / openpi](https://github.com/Physical-Intelligence / openpi) - 
 - [modelcontextprotocol / registry](https://github.com/modelcontextprotocol / registry) - A community driven registry service for Model Context Protocol (MCP) servers.
-- [vercel / examples](https://github.com/vercel / examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
+- [twitter / the-algorithm](https://github.com/twitter / the-algorithm) - Source code for the X Recommendation Algorithm
 
 ### 📚 技术文章精选
-- [3个免费AI视频修复神器，大幅提升视频清晰度](https://blog.csdn.net/CCEEHM/article/details/150342412)
-- [从“给链接”到“给答案”：AI搜索时代的GEO实战策略](https://blog.csdn.net/Baixue5209/article/details/150213590)
-- [引爆2025的AI办公神器TOP5：一键PPT、远程操控](https://blog.csdn.net/weixin_66401877/article/details/151407312)
+- [2025海外AI ToC应用市场分析：小团队创业的细分赛道与机会](https://blog.csdn.net/yuntongliangda/article/details/151068129)
+- [猫头虎AI分享｜一款Coze、Dify类开源AI应用超级智能体快速构建工具：FastbuildAI](https://blog.csdn.net/qq_44866828/article/details/150464150)
+- [AI 对话高效输入指令攻略（五）：AI+PicDoc文生图表工具：解锁高效图表创作新范式](https://blog.csdn.net/Pocker_Spades_A/article/details/150348949)
 
 ### 🛡️ 安全资讯
-- [可否直接挂载.vmdk，然后用dism命令离线集成virtio驱动？](https://cloud.tencent.com/developer/article/2564865)
-- [泡泡共同体](https://cloud.tencent.com/developer/article/2564905)
-- [Windows如何跳过微软帐户登录？又如何恢复微软帐户登录？](https://cloud.tencent.com/developer/article/2564770)
+- [生产效能数智化提升！腾讯TAPD精研班9月报名开启！](https://cloud.tencent.com/developer/article/2567002)
+- [德适生物x腾讯云：用好云打造医学影像「超强外挂」](https://cloud.tencent.com/developer/article/2566996)
+- [腾讯全球数字生态大会预告：五大亮点玩转存储！](https://cloud.tencent.com/developer/article/2567003)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
