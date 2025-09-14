@@ -32,9 +32,9 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │  1 │  2 │  3 │  4 │  5 │  6 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  7 │  8 │  9 │ 10 │ 11 │ 12 │ ⭐ │
+│  7 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │
+│ ⭐ │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年9月13日
+🌟 今天是2025年9月14日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/9/13)
+## 📰 今日资讯 (2025/9/14)
 
 ### 🔥 GitHub 热门项目
+- [PowerShell / PowerShell](https://github.com/PowerShell / PowerShell) - PowerShell for every system!
 - [trueadm / ripple](https://github.com/trueadm / ripple) - the elegant TypeScript UI framework
-- [Physical-Intelligence / openpi](https://github.com/Physical-Intelligence / openpi) - 
-- [CodebuffAI / codebuff](https://github.com/CodebuffAI / codebuff) - Generate code from the terminal!
+- [MotiaDev / motia](https://github.com/MotiaDev / motia) - Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
 
 ### 📚 技术文章精选
-- [2025年Agentic AI 框架选型指南：主流 Agentic AI 平台深度对比与实战建议](https://blog.csdn.net/2401_85373691/article/details/149709269)
-- [云服务器免费体验最新 Wan2.2 AI视频生成](https://blog.csdn.net/sanwei12345/article/details/150113216)
-- [用AI给老照片上色：算法对比与调参技巧](https://blog.csdn.net/weixin_43151418/article/details/149300419)
+- [探访WAIC2025：当AI成为双刃剑，合合信息如何破解真假难题](https://blog.csdn.net/weixin_51390582/article/details/149788311)
+- [Spring AI 框架：从零开始掌握 AI 与 Spring 的完美结合！](https://blog.csdn.net/2301_78858041/article/details/146076432)
+- [黑马 SpringAI+DeepSeek 实战：从对话机器人到企业级知识库的大模型开发全攻略](https://blog.csdn.net/2301_79819426/article/details/147010822)
 
 ### 🛡️ 安全资讯
-- [区块链的哈希链表与MerkleTree](https://cloud.tencent.com/developer/article/2566984)
-- [扫码预约→腾讯云数据库+AI专场来了！带你解码数智进化新篇章！](https://cloud.tencent.com/developer/article/2566986)
-- [从架构升级到AI进化：架构师如何引领智能变革？腾讯云架构师技术沙龙邀你共探](https://cloud.tencent.com/developer/article/2567007)
+- [德适生物x腾讯云：用好云打造医学影像「超强外挂」](https://cloud.tencent.com/developer/article/2566996)
+- [disk2vhd勾选Use Volume Shadow Copy导出.vhd时报错error snapshotting volumes的解决方案](https://cloud.tencent.com/developer/article/2566972)
+- [IDC MarketScape：腾讯云位居国内生成式AI数据基础设施“领导者”象限](https://cloud.tencent.com/developer/article/2567001)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
