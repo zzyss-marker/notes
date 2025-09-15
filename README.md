@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  7 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │
+│ 14 │ ⭐ │ 16 │ 17 │ 18 │ 19 │ 20 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年9月14日
+🌟 今天是2025年9月15日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/9/14)
+## 📰 今日资讯 (2025/9/15)
 
 ### 🔥 GitHub 热门项目
 - [PowerShell / PowerShell](https://github.com/PowerShell / PowerShell) - PowerShell for every system!
 - [trueadm / ripple](https://github.com/trueadm / ripple) - the elegant TypeScript UI framework
-- [MotiaDev / motia](https://github.com/MotiaDev / motia) - Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
+- [SkyworkAI / DeepResearchAgent](https://github.com/SkyworkAI / DeepResearchAgent) - DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordinate multiple specialized lower-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains.
 
 ### 📚 技术文章精选
-- [探访WAIC2025：当AI成为双刃剑，合合信息如何破解真假难题](https://blog.csdn.net/weixin_51390582/article/details/149788311)
-- [Spring AI 框架：从零开始掌握 AI 与 Spring 的完美结合！](https://blog.csdn.net/2301_78858041/article/details/146076432)
-- [黑马 SpringAI+DeepSeek 实战：从对话机器人到企业级知识库的大模型开发全攻略](https://blog.csdn.net/2301_79819426/article/details/147010822)
+- [AI 大模型基础：医学影像大模型（Med-PaLM、CheXNet）的原理、实现与应用（二）](https://blog.csdn.net/martian665/article/details/149204781)
+- [猫头虎AI分享｜一款Coze、Dify类开源AI应用超级智能体Agent快速构建工具：FastbuildAI](https://blog.csdn.net/qq_44866828/article/details/150464838)
+- [算法学习路线总结: 算法工程师的修炼手册](https://blog.csdn.net/qq_26664043/article/details/140073461)
 
 ### 🛡️ 安全资讯
-- [德适生物x腾讯云：用好云打造医学影像「超强外挂」](https://cloud.tencent.com/developer/article/2566996)
-- [disk2vhd勾选Use Volume Shadow Copy导出.vhd时报错error snapshotting volumes的解决方案](https://cloud.tencent.com/developer/article/2566972)
+- [从架构升级到AI进化：架构师如何引领智能变革？腾讯云架构师技术沙龙邀你共探](https://cloud.tencent.com/developer/article/2567007)
 - [IDC MarketScape：腾讯云位居国内生成式AI数据基础设施“领导者”象限](https://cloud.tencent.com/developer/article/2567001)
+- [腾讯9篇论文入选数据库顶会VLDB 2025，前沿研究服务亿级业务场景](https://cloud.tencent.com/developer/article/2566989)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
