@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  7 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 14 │ ⭐ │ 16 │ 17 │ 18 │ 19 │ 20 │
+│ 14 │ 15 │ ⭐ │ 17 │ 18 │ 19 │ 20 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年9月15日
+🌟 今天是2025年9月16日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/9/15)
+## 📰 今日资讯 (2025/9/16)
 
 ### 🔥 GitHub 热门项目
+- [rasbt / LLMs-from-scratch](https://github.com/rasbt / LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+- [microsoft / markitdown](https://github.com/microsoft / markitdown) - Python tool for converting files and office documents to Markdown.
 - [PowerShell / PowerShell](https://github.com/PowerShell / PowerShell) - PowerShell for every system!
-- [trueadm / ripple](https://github.com/trueadm / ripple) - the elegant TypeScript UI framework
-- [SkyworkAI / DeepResearchAgent](https://github.com/SkyworkAI / DeepResearchAgent) - DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordinate multiple specialized lower-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains.
 
 ### 📚 技术文章精选
-- [AI 大模型基础：医学影像大模型（Med-PaLM、CheXNet）的原理、实现与应用（二）](https://blog.csdn.net/martian665/article/details/149204781)
-- [猫头虎AI分享｜一款Coze、Dify类开源AI应用超级智能体Agent快速构建工具：FastbuildAI](https://blog.csdn.net/qq_44866828/article/details/150464838)
-- [算法学习路线总结: 算法工程师的修炼手册](https://blog.csdn.net/qq_26664043/article/details/140073461)
+- [AI算力中心GPU集群智能算力管控调度解决方案! 2025](https://blog.csdn.net/m0_63171455/article/details/149489104)
+- [Grok-4 ：AI 基准测试霸主，速度与智能并存——但代价几何？](https://blog.csdn.net/2301_76820214/article/details/151149679)
+- [探索RAGFlow：解锁生成式AI的无限潜能（2/6）](https://blog.csdn.net/beautifulmemory/article/details/148676799)
 
 ### 🛡️ 安全资讯
 - [从架构升级到AI进化：架构师如何引领智能变革？腾讯云架构师技术沙龙邀你共探](https://cloud.tencent.com/developer/article/2567007)
-- [IDC MarketScape：腾讯云位居国内生成式AI数据基础设施“领导者”象限](https://cloud.tencent.com/developer/article/2567001)
+- [从制造到智造：AI 如何赋能生产力跃迁？](https://cloud.tencent.com/developer/article/2567005)
 - [腾讯9篇论文入选数据库顶会VLDB 2025，前沿研究服务亿级业务场景](https://cloud.tencent.com/developer/article/2566989)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
