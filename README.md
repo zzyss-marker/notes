@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  7 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 14 │ 15 │ 16 │ 17 │ ⭐ │ 19 │ 20 │
+│ 14 │ 15 │ 16 │ 17 │ 18 │ ⭐ │ 20 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年9月18日
+🌟 今天是2025年9月19日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,17 +111,17 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/9/18)
+## 📰 今日资讯 (2025/9/19)
 
 ### 🔥 GitHub 热门项目
-- [category-labs / monad](https://github.com/category-labs / monad) - 
 - [microsoft / markitdown](https://github.com/microsoft / markitdown) - Python tool for converting files and office documents to Markdown.
-- [category-labs / monad-bft](https://github.com/category-labs / monad-bft) - 
+- [TheAlgorithms / Python](https://github.com/TheAlgorithms / Python) - All Algorithms implemented in Python
+- [curl / curl](https://github.com/curl / curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
 
 ### 📚 技术文章精选
-- [C++高效实现AI人工智能实例](https://blog.csdn.net/keny88888/article/details/149647689)
-- [飞算JavaAI：Java开发新时代的破晓之光](https://blog.csdn.net/hanwangyyds/article/details/150587977)
-- [人工智能-python-深度学习-经典神经网络AlexNet](https://blog.csdn.net/x112xxds/article/details/151325225)
+- [从零开始！n8n+DeepSeek 实现 AI Agent 全自动工作流](https://blog.csdn.net/Wufjsjjx/article/details/149668786)
+- [DeepSeek AI智能运营：重构企业效率的范式革命](https://blog.csdn.net/qq_32682301/article/details/145858137)
+- [AI搜索的未来：信息获取的下一个范式](https://blog.csdn.net/acsdner/article/details/151029150)
 
 ### 🛡️ 安全资讯
 - [前端开发者的 Kotlin 之旅：Compose Multiplatform 实战](https://cloud.tencent.com/developer/article/2567538)
@@ -132,5 +132,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
