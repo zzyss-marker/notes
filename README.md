@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  7 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 14 │ 15 │ 16 │ 17 │ 18 │ ⭐ │ 20 │
+│ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年9月19日
+🌟 今天是2025年9月20日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/9/19)
+## 📰 今日资讯 (2025/9/20)
 
 ### 🔥 GitHub 热门项目
-- [microsoft / markitdown](https://github.com/microsoft / markitdown) - Python tool for converting files and office documents to Markdown.
-- [TheAlgorithms / Python](https://github.com/TheAlgorithms / Python) - All Algorithms implemented in Python
-- [curl / curl](https://github.com/curl / curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
+- [Alibaba-NLP / DeepResearch](https://github.com/Alibaba-NLP / DeepResearch) - Tongyi Deep Research, the Leading Open-source Deep Research Agent
+- [LazyVim / LazyVim](https://github.com/LazyVim / LazyVim) - Neovim config for the lazy
+- [basecamp / omarchy](https://github.com/basecamp / omarchy) - Opinionated Arch/Hyprland Setup
 
 ### 📚 技术文章精选
-- [从零开始！n8n+DeepSeek 实现 AI Agent 全自动工作流](https://blog.csdn.net/Wufjsjjx/article/details/149668786)
-- [DeepSeek AI智能运营：重构企业效率的范式革命](https://blog.csdn.net/qq_32682301/article/details/145858137)
-- [AI搜索的未来：信息获取的下一个范式](https://blog.csdn.net/acsdner/article/details/151029150)
+- [智谱 AI 免费 API 深度体验：从对话到生成，无门槛玩转大模型功能](https://blog.csdn.net/weixin_52258054/article/details/150268159)
+- [Spring AI集成Elasticsearch向量检索时filter过滤失效问题排查与解决方案](https://blog.csdn.net/weixin_43373239/article/details/149738532)
+- [Spring AI（6）——向量存储](https://blog.csdn.net/weixin_43886636/article/details/147944185)
 
 ### 🛡️ 安全资讯
-- [前端开发者的 Kotlin 之旅：Compose Multiplatform 实战](https://cloud.tencent.com/developer/article/2567538)
-- [从HPACK到多路复用，揭秘HTTP/2如何终结网络拥堵](https://cloud.tencent.com/developer/article/2567922)
 - [GPT-5 为啥不 “胡说” 了？OpenAI 新论文讲透了](https://cloud.tencent.com/developer/article/2567931)
+- [StarRocks 物化视图2 - 查询优化](https://cloud.tencent.com/developer/article/2568207)
+- [StarRocks 物化视图1 - 基础概念](https://cloud.tencent.com/developer/article/2568195)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
