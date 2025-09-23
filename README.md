@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 21 │ ⭐ │ 23 │ 24 │ 25 │ 26 │ 27 │
+│ 21 │ 22 │ ⭐ │ 24 │ 25 │ 26 │ 27 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 28 │ 29 │ 30 │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年9月22日
+🌟 今天是2025年9月23日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/9/22)
+## 📰 今日资讯 (2025/9/23)
 
 ### 🔥 GitHub 热门项目
-- [Alibaba-NLP / DeepResearch](https://github.com/Alibaba-NLP / DeepResearch) - Tongyi Deep Research, the Leading Open-source Deep Research Agent
 - [Gar-b-age / CookLikeHOC](https://github.com/Gar-b-age / CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
-- [torvalds / linux](https://github.com/torvalds / linux) - Linux kernel source tree
+- [bevyengine / bevy](https://github.com/bevyengine / bevy) - A refreshingly simple data-driven game engine built in Rust
+- [Alibaba-NLP / DeepResearch](https://github.com/Alibaba-NLP / DeepResearch) - Tongyi Deep Research, the Leading Open-source Deep Research Agent
 
 ### 📚 技术文章精选
-- [蓝耘智算与DeepSeekR1：低成本高能AI模型](https://blog.csdn.net/2401_86275172/article/details/151819469)
-- [ESP32 S3 AI 智能摄像头。现在已经成功接入小智AI+摄像头啦！](https://blog.csdn.net/m0_72100006/article/details/148386730)
-- [人工智能-WLS-Ubuntu22.04本地部署DeepSeek-R1](https://blog.csdn.net/zlbdmm/article/details/146507828)
+- [Nano Banana 的 100 种用法 - AI 图像生成完整提示词宝典](https://blog.csdn.net/xianyu120/article/details/151152602)
+- [全球首个网页 MCP 发布 —— 亮数据 Bright Data AI+MCP 服务智能体教程](https://blog.csdn.net/qq_44866828/article/details/150930291)
+- [Onlyoffice集成与AI交互操作指引（Iframe版）](https://blog.csdn.net/SheldonChang/article/details/151218102)
 
 ### 🛡️ 安全资讯
-- [StarRocks 物化视图1 - 基础概念](https://cloud.tencent.com/developer/article/2568195)
-- [StarRocks 查询加速1 - Bitmap](https://cloud.tencent.com/developer/article/2568467)
-- [「无界生成力」征文来袭！从CLI到码宇宙，只差1句描述！](https://cloud.tencent.com/developer/article/2568328)
+- [beyla使用简介](https://cloud.tencent.com/developer/article/2568681)
+- [站在巨人的肩膀上：gRPC通过HTTP/2构建云原生时代的通信标准](https://cloud.tencent.com/developer/article/2568686)
+- [【运维自动化-标准运维】标准运维标准插件使用技巧-[蓝鲸服务]篇](https://cloud.tencent.com/developer/article/2568708)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
