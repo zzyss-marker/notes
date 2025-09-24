@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 21 │ 22 │ ⭐ │ 24 │ 25 │ 26 │ 27 │
+│ 21 │ 22 │ 23 │ ⭐ │ 25 │ 26 │ 27 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 28 │ 29 │ 30 │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年9月23日
+🌟 今天是2025年9月24日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/9/23)
+## 📰 今日资讯 (2025/9/24)
 
 ### 🔥 GitHub 热门项目
-- [Gar-b-age / CookLikeHOC](https://github.com/Gar-b-age / CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
-- [bevyengine / bevy](https://github.com/bevyengine / bevy) - A refreshingly simple data-driven game engine built in Rust
-- [Alibaba-NLP / DeepResearch](https://github.com/Alibaba-NLP / DeepResearch) - Tongyi Deep Research, the Leading Open-source Deep Research Agent
+- [gin-gonic / gin](https://github.com/gin-gonic / gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
+- [LadybirdBrowser / ladybird](https://github.com/LadybirdBrowser / ladybird) - Truly independent web browser
+- [gofiber / fiber](https://github.com/gofiber / fiber) - ⚡️ Express inspired web framework written in Go
 
 ### 📚 技术文章精选
-- [Nano Banana 的 100 种用法 - AI 图像生成完整提示词宝典](https://blog.csdn.net/xianyu120/article/details/151152602)
-- [全球首个网页 MCP 发布 —— 亮数据 Bright Data AI+MCP 服务智能体教程](https://blog.csdn.net/qq_44866828/article/details/150930291)
-- [Onlyoffice集成与AI交互操作指引（Iframe版）](https://blog.csdn.net/SheldonChang/article/details/151218102)
+- [Claude Code Router：一键接入多种AI模型的智能路由器](https://blog.csdn.net/qq_38628046/article/details/150449670)
+- [2025 WAIC探展合合信息展台：AI鉴伪技术洞察“看不见”的伪造痕迹](https://blog.csdn.net/qq_44866828/article/details/150079751)
+- [如何用Python训练一个AI模型（超详细教程）非常详细收藏我这一篇就够了！](https://blog.csdn.net/2401_84206094/article/details/147786706)
 
 ### 🛡️ 安全资讯
-- [beyla使用简介](https://cloud.tencent.com/developer/article/2568681)
-- [站在巨人的肩膀上：gRPC通过HTTP/2构建云原生时代的通信标准](https://cloud.tencent.com/developer/article/2568686)
 - [【运维自动化-标准运维】标准运维标准插件使用技巧-[蓝鲸服务]篇](https://cloud.tencent.com/developer/article/2568708)
+- [【密码学人CipherHUB】门户网站正式上线](https://cloud.tencent.com/developer/article/2568863)
+- [腾讯汤道生：打造智能化、全球化双引擎，助力企业稳增长](https://cloud.tencent.com/developer/article/2568602)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
