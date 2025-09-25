@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 21 │ 22 │ 23 │ ⭐ │ 25 │ 26 │ 27 │
+│ 21 │ 22 │ 23 │ 24 │ ⭐ │ 26 │ 27 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 28 │ 29 │ 30 │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年9月24日
+🌟 今天是2025年9月25日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/9/24)
+## 📰 今日资讯 (2025/9/25)
 
 ### 🔥 GitHub 热门项目
-- [gin-gonic / gin](https://github.com/gin-gonic / gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
+- [cloudflare / capnweb](https://github.com/cloudflare / capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
+- [elastic / elasticsearch](https://github.com/elastic / elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [LadybirdBrowser / ladybird](https://github.com/LadybirdBrowser / ladybird) - Truly independent web browser
-- [gofiber / fiber](https://github.com/gofiber / fiber) - ⚡️ Express inspired web framework written in Go
 
 ### 📚 技术文章精选
-- [Claude Code Router：一键接入多种AI模型的智能路由器](https://blog.csdn.net/qq_38628046/article/details/150449670)
-- [2025 WAIC探展合合信息展台：AI鉴伪技术洞察“看不见”的伪造痕迹](https://blog.csdn.net/qq_44866828/article/details/150079751)
-- [如何用Python训练一个AI模型（超详细教程）非常详细收藏我这一篇就够了！](https://blog.csdn.net/2401_84206094/article/details/147786706)
+- [国产AI代码工具对决：CodeGeeX 2.0与通义灵码，谁是你的菜？](https://blog.csdn.net/fq1986614/article/details/150550696)
+- [基于飞算 JavaAI 高效开发电商系统核心功能模块实战指南](https://blog.csdn.net/xcshap/article/details/151231080)
+- [用Cursor / Trae AI 开发Go项目时，记得先做这些](https://blog.csdn.net/jike007gt/article/details/148481128)
 
 ### 🛡️ 安全资讯
-- [【运维自动化-标准运维】标准运维标准插件使用技巧-[蓝鲸服务]篇](https://cloud.tencent.com/developer/article/2568708)
-- [【密码学人CipherHUB】门户网站正式上线](https://cloud.tencent.com/developer/article/2568863)
-- [腾讯汤道生：打造智能化、全球化双引擎，助力企业稳增长](https://cloud.tencent.com/developer/article/2568602)
+- [腾讯云论文入选数据库顶会VLDB 2025，REDSQL技术攻克NL2SQL难点](https://cloud.tencent.com/developer/article/2568771)
+- [为什么Claude Code放弃代码索引，使用50年前的grep技术？](https://cloud.tencent.com/developer/article/2568773)
+- [“闪瞎眼”的黑科技！HDR图片处理技术的现状与未来](https://cloud.tencent.com/developer/article/2568775)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
