@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 21 │ 22 │ 23 │ 24 │ ⭐ │ 26 │ 27 │
+│ 21 │ 22 │ 23 │ 24 │ 25 │ ⭐ │ 27 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 28 │ 29 │ 30 │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年9月25日
+🌟 今天是2025年9月26日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/9/25)
+## 📰 今日资讯 (2025/9/26)
 
 ### 🔥 GitHub 热门项目
-- [cloudflare / capnweb](https://github.com/cloudflare / capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
-- [elastic / elasticsearch](https://github.com/elastic / elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
-- [LadybirdBrowser / ladybird](https://github.com/LadybirdBrowser / ladybird) - Truly independent web browser
+- [gin-gonic / gin](https://github.com/gin-gonic / gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
+- [humanlayer / humanlayer](https://github.com/humanlayer / humanlayer) - The best way to get AI to solve hard problems in complex codebases.
+- [yt-dlp / yt-dlp](https://github.com/yt-dlp / yt-dlp) - A feature-rich command-line audio/video downloader
 
 ### 📚 技术文章精选
-- [国产AI代码工具对决：CodeGeeX 2.0与通义灵码，谁是你的菜？](https://blog.csdn.net/fq1986614/article/details/150550696)
-- [基于飞算 JavaAI 高效开发电商系统核心功能模块实战指南](https://blog.csdn.net/xcshap/article/details/151231080)
-- [用Cursor / Trae AI 开发Go项目时，记得先做这些](https://blog.csdn.net/jike007gt/article/details/148481128)
+- [Mac 上 Android Studio 的安装与配置指南](https://blog.csdn.net/m0_58648890/article/details/146165879)
+- [《Linux 开发工具入门：从包管理到代码编译：yum/apt、Vim、GCC 讲解》](https://blog.csdn.net/Dovis5884/article/details/151675966)
+- [Docker Compose Windows版安装与使用教程](https://blog.csdn.net/2301_78858041/article/details/147424874)
 
 ### 🛡️ 安全资讯
-- [腾讯云论文入选数据库顶会VLDB 2025，REDSQL技术攻克NL2SQL难点](https://cloud.tencent.com/developer/article/2568771)
-- [为什么Claude Code放弃代码索引，使用50年前的grep技术？](https://cloud.tencent.com/developer/article/2568773)
-- [“闪瞎眼”的黑科技！HDR图片处理技术的现状与未来](https://cloud.tencent.com/developer/article/2568775)
+- [nano11、tiny11裁剪的win11 iso放弃吧，玩玩可以，正式用，算了](https://cloud.tencent.com/developer/article/2568898)
+- [从JSON到Protobuf，深入序列化方案的选型与原理](https://cloud.tencent.com/developer/article/2569419)
+- [关于win11各系统版本的研究以及ReFS的支持情况测试](https://cloud.tencent.com/developer/article/2569628)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
