@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 21 │ 22 │ 23 │ 24 │ 25 │ ⭐ │ 27 │
+│ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 28 │ 29 │ 30 │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年9月26日
+🌟 今天是2025年9月27日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/9/26)
+## 📰 今日资讯 (2025/9/27)
 
 ### 🔥 GitHub 热门项目
-- [gin-gonic / gin](https://github.com/gin-gonic / gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
+- [ZuodaoTech / everyone-can-use-english](https://github.com/ZuodaoTech / everyone-can-use-english) - 人��都能用英语
+- [HKUDS / RAG-Anything](https://github.com/HKUDS / RAG-Anything) - "RAG-Anything: All-in-One RAG Framework"
 - [humanlayer / humanlayer](https://github.com/humanlayer / humanlayer) - The best way to get AI to solve hard problems in complex codebases.
-- [yt-dlp / yt-dlp](https://github.com/yt-dlp / yt-dlp) - A feature-rich command-line audio/video downloader
 
 ### 📚 技术文章精选
-- [Mac 上 Android Studio 的安装与配置指南](https://blog.csdn.net/m0_58648890/article/details/146165879)
-- [《Linux 开发工具入门：从包管理到代码编译：yum/apt、Vim、GCC 讲解》](https://blog.csdn.net/Dovis5884/article/details/151675966)
-- [Docker Compose Windows版安装与使用教程](https://blog.csdn.net/2301_78858041/article/details/147424874)
+- [【人工智能之深度学习】21. 自动驾驶感知实战：YOLOv4复杂天气优化方案（BDD100K全代码+效果对比）](https://blog.csdn.net/weixin_39815573/article/details/150978993)
+- [【AI大模型前沿】Intern-S1：上海AI Lab打造的科学多模态大模型，助力科研智能化](https://blog.csdn.net/xiaobing259/article/details/151315262)
+- [医疗AI时代的生物医学Go编程：高性能计算与精准医疗的案例分析(四)](https://blog.csdn.net/kkiron/article/details/150942799)
 
 ### 🛡️ 安全资讯
-- [nano11、tiny11裁剪的win11 iso放弃吧，玩玩可以，正式用，算了](https://cloud.tencent.com/developer/article/2568898)
-- [从JSON到Protobuf，深入序列化方案的选型与原理](https://cloud.tencent.com/developer/article/2569419)
-- [关于win11各系统版本的研究以及ReFS的支持情况测试](https://cloud.tencent.com/developer/article/2569628)
+- [今天你学会JS的类型转换了吗](https://cloud.tencent.com/developer/article/2570292)
+- [win11 iso如何安装bios+mbr类型的系统](https://cloud.tencent.com/developer/article/2570266)
+- [powershell验证ntpserver udp协议123端口的连通性](https://cloud.tencent.com/developer/article/2570321)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
