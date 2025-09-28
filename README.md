@@ -36,16 +36,16 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │ ⭐ │
+│ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 28 │ 29 │ 30 │    │    │    │    │
+│ ⭐ │ 29 │ 30 │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年9月27日
+🌟 今天是2025年9月28日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/9/27)
+## 📰 今日资讯 (2025/9/28)
 
 ### 🔥 GitHub 热门项目
-- [ZuodaoTech / everyone-can-use-english](https://github.com/ZuodaoTech / everyone-can-use-english) - 人��都能用英语
-- [HKUDS / RAG-Anything](https://github.com/HKUDS / RAG-Anything) - "RAG-Anything: All-in-One RAG Framework"
-- [humanlayer / humanlayer](https://github.com/humanlayer / humanlayer) - The best way to get AI to solve hard problems in complex codebases.
+- [humanlayer / humanlayer](https://github.com/humanlayer / humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
+- [onyx-dot-app / onyx](https://github.com/onyx-dot-app / onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
+- [coinbase / x402](https://github.com/coinbase / x402) - A payments protocol for the internet. Built on HTTP.
 
 ### 📚 技术文章精选
-- [【人工智能之深度学习】21. 自动驾驶感知实战：YOLOv4复杂天气优化方案（BDD100K全代码+效果对比）](https://blog.csdn.net/weixin_39815573/article/details/150978993)
-- [【AI大模型前沿】Intern-S1：上海AI Lab打造的科学多模态大模型，助力科研智能化](https://blog.csdn.net/xiaobing259/article/details/151315262)
-- [医疗AI时代的生物医学Go编程：高性能计算与精准医疗的案例分析(四)](https://blog.csdn.net/kkiron/article/details/150942799)
+- [DashScope 快速入门：企业级 AI 服务的落地实践指南](https://blog.csdn.net/charles666666/article/details/149259850)
+- [华为Ai岗机考20250903完整真题](https://blog.csdn.net/weixin_46291251/article/details/151359337)
+- [10款免费好用的AI写小说软件（2025实测推荐！）](https://blog.csdn.net/EdwardAITooL/article/details/151761462)
 
 ### 🛡️ 安全资讯
-- [今天你学会JS的类型转换了吗](https://cloud.tencent.com/developer/article/2570292)
-- [win11 iso如何安装bios+mbr类型的系统](https://cloud.tencent.com/developer/article/2570266)
-- [powershell验证ntpserver udp协议123端口的连通性](https://cloud.tencent.com/developer/article/2570321)
+- [一文穿读大模型核心概念](https://cloud.tencent.com/developer/article/2570950)
+- [“你还活着吗？” “我没死，只是网卡了！”——来自分布式世界的“生死契约”](https://cloud.tencent.com/developer/article/2571152)
+- [@所有开发者，中国首个边缘全栈开发平台来了！](https://cloud.tencent.com/developer/article/2571100)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
