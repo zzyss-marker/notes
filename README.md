@@ -38,14 +38,14 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │ 29 │ 30 │    │    │    │    │
+│ 28 │ ⭐ │ 30 │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年9月28日
+🌟 今天是2025年9月29日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/9/28)
+## 📰 今日资讯 (2025/9/29)
 
 ### 🔥 GitHub 热门项目
-- [humanlayer / humanlayer](https://github.com/humanlayer / humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
-- [onyx-dot-app / onyx](https://github.com/onyx-dot-app / onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
-- [coinbase / x402](https://github.com/coinbase / x402) - A payments protocol for the internet. Built on HTTP.
+- [commaai / openpilot](https://github.com/commaai / openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+- [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse / developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [rasbt / LLMs-from-scratch](https://github.com/rasbt / LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 
 ### 📚 技术文章精选
-- [DashScope 快速入门：企业级 AI 服务的落地实践指南](https://blog.csdn.net/charles666666/article/details/149259850)
-- [华为Ai岗机考20250903完整真题](https://blog.csdn.net/weixin_46291251/article/details/151359337)
-- [10款免费好用的AI写小说软件（2025实测推荐！）](https://blog.csdn.net/EdwardAITooL/article/details/151761462)
+- [5款免费AI配音工具推荐：自媒体人必备的语音合成神器](https://blog.csdn.net/weixin_47963026/article/details/148879025)
+- [10款AI智能体开发平台推荐：零代码构建AI应用的新时代来了！](https://blog.csdn.net/a13879442471/article/details/146516078)
+- [2025年AI Agent深度解析：技术突破、行业应用与未来趋势](https://blog.csdn.net/xiaosa5211234554321/article/details/151293086)
 
 ### 🛡️ 安全资讯
-- [一文穿读大模型核心概念](https://cloud.tencent.com/developer/article/2570950)
-- [“你还活着吗？” “我没死，只是网卡了！”——来自分布式世界的“生死契约”](https://cloud.tencent.com/developer/article/2571152)
-- [@所有开发者，中国首个边缘全栈开发平台来了！](https://cloud.tencent.com/developer/article/2571100)
+- [AI 又一次颠覆游戏世界——揭秘腾讯开源的 Hunyuan-GameCraft](https://cloud.tencent.com/developer/article/2571743)
+- [Nano banana爆火，到底怎么玩？真实体验告诉你](https://cloud.tencent.com/developer/article/2571720)
+- [别再只刷 Nano Banana！即梦 4.0 才是国产 AI 绘图的真正答案](https://cloud.tencent.com/developer/article/2571518)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
