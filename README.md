@@ -38,14 +38,14 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 28 │ ⭐ │ 30 │    │    │    │    │
+│ 28 │ 29 │ ⭐ │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年9月29日
+🌟 今天是2025年9月30日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/9/29)
+## 📰 今日资讯 (2025/9/30)
 
 ### 🔥 GitHub 热门项目
+- [harry0703 / MoneyPrinterTurbo](https://github.com/harry0703 / MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [commaai / openpilot](https://github.com/commaai / openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 - [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse / developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-- [rasbt / LLMs-from-scratch](https://github.com/rasbt / LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 
 ### 📚 技术文章精选
-- [5款免费AI配音工具推荐：自媒体人必备的语音合成神器](https://blog.csdn.net/weixin_47963026/article/details/148879025)
-- [10款AI智能体开发平台推荐：零代码构建AI应用的新时代来了！](https://blog.csdn.net/a13879442471/article/details/146516078)
-- [2025年AI Agent深度解析：技术突破、行业应用与未来趋势](https://blog.csdn.net/xiaosa5211234554321/article/details/151293086)
+- [引爆2025的AI办公神器TOP5：一键PPT、远程操控](https://blog.csdn.net/weixin_66401877/article/details/151407312)
+- [【案例分享】AI使用分享｜如何运用 GPT完成小任务并提升效率 —— Prompt 与案例整理](https://blog.csdn.net/qq_41140324/article/details/150489316)
+- [飞算JavaAI全链路实战：智能构建高可用电商系统核心架构](https://blog.csdn.net/czx_163/article/details/151297761)
 
 ### 🛡️ 安全资讯
-- [AI 又一次颠覆游戏世界——揭秘腾讯开源的 Hunyuan-GameCraft](https://cloud.tencent.com/developer/article/2571743)
-- [Nano banana爆火，到底怎么玩？真实体验告诉你](https://cloud.tencent.com/developer/article/2571720)
-- [别再只刷 Nano Banana！即梦 4.0 才是国产 AI 绘图的真正答案](https://cloud.tencent.com/developer/article/2571518)
+- [密码学的来时路与十字路口](https://cloud.tencent.com/developer/article/2572681)
+- [cipherhub.cloud 合规启航，服务全面恢复](https://cloud.tencent.com/developer/article/2572685)
+- [眨眼间，万千数字员工办公环境已就位！腾讯云 Agent Runtime 云沙箱正式发布](https://cloud.tencent.com/developer/article/2572682)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
