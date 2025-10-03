@@ -30,7 +30,7 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│    │    │    │  1 │ ⭐ │  3 │  4 │
+│    │    │    │  1 │  2 │ ⭐ │  4 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  5 │  6 │  7 │  8 │  9 │ 10 │ 11 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年10月2日
+🌟 今天是2025年10月3日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,17 +111,17 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/10/2)
+## 📰 今日资讯 (2025/10/3)
 
 ### 🔥 GitHub 热门项目
-- [harry0703 / MoneyPrinterTurbo](https://github.com/harry0703 / MoneyPrinterTurbo) - 利用AI大模型���一键生成高清短视频 Generate short videos with one click using AI LLM.
-- [Done-0 / fuck-u-code](https://github.com/Done-0 / fuck-u-code) - Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告
-- [anthropics / claude-agent-sdk-python](https://github.com/anthropics / claude-agent-sdk-python) - 
+- [nextcloud / server](https://github.com/nextcloud / server) - ☁️ Nextcloud server, a safe home for all your data
+- [google / tunix](https://github.com/google / tunix) - A JAX-native LLM Post-Training Library
+- [pathwaycom / pathway](https://github.com/pathwaycom / pathway) - Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
 
 ### 📚 技术文章精选
-- [【AI智能体】Dify 基于知识库搭建智能客服问答应用详解](https://blog.csdn.net/zhangcongyi420/article/details/149102134)
-- [科研利器！斯坦福大学力荐的五款学术搜索AI大模型，文献检索与深度综述一网打尽！](https://blog.csdn.net/2401_84495872/article/details/148743304)
-- [零基础学AI大模型之LangChain](https://blog.csdn.net/chandfy/article/details/152177120)
+- [Cloudflare AI Gateway 接入 Google Gemini 全攻略](https://blog.csdn.net/2301_77187902/article/details/149547714)
+- [【Big Data】实时数仓的全能选手：Hologres 的湖仓一体与向量计算如何适配 AI 时代](https://blog.csdn.net/weixin_39671271/article/details/151283160)
+- [OpenRouter：一站式 AI 模型调用平台，免费畅享千问、DeepSeek 等顶级模型](https://blog.csdn.net/Mrxiao_bo/article/details/151255064)
 
 ### 🛡️ 安全资讯
 - [太炸裂了！我挖到一个纯Python的Web开发神器，不用写前端代码也能轻松搞定全栈开发！](https://cloud.tencent.com/developer/article/2572683)
@@ -132,5 +132,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
