@@ -30,7 +30,7 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│    │    │    │  1 │  2 │ ⭐ │  4 │
+│    │    │    │  1 │  2 │  3 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  5 │  6 │  7 │  8 │  9 │ 10 │ 11 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年10月3日
+🌟 今天是2025年10月4日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,17 +111,17 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/10/3)
+## 📰 今日资讯 (2025/10/4)
 
 ### 🔥 GitHub 热门项目
-- [nextcloud / server](https://github.com/nextcloud / server) - ☁️ Nextcloud server, a safe home for all your data
+- [hsliuping / TradingAgents-CN](https://github.com/hsliuping / TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
 - [google / tunix](https://github.com/google / tunix) - A JAX-native LLM Post-Training Library
-- [pathwaycom / pathway](https://github.com/pathwaycom / pathway) - Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
+- [juspay / hyperswitch](https://github.com/juspay / hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 
 ### 📚 技术文章精选
-- [Cloudflare AI Gateway 接入 Google Gemini 全攻略](https://blog.csdn.net/2301_77187902/article/details/149547714)
-- [【Big Data】实时数仓的全能选手：Hologres 的湖仓一体与向量计算如何适配 AI 时代](https://blog.csdn.net/weixin_39671271/article/details/151283160)
-- [OpenRouter：一站式 AI 模型调用平台，免费畅享千问、DeepSeek 等顶级模型](https://blog.csdn.net/Mrxiao_bo/article/details/151255064)
+- [AI生成HTML原型导入Axure全攻略！3步轻松上手，设计效率翻倍！](https://blog.csdn.net/2401_84204207/article/details/148928468)
+- [飞算 JavaAI 体验：重塑 Java 开发的智能新范式](https://blog.csdn.net/atgfg/article/details/149275144)
+- [Qwen-3 微调实战：用 Python 和 Unsloth 打造专属 AI 模型](https://blog.csdn.net/qq_36603091/article/details/147952195)
 
 ### 🛡️ 安全资讯
 - [太炸裂了！我挖到一个纯Python的Web开发神器，不用写前端代码也能轻松搞定全栈开发！](https://cloud.tencent.com/developer/article/2572683)
