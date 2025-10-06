@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │    │  1 │  2 │  3 │  4 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │  6 │  7 │  8 │  9 │ 10 │ 11 │
+│  5 │ ⭐ │  7 │  8 │  9 │ 10 │ 11 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年10月5日
+🌟 今天是2025年10月6日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,17 +111,17 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/10/5)
+## 📰 今日资讯 (2025/10/6)
 
 ### 🔥 GitHub 热门项目
+- [microsoft / BitNet](https://github.com/microsoft / BitNet) - Official inference framework for 1-bit LLMs
+- [Flowseal / zapret-discord-youtube](https://github.com/Flowseal / zapret-discord-youtube) - 
 - [juspay / hyperswitch](https://github.com/juspay / hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
-- [meshery / meshery](https://github.com/meshery / meshery) - Meshery, the cloud native manager
-- [google / tunix](https://github.com/google / tunix) - A JAX-native LLM Post-Training Library
 
 ### 📚 技术文章精选
-- [AI Ping：精准可靠的大模型服务性能评测平台](https://blog.csdn.net/2301_76341691/article/details/151799243)
-- [【GitHub开源项目实战】MindsDB 实战解析：AI SQL 驱动的数据库原生预测引擎落地与优化指南](https://blog.csdn.net/sinat_28461591/article/details/148460753)
-- [Qwen-3 微调实战：用 Python 和 Unsloth 打造专属 AI 模型](https://blog.csdn.net/qq_36603091/article/details/147952195)
+- [第十：如何在Pycharm中安装AI插件(Proxy AI)](https://blog.csdn.net/hyq413950612/article/details/147039970)
+- [跨端边云时序数据管理新范式：Apache IoTDB 的 DB+AI 融合之道](https://blog.csdn.net/weixin_74809706/article/details/150169691)
+- [AI 赋能云端运维：基于 MCP 协议深度集成 Codebuddy CLI 与腾讯云 Lighthouse 的实战全解](https://blog.csdn.net/2301_80863610/article/details/151616058)
 
 ### 🛡️ 安全资讯
 - [太炸裂了！我挖到一个纯Python的Web开发神器，不用写前端代码也能轻松搞定全栈开发！](https://cloud.tencent.com/developer/article/2572683)
