@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │    │  1 │  2 │  3 │  4 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  5 │ ⭐ │  7 │  8 │  9 │ 10 │ 11 │
+│  5 │  6 │ ⭐ │  8 │  9 │ 10 │ 11 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年10月6日
+🌟 今天是2025年10月7日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,17 +111,17 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/10/6)
+## 📰 今日资讯 (2025/10/7)
 
 ### 🔥 GitHub 热门项目
-- [microsoft / BitNet](https://github.com/microsoft / BitNet) - Official inference framework for 1-bit LLMs
-- [Flowseal / zapret-discord-youtube](https://github.com/Flowseal / zapret-discord-youtube) - 
-- [juspay / hyperswitch](https://github.com/juspay / hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
+- [Infisical / infisical](https://github.com/Infisical / infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
+- [meshery / meshery](https://github.com/meshery / meshery) - Meshery, the cloud native manager
+- [BeehiveInnovations / zen-mcp-server](https://github.com/BeehiveInnovations / zen-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
 
 ### 📚 技术文章精选
-- [第十：如何在Pycharm中安装AI插件(Proxy AI)](https://blog.csdn.net/hyq413950612/article/details/147039970)
-- [跨端边云时序数据管理新范式：Apache IoTDB 的 DB+AI 融合之道](https://blog.csdn.net/weixin_74809706/article/details/150169691)
-- [AI 赋能云端运维：基于 MCP 协议深度集成 Codebuddy CLI 与腾讯云 Lighthouse 的实战全解](https://blog.csdn.net/2301_80863610/article/details/151616058)
+- [人工智能的三大核心要素：数据、算法与算力](https://blog.csdn.net/lv_soso/article/details/149344370)
+- [物联网的人工智能实用指南（三）](https://blog.csdn.net/wizardforcel/article/details/149423234)
+- [Spring AI 系列之三十二 - Spring AI Alibaba-Graph框架之入门](https://blog.csdn.net/linwu_2006_2006/article/details/149177567)
 
 ### 🛡️ 安全资讯
 - [太炸裂了！我挖到一个纯Python的Web开发神器，不用写前端代码也能轻松搞定全栈开发！](https://cloud.tencent.com/developer/article/2572683)
@@ -132,5 +132,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
