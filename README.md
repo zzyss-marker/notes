@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │    │  1 │  2 │  3 │  4 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  5 │  6 │ ⭐ │  8 │  9 │ 10 │ 11 │
+│  5 │  6 │  7 │ ⭐ │  9 │ 10 │ 11 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年10月7日
+🌟 今天是2025年10月8日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,17 +111,17 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/10/7)
+## 📰 今日资讯 (2025/10/8)
 
 ### 🔥 GitHub 热门项目
-- [Infisical / infisical](https://github.com/Infisical / infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
-- [meshery / meshery](https://github.com/meshery / meshery) - Meshery, the cloud native manager
-- [BeehiveInnovations / zen-mcp-server](https://github.com/BeehiveInnovations / zen-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
+- [Stremio / stremio-web](https://github.com/Stremio / stremio-web) - Stremio - Freedom to Stream
+- [trycua / cua](https://github.com/trycua / cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
+- [simstudioai / sim](https://github.com/simstudioai / sim) - Open-source platform to build and deploy AI agent workflows.
 
 ### 📚 技术文章精选
-- [人工智能的三大核心要素：数据、算法与算力](https://blog.csdn.net/lv_soso/article/details/149344370)
-- [物联网的人工智能实用指南（三）](https://blog.csdn.net/wizardforcel/article/details/149423234)
-- [Spring AI 系列之三十二 - Spring AI Alibaba-Graph框架之入门](https://blog.csdn.net/linwu_2006_2006/article/details/149177567)
+- [当AI把用户数据当“食材“：初级开发者如何成为创意“主厨“](https://blog.csdn.net/qq_33650655/article/details/151346424)
+- [【AI大模型前沿】Step-Audio 2 mini：阶跃星辰开源的端到端语音大模型，听得清楚、想得明白、说得自然](https://blog.csdn.net/xiaobing259/article/details/152415437)
+- [当AI在代码车间组装模块：初级开发者的创意反成「核心算法」](https://blog.csdn.net/qq_33650655/article/details/151343186)
 
 ### 🛡️ 安全资讯
 - [太炸裂了！我挖到一个纯Python的Web开发神器，不用写前端代码也能轻松搞定全栈开发！](https://cloud.tencent.com/developer/article/2572683)
@@ -132,5 +132,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
