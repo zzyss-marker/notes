@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │    │  1 │  2 │  3 │  4 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  5 │  6 │  7 │ ⭐ │  9 │ 10 │ 11 │
+│  5 │  6 │  7 │  8 │ ⭐ │ 10 │ 11 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年10月8日
+🌟 今天是2025年10月9日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/10/8)
+## 📰 今日资讯 (2025/10/9)
 
 ### 🔥 GitHub 热门项目
 - [Stremio / stremio-web](https://github.com/Stremio / stremio-web) - Stremio - Freedom to Stream
-- [trycua / cua](https://github.com/trycua / cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
-- [simstudioai / sim](https://github.com/simstudioai / sim) - Open-source platform to build and deploy AI agent workflows.
+- [Infisical / infisical](https://github.com/Infisical / infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
+- [browserbase / stagehand](https://github.com/browserbase / stagehand) - The AI Browser Automation Framework
 
 ### 📚 技术文章精选
-- [当AI把用户数据当“食材“：初级开发者如何成为创意“主厨“](https://blog.csdn.net/qq_33650655/article/details/151346424)
-- [【AI大模型前沿】Step-Audio 2 mini：阶跃星辰开源的端到端语音大模型，听得清楚、想得明白、说得自然](https://blog.csdn.net/xiaobing259/article/details/152415437)
-- [当AI在代码车间组装模块：初级开发者的创意反成「核心算法」](https://blog.csdn.net/qq_33650655/article/details/151343186)
+- [【GitHub项目推荐--​500 AI Agents Projects：人工智能代理用例大全】](https://blog.csdn.net/j8267643/article/details/151370027)
+- [AI大模型ms-swift框架实战指南（八）：Qwen2.5-7B高效微调实践指南](https://blog.csdn.net/xiaobing259/article/details/147397749)
+- [解锁多模态AI新高度：Ollama极速部署Qwen2.5-VL-7B，看这一篇就够了](https://blog.csdn.net/zdk8105/article/details/147613713)
 
 ### 🛡️ 安全资讯
-- [太炸裂了！我挖到一个纯Python的Web开发神器，不用写前端代码也能轻松搞定全栈开发！](https://cloud.tencent.com/developer/article/2572683)
 - [腾讯混元3D开源+2：瞄准游戏建模、3D 打印痛点](https://cloud.tencent.com/developer/article/2572758)
 - [像元宝，又不止于元宝：我用 IMA 把公众号文章“存成知识库”，写作效率爆表](https://cloud.tencent.com/developer/article/2572794)
+- [腾讯X东风汽车：智能化+全球化，加速！](https://cloud.tencent.com/developer/article/2572856)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
