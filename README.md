@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │    │  1 │  2 │  3 │  4 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  5 │  6 │  7 │  8 │ ⭐ │ 10 │ 11 │
+│  5 │  6 │  7 │  8 │  9 │ ⭐ │ 11 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年10月9日
+🌟 今天是2025年10月10日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/10/9)
+## 📰 今日资讯 (2025/10/10)
 
 ### 🔥 GitHub 热门项目
 - [Stremio / stremio-web](https://github.com/Stremio / stremio-web) - Stremio - Freedom to Stream
-- [Infisical / infisical](https://github.com/Infisical / infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
-- [browserbase / stagehand](https://github.com/browserbase / stagehand) - The AI Browser Automation Framework
+- [MODSetter / SurfSense](https://github.com/MODSetter / SurfSense) - Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
+- [google / computer-use-preview](https://github.com/google / computer-use-preview) - 
 
 ### 📚 技术文章精选
-- [【GitHub项目推荐--​500 AI Agents Projects：人工智能代理用例大全】](https://blog.csdn.net/j8267643/article/details/151370027)
-- [AI大模型ms-swift框架实战指南（八）：Qwen2.5-7B高效微调实践指南](https://blog.csdn.net/xiaobing259/article/details/147397749)
-- [解锁多模态AI新高度：Ollama极速部署Qwen2.5-VL-7B，看这一篇就够了](https://blog.csdn.net/zdk8105/article/details/147613713)
+- [【愚公系列】《人工智能70年》032-机器翻译拆除语言樊篱（自然语言处理阔步前进）](https://blog.csdn.net/aa2528877987/article/details/151681906)
+- [头部企业AI数据资产评估的工具选型：AI应用架构师的参考](https://blog.csdn.net/2502_91592937/article/details/151628389)
+- [优云智算赋能国产AI：DeepSeek配合通义万相2.1文生视频模型生成高质量视频](https://blog.csdn.net/g310773517/article/details/146165068)
 
 ### 🛡️ 安全资讯
-- [腾讯混元3D开源+2：瞄准游戏建模、3D 打印痛点](https://cloud.tencent.com/developer/article/2572758)
-- [像元宝，又不止于元宝：我用 IMA 把公众号文章“存成知识库”，写作效率爆表](https://cloud.tencent.com/developer/article/2572794)
-- [腾讯X东风汽车：智能化+全球化，加速！](https://cloud.tencent.com/developer/article/2572856)
+- [架构派 | 专访长沙同盟理事长李颖悟：技术人生AB面](https://cloud.tencent.com/developer/article/2572960)
+- [毫秒级延时，MySQL 也可以做到的实时数据分析](https://cloud.tencent.com/developer/article/2572977)
+- [腾讯专有云企业版TCE Terraform Provider 正式开源！](https://cloud.tencent.com/developer/article/2572979)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
