@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │    │  1 │  2 │  3 │  4 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  5 │  6 │  7 │  8 │  9 │ ⭐ │ 11 │
+│  5 │  6 │  7 │  8 │  9 │ 10 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年10月10日
+🌟 今天是2025年10月11日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/10/10)
+## 📰 今日资讯 (2025/10/11)
 
 ### 🔥 GitHub 热门项目
-- [Stremio / stremio-web](https://github.com/Stremio / stremio-web) - Stremio - Freedom to Stream
-- [MODSetter / SurfSense](https://github.com/MODSetter / SurfSense) - Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
-- [google / computer-use-preview](https://github.com/google / computer-use-preview) - 
+- [browserbase / stagehand](https://github.com/browserbase / stagehand) - The AI Browser Automation Framework
+- [78 / xiaozhi-esp32](https://github.com/78 / xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
+- [anthropics / claude-code](https://github.com/anthropics / claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
 ### 📚 技术文章精选
-- [【愚公系列】《人工智能70年》032-机器翻译拆除语言樊篱（自然语言处理阔步前进）](https://blog.csdn.net/aa2528877987/article/details/151681906)
-- [头部企业AI数据资产评估的工具选型：AI应用架构师的参考](https://blog.csdn.net/2502_91592937/article/details/151628389)
-- [优云智算赋能国产AI：DeepSeek配合通义万相2.1文生视频模型生成高质量视频](https://blog.csdn.net/g310773517/article/details/146165068)
+- [阿里Qwen-Image-Edit-2509重磅升级：多图编辑能力让AI图像创作迈入“自由组合”时代](https://blog.csdn.net/weixin_46491509/article/details/151997066)
+- [【Spring AI】第二弹：Prompt 优化技巧、AI 应用开发、实战 Spring AI 特性 (自定义Advisor、结构化输出、对话记忆持久化、PromptTemplate模板、多模态)](https://blog.csdn.net/2402_84916296/article/details/151297212)
+- [【人工智能agent】--docker本地部署dify教程](https://blog.csdn.net/qq_58602552/article/details/147443007)
 
 ### 🛡️ 安全资讯
-- [架构派 | 专访长沙同盟理事长李颖悟：技术人生AB面](https://cloud.tencent.com/developer/article/2572960)
-- [毫秒级延时，MySQL 也可以做到的实时数据分析](https://cloud.tencent.com/developer/article/2572977)
-- [腾讯专有云企业版TCE Terraform Provider 正式开源！](https://cloud.tencent.com/developer/article/2572979)
+- [共谈架构师 AI 进化论，腾讯云架构师技术沙龙圆满落幕](https://cloud.tencent.com/developer/article/2572963)
+- [NeurIPS 2025 | 腾讯优图实验室14篇论文入选，涵盖大语言模型、AIGC检测、视觉上下文学习等方向](https://cloud.tencent.com/developer/article/2572858)
+- [Wasm 3.0史诗级发布，一文看懂它的前世今生](https://cloud.tencent.com/developer/article/2572971)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
