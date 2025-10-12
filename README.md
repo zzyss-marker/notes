@@ -32,9 +32,9 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │    │  1 │  2 │  3 │  4 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  5 │  6 │  7 │  8 │  9 │ 10 │ ⭐ │
+│  5 │  6 │  7 │  8 │  9 │ 10 │ 11 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │
+│ ⭐ │ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │ 25 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年10月11日
+🌟 今天是2025年10月12日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/10/11)
+## 📰 今日资讯 (2025/10/12)
 
 ### 🔥 GitHub 热门项目
-- [browserbase / stagehand](https://github.com/browserbase / stagehand) - The AI Browser Automation Framework
-- [78 / xiaozhi-esp32](https://github.com/78 / xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
 - [anthropics / claude-code](https://github.com/anthropics / claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+- [QwenLM / Qwen3-VL](https://github.com/QwenLM / Qwen3-VL) - Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
+- [MODSetter / SurfSense](https://github.com/MODSetter / SurfSense) - Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
 
 ### 📚 技术文章精选
-- [阿里Qwen-Image-Edit-2509重磅升级：多图编辑能力让AI图像创作迈入“自由组合”时代](https://blog.csdn.net/weixin_46491509/article/details/151997066)
-- [【Spring AI】第二弹：Prompt 优化技巧、AI 应用开发、实战 Spring AI 特性 (自定义Advisor、结构化输出、对话记忆持久化、PromptTemplate模板、多模态)](https://blog.csdn.net/2402_84916296/article/details/151297212)
-- [【人工智能agent】--docker本地部署dify教程](https://blog.csdn.net/qq_58602552/article/details/147443007)
+- [【AI视频】Runway：Gen-2 图文生视频与运动模式详解](https://blog.csdn.net/2201_75539691/article/details/142370476)
+- [从报名到领证：软考中级系统集成项目管理工程师考试全流程指南](https://blog.csdn.net/xisai88/article/details/140616480)
+- [医疗编程AI技能树与培训技能树报告（国内外一流大学医疗AI相关专业分析2025版，下）](https://blog.csdn.net/kkiron/article/details/152206029)
 
 ### 🛡️ 安全资讯
-- [共谈架构师 AI 进化论，腾讯云架构师技术沙龙圆满落幕](https://cloud.tencent.com/developer/article/2572963)
-- [NeurIPS 2025 | 腾讯优图实验室14篇论文入选，涵盖大语言模型、AIGC检测、视觉上下文学习等方向](https://cloud.tencent.com/developer/article/2572858)
-- [Wasm 3.0史诗级发布，一文看懂它的前世今生](https://cloud.tencent.com/developer/article/2572971)
+- [深度解析：Python中处理PDF的库有很多，我应该选择哪一个？](https://cloud.tencent.com/developer/article/2573206)
+- [本地文件加密能力实现：基于现代密码学的安全实践](https://cloud.tencent.com/developer/article/2574373)
+- [查IP归属地，有的站点查得不准](https://cloud.tencent.com/developer/article/2574454)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
