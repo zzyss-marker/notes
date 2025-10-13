@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  5 │  6 │  7 │  8 │  9 │ 10 │ 11 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │
+│ 12 │ ⭐ │ 14 │ 15 │ 16 │ 17 │ 18 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │ 25 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年10月12日
+🌟 今天是2025年10月13日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,17 +111,17 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/10/12)
+## 📰 今日资讯 (2025/10/13)
 
 ### 🔥 GitHub 热门项目
 - [anthropics / claude-code](https://github.com/anthropics / claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- [QwenLM / Qwen3-VL](https://github.com/QwenLM / Qwen3-VL) - Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
-- [MODSetter / SurfSense](https://github.com/MODSetter / SurfSense) - Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
+- [davila7 / claude-code-templates](https://github.com/davila7 / claude-code-templates) - CLI tool for configuring and monitoring Claude Code
+- [evershopcommerce / evershop](https://github.com/evershopcommerce / evershop) - 🛍️ Typescript E-commerce Platform
 
 ### 📚 技术文章精选
-- [【AI视频】Runway：Gen-2 图文生视频与运动模式详解](https://blog.csdn.net/2201_75539691/article/details/142370476)
-- [从报名到领证：软考中级系统集成项目管理工程师考试全流程指南](https://blog.csdn.net/xisai88/article/details/140616480)
-- [医疗编程AI技能树与培训技能树报告（国内外一流大学医疗AI相关专业分析2025版，下）](https://blog.csdn.net/kkiron/article/details/152206029)
+- [PyTorch生成式人工智能（24）——使用PyTorch构建Transformer模型](https://blog.csdn.net/LOVEmy134611/article/details/146260436)
+- [Claude Code Router深度解析：开源AI路由器架构设计与核心特性](https://blog.csdn.net/wanzunz/article/details/151622241)
+- [自监督学习在医疗AI中的技术实现路径分析（中）](https://blog.csdn.net/kkiron/article/details/152321827)
 
 ### 🛡️ 安全资讯
 - [深度解析：Python中处理PDF的库有很多，我应该选择哪一个？](https://cloud.tencent.com/developer/article/2573206)
@@ -132,5 +132,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
