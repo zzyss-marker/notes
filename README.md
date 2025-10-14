@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  5 │  6 │  7 │  8 │  9 │ 10 │ 11 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 12 │ ⭐ │ 14 │ 15 │ 16 │ 17 │ 18 │
+│ 12 │ 13 │ ⭐ │ 15 │ 16 │ 17 │ 18 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │ 25 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年10月13日
+🌟 今天是2025年10月14日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/10/13)
+## 📰 今日资讯 (2025/10/14)
 
 ### 🔥 GitHub 热门项目
+- [anthropics / prompt-eng-interactive-tutorial](https://github.com/anthropics / prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
+- [coleam00 / Archon](https://github.com/coleam00 / Archon) - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
 - [anthropics / claude-code](https://github.com/anthropics / claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- [davila7 / claude-code-templates](https://github.com/davila7 / claude-code-templates) - CLI tool for configuring and monitoring Claude Code
-- [evershopcommerce / evershop](https://github.com/evershopcommerce / evershop) - 🛍️ Typescript E-commerce Platform
 
 ### 📚 技术文章精选
-- [PyTorch生成式人工智能（24）——使用PyTorch构建Transformer模型](https://blog.csdn.net/LOVEmy134611/article/details/146260436)
-- [Claude Code Router深度解析：开源AI路由器架构设计与核心特性](https://blog.csdn.net/wanzunz/article/details/151622241)
-- [自监督学习在医疗AI中的技术实现路径分析（中）](https://blog.csdn.net/kkiron/article/details/152321827)
+- [通达信源码-主力建仓-AI投研图灵室出品](https://blog.csdn.net/qq_57222058/article/details/149689365)
+- [Windsurf 下载和调试（超越cursor的免费的 AI IDE）](https://blog.csdn.net/calvin189s/article/details/146425040)
+- [豆包AI的官方信息和公开数据，以下是关于其图像生成功能的使用限制](https://blog.csdn.net/lsylovejava/article/details/149257376)
 
 ### 🛡️ 安全资讯
-- [深度解析：Python中处理PDF的库有很多，我应该选择哪一个？](https://cloud.tencent.com/developer/article/2573206)
-- [本地文件加密能力实现：基于现代密码学的安全实践](https://cloud.tencent.com/developer/article/2574373)
 - [查IP归属地，有的站点查得不准](https://cloud.tencent.com/developer/article/2574454)
+- [Python 3.14新特性：Zstandard压缩库正式加入标准库，性能提升30%](https://cloud.tencent.com/developer/article/2574648)
+- [Python 3.14正式发布！这5大新特性太炸裂了](https://cloud.tencent.com/developer/article/2574311)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
