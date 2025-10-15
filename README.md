@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  5 │  6 │  7 │  8 │  9 │ 10 │ 11 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 12 │ 13 │ ⭐ │ 15 │ 16 │ 17 │ 18 │
+│ 12 │ 13 │ 14 │ ⭐ │ 16 │ 17 │ 18 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │ 25 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年10月14日
+🌟 今天是2025年10月15日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/10/14)
+## 📰 今日资讯 (2025/10/15)
 
 ### 🔥 GitHub 热门项目
 - [anthropics / prompt-eng-interactive-tutorial](https://github.com/anthropics / prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
-- [coleam00 / Archon](https://github.com/coleam00 / Archon) - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
-- [anthropics / claude-code](https://github.com/anthropics / claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+- [nvm-sh / nvm](https://github.com/nvm-sh / nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- [GorvGoyl / Clone-Wars](https://github.com/GorvGoyl / Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 
 ### 📚 技术文章精选
-- [通达信源码-主力建仓-AI投研图灵室出品](https://blog.csdn.net/qq_57222058/article/details/149689365)
-- [Windsurf 下载和调试（超越cursor的免费的 AI IDE）](https://blog.csdn.net/calvin189s/article/details/146425040)
-- [豆包AI的官方信息和公开数据，以下是关于其图像生成功能的使用限制](https://blog.csdn.net/lsylovejava/article/details/149257376)
+- [AI时代项目管理工具TOP5：2025年度权威评测](https://blog.csdn.net/RebeccaGuan0808/article/details/150519592)
+- [Matlab Copilot_AI代码生成工具：基于DeepSeek-V3.1的Matlab AI编程实战(附多版本代码，不限于Matlab 2025a)](https://blog.csdn.net/kaisherxy31/article/details/148906207)
+- [2025年AI开发实战指南：从API调用到工程落地的避坑全攻略](https://blog.csdn.net/user340/article/details/152092838)
 
 ### 🛡️ 安全资讯
-- [查IP归属地，有的站点查得不准](https://cloud.tencent.com/developer/article/2574454)
-- [Python 3.14新特性：Zstandard压缩库正式加入标准库，性能提升30%](https://cloud.tencent.com/developer/article/2574648)
-- [Python 3.14正式发布！这5大新特性太炸裂了](https://cloud.tencent.com/developer/article/2574311)
+- [用下面获取virtio驱动的方式查看ImagePath，具有通用性](https://cloud.tencent.com/developer/article/2575070)
+- [windows如何修改时区](https://cloud.tencent.com/developer/article/2575047)
+- [看！元宝生图升级了！](https://cloud.tencent.com/developer/article/2575083)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
