@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  5 │  6 │  7 │  8 │  9 │ 10 │ 11 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 12 │ 13 │ 14 │ ⭐ │ 16 │ 17 │ 18 │
+│ 12 │ 13 │ 14 │ 15 │ ⭐ │ 17 │ 18 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │ 25 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年10月15日
+🌟 今天是2025年10月16日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,27 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/10/15)
+## 📰 今日资讯 (2025/10/16)
 
 ### 🔥 GitHub 热门项目
 - [anthropics / prompt-eng-interactive-tutorial](https://github.com/anthropics / prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
-- [nvm-sh / nvm](https://github.com/nvm-sh / nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-- [GorvGoyl / Clone-Wars](https://github.com/GorvGoyl / Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
+- [jingyaogong / minimind](https://github.com/jingyaogong / minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+- [nitrojs / nitro](https://github.com/nitrojs / nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
 
 ### 📚 技术文章精选
-- [AI时代项目管理工具TOP5：2025年度权威评测](https://blog.csdn.net/RebeccaGuan0808/article/details/150519592)
-- [Matlab Copilot_AI代码生成工具：基于DeepSeek-V3.1的Matlab AI编程实战(附多版本代码，不限于Matlab 2025a)](https://blog.csdn.net/kaisherxy31/article/details/148906207)
-- [2025年AI开发实战指南：从API调用到工程落地的避坑全攻略](https://blog.csdn.net/user340/article/details/152092838)
+- [【AI视频】AI虚拟主播制作初体验：从生成数字人到视频创作全流程](https://blog.csdn.net/2201_75539691/article/details/141474531)
+- [Topaz Video AI v7.1.1_Win中文_视频修复_汉化便携版安装教程](https://blog.csdn.net/qq_54693727/article/details/151060903)
+- [桌面级AI神器，本地大模型助手安装、配置与应用](https://blog.csdn.net/weixin_53269650/article/details/148848704)
 
 ### 🛡️ 安全资讯
-- [用下面获取virtio驱动的方式查看ImagePath，具有通用性](https://cloud.tencent.com/developer/article/2575070)
-- [windows如何修改时区](https://cloud.tencent.com/developer/article/2575047)
-- [看！元宝生图升级了！](https://cloud.tencent.com/developer/article/2575083)
+- [都2026年了还在说闭包吗？](https://cloud.tencent.com/developer/article/2575556)
+- [windows就地升级报0x80070002-0x4001A
+在BEGIN_FIRST_BOOT操作过程中的SECOND_BOOT阶段，安装失败，出现错误](https://cloud.tencent.com/developer/article/2575516)
+- [新一代运维神器！用 1Panel + Docker 5 分钟搭建属于你的 Halo 博客](https://cloud.tencent.com/developer/article/2575467)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
