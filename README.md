@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  5 │  6 │  7 │  8 │  9 │ 10 │ 11 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 12 │ 13 │ 14 │ 15 │ ⭐ │ 17 │ 18 │
+│ 12 │ 13 │ 14 │ 15 │ 16 │ ⭐ │ 18 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │ 25 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年10月16日
+🌟 今天是2025年10月17日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,27 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/10/16)
+## 📰 今日资讯 (2025/10/17)
 
 ### 🔥 GitHub 热门项目
-- [anthropics / prompt-eng-interactive-tutorial](https://github.com/anthropics / prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
-- [jingyaogong / minimind](https://github.com/jingyaogong / minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
-- [nitrojs / nitro](https://github.com/nitrojs / nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
+- [nvm-sh / nvm](https://github.com/nvm-sh / nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- [devlikeapro / waha](https://github.com/devlikeapro / waha) - WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)
+- [QwenLM / Qwen3-VL](https://github.com/QwenLM / Qwen3-VL) - Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
 
 ### 📚 技术文章精选
-- [【AI视频】AI虚拟主播制作初体验：从生成数字人到视频创作全流程](https://blog.csdn.net/2201_75539691/article/details/141474531)
-- [Topaz Video AI v7.1.1_Win中文_视频修复_汉化便携版安装教程](https://blog.csdn.net/qq_54693727/article/details/151060903)
-- [桌面级AI神器，本地大模型助手安装、配置与应用](https://blog.csdn.net/weixin_53269650/article/details/148848704)
+- [爆改Claude Code Router：让你的AI模型像打车一样随叫随到！](https://blog.csdn.net/u012094427/article/details/149323741)
+- [融合与智能：AI 浪潮驱动下数据库的多维度进化与产业格局重塑新范式](https://blog.csdn.net/weixin_62765017/article/details/149634787)
+- [Thetawave.ai：重新定义学生笔记体验的AI驱动工具](https://blog.csdn.net/2301_77011032/article/details/147783184)
 
 ### 🛡️ 安全资讯
-- [都2026年了还在说闭包吗？](https://cloud.tencent.com/developer/article/2575556)
-- [windows就地升级报0x80070002-0x4001A
-在BEGIN_FIRST_BOOT操作过程中的SECOND_BOOT阶段，安装失败，出现错误](https://cloud.tencent.com/developer/article/2575516)
-- [新一代运维神器！用 1Panel + Docker 5 分钟搭建属于你的 Halo 博客](https://cloud.tencent.com/developer/article/2575467)
+- [腾讯云X香港城市大学：共创AI教育「港式范本」！](https://cloud.tencent.com/developer/article/2575807)
+- [“鸡蛋不能放一个篮子里”，如何确保千亿数据万无一失？](https://cloud.tencent.com/developer/article/2576292)
+- [AI时代，GEO的探索、痛点和方法｜AI透镜研究系列](https://cloud.tencent.com/developer/article/2576359)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
