@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  5 │  6 │  7 │  8 │  9 │ 10 │ 11 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 12 │ 13 │ 14 │ 15 │ 16 │ ⭐ │ 18 │
+│ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │ 25 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年10月17日
+🌟 今天是2025年10月18日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/10/17)
+## 📰 今日资讯 (2025/10/18)
 
 ### 🔥 GitHub 热门项目
+- [jingyaogong / minimind](https://github.com/jingyaogong / minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
 - [nvm-sh / nvm](https://github.com/nvm-sh / nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-- [devlikeapro / waha](https://github.com/devlikeapro / waha) - WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)
-- [QwenLM / Qwen3-VL](https://github.com/QwenLM / Qwen3-VL) - Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
+- [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse / developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ### 📚 技术文章精选
-- [爆改Claude Code Router：让你的AI模型像打车一样随叫随到！](https://blog.csdn.net/u012094427/article/details/149323741)
-- [融合与智能：AI 浪潮驱动下数据库的多维度进化与产业格局重塑新范式](https://blog.csdn.net/weixin_62765017/article/details/149634787)
-- [Thetawave.ai：重新定义学生笔记体验的AI驱动工具](https://blog.csdn.net/2301_77011032/article/details/147783184)
+- [AI 提效：利用 AI 从前端 快速转型为UI/UX设计师和产品](https://blog.csdn.net/tomxjc/article/details/152360931)
+- [使用UniApp实现一个AI对话页面](https://blog.csdn.net/qq_34490582/article/details/151618341)
+- [《5分钟开发订单微服务！飞算JavaAI实战：IDEA插件安装→空指针修复→K8s部署全流程》](https://blog.csdn.net/2201_76027234/article/details/149452481)
 
 ### 🛡️ 安全资讯
-- [腾讯云X香港城市大学：共创AI教育「港式范本」！](https://cloud.tencent.com/developer/article/2575807)
-- [“鸡蛋不能放一个篮子里”，如何确保千亿数据万无一失？](https://cloud.tencent.com/developer/article/2576292)
 - [AI时代，GEO的探索、痛点和方法｜AI透镜研究系列](https://cloud.tencent.com/developer/article/2576359)
+- [中科软科技 x 腾讯云：从“经验驱动”到“智能驱动”，升级保险决策新体系](https://cloud.tencent.com/developer/article/2576619)
+- [「腾讯云 NoSQL 技术」之 Redis 篇｜揭晓腾讯云Redis水平扩缩容极致流畅背后的技术玄机](https://cloud.tencent.com/developer/article/2576615)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
