@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │ 20 │ 21 │ 22 │ 23 │ 24 │ 25 │
+│ 19 │ ⭐ │ 21 │ 22 │ 23 │ 24 │ 25 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 26 │ 27 │ 28 │ 29 │ 30 │ 31 │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年10月19日
+🌟 今天是2025年10月20日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/10/19)
+## 📰 今日资讯 (2025/10/20)
 
 ### 🔥 GitHub 热门项目
 - [anthropics / claude-cookbooks](https://github.com/anthropics / claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-- [nvm-sh / nvm](https://github.com/nvm-sh / nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- [lfnovo / open-notebook](https://github.com/lfnovo / open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 - [jingyaogong / minimind](https://github.com/jingyaogong / minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
 
 ### 📚 技术文章精选
-- [人工智能：所有144本SCI期刊都在这里（20本Top，4本On Hold）](https://blog.csdn.net/WangUnionpub/article/details/140787425)
-- [【人工智能】本地部署 KTransformers并加载大模型笔记](https://blog.csdn.net/qq_31985307/article/details/150441433)
-- [医疗AI记忆系统的分层存储机制：长期病史与短期会诊记忆的编程实现（论述部分）](https://blog.csdn.net/kkiron/article/details/153036074)
+- [数据驱动+AI：重塑数字化时代的安全与运维——技术实践与方法论全景解析（一）](https://blog.csdn.net/qq_44654951/article/details/152956646)
+- [全面掌握PHP:从基础到框架与安全实践](https://blog.csdn.net/2510_93655578/article/details/152926751)
+- [《网络安全自学教程》- MySQL安全配置，MySQL安全基线检查加固](https://blog.csdn.net/wangyuxiang946/article/details/140078156)
 
 ### 🛡️ 安全资讯
-- [AI时代，GEO的探索、痛点和方法｜AI透镜研究系列](https://cloud.tencent.com/developer/article/2576359)
-- [中科软科技 x 腾讯云：从“经验驱动”到“智能驱动”，升级保险决策新体系](https://cloud.tencent.com/developer/article/2576619)
-- [「腾讯云 NoSQL 技术」之 Redis 篇｜揭晓腾讯云Redis水平扩缩容极致流畅背后的技术玄机](https://cloud.tencent.com/developer/article/2576615)
+- [本地化新闻，AI无法抵达的“最后一公里”](https://cloud.tencent.com/developer/article/2576853)
+- [前端开发者的 Kotlin 之旅：Compose Multiplatform 实战状态管理](https://cloud.tencent.com/developer/article/2576755)
+- [前端开发者的 Kotlin 之旅：Compose Multiplatform 实战布局系统](https://cloud.tencent.com/developer/article/2576632)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
