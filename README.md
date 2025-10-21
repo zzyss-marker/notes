@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 19 │ ⭐ │ 21 │ 22 │ 23 │ 24 │ 25 │
+│ 19 │ 20 │ ⭐ │ 22 │ 23 │ 24 │ 25 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 26 │ 27 │ 28 │ 29 │ 30 │ 31 │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年10月20日
+🌟 今天是2025年10月21日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/10/20)
+## 📰 今日资讯 (2025/10/21)
 
 ### 🔥 GitHub 热门项目
 - [anthropics / claude-cookbooks](https://github.com/anthropics / claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-- [lfnovo / open-notebook](https://github.com/lfnovo / open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
-- [jingyaogong / minimind](https://github.com/jingyaogong / minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+- [SagerNet / sing-box](https://github.com/SagerNet / sing-box) - The universal proxy platform
+- [DrewThomasson / ebook2audiobook](https://github.com/DrewThomasson / ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1107+ languages!
 
 ### 📚 技术文章精选
-- [数据驱动+AI：重塑数字化时代的安全与运维——技术实践与方法论全景解析（一）](https://blog.csdn.net/qq_44654951/article/details/152956646)
-- [全面掌握PHP:从基础到框架与安全实践](https://blog.csdn.net/2510_93655578/article/details/152926751)
-- [《网络安全自学教程》- MySQL安全配置，MySQL安全基线检查加固](https://blog.csdn.net/wangyuxiang946/article/details/140078156)
+- [告别选择困难症！精选10个国内免费AI平台，让你的AI体验即刻升级](https://blog.csdn.net/2401_84204413/article/details/149834592)
+- [【花雕动手做】AI 视觉传感器 HUSKYLENS 2 之统计二维码总数输出指定二维码的数据](https://blog.csdn.net/weixin_41659040/article/details/152914688)
+- [重塑数学边界：人工智能如何引领数学研究的新纪元](https://blog.csdn.net/xiaofeng10330111/article/details/147685605)
 
 ### 🛡️ 安全资讯
-- [本地化新闻，AI无法抵达的“最后一公里”](https://cloud.tencent.com/developer/article/2576853)
-- [前端开发者的 Kotlin 之旅：Compose Multiplatform 实战状态管理](https://cloud.tencent.com/developer/article/2576755)
-- [前端开发者的 Kotlin 之旅：Compose Multiplatform 实战布局系统](https://cloud.tencent.com/developer/article/2576632)
+- [Python版本进化史：从3.6到3.14，每个版本都带来了什么惊喜？](https://cloud.tencent.com/developer/article/2577347)
+- [QQ浏览器新版本上线，双倍快乐（速来）](https://cloud.tencent.com/developer/article/2577397)
+- [绯闻女孩不只会八卦：从“验明正身”到“抓内鬼”，Gossip的进阶玩法](https://cloud.tencent.com/developer/article/2577745)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
