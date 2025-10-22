@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 19 │ 20 │ ⭐ │ 22 │ 23 │ 24 │ 25 │
+│ 19 │ 20 │ 21 │ ⭐ │ 23 │ 24 │ 25 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 26 │ 27 │ 28 │ 29 │ 30 │ 31 │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年10月21日
+🌟 今天是2025年10月22日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/10/21)
+## 📰 今日资讯 (2025/10/22)
 
 ### 🔥 GitHub 热门项目
-- [anthropics / claude-cookbooks](https://github.com/anthropics / claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-- [SagerNet / sing-box](https://github.com/SagerNet / sing-box) - The universal proxy platform
-- [DrewThomasson / ebook2audiobook](https://github.com/DrewThomasson / ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1107+ languages!
+- [mountain-loop / yaak](https://github.com/mountain-loop / yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
+- [louislam / uptime-kuma](https://github.com/louislam / uptime-kuma) - A fancy self-hosted monitoring tool
+- [lfnovo / open-notebook](https://github.com/lfnovo / open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 
 ### 📚 技术文章精选
-- [告别选择困难症！精选10个国内免费AI平台，让你的AI体验即刻升级](https://blog.csdn.net/2401_84204413/article/details/149834592)
-- [【花雕动手做】AI 视觉传感器 HUSKYLENS 2 之统计二维码总数输出指定二维码的数据](https://blog.csdn.net/weixin_41659040/article/details/152914688)
-- [重塑数学边界：人工智能如何引领数学研究的新纪元](https://blog.csdn.net/xiaofeng10330111/article/details/147685605)
+- [用 AI 图片生成视频时绝大多数人脸会严重走样变形的主要原因](https://blog.csdn.net/wan5555/article/details/150635311)
+- [飞算JavaAI全流程实操指南：从需求到部署的智能开发体验](https://blog.csdn.net/2302_78391795/article/details/150080662)
+- [中国AI产业全景图32家头部公司的技术实力与市场格局深度解析](https://blog.csdn.net/ztt123654/article/details/152164225)
 
 ### 🛡️ 安全资讯
-- [Python版本进化史：从3.6到3.14，每个版本都带来了什么惊喜？](https://cloud.tencent.com/developer/article/2577347)
-- [QQ浏览器新版本上线，双倍快乐（速来）](https://cloud.tencent.com/developer/article/2577397)
-- [绯闻女孩不只会八卦：从“验明正身”到“抓内鬼”，Gossip的进阶玩法](https://cloud.tencent.com/developer/article/2577745)
+- [H5页面兼容性问题排查思路](https://cloud.tencent.com/developer/article/2578395)
+- [清华刘嘉：AI时代属于年轻人，不要用过时的经验束缚他们](https://cloud.tencent.com/developer/article/2578480)
+- [Gartner发布全球数据湖仓平台市场指南：腾讯云入选，系唯一中国厂商](https://cloud.tencent.com/developer/article/2578479)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
