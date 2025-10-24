@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 19 │ 20 │ 21 │ 22 │ ⭐ │ 24 │ 25 │
+│ 19 │ 20 │ 21 │ 22 │ 23 │ ⭐ │ 25 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 26 │ 27 │ 28 │ 29 │ 30 │ 31 │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年10月23日
+🌟 今天是2025年10月24日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/10/23)
+## 📰 今日资讯 (2025/10/24)
 
 ### 🔥 GitHub 热门项目
+- [minio / minio](https://github.com/minio / minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+- [guofei9987 / blind_watermark](https://github.com/guofei9987 / blind_watermark) - Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
 - [mountain-loop / yaak](https://github.com/mountain-loop / yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
-- [servo / servo](https://github.com/servo / servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
-- [emcie-co / parlant](https://github.com/emcie-co / parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes.
 
 ### 📚 技术文章精选
-- [大数据、人工智能、云计算、物联网、区块链序言【大数据导论】](https://blog.csdn.net/2301_81874719/article/details/140105022)
-- [“FAQ + AI”智能助手全栈实现方案](https://blog.csdn.net/sixpp/article/details/150996205)
-- [【AI智能体】Coze 打造AI数字人视频生成智能体实战详解](https://blog.csdn.net/zhangcongyi420/article/details/152601878)
+- [QtCreator配置AI辅助编程插件github copilot保姆级教程](https://blog.csdn.net/qq_39417283/article/details/146099314)
+- [【大模型科普】大模型：人工智能的前沿（一文读懂大模型）](https://blog.csdn.net/Morse_Chen/article/details/145731105)
+- [Mac iTerm2集成DeepSeek AI](https://blog.csdn.net/Bruce1114/article/details/144890635)
 
 ### 🛡️ 安全资讯
-- [个性化AI音乐触手可及：腾讯升级SongGeneration并开源自动化数据工具SongPrep](https://cloud.tencent.com/developer/article/2578853)
 - [「服务国际化战略」腾讯云 Data Platform——探索 AI 时代数据存储与处理解决方案](https://cloud.tencent.com/developer/article/2578845)
 - [Gartner发布全球数据湖仓平台市场指南：腾讯云入选，系唯一中国厂商](https://cloud.tencent.com/developer/article/2578847)
+- [个性化AI音乐触手可及：腾讯升级SongGeneration并开源自动化数据工具SongPrep](https://cloud.tencent.com/developer/article/2578853)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
