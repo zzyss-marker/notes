@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │ 18 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 19 │ 20 │ 21 │ 22 │ 23 │ ⭐ │ 25 │
+│ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 26 │ 27 │ 28 │ 29 │ 30 │ 31 │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年10月24日
+🌟 今天是2025年10月25日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/10/24)
+## 📰 今日资讯 (2025/10/25)
 
 ### 🔥 GitHub 热门项目
-- [minio / minio](https://github.com/minio / minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+- [LadybirdBrowser / ladybird](https://github.com/LadybirdBrowser / ladybird) - Truly independent web browser
 - [guofei9987 / blind_watermark](https://github.com/guofei9987 / blind_watermark) - Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
-- [mountain-loop / yaak](https://github.com/mountain-loop / yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
+- [hoppscotch / hoppscotch](https://github.com/hoppscotch / hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 
 ### 📚 技术文章精选
-- [QtCreator配置AI辅助编程插件github copilot保姆级教程](https://blog.csdn.net/qq_39417283/article/details/146099314)
-- [【大模型科普】大模型：人工智能的前沿（一文读懂大模型）](https://blog.csdn.net/Morse_Chen/article/details/145731105)
-- [Mac iTerm2集成DeepSeek AI](https://blog.csdn.net/Bruce1114/article/details/144890635)
+- [10 写第一份 AI 产品 PRD](https://blog.csdn.net/qq_41611586/article/details/151440848)
+- [​​Topaz Video AI解锁中文版 (智能视频增强软件) 画质修复/帧率提升​​](https://blog.csdn.net/b78gb/article/details/152608617)
+- [【AI智能体】基于Coze 制作高质量PPT实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/148933820)
 
 ### 🛡️ 安全资讯
-- [「服务国际化战略」腾讯云 Data Platform——探索 AI 时代数据存储与处理解决方案](https://cloud.tencent.com/developer/article/2578845)
-- [Gartner发布全球数据湖仓平台市场指南：腾讯云入选，系唯一中国厂商](https://cloud.tencent.com/developer/article/2578847)
-- [个性化AI音乐触手可及：腾讯升级SongGeneration并开源自动化数据工具SongPrep](https://cloud.tencent.com/developer/article/2578853)
+- [Youtu-Embedding 正式开源：腾讯优图推出高性能通用文本嵌入模型](https://cloud.tencent.com/developer/article/2578850)
+- [腾讯云 Data Platform，以智能数据基础设施服务全球出海客户](https://cloud.tencent.com/developer/article/2578962)
+- [信息量很大！AI结对编程核心思维模型](https://cloud.tencent.com/developer/article/2578960)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
