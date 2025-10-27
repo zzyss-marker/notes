@@ -38,14 +38,14 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │ 25 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │ 27 │ 28 │ 29 │ 30 │ 31 │    │
+│ 26 │ ⭐ │ 28 │ 29 │ 30 │ 31 │    │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年10月26日
+🌟 今天是2025年10月27日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/10/26)
+## 📰 今日资讯 (2025/10/27)
 
 ### 🔥 GitHub 热门项目
 - [LadybirdBrowser / ladybird](https://github.com/LadybirdBrowser / ladybird) - Truly independent web browser
-- [TheRobotStudio / SO-ARM100](https://github.com/TheRobotStudio / SO-ARM100) - Standard Open Arm 100
-- [coinbase / x402](https://github.com/coinbase / x402) - A payments protocol for the internet. Built on HTTP.
+- [yeongpin / cursor-free-vip](https://github.com/yeongpin / cursor-free-vip) - [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+- [cjpais / Handy](https://github.com/cjpais / Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 
 ### 📚 技术文章精选
-- [破局 AI 2.0 时代：利用 AI 提升自我核心竞争力](https://blog.csdn.net/weixin_46412417/article/details/140227495)
-- [AI修图革命：IOPaint+cpolar让废片拯救触手可及](https://blog.csdn.net/2302_78391795/article/details/153466262)
-- [飞算 JavaAI 智能突破：从效率工具到开发范式的革新](https://blog.csdn.net/weixin_43151418/article/details/149907790)
+- [Visual Studio 2026 震撼发布！AI 智能编程时代正式来临](https://blog.csdn.net/qq_41160012/article/details/151588070)
+- [DeepSeek与ChatGPT：AI语言模型的全面对决](https://blog.csdn.net/2301_80179750/article/details/145668299)
+- [苹果 Xcode26 开发者工具重磅升级：ChatGPT 深度集成开启 AI 编码新纪元](https://blog.csdn.net/2501_91868913/article/details/148596824)
 
 ### 🛡️ 安全资讯
-- [Youtu-Embedding 正式开源：腾讯优图推出高性能通用文本嵌入模型](https://cloud.tencent.com/developer/article/2578850)
 - [腾讯云 Data Platform，以智能数据基础设施服务全球出海客户](https://cloud.tencent.com/developer/article/2578962)
 - [信息量很大！AI结对编程核心思维模型](https://cloud.tencent.com/developer/article/2578960)
+- [前端开发者的 Kotlin 之旅：Compose 自定义组件开发实战](https://cloud.tencent.com/developer/article/2579069)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
