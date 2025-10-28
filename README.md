@@ -38,14 +38,14 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │ 25 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 26 │ ⭐ │ 28 │ 29 │ 30 │ 31 │    │
+│ 26 │ 27 │ ⭐ │ 29 │ 30 │ 31 │    │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年10月27日
+🌟 今天是2025年10月28日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/10/27)
+## 📰 今日资讯 (2025/10/28)
 
 ### 🔥 GitHub 热门项目
-- [LadybirdBrowser / ladybird](https://github.com/LadybirdBrowser / ladybird) - Truly independent web browser
+- [toeverything / AFFiNE](https://github.com/toeverything / AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [yeongpin / cursor-free-vip](https://github.com/yeongpin / cursor-free-vip) - [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-- [cjpais / Handy](https://github.com/cjpais / Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
+- [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io / build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ### 📚 技术文章精选
-- [Visual Studio 2026 震撼发布！AI 智能编程时代正式来临](https://blog.csdn.net/qq_41160012/article/details/151588070)
-- [DeepSeek与ChatGPT：AI语言模型的全面对决](https://blog.csdn.net/2301_80179750/article/details/145668299)
-- [苹果 Xcode26 开发者工具重磅升级：ChatGPT 深度集成开启 AI 编码新纪元](https://blog.csdn.net/2501_91868913/article/details/148596824)
+- [RTX4090：AI与深度学习应用实践的革命性推动者](https://blog.csdn.net/m0_74385041/article/details/151932492)
+- [飞算JavaAI赋能企业级电商管理系统开发实践——一位资深开发者的技术选型与落地总结](https://blog.csdn.net/michaelline/article/details/151722602)
+- [虚竹哥与机械工业出版社免费送AI书活动第十期《Gradio大模型实战：打造交互式AI应用全流程》](https://blog.csdn.net/shi_hong_fei_hei/article/details/153786644)
 
 ### 🛡️ 安全资讯
-- [腾讯云 Data Platform，以智能数据基础设施服务全球出海客户](https://cloud.tencent.com/developer/article/2578962)
-- [信息量很大！AI结对编程核心思维模型](https://cloud.tencent.com/developer/article/2578960)
-- [前端开发者的 Kotlin 之旅：Compose 自定义组件开发实战](https://cloud.tencent.com/developer/article/2579069)
+- [前端开发者的 Kotlin 之旅：Compose 应用架构与导航系统](https://cloud.tencent.com/developer/article/2579134)
+- [从MESA模型到锁升级：synchronized性能逆袭的底层逻辑](https://cloud.tencent.com/developer/article/2579344)
+- [首家最高等级！腾讯云TDSQL-C通过信通院云原生数据库能力成熟度模型专项评估](https://cloud.tencent.com/developer/article/2579403)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
