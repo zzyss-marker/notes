@@ -38,14 +38,14 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │ 25 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 26 │ 27 │ ⭐ │ 29 │ 30 │ 31 │    │
+│ 26 │ 27 │ 28 │ ⭐ │ 30 │ 31 │    │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年10月28日
+🌟 今天是2025年10月29日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/10/28)
+## 📰 今日资讯 (2025/10/29)
 
 ### 🔥 GitHub 热门项目
 - [toeverything / AFFiNE](https://github.com/toeverything / AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [yeongpin / cursor-free-vip](https://github.com/yeongpin / cursor-free-vip) - [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-- [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io / build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+- [microsoft / agent-lightning](https://github.com/microsoft / agent-lightning) - The absolute trainer to light up AI agents.
 
 ### 📚 技术文章精选
-- [RTX4090：AI与深度学习应用实践的革命性推动者](https://blog.csdn.net/m0_74385041/article/details/151932492)
-- [飞算JavaAI赋能企业级电商管理系统开发实践——一位资深开发者的技术选型与落地总结](https://blog.csdn.net/michaelline/article/details/151722602)
-- [虚竹哥与机械工业出版社免费送AI书活动第十期《Gradio大模型实战：打造交互式AI应用全流程》](https://blog.csdn.net/shi_hong_fei_hei/article/details/153786644)
+- [AI 写作（一）：开启创作新纪元（1/10）](https://blog.csdn.net/beautifulmemory/article/details/143527993)
+- [【AI深究】逻辑回归（Logistic Regression）全网最详细全流程详解与案例（附大量Python代码演示）| 数学原理、案例流程、代码演示及结果解读 | 决策边界、正则化、优缺点及工程建议](https://blog.csdn.net/ai_aijiang/article/details/148775168)
+- [一文读懂AIGC：开启人工智能生成内容新时代](https://blog.csdn.net/fhkk55/article/details/148163144)
 
 ### 🛡️ 安全资讯
-- [前端开发者的 Kotlin 之旅：Compose 应用架构与导航系统](https://cloud.tencent.com/developer/article/2579134)
-- [从MESA模型到锁升级：synchronized性能逆袭的底层逻辑](https://cloud.tencent.com/developer/article/2579344)
-- [首家最高等级！腾讯云TDSQL-C通过信通院云原生数据库能力成熟度模型专项评估](https://cloud.tencent.com/developer/article/2579403)
+- [10期实战直播｜腾讯云可观测平台全面升级，场景实践一次讲透](https://cloud.tencent.com/developer/article/2579953)
+- [API 文档维护太痛苦? Bruno + Claude 让你彻底解放](https://cloud.tencent.com/developer/article/2580003)
+- [轻量服务器Lighthouse + 1Panel + Halo，三步打造你的专属网站](https://cloud.tencent.com/developer/article/2579528)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
