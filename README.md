@@ -38,14 +38,14 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │ 25 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 26 │ 27 │ 28 │ ⭐ │ 30 │ 31 │    │
+│ 26 │ 27 │ 28 │ 29 │ ⭐ │ 31 │    │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年10月29日
+🌟 今天是2025年10月30日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/10/29)
+## 📰 今日资讯 (2025/10/30)
 
 ### 🔥 GitHub 热门项目
-- [toeverything / AFFiNE](https://github.com/toeverything / AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
-- [yeongpin / cursor-free-vip](https://github.com/yeongpin / cursor-free-vip) - [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-- [microsoft / agent-lightning](https://github.com/microsoft / agent-lightning) - The absolute trainer to light up AI agents.
+- [smartcontractkit / chainlink](https://github.com/smartcontractkit / chainlink) - node of the decentralized oracle network, bridging on and off-chain computation
+- [cjpais / Handy](https://github.com/cjpais / Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
+- [qeeqbox / social-analyzer](https://github.com/qeeqbox / social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media  websites
 
 ### 📚 技术文章精选
-- [AI 写作（一）：开启创作新纪元（1/10）](https://blog.csdn.net/beautifulmemory/article/details/143527993)
-- [【AI深究】逻辑回归（Logistic Regression）全网最详细全流程详解与案例（附大量Python代码演示）| 数学原理、案例流程、代码演示及结果解读 | 决策边界、正则化、优缺点及工程建议](https://blog.csdn.net/ai_aijiang/article/details/148775168)
-- [一文读懂AIGC：开启人工智能生成内容新时代](https://blog.csdn.net/fhkk55/article/details/148163144)
+- [一场关于未来“AI算力“的盛宴：Hot Chips 2025全景解读](https://blog.csdn.net/AI_gurubar/article/details/151041841)
+- [【深度学习】扫描全能王的AI驱动创新与智能高清滤镜技术解析](https://blog.csdn.net/s445320/article/details/140080340)
+- [5个AI大模型平台！](https://blog.csdn.net/Tomdac/article/details/149396162)
 
 ### 🛡️ 安全资讯
-- [10期实战直播｜腾讯云可观测平台全面升级，场景实践一次讲透](https://cloud.tencent.com/developer/article/2579953)
-- [API 文档维护太痛苦? Bruno + Claude 让你彻底解放](https://cloud.tencent.com/developer/article/2580003)
-- [轻量服务器Lighthouse + 1Panel + Halo，三步打造你的专属网站](https://cloud.tencent.com/developer/article/2579528)
+- [腾讯新闻PUSH架构升级之路](https://cloud.tencent.com/developer/article/2580754)
+- [VMware虚机环境上云如遇异常，彻底删除vmware相关的驱动、文件、注册表等](https://cloud.tencent.com/developer/article/2580681)
+- [全球沟通零“时差”，腾讯云TRTC 实时翻译AI引擎，全链路助推企业突破“无感”瓶颈](https://cloud.tencent.com/developer/article/2580750)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
