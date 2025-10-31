@@ -38,14 +38,14 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │ 25 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 26 │ 27 │ 28 │ 29 │ ⭐ │ 31 │    │
+│ 26 │ 27 │ 28 │ 29 │ 30 │ ⭐ │    │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年10月30日
+🌟 今天是2025年10月31日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/10/30)
+## 📰 今日资讯 (2025/10/31)
 
 ### 🔥 GitHub 热门项目
-- [smartcontractkit / chainlink](https://github.com/smartcontractkit / chainlink) - node of the decentralized oracle network, bridging on and off-chain computation
-- [cjpais / Handy](https://github.com/cjpais / Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
-- [qeeqbox / social-analyzer](https://github.com/qeeqbox / social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media  websites
+- [helm / helm](https://github.com/helm / helm) - The Kubernetes Package Manager
+- [storybookjs / storybook](https://github.com/storybookjs / storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
+- [open-telemetry / opentelemetry-collector](https://github.com/open-telemetry / opentelemetry-collector) - OpenTelemetry Collector
 
 ### 📚 技术文章精选
-- [一场关于未来“AI算力“的盛宴：Hot Chips 2025全景解读](https://blog.csdn.net/AI_gurubar/article/details/151041841)
-- [【深度学习】扫描全能王的AI驱动创新与智能高清滤镜技术解析](https://blog.csdn.net/s445320/article/details/140080340)
-- [5个AI大模型平台！](https://blog.csdn.net/Tomdac/article/details/149396162)
+- [开源逆袭！Wan2.1让家用电脑也能跑AI视频生成](https://blog.csdn.net/lrq13965748542/article/details/153686773)
+- [AI 总瞎输出？PromptPilot 让 Prompt 百发百中！新手秒上手，首月零元购](https://blog.csdn.net/2302_79751907/article/details/151905750)
+- [AI全栈之路：Cursor+Claude3.7一整套APP原型图UI生成](https://blog.csdn.net/sjw890821sjw/article/details/148654387)
 
 ### 🛡️ 安全资讯
-- [腾讯新闻PUSH架构升级之路](https://cloud.tencent.com/developer/article/2580754)
-- [VMware虚机环境上云如遇异常，彻底删除vmware相关的驱动、文件、注册表等](https://cloud.tencent.com/developer/article/2580681)
 - [全球沟通零“时差”，腾讯云TRTC 实时翻译AI引擎，全链路助推企业突破“无感”瓶颈](https://cloud.tencent.com/developer/article/2580750)
+- [刚刚，全国程序员群体普查结果正式发布！](https://cloud.tencent.com/developer/article/2580757)
+- [CodeBuddy惊艳了我](https://cloud.tencent.com/developer/article/2580840)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
