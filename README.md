@@ -30,9 +30,9 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│    │    │    │    │    │    │ ⭐ │
+│    │    │    │    │    │    │  1 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  2 │  3 │  4 │  5 │  6 │  7 │  8 │
+│ ⭐ │  3 │  4 │  5 │  6 │  7 │  8 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │ 15 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年11月1日
+🌟 今天是2025年11月2日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,17 +113,17 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/11/1)
+## 📰 今日资讯 (2025/11/2)
 
 ### 🔥 GitHub 热门项目
-- [nvm-sh / nvm](https://github.com/nvm-sh / nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-- [Wei-Shaw / claude-relay-service](https://github.com/Wei-Shaw / claude-relay-service) - CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
-- [ventoy / Ventoy](https://github.com/ventoy / Ventoy) - A new bootable USB solution.
+- [get-convex / chef](https://github.com/get-convex / chef) - The only AI app builder that knows backend
+- [suitenumerique / docs](https://github.com/suitenumerique / docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
+- [Tencent / WeKnora](https://github.com/Tencent / WeKnora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
 
 ### 📚 技术文章精选
-- [【AI IDE】使用人工智能AI集成开发工具（Integrated Development Environment）多轮提问快速完成一款Web端Vue3+TypeScript的经典游戏2048](https://blog.csdn.net/lmy_520/article/details/146307637)
-- [一个支持 PTrade/QMT 的 AI 量化策略代码生成工具](https://blog.csdn.net/qq_41192352/article/details/150602835)
-- [【AI深究】高斯混合模型（GMM）全网最详细全流程详解与案例（附Python代码演示） | 混合模型概率密度函数、多元高斯分布概率密度函数、期望最大化（EM）算法 | 实际案例与流程 | 优、缺点分析](https://blog.csdn.net/ai_aijiang/article/details/148653274)
+- [当AI把用户数据当薯片嚼得嘎嘣脆，初级开发的创意真会被压成“二进制压缩包”吗？—— 老码农的脑洞防蒸发指南](https://blog.csdn.net/qq_33650655/article/details/151054927)
+- [MCoT在医疗AI工程化编程的实践手册（中）](https://blog.csdn.net/kkiron/article/details/153924438)
+- [大模型开发 - 09 ChatClient：基于 Spring AI 的多平台多模型动态切换实战](https://blog.csdn.net/yangshangwei/article/details/152667484)
 
 ### 🛡️ 安全资讯
 - [“AI视频时代”距离我们还有多远？](https://cloud.tencent.com/developer/article/2582422)
