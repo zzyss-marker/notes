@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │    │    │    │    │  1 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │  3 │  4 │  5 │  6 │  7 │  8 │
+│  2 │ ⭐ │  4 │  5 │  6 │  7 │  8 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │ 15 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年11月2日
+🌟 今天是2025年11月3日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,26 +113,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/11/2)
+## 📰 今日资讯 (2025/11/3)
 
 ### 🔥 GitHub 热门项目
-- [get-convex / chef](https://github.com/get-convex / chef) - The only AI app builder that knows backend
-- [suitenumerique / docs](https://github.com/suitenumerique / docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
-- [Tencent / WeKnora](https://github.com/Tencent / WeKnora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+- [666ghj / BettaFish](https://github.com/666ghj / BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+- [Wei-Shaw / claude-relay-service](https://github.com/Wei-Shaw / claude-relay-service) - CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+- [microsoft / agent-lightning](https://github.com/microsoft / agent-lightning) - The absolute trainer to light up AI agents.
 
 ### 📚 技术文章精选
-- [当AI把用户数据当薯片嚼得嘎嘣脆，初级开发的创意真会被压成“二进制压缩包”吗？—— 老码农的脑洞防蒸发指南](https://blog.csdn.net/qq_33650655/article/details/151054927)
-- [MCoT在医疗AI工程化编程的实践手册（中）](https://blog.csdn.net/kkiron/article/details/153924438)
-- [大模型开发 - 09 ChatClient：基于 Spring AI 的多平台多模型动态切换实战](https://blog.csdn.net/yangshangwei/article/details/152667484)
+- [【AI智能体开发】什么是LLM？如何在本地搭建属于自己的Ai智能体？](https://blog.csdn.net/littlefun591/article/details/153677053)
+- [AI猫娘？让微信接入Deepseek：获得一个AI聊天机器人，喵~](https://blog.csdn.net/Zero_VPN/article/details/149444634)
+- [GpuGeek：打破传统边界的云计算平台，助力AI与科研的极速前行！](https://blog.csdn.net/lrq13965748542/article/details/147969137)
 
 ### 🛡️ 安全资讯
-- [“AI视频时代”距离我们还有多远？](https://cloud.tencent.com/developer/article/2582422)
-- [【最佳实践】解决 Elasticsearch 8.x 滚动升级失败的问题](https://cloud.tencent.com/developer/article/2582408)
-- [老年人怎样用活法定义算法：1年100人1场实践](https://cloud.tencent.com/developer/article/2582801)
+- [FiT交付全流程提效密码：深度使用TAPD研发管理平台，打造高效工具链](https://cloud.tencent.com/developer/article/2582954)
+- [腾讯携手Google、Meta、Apple和Netflix在IEEE ICIP 2025顶会分享最新研究成果与实践，4篇论文入选](https://cloud.tencent.com/developer/article/2582937)
+- [「腾讯云NoSQL」技术之Redis篇：精准围剿rehash时延毛刺实践方案揭秘](https://cloud.tencent.com/developer/article/2582942)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
