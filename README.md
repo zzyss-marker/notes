@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  2 │  3 │  4 │  5 │  6 │  7 │  8 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  9 │ 10 │ 11 │ 12 │ ⭐ │ 14 │ 15 │
+│  9 │ 10 │ 11 │ 12 │ 13 │ ⭐ │ 15 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │ 22 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年11月13日
+🌟 今天是2025年11月14日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,7 +113,7 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/11/13)
+## 📰 今日资讯 (2025/11/14)
 
 ### 🔥 GitHub 热门项目
 - [sansan0 / TrendRadar](https://github.com/sansan0 / TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
@@ -121,18 +121,18 @@
 - [TapXWorld / ChinaTextbook](https://github.com/TapXWorld / ChinaTextbook) - 所有小初高、大学PDF教材。
 
 ### 📚 技术文章精选
-- [最强AI插件Augment，适配idea、vscode，对标cursor！](https://blog.csdn.net/Mrxiao_bo/article/details/148023826)
-- [AI：新书预告—从机器学习避坑指南(分类/回归/聚类/可解释性)到大语言模型落地手记(RAG/Agent/MCP)，一场耗时5+3年的技术沉淀—“代码可跑，经验可抄”—【一个处女座的程序猿】携两本AI](https://blog.csdn.net/qq_41185868/article/details/149370861)
-- [搭建AI智能翻译器：快速部署Dify，接入AiOnly平台GPT-5模型](https://blog.csdn.net/2301_76341691/article/details/153966799)
+- [第一篇：入门篇：借助 GEMINI.md，将你的 AI 协作提升到新高度](https://blog.csdn.net/github_37499193/article/details/149047821)
+- [DeepSeek超参优化实战：AutoML调参全解析，解锁AI性能密码（16/18）](https://blog.csdn.net/beautifulmemory/article/details/146215817)
+- [Windows-MCP：让AI直接操作你的Windows系统](https://blog.csdn.net/github_19391267/article/details/150437591)
 
 ### 🛡️ 安全资讯
-- [从“严格模式”到金融级合规：TBDS信创数据库适配实战录](https://cloud.tencent.com/developer/article/2585112)
-- [【专家说】刘俊强：AI新时代-云原生PaaS如何成为智能应用发展的核心引擎](https://cloud.tencent.com/developer/article/2585088)
-- [一篇文理解架构：企业架构、技术架构、C4模型、TOGAF、互联网模型](https://cloud.tencent.com/developer/article/2585107)
+- [游戏展会背后的游戏经济密码](https://cloud.tencent.com/developer/article/2586012)
+- [虎牙直播X腾讯云：护航3年S赛，服务超10亿观众](https://cloud.tencent.com/developer/article/2586011)
+- [职责分离的艺术：剖析主从Reactor模型如何实现极致的并发性能](https://cloud.tencent.com/developer/article/2586022)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
