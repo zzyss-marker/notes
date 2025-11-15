@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  2 │  3 │  4 │  5 │  6 │  7 │  8 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  9 │ 10 │ 11 │ 12 │ 13 │ ⭐ │ 15 │
+│  9 │ 10 │ 11 │ 12 │ 13 │ 14 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │ 22 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年11月14日
+🌟 今天是2025年11月15日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,7 +113,7 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/11/14)
+## 📰 今日资讯 (2025/11/15)
 
 ### 🔥 GitHub 热门项目
 - [sansan0 / TrendRadar](https://github.com/sansan0 / TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
@@ -121,18 +121,18 @@
 - [TapXWorld / ChinaTextbook](https://github.com/TapXWorld / ChinaTextbook) - 所有小初高、大学PDF教材。
 
 ### 📚 技术文章精选
-- [第一篇：入门篇：借助 GEMINI.md，将你的 AI 协作提升到新高度](https://blog.csdn.net/github_37499193/article/details/149047821)
-- [DeepSeek超参优化实战：AutoML调参全解析，解锁AI性能密码（16/18）](https://blog.csdn.net/beautifulmemory/article/details/146215817)
-- [Windows-MCP：让AI直接操作你的Windows系统](https://blog.csdn.net/github_19391267/article/details/150437591)
+- [IDE TRAE介绍与使用](https://blog.csdn.net/weixin_43525722/article/details/146078172)
+- [手把手教你在豆包上创建专属AI智能体](https://blog.csdn.net/2301_78150483/article/details/149778041)
+- [AI太“烧钱”？华为开源UCM亮出新思路，给大模型装上“智能内存”](https://blog.csdn.net/linshantang/article/details/154541817)
 
 ### 🛡️ 安全资讯
-- [游戏展会背后的游戏经济密码](https://cloud.tencent.com/developer/article/2586012)
-- [虎牙直播X腾讯云：护航3年S赛，服务超10亿观众](https://cloud.tencent.com/developer/article/2586011)
 - [职责分离的艺术：剖析主从Reactor模型如何实现极致的并发性能](https://cloud.tencent.com/developer/article/2586022)
+- [开源实践：我的技术成长加速器 | 对话 OpenCloudOS 优秀贡献者黄振业](https://cloud.tencent.com/developer/article/2586264)
+- [TRTC功能上新，多网聚合加速扫除社交通信、在线教育等多场景网络痛点](https://cloud.tencent.com/developer/article/2586265)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
