@@ -34,9 +34,9 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  2 │  3 │  4 │  5 │  6 │  7 │  8 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  9 │ 10 │ 11 │ 12 │ 13 │ 14 │ ⭐ │
+│  9 │ 10 │ 11 │ 12 │ 13 │ 14 │ 15 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │ 22 │
+│ ⭐ │ 17 │ 18 │ 19 │ 20 │ 21 │ 22 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │ 29 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年11月15日
+🌟 今天是2025年11月16日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,7 +113,7 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/11/15)
+## 📰 今日资讯 (2025/11/16)
 
 ### 🔥 GitHub 热门项目
 - [sansan0 / TrendRadar](https://github.com/sansan0 / TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
@@ -121,18 +121,18 @@
 - [TapXWorld / ChinaTextbook](https://github.com/TapXWorld / ChinaTextbook) - 所有小初高、大学PDF教材。
 
 ### 📚 技术文章精选
-- [IDE TRAE介绍与使用](https://blog.csdn.net/weixin_43525722/article/details/146078172)
-- [手把手教你在豆包上创建专属AI智能体](https://blog.csdn.net/2301_78150483/article/details/149778041)
-- [AI太“烧钱”？华为开源UCM亮出新思路，给大模型装上“智能内存”](https://blog.csdn.net/linshantang/article/details/154541817)
+- [数据报告AI自动分析系统在客户消费行为与偏好全景分析中的应用](https://blog.csdn.net/EAlReport/article/details/154841786)
+- [【飞算JavaAI】一站式智能开发，驱动Java开发全流程革新](https://blog.csdn.net/Morse_Chen/article/details/149288521)
+- [AI 对话高效输入指令攻略（五）：AI+PicDoc文生图表工具：解锁高效图表创作新范式](https://blog.csdn.net/Pocker_Spades_A/article/details/150348949)
 
 ### 🛡️ 安全资讯
-- [职责分离的艺术：剖析主从Reactor模型如何实现极致的并发性能](https://cloud.tencent.com/developer/article/2586022)
-- [开源实践：我的技术成长加速器 | 对话 OpenCloudOS 优秀贡献者黄振业](https://cloud.tencent.com/developer/article/2586264)
 - [TRTC功能上新，多网聚合加速扫除社交通信、在线教育等多场景网络痛点](https://cloud.tencent.com/developer/article/2586265)
+- [AI智能体的阅读笔记：来自国外大佬的2篇技术爽文](https://cloud.tencent.com/developer/article/2586466)
+- [腾讯x绝味：首次实现AI Agent全链路营销，较人工组实现3.1倍业绩突破](https://cloud.tencent.com/developer/article/2586428)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
