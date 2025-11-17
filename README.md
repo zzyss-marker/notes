@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │ 15 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │ 17 │ 18 │ 19 │ 20 │ 21 │ 22 │
+│ 16 │ ⭐ │ 18 │ 19 │ 20 │ 21 │ 22 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │ 29 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年11月16日
+🌟 今天是2025年11月17日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,7 +113,7 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/11/16)
+## 📰 今日资讯 (2025/11/17)
 
 ### 🔥 GitHub 热门项目
 - [sansan0 / TrendRadar](https://github.com/sansan0 / TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
@@ -121,18 +121,18 @@
 - [TapXWorld / ChinaTextbook](https://github.com/TapXWorld / ChinaTextbook) - 所有小初高、大学PDF教材。
 
 ### 📚 技术文章精选
-- [数据报告AI自动分析系统在客户消费行为与偏好全景分析中的应用](https://blog.csdn.net/EAlReport/article/details/154841786)
-- [【飞算JavaAI】一站式智能开发，驱动Java开发全流程革新](https://blog.csdn.net/Morse_Chen/article/details/149288521)
-- [AI 对话高效输入指令攻略（五）：AI+PicDoc文生图表工具：解锁高效图表创作新范式](https://blog.csdn.net/Pocker_Spades_A/article/details/150348949)
+- [Claude Code vs Cursor：谁才是 2025 年最强 AI 编程助手？](https://blog.csdn.net/He_r_o/article/details/148532700)
+- [2025 最好用的 AI 工具大全推荐，看这一篇就够了！【建议保存】](https://blog.csdn.net/2401_85343303/article/details/147991963)
+- [【深入浅出】：人工智能从入门到实战](https://blog.csdn.net/user340/article/details/154455788)
 
 ### 🛡️ 安全资讯
-- [TRTC功能上新，多网聚合加速扫除社交通信、在线教育等多场景网络痛点](https://cloud.tencent.com/developer/article/2586265)
 - [AI智能体的阅读笔记：来自国外大佬的2篇技术爽文](https://cloud.tencent.com/developer/article/2586466)
-- [腾讯x绝味：首次实现AI Agent全链路营销，较人工组实现3.1倍业绩突破](https://cloud.tencent.com/developer/article/2586428)
+- [腾讯企点发布《智能营销白皮书》：AI赋能全链路 助力企业实现“魔力增长”](https://cloud.tencent.com/developer/article/2586429)
+- [腾讯云副总裁李学朝：企点营销云三大升级 助力企业打造“一专多能”AI营销团队](https://cloud.tencent.com/developer/article/2586431)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
