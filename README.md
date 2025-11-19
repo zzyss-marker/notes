@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │ 15 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 16 │ 17 │ ⭐ │ 19 │ 20 │ 21 │ 22 │
+│ 16 │ 17 │ 18 │ ⭐ │ 20 │ 21 │ 22 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │ 29 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年11月18日
+🌟 今天是2025年11月19日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,7 +113,7 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/11/18)
+## 📰 今日资讯 (2025/11/19)
 
 ### 🔥 GitHub 热门项目
 - [sansan0 / TrendRadar](https://github.com/sansan0 / TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
@@ -121,14 +121,14 @@
 - [TapXWorld / ChinaTextbook](https://github.com/TapXWorld / ChinaTextbook) - 所有小初高、大学PDF教材。
 
 ### 📚 技术文章精选
-- [PyTorch生成式人工智能实战：从零打造创意引擎](https://blog.csdn.net/LOVEmy134611/article/details/146259185)
-- [2025年AI情感智能的多模态融合与行业变革深度解析](https://blog.csdn.net/yuntongliangda/article/details/148461491)
-- [Spring AI 核心架构解析：构建企业级 AI 应用的 Java 新范式](https://blog.csdn.net/csdn_silent/article/details/153423524)
+- [【AI智能体】Coze 打造AI数字人视频生成智能体实战详解](https://blog.csdn.net/zhangcongyi420/article/details/152601878)
+- [GitMCP将GitHub代码库实时转化为AI可访问的文档中心彻底消除代码幻觉](https://blog.csdn.net/sxc1414749109/article/details/151353623)
+- [AI未来发展：2025-2035年技术趋势与社会变革](https://blog.csdn.net/weixin_45597900/article/details/153637333)
 
 ### 🛡️ 安全资讯
-- [腾讯x绝味：首次实现AI Agent全链路营销，较人工组实现3.1倍业绩突破](https://cloud.tencent.com/developer/article/2586428)
-- [史诗级更新！国内首个支持Skills模式的编程助手，开启AI编程二阶段！](https://cloud.tencent.com/developer/article/2586272)
 - [我们很可能正走向一个“无工作社会”｜腾研对话海外名家](https://cloud.tencent.com/developer/article/2586668)
+- [AI时代技术写作的必要性与价值](https://cloud.tencent.com/developer/article/2587478)
+- [TAPD×CNB×CodeBuddy×TCA×Lighthouse，11月报名开启，腾讯AI敏捷研发精研班第二期！](https://cloud.tencent.com/developer/article/2587484)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
