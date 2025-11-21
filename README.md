@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │ 15 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 16 │ 17 │ 18 │ 19 │ ⭐ │ 21 │ 22 │
+│ 16 │ 17 │ 18 │ 19 │ 20 │ ⭐ │ 22 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │ 29 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年11月20日
+🌟 今天是2025年11月21日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,26 +113,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/11/20)
+## 📰 今日资讯 (2025/11/21)
 
 ### 🔥 GitHub 热门项目
-- [sansan0 / TrendRadar](https://github.com/sansan0 / TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
+- [sansan0 / TrendRadar](https://github.com/sansan0 / TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
 - [google / adk-go](https://github.com/google / adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [TapXWorld / ChinaTextbook](https://github.com/TapXWorld / ChinaTextbook) - 所有小初高、大学PDF教材。
 
 ### 📚 技术文章精选
-- [【建议收藏】AI智能体(Agent)完全指南：为何需要它及从零开始搭建](https://blog.csdn.net/m0_48891301/article/details/153776146)
-- [当AI优化Java代码：初级开发者的冗余焦虑与创意逆袭——老码农的幽默生存手册](https://blog.csdn.net/qq_33650655/article/details/154042319)
-- [AI工具发展到什么程度了？AI一键搞定视频内容、总结、分镜脚本，懒人必备！](https://blog.csdn.net/2401_85343303/article/details/149223377)
+- [如何让 Ollama 模型始终驻留显存？高效调用 AI 推理服务的秘诀！](https://blog.csdn.net/qq_41797451/article/details/149172709)
+- [用户选剧情，AI写故事：Trae Solo+GLM-4.6实现沉浸式小说创作体验](https://blog.csdn.net/IRpickstars/article/details/153681448)
+- [（第四篇）Spring AI 模型调用入门：统一 API 适配多厂商模型（一套代码兼容 10+ 主流 AI 模型）](https://blog.csdn.net/qq_40303030/article/details/153625871)
 
 ### 🛡️ 安全资讯
-- [腾讯云 x 泸州老窖：在线业务与实时分析的一体化解决之道](https://cloud.tencent.com/developer/article/2587843)
-- [当 AI 成为生产力底座，如何打通产业落地“最后一公里”？](https://cloud.tencent.com/developer/article/2587845)
-- [使用腾讯云CodeBuddy更新Python项目的依赖文件requirements.txt](https://cloud.tencent.com/developer/article/2588498)
+- [一图看懂！腾讯专有云TCE vs VMware 技术特性大PK](https://cloud.tencent.com/developer/article/2589719)
+- [腾讯云TBDS在海量Iceberg的治理之路](https://cloud.tencent.com/developer/article/2589720)
+- [架构师同盟社区10月报：一份来自同盟共建者们的知识礼物](https://cloud.tencent.com/developer/article/2589723)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
