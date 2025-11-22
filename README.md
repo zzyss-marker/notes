@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │ 15 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 16 │ 17 │ 18 │ 19 │ 20 │ ⭐ │ 22 │
+│ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │ 29 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年11月21日
+🌟 今天是2025年11月22日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,7 +113,7 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/11/21)
+## 📰 今日资讯 (2025/11/22)
 
 ### 🔥 GitHub 热门项目
 - [sansan0 / TrendRadar](https://github.com/sansan0 / TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
@@ -121,14 +121,14 @@
 - [TapXWorld / ChinaTextbook](https://github.com/TapXWorld / ChinaTextbook) - 所有小初高、大学PDF教材。
 
 ### 📚 技术文章精选
-- [如何让 Ollama 模型始终驻留显存？高效调用 AI 推理服务的秘诀！](https://blog.csdn.net/qq_41797451/article/details/149172709)
-- [用户选剧情，AI写故事：Trae Solo+GLM-4.6实现沉浸式小说创作体验](https://blog.csdn.net/IRpickstars/article/details/153681448)
-- [（第四篇）Spring AI 模型调用入门：统一 API 适配多厂商模型（一套代码兼容 10+ 主流 AI 模型）](https://blog.csdn.net/qq_40303030/article/details/153625871)
+- [Trae AI 写鸿蒙代码（语音生码，图生码，自动修BUG，自动运行）](https://blog.csdn.net/sujiehao1992/article/details/150824566)
+- [PyTorch生成式人工智能（29）——基于Transformer生成音乐](https://blog.csdn.net/LOVEmy134611/article/details/146260568)
+- [开源AI智能体全栈项目：《软件设计师备考AI智能平台》](https://blog.csdn.net/weixin_45793745/article/details/153981328)
 
 ### 🛡️ 安全资讯
-- [一图看懂！腾讯专有云TCE vs VMware 技术特性大PK](https://cloud.tencent.com/developer/article/2589719)
 - [腾讯云TBDS在海量Iceberg的治理之路](https://cloud.tencent.com/developer/article/2589720)
-- [架构师同盟社区10月报：一份来自同盟共建者们的知识礼物](https://cloud.tencent.com/developer/article/2589723)
+- [一图看懂！腾讯专有云TCE vs VMware 技术特性大PK](https://cloud.tencent.com/developer/article/2589719)
+- [技术创作特训营｜优质好文征集企划📣](https://cloud.tencent.com/developer/article/2588066)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
