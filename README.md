@@ -38,7 +38,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │ 22 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 23 │ ⭐ │ 25 │ 26 │ 27 │ 28 │ 29 │
+│ 23 │ 24 │ ⭐ │ 26 │ 27 │ 28 │ 29 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 30 │    │    │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年11月24日
+🌟 今天是2025年11月25日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,7 +113,7 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/11/24)
+## 📰 今日资讯 (2025/11/25)
 
 ### 🔥 GitHub 热门项目
 - [sansan0 / TrendRadar](https://github.com/sansan0 / TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
@@ -121,18 +121,18 @@
 - [TapXWorld / ChinaTextbook](https://github.com/TapXWorld / ChinaTextbook) - 所有小初高、大学PDF教材。
 
 ### 📚 技术文章精选
-- [白嫖15个月AI 「Google AI Pro 学生计划」申请条件：全球教育邮箱均可申请！](https://blog.csdn.net/weixin_45952821/article/details/154395590)
-- [用快马AI 10分钟打造你的网页版Minecraft：mc.js.cooi实战指南](https://blog.csdn.net/TurquoiseSea98/article/details/154020412)
-- [Qoder全栈开发实战指南：开启AI驱动的下一代编程范式](https://blog.csdn.net/csdn_silent/article/details/153897099)
+- [Agentic AI与Gen AI区别](https://blog.csdn.net/m0_57874805/article/details/149087407)
+- [搭建AI资讯早报：AiOnly全球大模型服务+N8N自动化工作流实战](https://blog.csdn.net/weixin_66401877/article/details/154403025)
+- [超绝AI 编程助手：快速上手 Augment Code，提升开发效率！](https://blog.csdn.net/brownxd/article/details/149023511)
 
 ### 🛡️ 安全资讯
-- [腾讯云TBDS在海量Iceberg的治理之路](https://cloud.tencent.com/developer/article/2589720)
-- [技术创作特训营｜优质好文征集企划📣](https://cloud.tencent.com/developer/article/2588066)
-- [一图看懂！腾讯专有云TCE vs VMware 技术特性大PK](https://cloud.tencent.com/developer/article/2589719)
+- [04 期《告警体验及智能化升级：全新告警高效管理实战分享》](https://cloud.tencent.com/developer/article/2591030)
+- [​明晚7点直播前瞻 | TDSQL-C全球数据库与TDSQL直连架构深度揭秘！业务出海，数据库也得跟上！​](https://cloud.tencent.com/developer/article/2591051)
+- [腾讯专有云 TCE ：赋能深圳二院龙华医院，打造大湾区智慧医疗新标杆](https://cloud.tencent.com/developer/article/2591053)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
