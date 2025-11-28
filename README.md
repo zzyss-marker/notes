@@ -38,7 +38,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │ 22 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 23 │ 24 │ 25 │ 26 │ ⭐ │ 28 │ 29 │
+│ 23 │ 24 │ 25 │ 26 │ 27 │ ⭐ │ 29 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 30 │    │    │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年11月27日
+🌟 今天是2025年11月28日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,7 +113,7 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/11/27)
+## 📰 今日资讯 (2025/11/28)
 
 ### 🔥 GitHub 热门项目
 - [sansan0 / TrendRadar](https://github.com/sansan0 / TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
@@ -121,18 +121,18 @@
 - [TapXWorld / ChinaTextbook](https://github.com/TapXWorld / ChinaTextbook) - 所有小初高、大学PDF教材。
 
 ### 📚 技术文章精选
-- [Spec Kit，GitHub 的规范驱动软件开发工具包-AI开发方法论](https://blog.csdn.net/u013134676/article/details/153054646)
-- [【人工智能】蓝耘智算平台盛大发布DeepSeek满血版：开创AI推理体验新纪元](https://blog.csdn.net/EterNity_TiMe_/article/details/145810594)
-- [昇腾AI CANN训练营〔开源基础系列〕：从语法基础到算子实操，一站式构建 Ascend C 全链路编程能力](https://blog.csdn.net/weixin_62765017/article/details/153795898)
+- [本地玩转AI还得靠这个，SillyTavern(酒馆)到底有多强？](https://blog.csdn.net/weixin_41961749/article/details/147954730)
+- [模糊图片变清晰，推荐7个免费AI工具一键搞定！](https://blog.csdn.net/weixin_49199926/article/details/149337858)
+- [还没订阅Codex 和 Claude Code 的，可以看看 Droid 了，两个都支持，目前免费试用一个月 众所周知，目前AI 编程领域两个最强大的 Code Cli 是 OpenAI 的 Code](https://blog.csdn.net/qq_45851370/article/details/153043614)
 
 ### 🛡️ 安全资讯
-- [腾讯云数据库 2025H1 增速领跑行业，自研TDSQL体系与 AI 驱动打开增长新空间](https://cloud.tencent.com/developer/article/2591904)
-- [腾讯云开源DeepSeek量化部署方案：性能最高提升3.9X！](https://cloud.tencent.com/developer/article/2591906)
-- [腾讯云天御：亚太反欺诈「领导者」](https://cloud.tencent.com/developer/article/2592014)
+- [Anthropic  Skills 中文文档站：让 Anthropic Skills 更易用](https://cloud.tencent.com/developer/article/2592400)
+- [Gemini 3实测：综合最强、代码最强、数学最强、多模态最强的六边形 AI 来了？](https://cloud.tencent.com/developer/article/2591902)
+- [腾讯企点携手生态伙伴启动“医疗数字运河”计划，助力70万家基层诊所药房数字化升级](https://cloud.tencent.com/developer/article/2592944)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
