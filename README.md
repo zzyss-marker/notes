@@ -38,7 +38,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │ 22 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 23 │ 24 │ 25 │ 26 │ 27 │ ⭐ │ 29 │
+│ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 30 │    │    │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -47,7 +47,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年11月28日
+🌟 今天是2025年11月29日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -113,7 +113,7 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/11/28)
+## 📰 今日资讯 (2025/11/29)
 
 ### 🔥 GitHub 热门项目
 - [sansan0 / TrendRadar](https://github.com/sansan0 / TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
@@ -121,18 +121,18 @@
 - [TapXWorld / ChinaTextbook](https://github.com/TapXWorld / ChinaTextbook) - 所有小初高、大学PDF教材。
 
 ### 📚 技术文章精选
-- [本地玩转AI还得靠这个，SillyTavern(酒馆)到底有多强？](https://blog.csdn.net/weixin_41961749/article/details/147954730)
-- [模糊图片变清晰，推荐7个免费AI工具一键搞定！](https://blog.csdn.net/weixin_49199926/article/details/149337858)
-- [还没订阅Codex 和 Claude Code 的，可以看看 Droid 了，两个都支持，目前免费试用一个月 众所周知，目前AI 编程领域两个最强大的 Code Cli 是 OpenAI 的 Code](https://blog.csdn.net/qq_45851370/article/details/153043614)
+- [CloudBase AI ToolKit实战:从0到1开发一个智能医疗网站](https://blog.csdn.net/IRpickstars/article/details/149046443)
+- [人工智能与机器学习：Python从零实现性回归模型](https://blog.csdn.net/qq_36603091/article/details/147518756)
+- [【AI 学习】AI Agent 开发进阶：架构、规划、记忆与工具编排](https://blog.csdn.net/weixin_63944437/article/details/154906176)
 
 ### 🛡️ 安全资讯
-- [Anthropic  Skills 中文文档站：让 Anthropic Skills 更易用](https://cloud.tencent.com/developer/article/2592400)
 - [Gemini 3实测：综合最强、代码最强、数学最强、多模态最强的六边形 AI 来了？](https://cloud.tencent.com/developer/article/2591902)
 - [腾讯企点携手生态伙伴启动“医疗数字运河”计划，助力70万家基层诊所药房数字化升级](https://cloud.tencent.com/developer/article/2592944)
+- [lodash中intersection的作用](https://cloud.tencent.com/developer/article/2593273)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
