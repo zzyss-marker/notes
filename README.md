@@ -30,7 +30,7 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│    │  1 │ ⭐ │  3 │  4 │  5 │  6 │
+│    │  1 │  2 │ ⭐ │  4 │  5 │  6 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  7 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年12月2日
+🌟 今天是2025年12月3日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,7 +111,7 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/12/2)
+## 📰 今日资讯 (2025/12/3)
 
 ### 🔥 GitHub 热门项目
 - [sansan0 / TrendRadar](https://github.com/sansan0 / TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
@@ -119,18 +119,18 @@
 - [TapXWorld / ChinaTextbook](https://github.com/TapXWorld / ChinaTextbook) - 所有小初高、大学PDF教材。
 
 ### 📚 技术文章精选
-- [【skyvern 快速上手】一句话让AI帮你实现爬虫+自动化](https://blog.csdn.net/youngwyj/article/details/142061195)
-- [PyTorch生成式人工智能（12）——StyleGAN详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/146260007)
-- [Python：AI开发第一语言的全面剖析](https://blog.csdn.net/sixpp/article/details/151147221)
+- [Unity3D开发AI桌面精灵/宠物系列 【五】 语音合成 TTS 、文本转语音技术 - 基于WebSocket 流式通信 - 支持讯飞、百度、Azure等平台 C# 语言开发](https://blog.csdn.net/weixin_44328367/article/details/147448751)
+- [【Coze-AI智能体平台】 吃透 Coze 智能体开发：3 大模式 + 模型配置 + 提示词技巧全攻略](https://blog.csdn.net/2401_87342824/article/details/154239243)
+- [QtCreator配置AI辅助编程插件github copilot保姆级教程](https://blog.csdn.net/qq_39417283/article/details/146099314)
 
 ### 🛡️ 安全资讯
-- [嘉为蓝鲸OpsPilot 深度集成 DeepSeek 等大模型，开启智能运维新境界！](https://cloud.tencent.com/developer/article/2594505)
-- [尚美数智携手腾讯云推出多智能体应用，一线办公效率提升20%](https://cloud.tencent.com/developer/article/2594663)
-- [【最佳实践】深度剖析Elasticsearch快照导致的磁盘异常占用](https://cloud.tencent.com/developer/article/2594388)
+- [Win11 24H2/25H2跳过微软帐户](https://cloud.tencent.com/developer/article/2594816)
+- [成为Linus Torvalds座上宾：我用47%性能飞跃完成了一次鹅厂程序员的逆袭](https://cloud.tencent.com/developer/article/2595777)
+- [PQC-KMS DEK Delivery](https://cloud.tencent.com/developer/article/2595778)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
