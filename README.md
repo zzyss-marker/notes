@@ -30,7 +30,7 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│    │  1 │  2 │ ⭐ │  4 │  5 │  6 │
+│    │  1 │  2 │  3 │ ⭐ │  5 │  6 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  7 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年12月3日
+🌟 今天是2025年12月4日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,7 +111,7 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/12/3)
+## 📰 今日资讯 (2025/12/4)
 
 ### 🔥 GitHub 热门项目
 - [sansan0 / TrendRadar](https://github.com/sansan0 / TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
@@ -119,18 +119,18 @@
 - [TapXWorld / ChinaTextbook](https://github.com/TapXWorld / ChinaTextbook) - 所有小初高、大学PDF教材。
 
 ### 📚 技术文章精选
-- [Unity3D开发AI桌面精灵/宠物系列 【五】 语音合成 TTS 、文本转语音技术 - 基于WebSocket 流式通信 - 支持讯飞、百度、Azure等平台 C# 语言开发](https://blog.csdn.net/weixin_44328367/article/details/147448751)
-- [【Coze-AI智能体平台】 吃透 Coze 智能体开发：3 大模式 + 模型配置 + 提示词技巧全攻略](https://blog.csdn.net/2401_87342824/article/details/154239243)
-- [QtCreator配置AI辅助编程插件github copilot保姆级教程](https://blog.csdn.net/qq_39417283/article/details/146099314)
+- [论文和文章提示词去AI痕迹：手把手教你把AI写的文章改成“人味儿”，从学生党到博主都能用的去AI痕迹攻略](https://blog.csdn.net/weixin_43151418/article/details/155060662)
+- [强大的AI网站推荐（第一集）—— Devv AI](https://blog.csdn.net/lwcwam/article/details/146407707)
+- [使用AI实现物理不可克隆函数(PUF)技术：理论与前沿探索](https://blog.csdn.net/Liudef06/article/details/154955491)
 
 ### 🛡️ 安全资讯
-- [Win11 24H2/25H2跳过微软帐户](https://cloud.tencent.com/developer/article/2594816)
-- [成为Linus Torvalds座上宾：我用47%性能飞跃完成了一次鹅厂程序员的逆袭](https://cloud.tencent.com/developer/article/2595777)
-- [PQC-KMS DEK Delivery](https://cloud.tencent.com/developer/article/2595778)
+- [数据与 AI 双向奔赴，腾讯云架构师技术沙龙精彩回顾](https://cloud.tencent.com/developer/article/2595776)
+- [破局AI编程困境：规范驱动的价值与OpenSpec实践路径](https://cloud.tencent.com/developer/article/2595573)
+- [「腾讯云NoSQL」技术之向量数据库篇: 索引六边形战士IVF-RabitQ如何实现集性能、成本、召回于一身](https://cloud.tencent.com/developer/article/2596007)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
