@@ -30,7 +30,7 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│    │  1 │  2 │  3 │  4 │ ⭐ │  6 │
+│    │  1 │  2 │  3 │  4 │  5 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  7 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年12月5日
+🌟 今天是2025年12月6日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/12/5)
+## 📰 今日资讯 (2025/12/6)
 
 ### 🔥 GitHub 热门项目
 - [basecamp / fizzy](https://github.com/basecamp / fizzy) - Kanban as it should be. Not as it has been.
-- [oven-sh / bun](https://github.com/oven-sh / bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [DayuanJiang / next-ai-draw-io](https://github.com/DayuanJiang / next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
+- [rustfs / rustfs](https://github.com/rustfs / rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+- [trustedsec / social-engineer-toolkit](https://github.com/trustedsec / social-engineer-toolkit) - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
 
 ### 📚 技术文章精选
-- [字节跳动把AI大模型入门知识点整理成手册了，高清PDF开放下载](https://blog.csdn.net/2401_85725028/article/details/151152805)
-- [【AI大模型前沿】TxGemma：谷歌推出的高效药物研发大模型，临床试验预测准确率超90%](https://blog.csdn.net/xiaobing259/article/details/147718906)
-- [AI 单词别读错了！Gemini 到底该怎么读？](https://blog.csdn.net/qq_41221841/article/details/150946071)
+- [vscode 关闭 copilot 代码 AI 补全](https://blog.csdn.net/lvyilv/article/details/145990903)
+- [从开发者视角深度评测：ModelEngine 与 AI 开发平台的技术博弈](https://blog.csdn.net/qq_29061315/article/details/154215637)
+- [论文终稿AI率飙升怎么办？分享7个DeepSeek降AI改写指令，帮你一键消除AI痕迹，直降到0，知网、维普来了也不怕！](https://blog.csdn.net/2301_82103258/article/details/151855916)
 
 ### 🛡️ 安全资讯
-- [AI时代的迷失：可怕的不是跟不上变化，而是用旧思维拼命赶路](https://cloud.tencent.com/developer/article/2596100)
-- [【TKE原生节点】自定义挂载路径 bind mount 容器数据目录](https://cloud.tencent.com/developer/article/2596373)
 - [当我们请一群00后「整顿广告」](https://cloud.tencent.com/developer/article/2596349)
+- [TKE集群GlobalRouter网络模式如何调整单节点max-pods数](https://cloud.tencent.com/developer/article/2596377)
+- [胡泳：我们正目睹一场人工智能泡沫吗？](https://cloud.tencent.com/developer/article/2596352)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
