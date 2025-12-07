@@ -30,9 +30,9 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│    │  1 │  2 │  3 │  4 │  5 │ ⭐ │
+│    │  1 │  2 │  3 │  4 │  5 │  6 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  7 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │
+│ ⭐ │  8 │  9 │ 10 │ 11 │ 12 │ 13 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年12月6日
+🌟 今天是2025年12月7日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,17 +111,17 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/12/6)
+## 📰 今日资讯 (2025/12/7)
 
 ### 🔥 GitHub 热门项目
-- [basecamp / fizzy](https://github.com/basecamp / fizzy) - Kanban as it should be. Not as it has been.
+- [microsoft / VibeVoice](https://github.com/microsoft / VibeVoice) - Open-Source Frontier Voice AI
 - [rustfs / rustfs](https://github.com/rustfs / rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
-- [trustedsec / social-engineer-toolkit](https://github.com/trustedsec / social-engineer-toolkit) - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
+- [RosettaCommons / foundry](https://github.com/RosettaCommons / foundry) - Central repository for biomolecular foundation models with shared trainers and pipeline components
 
 ### 📚 技术文章精选
-- [vscode 关闭 copilot 代码 AI 补全](https://blog.csdn.net/lvyilv/article/details/145990903)
-- [从开发者视角深度评测：ModelEngine 与 AI 开发平台的技术博弈](https://blog.csdn.net/qq_29061315/article/details/154215637)
-- [论文终稿AI率飙升怎么办？分享7个DeepSeek降AI改写指令，帮你一键消除AI痕迹，直降到0，知网、维普来了也不怕！](https://blog.csdn.net/2301_82103258/article/details/151855916)
+- [手把手教你在豆包上创建专属AI智能体](https://blog.csdn.net/2301_78150483/article/details/149778041)
+- [【AI大模型】Ollama部署本地大模型DeepSeek-R1，交互界面Open-WebUI，RagFlow构建私有知识库](https://blog.csdn.net/u014608435/article/details/145545048)
+- [解锁超级生产力：手把手教你构建与GitHub深度集成的自动化工作流，让AI成为你的编程副驾驶](https://blog.csdn.net/2301_80863610/article/details/152026467)
 
 ### 🛡️ 安全资讯
 - [当我们请一群00后「整顿广告」](https://cloud.tencent.com/developer/article/2596349)
@@ -132,5 +132,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
