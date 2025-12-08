@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │  1 │  2 │  3 │  4 │  5 │  6 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │  8 │  9 │ 10 │ 11 │ 12 │ 13 │
+│  7 │ ⭐ │  9 │ 10 │ 11 │ 12 │ 13 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年12月7日
+🌟 今天是2025年12月8日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/12/7)
+## 📰 今日资讯 (2025/12/8)
 
 ### 🔥 GitHub 热门项目
 - [microsoft / VibeVoice](https://github.com/microsoft / VibeVoice) - Open-Source Frontier Voice AI
-- [rustfs / rustfs](https://github.com/rustfs / rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
-- [RosettaCommons / foundry](https://github.com/RosettaCommons / foundry) - Central repository for biomolecular foundation models with shared trainers and pipeline components
+- [NVIDIA / cutile-python](https://github.com/NVIDIA / cutile-python) - cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
+- [patchy631 / ai-engineering-hub](https://github.com/patchy631 / ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 
 ### 📚 技术文章精选
-- [手把手教你在豆包上创建专属AI智能体](https://blog.csdn.net/2301_78150483/article/details/149778041)
-- [【AI大模型】Ollama部署本地大模型DeepSeek-R1，交互界面Open-WebUI，RagFlow构建私有知识库](https://blog.csdn.net/u014608435/article/details/145545048)
-- [解锁超级生产力：手把手教你构建与GitHub深度集成的自动化工作流，让AI成为你的编程副驾驶](https://blog.csdn.net/2301_80863610/article/details/152026467)
+- [主流 AI IDE 之一的 Google Antigravity IDE 介绍](https://blog.csdn.net/u014695938/article/details/155101528)
+- [从零开始：如何用Python训练一个AI模型（超详细教程）](https://blog.csdn.net/python12222_/article/details/146203266)
+- [2025必备技能！手把手教你Docker部署n8n，零成本打造私有AI工作流平台](https://blog.csdn.net/python1234567_/article/details/154683654)
 
 ### 🛡️ 安全资讯
-- [当我们请一群00后「整顿广告」](https://cloud.tencent.com/developer/article/2596349)
 - [TKE集群GlobalRouter网络模式如何调整单节点max-pods数](https://cloud.tencent.com/developer/article/2596377)
 - [胡泳：我们正目睹一场人工智能泡沫吗？](https://cloud.tencent.com/developer/article/2596352)
+- [原创分享计划2025年12月特别激励活动](https://cloud.tencent.com/developer/article/2596365)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
