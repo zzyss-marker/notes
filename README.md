@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │  1 │  2 │  3 │  4 │  5 │  6 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  7 │ ⭐ │  9 │ 10 │ 11 │ 12 │ 13 │
+│  7 │  8 │ ⭐ │ 10 │ 11 │ 12 │ 13 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年12月8日
+🌟 今天是2025年12月9日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/12/8)
+## 📰 今日资讯 (2025/12/9)
 
 ### 🔥 GitHub 热门项目
 - [microsoft / VibeVoice](https://github.com/microsoft / VibeVoice) - Open-Source Frontier Voice AI
-- [NVIDIA / cutile-python](https://github.com/NVIDIA / cutile-python) - cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
-- [patchy631 / ai-engineering-hub](https://github.com/patchy631 / ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+- [sinelaw / fresh](https://github.com/sinelaw / fresh) - Text editor for your terminal: easy, powerful and fast
+- [winapps-org / winapps](https://github.com/winapps-org / winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
 
 ### 📚 技术文章精选
-- [主流 AI IDE 之一的 Google Antigravity IDE 介绍](https://blog.csdn.net/u014695938/article/details/155101528)
-- [从零开始：如何用Python训练一个AI模型（超详细教程）](https://blog.csdn.net/python12222_/article/details/146203266)
-- [2025必备技能！手把手教你Docker部署n8n，零成本打造私有AI工作流平台](https://blog.csdn.net/python1234567_/article/details/154683654)
+- [借用AI工具（cursor/vscode) 调试matlab代码(2025.4最新实测）](https://blog.csdn.net/m0_55795604/article/details/147458650)
+- [字节多Agent架构Aime—— 让多个 AI 像 “灵活团队” 一样干活的新系统](https://blog.csdn.net/xiangaichou/article/details/153786152)
+- [7个降AI工具分享（含免费版）：有效降低AIGC率【2025实测】](https://blog.csdn.net/huayishuo/article/details/153832060)
 
 ### 🛡️ 安全资讯
-- [TKE集群GlobalRouter网络模式如何调整单节点max-pods数](https://cloud.tencent.com/developer/article/2596377)
-- [胡泳：我们正目睹一场人工智能泡沫吗？](https://cloud.tencent.com/developer/article/2596352)
 - [原创分享计划2025年12月特别激励活动](https://cloud.tencent.com/developer/article/2596365)
+- [用dism离线给install.wim集成补丁时，挂载点和ScratchDir不要设置在ReFS，否则可能会失败，报错c019003f、不允许在事务中打开该对象](https://cloud.tencent.com/developer/article/2596527)
+- [腾讯云音视频与腾讯游戏语音GVoice强强联合，推出新一代全链路游戏多媒体互动解决方案 GMES](https://cloud.tencent.com/developer/article/2596788)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
