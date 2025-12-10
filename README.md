@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │  1 │  2 │  3 │  4 │  5 │  6 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  7 │  8 │ ⭐ │ 10 │ 11 │ 12 │ 13 │
+│  7 │  8 │  9 │ ⭐ │ 11 │ 12 │ 13 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年12月9日
+🌟 今天是2025年12月10日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/12/9)
+## 📰 今日资讯 (2025/12/10)
 
 ### 🔥 GitHub 热门项目
-- [microsoft / VibeVoice](https://github.com/microsoft / VibeVoice) - Open-Source Frontier Voice AI
-- [sinelaw / fresh](https://github.com/sinelaw / fresh) - Text editor for your terminal: easy, powerful and fast
-- [winapps-org / winapps](https://github.com/winapps-org / winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
+- [KaijuEngine / kaiju](https://github.com/KaijuEngine / kaiju) - General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor
+- [thedotmack / claude-mem](https://github.com/thedotmack / claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+- [dyad-sh / dyad](https://github.com/dyad-sh / dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
 
 ### 📚 技术文章精选
-- [借用AI工具（cursor/vscode) 调试matlab代码(2025.4最新实测）](https://blog.csdn.net/m0_55795604/article/details/147458650)
-- [字节多Agent架构Aime—— 让多个 AI 像 “灵活团队” 一样干活的新系统](https://blog.csdn.net/xiangaichou/article/details/153786152)
-- [7个降AI工具分享（含免费版）：有效降低AIGC率【2025实测】](https://blog.csdn.net/huayishuo/article/details/153832060)
+- [《Spatial Joy 2025 全球 AR&AI 赛事：开发者必备资源、玩法、避坑攻略都在这》](https://blog.csdn.net/2302_79376097/article/details/154491601)
+- [多模态技术深度探索：融合视觉与语言的AI新范式](https://blog.csdn.net/2301_79139273/article/details/154370011)
+- [开源免费！AI视频分析神器，智能识别画面，1秒提取关键帧！附详细教程](https://blog.csdn.net/2301_78677192/article/details/147051988)
 
 ### 🛡️ 安全资讯
-- [原创分享计划2025年12月特别激励活动](https://cloud.tencent.com/developer/article/2596365)
-- [用dism离线给install.wim集成补丁时，挂载点和ScratchDir不要设置在ReFS，否则可能会失败，报错c019003f、不允许在事务中打开该对象](https://cloud.tencent.com/developer/article/2596527)
-- [腾讯云音视频与腾讯游戏语音GVoice强强联合，推出新一代全链路游戏多媒体互动解决方案 GMES](https://cloud.tencent.com/developer/article/2596788)
+- [Lumine 技术深度解析：字节跳动如何在《原神》中训练出通用 3D 世界智能体？](https://cloud.tencent.com/developer/article/2596543)
+- [从外平台迁移Windows到腾讯云的校时问题如何解决](https://cloud.tencent.com/developer/article/2596913)
+- [【运维自动化-标准运维】快捷键使用技巧（下）](https://cloud.tencent.com/developer/article/2597189)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
