@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │  1 │  2 │  3 │  4 │  5 │  6 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  7 │  8 │  9 │ ⭐ │ 11 │ 12 │ 13 │
+│  7 │  8 │  9 │ 10 │ ⭐ │ 12 │ 13 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年12月10日
+🌟 今天是2025年12月11日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/12/10)
+## 📰 今日资讯 (2025/12/11)
 
 ### 🔥 GitHub 热门项目
-- [KaijuEngine / kaiju](https://github.com/KaijuEngine / kaiju) - General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor
 - [thedotmack / claude-mem](https://github.com/thedotmack / claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-- [dyad-sh / dyad](https://github.com/dyad-sh / dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+- [KaijuEngine / kaiju](https://github.com/KaijuEngine / kaiju) - General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor
+- [agentsmd / agents.md](https://github.com/agentsmd / agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 
 ### 📚 技术文章精选
-- [《Spatial Joy 2025 全球 AR&AI 赛事：开发者必备资源、玩法、避坑攻略都在这》](https://blog.csdn.net/2302_79376097/article/details/154491601)
-- [多模态技术深度探索：融合视觉与语言的AI新范式](https://blog.csdn.net/2301_79139273/article/details/154370011)
-- [开源免费！AI视频分析神器，智能识别画面，1秒提取关键帧！附详细教程](https://blog.csdn.net/2301_78677192/article/details/147051988)
+- [告别重复劳动：5款AI数据标注工具实测，效率提升背后的技术逻辑](https://blog.csdn.net/qq_41187124/article/details/150335335)
+- [Heygem：免费！开源！本地电脑运行的AI数字人，电脑没有显卡不用看了](https://blog.csdn.net/mmhh1024/article/details/147468819)
+- [【AI编程】Claude Code 最强AI 编程利器项目实战详解](https://blog.csdn.net/zhangcongyi420/article/details/151889236)
 
 ### 🛡️ 安全资讯
-- [Lumine 技术深度解析：字节跳动如何在《原神》中训练出通用 3D 世界智能体？](https://cloud.tencent.com/developer/article/2596543)
-- [从外平台迁移Windows到腾讯云的校时问题如何解决](https://cloud.tencent.com/developer/article/2596913)
-- [【运维自动化-标准运维】快捷键使用技巧（下）](https://cloud.tencent.com/developer/article/2597189)
+- [DeepSeek V3.2 / V3.2-Speciale 正式发布：开源阵营的又一次「硬刚闭源」时刻？](https://cloud.tencent.com/developer/article/2597008)
+- [市场份额第一！有请这位“销冠”](https://cloud.tencent.com/developer/article/2597359)
+- [AI for Science，走到哪一步了？](https://cloud.tencent.com/developer/article/2597360)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
