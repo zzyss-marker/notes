@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │  1 │  2 │  3 │  4 │  5 │  6 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  7 │  8 │  9 │ 10 │ ⭐ │ 12 │ 13 │
+│  7 │  8 │  9 │ 10 │ 11 │ ⭐ │ 13 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年12月11日
+🌟 今天是2025年12月12日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/12/11)
+## 📰 今日资讯 (2025/12/12)
 
 ### 🔥 GitHub 热门项目
 - [thedotmack / claude-mem](https://github.com/thedotmack / claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-- [KaijuEngine / kaiju](https://github.com/KaijuEngine / kaiju) - General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor
-- [agentsmd / agents.md](https://github.com/agentsmd / agents.md) - AGENTS.md — a simple, open format for guiding coding agents
+- [Tencent / WeKnora](https://github.com/Tencent / WeKnora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+- [block / goose](https://github.com/block / goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 
 ### 📚 技术文章精选
-- [告别重复劳动：5款AI数据标注工具实测，效率提升背后的技术逻辑](https://blog.csdn.net/qq_41187124/article/details/150335335)
-- [Heygem：免费！开源！本地电脑运行的AI数字人，电脑没有显卡不用看了](https://blog.csdn.net/mmhh1024/article/details/147468819)
-- [【AI编程】Claude Code 最强AI 编程利器项目实战详解](https://blog.csdn.net/zhangcongyi420/article/details/151889236)
+- [飞算JavaAI掀起智能时代的新浪潮：引爆全民皆可编程时代！](https://blog.csdn.net/2402_87731470/article/details/149963131)
+- [【Coze-AI智能体平台】 吃透 Coze 智能体开发：3 大模式 + 模型配置 + 提示词技巧全攻略](https://blog.csdn.net/2401_87342824/article/details/154239243)
+- [还在用传统AI插件开发JAVA？Cursor保姆级配置教程，让它成为你的超级IDEA](https://blog.csdn.net/bydzlby/article/details/148923456)
 
 ### 🛡️ 安全资讯
-- [DeepSeek V3.2 / V3.2-Speciale 正式发布：开源阵营的又一次「硬刚闭源」时刻？](https://cloud.tencent.com/developer/article/2597008)
-- [市场份额第一！有请这位“销冠”](https://cloud.tencent.com/developer/article/2597359)
 - [AI for Science，走到哪一步了？](https://cloud.tencent.com/developer/article/2597360)
+- [【TCR】从 AWS 环境一键迁移镜像到TCR](https://cloud.tencent.com/developer/article/2597673)
+- [Win徽标+R不显示运行命令的历史记录，一句注册表搞定](https://cloud.tencent.com/developer/article/2597659)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
