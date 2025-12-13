@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │  1 │  2 │  3 │  4 │  5 │  6 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  7 │  8 │  9 │ 10 │ 11 │ ⭐ │ 13 │
+│  7 │  8 │  9 │ 10 │ 11 │ 12 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年12月12日
+🌟 今天是2025年12月13日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/12/12)
+## 📰 今日资讯 (2025/12/13)
 
 ### 🔥 GitHub 热门项目
 - [thedotmack / claude-mem](https://github.com/thedotmack / claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-- [Tencent / WeKnora](https://github.com/Tencent / WeKnora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
 - [block / goose](https://github.com/block / goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [datawhalechina / hello-agents](https://github.com/datawhalechina / hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 
 ### 📚 技术文章精选
-- [飞算JavaAI掀起智能时代的新浪潮：引爆全民皆可编程时代！](https://blog.csdn.net/2402_87731470/article/details/149963131)
-- [【Coze-AI智能体平台】 吃透 Coze 智能体开发：3 大模式 + 模型配置 + 提示词技巧全攻略](https://blog.csdn.net/2401_87342824/article/details/154239243)
-- [还在用传统AI插件开发JAVA？Cursor保姆级配置教程，让它成为你的超级IDEA](https://blog.csdn.net/bydzlby/article/details/148923456)
+- [YOLO目标检测框架完全指南：从零开始，手把手带你理解、训练、部署AI视觉系统](https://blog.csdn.net/weixin_47560078/article/details/154792064)
+- [【Coze-AI智能体平台】从 “空想家” 到 “行动派”：Coze 插件如何给智能体安上 “手脚”？](https://blog.csdn.net/2401_87342824/article/details/154740941)
+- [PyTorch生成式人工智能（5）——分类任务详解](https://blog.csdn.net/LOVEmy134611/article/details/146259435)
 
 ### 🛡️ 安全资讯
-- [AI for Science，走到哪一步了？](https://cloud.tencent.com/developer/article/2597360)
 - [【TCR】从 AWS 环境一键迁移镜像到TCR](https://cloud.tencent.com/developer/article/2597673)
 - [Win徽标+R不显示运行命令的历史记录，一句注册表搞定](https://cloud.tencent.com/developer/article/2597659)
+- [避免在wpr.exe -stop时使用 -compress 或 -skipPdbGen，我照着例子踩了一个坑](https://cloud.tencent.com/developer/article/2597769)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
