@@ -32,9 +32,9 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │  1 │  2 │  3 │  4 │  5 │  6 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  7 │  8 │  9 │ 10 │ 11 │ 12 │ ⭐ │
+│  7 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │
+│ ⭐ │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年12月13日
+🌟 今天是2025年12月14日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,17 +111,17 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/12/13)
+## 📰 今日资讯 (2025/12/14)
 
 ### 🔥 GitHub 热门项目
+- [CopilotKit / CopilotKit](https://github.com/CopilotKit / CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
+- [DayuanJiang / next-ai-draw-io](https://github.com/DayuanJiang / next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
 - [thedotmack / claude-mem](https://github.com/thedotmack / claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-- [block / goose](https://github.com/block / goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [datawhalechina / hello-agents](https://github.com/datawhalechina / hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 
 ### 📚 技术文章精选
-- [YOLO目标检测框架完全指南：从零开始，手把手带你理解、训练、部署AI视觉系统](https://blog.csdn.net/weixin_47560078/article/details/154792064)
-- [【Coze-AI智能体平台】从 “空想家” 到 “行动派”：Coze 插件如何给智能体安上 “手脚”？](https://blog.csdn.net/2401_87342824/article/details/154740941)
-- [PyTorch生成式人工智能（5）——分类任务详解](https://blog.csdn.net/LOVEmy134611/article/details/146259435)
+- [Adobe Lightroom Classic 2026 v15.0 更新详解：AI加持下的全新摄影工作流](https://blog.csdn.net/hello_hereitis/article/details/154195207)
+- [[AI]从零开始的DeepSeek本地部署及本地API调用教程](https://blog.csdn.net/c858845275/article/details/145544208)
+- [【Google AI Studio 】区域限制（自动跳转Gemini API文档页面）解决办法以及 Gemini Pro 学生免费试用一年的问题解答（Three.js介绍）](https://blog.csdn.net/weixin_43764974/article/details/155526964)
 
 ### 🛡️ 安全资讯
 - [【TCR】从 AWS 环境一键迁移镜像到TCR](https://cloud.tencent.com/developer/article/2597673)
@@ -132,5 +132,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
