@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  7 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │
+│ 14 │ ⭐ │ 16 │ 17 │ 18 │ 19 │ 20 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年12月14日
+🌟 今天是2025年12月15日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,17 +111,17 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/12/14)
+## 📰 今日资讯 (2025/12/15)
 
 ### 🔥 GitHub 热门项目
-- [CopilotKit / CopilotKit](https://github.com/CopilotKit / CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
-- [DayuanJiang / next-ai-draw-io](https://github.com/DayuanJiang / next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
-- [thedotmack / claude-mem](https://github.com/thedotmack / claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+- [simstudioai / sim](https://github.com/simstudioai / sim) - Open-source platform to build and deploy AI agent workflows.
+- [openai / codex](https://github.com/openai / codex) - Lightweight coding agent that runs in your terminal
+- [mdn / content](https://github.com/mdn / content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
 
 ### 📚 技术文章精选
-- [Adobe Lightroom Classic 2026 v15.0 更新详解：AI加持下的全新摄影工作流](https://blog.csdn.net/hello_hereitis/article/details/154195207)
-- [[AI]从零开始的DeepSeek本地部署及本地API调用教程](https://blog.csdn.net/c858845275/article/details/145544208)
-- [【Google AI Studio 】区域限制（自动跳转Gemini API文档页面）解决办法以及 Gemini Pro 学生免费试用一年的问题解答（Three.js介绍）](https://blog.csdn.net/weixin_43764974/article/details/155526964)
+- [生成模型实战 | 自回归模型详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/149469066)
+- [AI 提升效率指南：如何高效书写提示词](https://blog.csdn.net/Chase_______/article/details/155537964)
+- [【AI 解析】Gemini 3 全面解析：从认知到落地](https://blog.csdn.net/weixin_63944437/article/details/155094566)
 
 ### 🛡️ 安全资讯
 - [【TCR】从 AWS 环境一键迁移镜像到TCR](https://cloud.tencent.com/developer/article/2597673)
@@ -132,5 +132,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
