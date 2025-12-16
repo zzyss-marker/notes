@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  7 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 14 │ ⭐ │ 16 │ 17 │ 18 │ 19 │ 20 │
+│ 14 │ 15 │ ⭐ │ 17 │ 18 │ 19 │ 20 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年12月15日
+🌟 今天是2025年12月16日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/12/15)
+## 📰 今日资讯 (2025/12/16)
 
 ### 🔥 GitHub 热门项目
 - [simstudioai / sim](https://github.com/simstudioai / sim) - Open-source platform to build and deploy AI agent workflows.
-- [openai / codex](https://github.com/openai / codex) - Lightweight coding agent that runs in your terminal
-- [mdn / content](https://github.com/mdn / content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
+- [ZJU-LLMs / Foundations-of-LLMs](https://github.com/ZJU-LLMs / Foundations-of-LLMs) - A book for Learning the Foundations of LLMs
+- [jellyfin / jellyfin-desktop](https://github.com/jellyfin / jellyfin-desktop) - Jellyfin Desktop Client
 
 ### 📚 技术文章精选
-- [生成模型实战 | 自回归模型详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/149469066)
-- [AI 提升效率指南：如何高效书写提示词](https://blog.csdn.net/Chase_______/article/details/155537964)
-- [【AI 解析】Gemini 3 全面解析：从认知到落地](https://blog.csdn.net/weixin_63944437/article/details/155094566)
+- [音量上限设定保护听力的安全设计](https://blog.csdn.net/weixin_29363791/article/details/154761120)
+- [gh_mirrors/tr/transform安全最佳实践：保护你的敏感转换数据](https://blog.csdn.net/gitblog_00032/article/details/153860146)
+- [车载测试：守护智能汽车安全与体验的核心防线](https://blog.csdn.net/weixin_46121540/article/details/155631518)
 
 ### 🛡️ 安全资讯
-- [【TCR】从 AWS 环境一键迁移镜像到TCR](https://cloud.tencent.com/developer/article/2597673)
-- [Win徽标+R不显示运行命令的历史记录，一句注册表搞定](https://cloud.tencent.com/developer/article/2597659)
 - [避免在wpr.exe -stop时使用 -compress 或 -skipPdbGen，我照着例子踩了一个坑](https://cloud.tencent.com/developer/article/2597769)
+- [风靡日本！ColorSing携手腾讯云音视频：超低延迟技术引领移动K歌新浪潮](https://cloud.tencent.com/developer/article/2597801)
+- [CodeBuddy如何构建项目知识库](https://cloud.tencent.com/developer/article/2597792)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
