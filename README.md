@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  7 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 14 │ 15 │ 16 │ 17 │ ⭐ │ 19 │ 20 │
+│ 14 │ 15 │ 16 │ 17 │ 18 │ ⭐ │ 20 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年12月18日
+🌟 今天是2025年12月19日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/12/18)
+## 📰 今日资讯 (2025/12/19)
 
 ### 🔥 GitHub 热门项目
-- [C4illin / ConvertX](https://github.com/C4illin / ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
-- [resemble-ai / chatterbox](https://github.com/resemble-ai / chatterbox) - SoTA open-source TTS
+- [anthropics / claude-code](https://github.com/anthropics / claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 - [virattt / ai-hedge-fund](https://github.com/virattt / ai-hedge-fund) - An AI Hedge Fund Team
+- [astral-sh / ty](https://github.com/astral-sh / ty) - An extremely fast Python type checker and language server, written in Rust.
 
 ### 📚 技术文章精选
-- [未来商业模式：如何利用人工智能推动企业创新和发展](https://blog.csdn.net/2501_94114911/article/details/155039309)
-- [第十：如何在Pycharm中安装AI插件(Proxy AI)](https://blog.csdn.net/hyq413950612/article/details/147039970)
-- [代理IP服务商横向测评：基于动态住宅代理的AI任务管理革命](https://blog.csdn.net/m0_63947499/article/details/155579667)
+- [视频字幕生成神器：3分钟学会AI自动加字幕](https://blog.csdn.net/gitblog_00599/article/details/154785640)
+- [高效集成Gemini API：Zotero学术场景AI辅助分析全指南](https://blog.csdn.net/gitblog_00615/article/details/154403661)
+- [CANN异构计算架构深度评测：端云一致的AI开发利器](https://blog.csdn.net/2301_76341691/article/details/155064730)
 
 ### 🛡️ 安全资讯
-- [腾讯云重磅发布！Serverless架构数据库技术白皮书，解锁数据库未来新范式](https://cloud.tencent.com/developer/article/2599344)
-- [AI会消灭搜索吗？](https://cloud.tencent.com/developer/article/2599346)
-- [AI的“USB-C时刻”：巨头罕见联手，只为打通AI世界的“任督二脉”](https://cloud.tencent.com/developer/article/2599651)
+- [Kimi K2首发测评：5轮推理+60%搜索能力，它比GPT还懂人类？](https://cloud.tencent.com/developer/article/2600380)
+- [听说，Agent都在找这个“箱子”](https://cloud.tencent.com/developer/article/2601409)
+- [腾讯云TDP2025年终荣耀时刻·第一弹｜同行](https://cloud.tencent.com/developer/article/2601302)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
