@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  7 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 14 │ 15 │ 16 │ 17 │ 18 │ ⭐ │ 20 │
+│ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年12月19日
+🌟 今天是2025年12月20日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/12/19)
+## 📰 今日资讯 (2025/12/20)
 
 ### 🔥 GitHub 热门项目
+- [jaywcjlove / awesome-mac](https://github.com/jaywcjlove / awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [anthropics / claude-code](https://github.com/anthropics / claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- [virattt / ai-hedge-fund](https://github.com/virattt / ai-hedge-fund) - An AI Hedge Fund Team
-- [astral-sh / ty](https://github.com/astral-sh / ty) - An extremely fast Python type checker and language server, written in Rust.
+- [NVIDIA-NeMo / Gym](https://github.com/NVIDIA-NeMo / Gym) - Build RL environments for LLM training
 
 ### 📚 技术文章精选
-- [视频字幕生成神器：3分钟学会AI自动加字幕](https://blog.csdn.net/gitblog_00599/article/details/154785640)
-- [高效集成Gemini API：Zotero学术场景AI辅助分析全指南](https://blog.csdn.net/gitblog_00615/article/details/154403661)
-- [CANN异构计算架构深度评测：端云一致的AI开发利器](https://blog.csdn.net/2301_76341691/article/details/155064730)
+- [2025年企业AI知识库产品深度解析：从技术底座到业务编排，重塑知识中枢价值](https://blog.csdn.net/2501_94531192/article/details/155712139)
+- [AI时代，如何把握机会](https://blog.csdn.net/m0_57874805/article/details/149005291)
+- [让微信公众号成为 AI 智能体：从内容沉淀到智能问答的一次升级](https://blog.csdn.net/lxx309707872/article/details/155980686)
 
 ### 🛡️ 安全资讯
-- [Kimi K2首发测评：5轮推理+60%搜索能力，它比GPT还懂人类？](https://cloud.tencent.com/developer/article/2600380)
-- [听说，Agent都在找这个“箱子”](https://cloud.tencent.com/developer/article/2601409)
 - [腾讯云TDP2025年终荣耀时刻·第一弹｜同行](https://cloud.tencent.com/developer/article/2601302)
+- [Elasticsearch 快照删除超时？三步定位根因](https://cloud.tencent.com/developer/article/2601098)
+- [粤车南下的“数字守护者”，腾讯专有云TCS稳定护航香港机场智能停车场](https://cloud.tencent.com/developer/article/2601749)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
