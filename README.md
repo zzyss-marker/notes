@@ -34,9 +34,9 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  7 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │ ⭐ │
+│ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │
+│ ⭐ │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 28 │ 29 │ 30 │ 31 │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年12月20日
+🌟 今天是2025年12月21日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/12/20)
+## 📰 今日资讯 (2025/12/21)
 
 ### 🔥 GitHub 热门项目
-- [jaywcjlove / awesome-mac](https://github.com/jaywcjlove / awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [exo-explore / exo](https://github.com/exo-explore / exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+- [lintsinghua / DeepAudit](https://github.com/lintsinghua / DeepAudit) - DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。​让安全不再昂贵，让审计不再复杂。
 - [anthropics / claude-code](https://github.com/anthropics / claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- [NVIDIA-NeMo / Gym](https://github.com/NVIDIA-NeMo / Gym) - Build RL environments for LLM training
 
 ### 📚 技术文章精选
-- [2025年企业AI知识库产品深度解析：从技术底座到业务编排，重塑知识中枢价值](https://blog.csdn.net/2501_94531192/article/details/155712139)
-- [AI时代，如何把握机会](https://blog.csdn.net/m0_57874805/article/details/149005291)
-- [让微信公众号成为 AI 智能体：从内容沉淀到智能问答的一次升级](https://blog.csdn.net/lxx309707872/article/details/155980686)
+- [如何使用AI工具cursor(内置ChatGPT 4o+claude-3.5）](https://blog.csdn.net/2401_83283514/article/details/144836518)
+- [2025年AI编程工具大比拼：Trae、Cursor、Kiro AI深度评测与实战指南—谁才是开发者效率革命的终极武器？](https://blog.csdn.net/chenchuang0128/article/details/153771494)
+- [PyTorch生成式人工智能（4）——卷积神经网络(Convolutional Neural Network, CNN)详解](https://blog.csdn.net/LOVEmy134611/article/details/146259639)
 
 ### 🛡️ 安全资讯
-- [腾讯云TDP2025年终荣耀时刻·第一弹｜同行](https://cloud.tencent.com/developer/article/2601302)
-- [Elasticsearch 快照删除超时？三步定位根因](https://cloud.tencent.com/developer/article/2601098)
-- [粤车南下的“数字守护者”，腾讯专有云TCS稳定护航香港机场智能停车场](https://cloud.tencent.com/developer/article/2601749)
+- [Multi-Agent全面爆发！一文详解多智能体核心架构及LangGraph框架](https://cloud.tencent.com/developer/article/2601752)
+- [全面布局智能视频图像压缩，腾讯TNC编解码多项国际赛事夺魁](https://cloud.tencent.com/developer/article/2602550)
+- [从 Demo 到生产：打造我的技术资讯 + 知识库 Agent](https://cloud.tencent.com/developer/article/2602939)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
