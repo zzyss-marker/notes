@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 21 │ 22 │ ⭐ │ 24 │ 25 │ 26 │ 27 │
+│ 21 │ 22 │ 23 │ ⭐ │ 25 │ 26 │ 27 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 28 │ 29 │ 30 │ 31 │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年12月23日
+🌟 今天是2025年12月24日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/12/23)
+## 📰 今日资讯 (2025/12/24)
 
 ### 🔥 GitHub 热门项目
+- [rendercv / rendercv](https://github.com/rendercv / rendercv) - Typst-based CV/resume generator for academics and engineers
 - [exo-explore / exo](https://github.com/exo-explore / exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-- [iptv-org / iptv](https://github.com/iptv-org / iptv) - Collection of publicly available IPTV channels from all over the world
-- [swisskyrepo / PayloadsAllTheThings](https://github.com/swisskyrepo / PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+- [google / langextract](https://github.com/google / langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 
 ### 📚 技术文章精选
-- [高效集成Gemini API：Zotero学术场景AI辅助分析全指南](https://blog.csdn.net/gitblog_00615/article/details/154403661)
-- [【原创】AI聚合平台+AI聚合API+算力平台梳理（超实用）](https://blog.csdn.net/heiyeshuwu/article/details/146264421)
-- [【Coze-AI智能体平台】Coze 工作流 = 智能体的 “流程管家”？一文解锁自动化落地新玩法](https://blog.csdn.net/2401_87342824/article/details/155231560)
+- [【AI深究】决策树（Decision Tree）全网最详细全流程详解与案例（附Python代码演示）|数学原理、案例流程、代码演示及结果解读|ID3、C4.5、CART算法|工程启示、分类、回归决策树](https://blog.csdn.net/ai_aijiang/article/details/148848980)
+- [大模型API性能红黑榜首发！AI Ping平台用10000次调用告诉你谁真谁假](https://blog.csdn.net/2301_76341691/article/details/155535250)
+- [AI一周大事盘点（2025年12月7日~2025年12月13日）](https://blog.csdn.net/yuntongliangda/article/details/155909211)
 
 ### 🛡️ 安全资讯
-- [代码贬值了吗？AI时代，开发者的护城河](https://cloud.tencent.com/developer/article/2602938)
-- [最终标准发布！腾讯云 EdgeOne 产品能力稳定纳入 3GPP 国际通信标准](https://cloud.tencent.com/developer/article/2602899)
-- [AI只是可控工具： AI伦理学者乔安娜·布赖森谈AGI神话与未来治理](https://cloud.tencent.com/developer/article/2603252)
+- [渲染业务自定义镜像进不去Windows系统，常见的2种情况](https://cloud.tencent.com/developer/article/2604458)
+- [windows上云激活报错0xC004F074](https://cloud.tencent.com/developer/article/2604501)
+- [2025，我的“风”起时分：从自动化办公到AI编程的破局之路](https://cloud.tencent.com/developer/article/2605266)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
