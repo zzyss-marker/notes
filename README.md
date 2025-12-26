@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 21 │ 22 │ 23 │ 24 │ ⭐ │ 26 │ 27 │
+│ 21 │ 22 │ 23 │ 24 │ 25 │ ⭐ │ 27 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 28 │ 29 │ 30 │ 31 │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年12月25日
+🌟 今天是2025年12月26日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/12/25)
+## 📰 今日资讯 (2025/12/26)
 
 ### 🔥 GitHub 热门项目
-- [rendercv / rendercv](https://github.com/rendercv / rendercv) - Typst-based CV/resume generator for academics and engineers
+- [rendercv / rendercv](https://github.com/rendercv / rendercv) - CV/resume generator for academics and engineers, YAML to PDF
+- [xerrors / Yuxi-Know](https://github.com/xerrors / Yuxi-Know) - 结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
 - [twitter / the-algorithm](https://github.com/twitter / the-algorithm) - Source code for the X Recommendation Algorithm
-- [google / langextract](https://github.com/google / langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 
 ### 📚 技术文章精选
-- [从零构建AI运维智能体：n8n+K8s+LLM实现自动化AIOps，附完整代码收藏指南！](https://blog.csdn.net/2401_84495872/article/details/153324497)
-- [【AI深究】K-近邻算法（KNN）详细全流程详解与案例（附大量Python代码演示）| 回归/分类、原理与算法流程、案例与完整代码演示 |K值选择与模型表现、距离度量的选择与影响、加权KNN、工程建议](https://blog.csdn.net/ai_aijiang/article/details/148773048)
-- [【机器学习】音乐生成——AI如何创作个性化音乐与配乐](https://blog.csdn.net/2202_76097976/article/details/142550741)
+- [从零上手：用AI智能体实现微信自动回复功能全攻略](https://blog.csdn.net/qq_56999332/article/details/156195409)
+- [豆包：字节跳动打造的AI智能助手平台](https://blog.csdn.net/smileKH/article/details/148828199)
+- [用AI把微信聊天记录变成可视化报告，酷到极致！](https://blog.csdn.net/weixin_65635437/article/details/148631399)
 
 ### 🛡️ 安全资讯
-- [大厂P9：为什么大部分程序员成不了架构师？](https://cloud.tencent.com/developer/article/2606718)
-- [腾讯云率先支持 Valkey 8.0 版本，开源贡献位居全球第一](https://cloud.tencent.com/developer/article/2607449)
-- [大模型的2025：6个关键洞察](https://cloud.tencent.com/developer/article/2607450)
+- [高性能对象存储解决方案：AI 时代数据洪流下的基石](https://cloud.tencent.com/developer/article/2608049)
+- [万字长文讲透LLM核心：Transformer架构原理解析](https://cloud.tencent.com/developer/article/2608139)
+- [信息论如何成为复杂系统科学的核心工具](https://cloud.tencent.com/developer/article/2608293)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
