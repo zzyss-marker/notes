@@ -36,16 +36,16 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │ ⭐ │
+│ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 28 │ 29 │ 30 │ 31 │    │    │    │
+│ ⭐ │ 29 │ 30 │ 31 │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年12月27日
+🌟 今天是2025年12月28日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,17 +111,17 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/12/27)
+## 📰 今日资讯 (2025/12/28)
 
 ### 🔥 GitHub 热门项目
-- [rendercv / rendercv](https://github.com/rendercv / rendercv) - CV/resume generator for academics and engineers, YAML to PDF
-- [langgenius / dify](https://github.com/langgenius / dify) - Production-ready platform for agentic workflow development.
-- [NanmiCoder / MediaCrawler](https://github.com/NanmiCoder / MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+- [TheAlgorithms / Python](https://github.com/TheAlgorithms / Python) - All Algorithms implemented in Python
+- [xerrors / Yuxi-Know](https://github.com/xerrors / Yuxi-Know) - 结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
+- [agrinman / tunnelto](https://github.com/agrinman / tunnelto) - Expose your local web server to the internet with a public URL.
 
 ### 📚 技术文章精选
-- [Spring AI 1.1 技术详解：Java 生态 AI 开发的企业级落地指南](https://blog.csdn.net/srlsong/article/details/155030710)
-- [医疗人工智能大模型中的关键能力：【中期训练】mid-training](https://blog.csdn.net/kkiron/article/details/147749623)
-- [【实操分享】使用 SeeDream 4.0 进行 AI 修图——开启专属“AI 云旅拍”](https://blog.csdn.net/qq_41140324/article/details/151685579)
+- [AI+BI平台SuperSonic解析](https://blog.csdn.net/johnsonsap/article/details/153694336)
+- [RTX4090：AI与深度学习应用实践的革命性推动者](https://blog.csdn.net/m0_74385041/article/details/151932492)
+- [2025 嵌入式 AI IDE 全面对比：Trae、Copilot、Windsurf、Cursor 谁最值得个人开发者入手？](https://blog.csdn.net/weixin_42964413/article/details/155056638)
 
 ### 🛡️ 安全资讯
 - [信息论如何成为复杂系统科学的核心工具](https://cloud.tencent.com/developer/article/2608293)
@@ -132,5 +132,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
