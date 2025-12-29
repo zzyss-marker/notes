@@ -38,14 +38,14 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │ 29 │ 30 │ 31 │    │    │    │
+│ 28 │ ⭐ │ 30 │ 31 │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年12月28日
+🌟 今天是2025年12月29日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/12/28)
+## 📰 今日资讯 (2025/12/29)
 
 ### 🔥 GitHub 热门项目
+- [Flowseal / zapret-discord-youtube](https://github.com/Flowseal / zapret-discord-youtube) - 
+- [tw93 / Mole](https://github.com/tw93 / Mole) - 🐹 Deep clean and optimize your Mac.
 - [TheAlgorithms / Python](https://github.com/TheAlgorithms / Python) - All Algorithms implemented in Python
-- [xerrors / Yuxi-Know](https://github.com/xerrors / Yuxi-Know) - 结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
-- [agrinman / tunnelto](https://github.com/agrinman / tunnelto) - Expose your local web server to the internet with a public URL.
 
 ### 📚 技术文章精选
-- [AI+BI平台SuperSonic解析](https://blog.csdn.net/johnsonsap/article/details/153694336)
-- [RTX4090：AI与深度学习应用实践的革命性推动者](https://blog.csdn.net/m0_74385041/article/details/151932492)
-- [2025 嵌入式 AI IDE 全面对比：Trae、Copilot、Windsurf、Cursor 谁最值得个人开发者入手？](https://blog.csdn.net/weixin_42964413/article/details/155056638)
+- [从局域网到随时随地！这款 AI 客户端Cherry Studio+cpolar让远程协作更高效](https://blog.csdn.net/fcawyxb/article/details/155978922)
+- [GLM-4.7 & MiniMax M2.1 实测上线：AI Ping 喊你免费体验国产大模型 “硬实力](https://blog.csdn.net/2402_86350387/article/details/156239006)
+- [【AI】coze的简单入门构建智能体](https://blog.csdn.net/2401_84538476/article/details/151898227)
 
 ### 🛡️ 安全资讯
-- [信息论如何成为复杂系统科学的核心工具](https://cloud.tencent.com/developer/article/2608293)
-- [当10年架构师拿起AI：不是写不动了，是写得太快了](https://cloud.tencent.com/developer/article/2608461)
 - [计算机是如何启动的？从未上电到操作系统启动](https://cloud.tencent.com/developer/article/2608409)
+- [【融合创新】中信银行大数据核心升级项目获评信通院2025“星河”典型案例](https://cloud.tencent.com/developer/article/2608474)
+- [筑牢 AI 内容合规防线：数据万象支持 AIGC 合规标识](https://cloud.tencent.com/developer/article/2608459)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
