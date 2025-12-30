@@ -38,14 +38,14 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 28 │ ⭐ │ 30 │ 31 │    │    │    │
+│ 28 │ 29 │ ⭐ │ 31 │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年12月29日
+🌟 今天是2025年12月30日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/12/29)
+## 📰 今日资讯 (2025/12/30)
 
 ### 🔥 GitHub 热门项目
+- [QuantConnect / Lean](https://github.com/QuantConnect / Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
+- [RustPython / RustPython](https://github.com/RustPython / RustPython) - A Python Interpreter written in Rust
 - [Flowseal / zapret-discord-youtube](https://github.com/Flowseal / zapret-discord-youtube) - 
-- [tw93 / Mole](https://github.com/tw93 / Mole) - 🐹 Deep clean and optimize your Mac.
-- [TheAlgorithms / Python](https://github.com/TheAlgorithms / Python) - All Algorithms implemented in Python
 
 ### 📚 技术文章精选
-- [从局域网到随时随地！这款 AI 客户端Cherry Studio+cpolar让远程协作更高效](https://blog.csdn.net/fcawyxb/article/details/155978922)
-- [GLM-4.7 & MiniMax M2.1 实测上线：AI Ping 喊你免费体验国产大模型 “硬实力](https://blog.csdn.net/2402_86350387/article/details/156239006)
-- [【AI】coze的简单入门构建智能体](https://blog.csdn.net/2401_84538476/article/details/151898227)
+- [新手指南：人工智能Poe AI官网（poe官方网站入口）](https://blog.csdn.net/poeai_9/article/details/144794767)
+- [CANN：华为全栈AI计算框架的深度解析（终极扩展版 · 完整篇）](https://blog.csdn.net/2501_93573294/article/details/155229593)
+- [本地部署AI增强型SearXNG搜索引擎技术文档](https://blog.csdn.net/yuhaibao324/article/details/155606244)
 
 ### 🛡️ 安全资讯
-- [计算机是如何启动的？从未上电到操作系统启动](https://cloud.tencent.com/developer/article/2608409)
-- [【融合创新】中信银行大数据核心升级项目获评信通院2025“星河”典型案例](https://cloud.tencent.com/developer/article/2608474)
-- [筑牢 AI 内容合规防线：数据万象支持 AIGC 合规标识](https://cloud.tencent.com/developer/article/2608459)
+- [参会指南 | 腾讯云架构师峰会：连接每一位渴望突破的技术人，共同构筑 AI 新时代的架构未来](https://cloud.tencent.com/developer/article/2608464)
+- [搭建你的第一个MCP](https://cloud.tencent.com/developer/article/2608523)
+- [腾讯技术面：聊聊MySQL五大核心模块](https://cloud.tencent.com/developer/article/2608467)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
