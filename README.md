@@ -38,14 +38,14 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 28 │ 29 │ ⭐ │ 31 │    │    │    │
+│ 28 │ 29 │ 30 │ ⭐ │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年12月30日
+🌟 今天是2025年12月31日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/12/30)
+## 📰 今日资讯 (2025/12/31)
 
 ### 🔥 GitHub 热门项目
+- [BloopAI / vibe-kanban](https://github.com/BloopAI / vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
+- [x1xhlol / system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol / system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 - [QuantConnect / Lean](https://github.com/QuantConnect / Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
-- [RustPython / RustPython](https://github.com/RustPython / RustPython) - A Python Interpreter written in Rust
-- [Flowseal / zapret-discord-youtube](https://github.com/Flowseal / zapret-discord-youtube) - 
 
 ### 📚 技术文章精选
-- [新手指南：人工智能Poe AI官网（poe官方网站入口）](https://blog.csdn.net/poeai_9/article/details/144794767)
-- [CANN：华为全栈AI计算框架的深度解析（终极扩展版 · 完整篇）](https://blog.csdn.net/2501_93573294/article/details/155229593)
-- [本地部署AI增强型SearXNG搜索引擎技术文档](https://blog.csdn.net/yuhaibao324/article/details/155606244)
+- [【大模型】用 AI Ping 免费体验 GLM-4.7 与 MiniMax M2.1：从配置到实战的完整教程](https://blog.csdn.net/qq_38628970/article/details/156234469)
+- [浅谈AI辅助编码从氛围编程Vibe Coding到基于spec规范驱动开发](https://blog.csdn.net/qq_41035650/article/details/155906571)
+- [深度剖析：Spring AI 与 LangChain4j，谁才是 Java 程序员的 AI 开发利器？](https://blog.csdn.net/qq_35766758/article/details/148512081)
 
 ### 🛡️ 安全资讯
-- [参会指南 | 腾讯云架构师峰会：连接每一位渴望突破的技术人，共同构筑 AI 新时代的架构未来](https://cloud.tencent.com/developer/article/2608464)
-- [搭建你的第一个MCP](https://cloud.tencent.com/developer/article/2608523)
-- [腾讯技术面：聊聊MySQL五大核心模块](https://cloud.tencent.com/developer/article/2608467)
+- [把握关键！设备到数据的存储监控之路](https://cloud.tencent.com/developer/article/2609051)
+- [2025 AI行业全景盘点：算力神话退场，应用时代登场](https://cloud.tencent.com/developer/article/2608895)
+- [民航结算 “上云焕新”：腾讯专有云TCE撑起行业安全与效率双重防线](https://cloud.tencent.com/developer/article/2609429)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
