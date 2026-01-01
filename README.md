@@ -26,26 +26,26 @@
 
 <!-- CALENDAR_START -->
 ```
-📅 2025年12月
+📅 2026年1月
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│    │  1 │  2 │  3 │  4 │  5 │  6 │
+│    │    │    │    │ ⭐ │  2 │  3 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  7 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │
+│  4 │  5 │  6 │  7 │  8 │  9 │ 10 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 14 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │
+│ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 21 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │
+│ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 28 │ 29 │ 30 │ ⭐ │    │    │    │
+│ 25 │ 26 │ 27 │ 28 │ 29 │ 30 │ 31 │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2025年12月31日
+🌟 今天是2026年1月1日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2025/12/31)
+## 📰 今日资讯 (2026/1/1)
 
 ### 🔥 GitHub 热门项目
-- [BloopAI / vibe-kanban](https://github.com/BloopAI / vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
-- [x1xhlol / system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol / system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-- [QuantConnect / Lean](https://github.com/QuantConnect / Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
+- [afkarxyz / SpotiFLAC](https://github.com/afkarxyz / SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
+- [google-gemini / computer-use-preview](https://github.com/google-gemini / computer-use-preview) - 
+- [harvard-edge / cs249r_book](https://github.com/harvard-edge / cs249r_book) - Introduction to Machine Learning Systems
 
 ### 📚 技术文章精选
-- [【大模型】用 AI Ping 免费体验 GLM-4.7 与 MiniMax M2.1：从配置到实战的完整教程](https://blog.csdn.net/qq_38628970/article/details/156234469)
-- [浅谈AI辅助编码从氛围编程Vibe Coding到基于spec规范驱动开发](https://blog.csdn.net/qq_41035650/article/details/155906571)
-- [深度剖析：Spring AI 与 LangChain4j，谁才是 Java 程序员的 AI 开发利器？](https://blog.csdn.net/qq_35766758/article/details/148512081)
+- [从0到1：Dify AI智能体部署与使用全攻略（1/6）](https://blog.csdn.net/beautifulmemory/article/details/148643018)
+- [Python实现开源AI模型引入及测试全过程](https://blog.csdn.net/sixpp/article/details/156064660)
+- [力荐十个学习AI Agent（智能体）绝佳GitHub项目！尤其是最后一个](https://blog.csdn.net/Y525698136/article/details/155967907)
 
 ### 🛡️ 安全资讯
-- [把握关键！设备到数据的存储监控之路](https://cloud.tencent.com/developer/article/2609051)
-- [2025 AI行业全景盘点：算力神话退场，应用时代登场](https://cloud.tencent.com/developer/article/2608895)
 - [民航结算 “上云焕新”：腾讯专有云TCE撑起行业安全与效率双重防线](https://cloud.tencent.com/developer/article/2609429)
+- [腾讯云大数据专家工程师孙云龙：Data+AI重构数据管理新范式](https://cloud.tencent.com/developer/article/2609501)
+- [【Data Agent】WeData Unity Semantics：数据分析智能体需要高质量场景化的「上下文」](https://cloud.tencent.com/developer/article/2609503)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
