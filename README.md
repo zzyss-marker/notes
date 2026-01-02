@@ -30,7 +30,7 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│    │    │    │    │ ⭐ │  2 │  3 │
+│    │    │    │    │  1 │ ⭐ │  3 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  4 │  5 │  6 │  7 │  8 │  9 │ 10 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年1月1日
+🌟 今天是2026年1月2日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,17 +111,17 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/1/1)
+## 📰 今日资讯 (2026/1/2)
 
 ### 🔥 GitHub 热门项目
-- [afkarxyz / SpotiFLAC](https://github.com/afkarxyz / SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
-- [google-gemini / computer-use-preview](https://github.com/google-gemini / computer-use-preview) - 
-- [harvard-edge / cs249r_book](https://github.com/harvard-edge / cs249r_book) - Introduction to Machine Learning Systems
+- [awslabs / amazon-bedrock-agentcore-samples](https://github.com/awslabs / amazon-bedrock-agentcore-samples) - Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment.
+- [BloopAI / vibe-kanban](https://github.com/BloopAI / vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
+- [usememos / memos](https://github.com/usememos / memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 
 ### 📚 技术文章精选
-- [从0到1：Dify AI智能体部署与使用全攻略（1/6）](https://blog.csdn.net/beautifulmemory/article/details/148643018)
-- [Python实现开源AI模型引入及测试全过程](https://blog.csdn.net/sixpp/article/details/156064660)
-- [力荐十个学习AI Agent（智能体）绝佳GitHub项目！尤其是最后一个](https://blog.csdn.net/Y525698136/article/details/155967907)
+- [【AI大模型前沿】TxGemma：谷歌推出的高效药物研发大模型，临床试验预测准确率超90%](https://blog.csdn.net/xiaobing259/article/details/147718906)
+- [英伟达2025下一代AI基础设施的800伏直流架构白皮书（中文翻译版本第二部分）](https://blog.csdn.net/qq_39648250/article/details/155039414)
+- [【AI 学习】深度解析Transformer核心：注意力机制的原理、实现与应用](https://blog.csdn.net/weixin_63944437/article/details/156230784)
 
 ### 🛡️ 安全资讯
 - [民航结算 “上云焕新”：腾讯专有云TCE撑起行业安全与效率双重防线](https://cloud.tencent.com/developer/article/2609429)
