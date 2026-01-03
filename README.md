@@ -30,7 +30,7 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│    │    │    │    │  1 │ ⭐ │  3 │
+│    │    │    │    │  1 │  2 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  4 │  5 │  6 │  7 │  8 │  9 │ 10 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年1月2日
+🌟 今天是2026年1月3日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/1/2)
+## 📰 今日资讯 (2026/1/3)
 
 ### 🔥 GitHub 热门项目
-- [awslabs / amazon-bedrock-agentcore-samples](https://github.com/awslabs / amazon-bedrock-agentcore-samples) - Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment.
-- [BloopAI / vibe-kanban](https://github.com/BloopAI / vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
-- [usememos / memos](https://github.com/usememos / memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [HQarroum / docker-android](https://github.com/HQarroum / docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
+- [nocodb / nocodb](https://github.com/nocodb / nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [openai / openai-cookbook](https://github.com/openai / openai-cookbook) - Examples and guides for using the OpenAI API
 
 ### 📚 技术文章精选
-- [【AI大模型前沿】TxGemma：谷歌推出的高效药物研发大模型，临床试验预测准确率超90%](https://blog.csdn.net/xiaobing259/article/details/147718906)
-- [英伟达2025下一代AI基础设施的800伏直流架构白皮书（中文翻译版本第二部分）](https://blog.csdn.net/qq_39648250/article/details/155039414)
-- [【AI 学习】深度解析Transformer核心：注意力机制的原理、实现与应用](https://blog.csdn.net/weixin_63944437/article/details/156230784)
+- [中国版 ReadmeX + 海外爆款 Zread.ai：两款 AI 工具重构开源项目探索方式，一键解析GitHub项目，生成超详细技术文档。](https://blog.csdn.net/m0_59012280/article/details/155528076)
+- [蓝耘平台介绍：算力赋能AI创新的智算云平台](https://blog.csdn.net/2401_88885149/article/details/147376384)
+- [Soul App AI开源播客语音合成模型SoulX-Podcast](https://blog.csdn.net/linshantang/article/details/154406595)
 
 ### 🛡️ 安全资讯
 - [民航结算 “上云焕新”：腾讯专有云TCE撑起行业安全与效率双重防线](https://cloud.tencent.com/developer/article/2609429)
-- [腾讯云大数据专家工程师孙云龙：Data+AI重构数据管理新范式](https://cloud.tencent.com/developer/article/2609501)
 - [【Data Agent】WeData Unity Semantics：数据分析智能体需要高质量场景化的「上下文」](https://cloud.tencent.com/developer/article/2609503)
+- [腾讯云大数据专家工程师孙云龙：Data+AI重构数据管理新范式](https://cloud.tencent.com/developer/article/2609501)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
