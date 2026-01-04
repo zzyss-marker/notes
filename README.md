@@ -30,9 +30,9 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│    │    │    │    │  1 │  2 │ ⭐ │
+│    │    │    │    │  1 │  2 │  3 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  4 │  5 │  6 │  7 │  8 │  9 │ 10 │
+│ ⭐ │  5 │  6 │  7 │  8 │  9 │ 10 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年1月3日
+🌟 今天是2026年1月4日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/1/3)
+## 📰 今日资讯 (2026/1/4)
 
 ### 🔥 GitHub 热门项目
-- [HQarroum / docker-android](https://github.com/HQarroum / docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
-- [nocodb / nocodb](https://github.com/nocodb / nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-- [openai / openai-cookbook](https://github.com/openai / openai-cookbook) - Examples and guides for using the OpenAI API
+- [usememos / memos](https://github.com/usememos / memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [ourongxing / newsnow](https://github.com/ourongxing / newsnow) - Elegant reading of real-time and hottest news
+- [pathwaycom / pathway](https://github.com/pathwaycom / pathway) - Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
 
 ### 📚 技术文章精选
-- [中国版 ReadmeX + 海外爆款 Zread.ai：两款 AI 工具重构开源项目探索方式，一键解析GitHub项目，生成超详细技术文档。](https://blog.csdn.net/m0_59012280/article/details/155528076)
-- [蓝耘平台介绍：算力赋能AI创新的智算云平台](https://blog.csdn.net/2401_88885149/article/details/147376384)
-- [Soul App AI开源播客语音合成模型SoulX-Podcast](https://blog.csdn.net/linshantang/article/details/154406595)
+- [【GitHub周榜】WrenAI：开源SQL AI代理，让Text-to-SQL轻松实现，开启自然语言与数据交互新时代](https://blog.csdn.net/xiaobing259/article/details/146486239)
+- [2025三掌柜赠书活动第四十六期 白话AI安全：32个故事带你读懂AI的攻防博弈](https://blog.csdn.net/CC1991_/article/details/155771996)
+- [职场进阶&AI创作双buff！脉脉平台全解析+【AI创作者xAMA】活动指南](https://blog.csdn.net/2401_86326742/article/details/156193068)
 
 ### 🛡️ 安全资讯
-- [民航结算 “上云焕新”：腾讯专有云TCE撑起行业安全与效率双重防线](https://cloud.tencent.com/developer/article/2609429)
-- [【Data Agent】WeData Unity Semantics：数据分析智能体需要高质量场景化的「上下文」](https://cloud.tencent.com/developer/article/2609503)
-- [腾讯云大数据专家工程师孙云龙：Data+AI重构数据管理新范式](https://cloud.tencent.com/developer/article/2609501)
+- [【融合创新】六成TOP10券商选择腾讯云大数据平台，加速适配AI场景](https://cloud.tencent.com/developer/article/2609647)
+- [腾讯云TDP2025年终荣耀时刻 · 第三弹｜闪耀](https://cloud.tencent.com/developer/article/2609543)
+- [从创意上线到功能迭代：程序员必知的AI开发黄金流程，100%效率提升！](https://cloud.tencent.com/developer/article/2609821)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
