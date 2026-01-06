@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │    │    │  1 │  2 │  3 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  4 │ ⭐ │  6 │  7 │  8 │  9 │ 10 │
+│  4 │  5 │ ⭐ │  7 │  8 │  9 │ 10 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年1月5日
+🌟 今天是2026年1月6日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/1/5)
+## 📰 今日资讯 (2026/1/6)
 
 ### 🔥 GitHub 热门项目
+- [anomalyco / opencode](https://github.com/anomalyco / opencode) - The open source coding agent.
+- [usememos / memos](https://github.com/usememos / memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [OpenBB-finance / OpenBB](https://github.com/OpenBB-finance / OpenBB) - Financial data platform for analysts, quants and AI agents.
-- [openai / openai-cookbook](https://github.com/openai / openai-cookbook) - Examples and guides for using the OpenAI API
-- [nocodb / nocodb](https://github.com/nocodb / nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
 ### 📚 技术文章精选
-- [openFuyao AI推理加速方案深度解析](https://blog.csdn.net/JHXL_/article/details/155983478)
-- [【Coze-AI智能体开发】【一】初识Coze：零代码玩转 AI 智能体开发，新手也能轻松搭建专属 AI 应用！](https://blog.csdn.net/2301_79248256/article/details/156457953)
-- [【从 0 到 1 吃透 AI Agent】：底层逻辑、工具链选型与代码实现](https://blog.csdn.net/user340/article/details/155828089)
+- [AI的提示词专栏：医学报告 Prompt，病例描述、药品说明、医学科普](https://blog.csdn.net/weixin_43151418/article/details/153474789)
+- [Codex 真香！终端 AI 编程神器装好了，Cursor可以不续费了](https://blog.csdn.net/qq_42801126/article/details/151251093)
+- [零基础学AI大模型之RunnablePassthrough](https://blog.csdn.net/chandfy/article/details/154407857)
 
 ### 🛡️ 安全资讯
-- [GenAI浪潮中，“气宗”为何比“剑宗”更重要](https://cloud.tencent.com/developer/article/2609908)
-- [加速核心业务稳健上云！腾讯专有云TCE高可用技术白皮书重磅发布](https://cloud.tencent.com/developer/article/2610672)
 - [薪火相传，共筑生态！OpenTenBase两大赛项圆满落幕，获奖名单荣耀揭晓！](https://cloud.tencent.com/developer/article/2610673)
+- [加速核心业务稳健上云！腾讯专有云TCE高可用技术白皮书重磅发布](https://cloud.tencent.com/developer/article/2610672)
+- [当AI聊「童年阴影」的时候，它在聊什么｜Hao 好读论文](https://cloud.tencent.com/developer/article/2610495)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
