@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │    │    │  1 │  2 │  3 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  4 │  5 │ ⭐ │  7 │  8 │  9 │ 10 │
+│  4 │  5 │  6 │ ⭐ │  8 │  9 │ 10 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年1月6日
+🌟 今天是2026年1月7日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/1/6)
+## 📰 今日资讯 (2026/1/7)
 
 ### 🔥 GitHub 热门项目
-- [anomalyco / opencode](https://github.com/anomalyco / opencode) - The open source coding agent.
-- [usememos / memos](https://github.com/usememos / memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
-- [OpenBB-finance / OpenBB](https://github.com/OpenBB-finance / OpenBB) - Financial data platform for analysts, quants and AI agents.
+- [protocolbuffers / protobuf](https://github.com/protocolbuffers / protobuf) - Protocol Buffers - Google's data interchange format
+- [Lissy93 / web-check](https://github.com/Lissy93 / web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+- [microsoft / PowerToys](https://github.com/microsoft / PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 
 ### 📚 技术文章精选
-- [AI的提示词专栏：医学报告 Prompt，病例描述、药品说明、医学科普](https://blog.csdn.net/weixin_43151418/article/details/153474789)
-- [Codex 真香！终端 AI 编程神器装好了，Cursor可以不续费了](https://blog.csdn.net/qq_42801126/article/details/151251093)
-- [零基础学AI大模型之RunnablePassthrough](https://blog.csdn.net/chandfy/article/details/154407857)
+- [从LLM出发：由浅入深探索AI开发的全流程与简单实践（全文3w字）](https://blog.csdn.net/Z_oioihoii/article/details/146279996)
+- [豆包新模型与 PromptPilot 实操体验测评，AI 辅助创作的新范式探索](https://blog.csdn.net/beautifulmemory/article/details/149882342)
+- [开源的 AI + IoT 云边一体化解决方案](https://blog.csdn.net/mopmgerg54mo/article/details/150273327)
 
 ### 🛡️ 安全资讯
-- [薪火相传，共筑生态！OpenTenBase两大赛项圆满落幕，获奖名单荣耀揭晓！](https://cloud.tencent.com/developer/article/2610673)
-- [加速核心业务稳健上云！腾讯专有云TCE高可用技术白皮书重磅发布](https://cloud.tencent.com/developer/article/2610672)
-- [当AI聊「童年阴影」的时候，它在聊什么｜Hao 好读论文](https://cloud.tencent.com/developer/article/2610495)
+- [AGI的终极形态，是分布式集体智能？](https://cloud.tencent.com/developer/article/2611660)
+- [L20显卡机型(例如PNV5b等)安装不上grid16.2驱动](https://cloud.tencent.com/developer/article/2611823)
+- [当我100%把编程交给AI：在python-office项目中的6个实战场景与代码演示](https://cloud.tencent.com/developer/article/2611817)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
