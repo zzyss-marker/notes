@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │    │    │  1 │  2 │  3 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  4 │  5 │  6 │ ⭐ │  8 │  9 │ 10 │
+│  4 │  5 │  6 │  7 │ ⭐ │  9 │ 10 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年1月7日
+🌟 今天是2026年1月8日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/1/7)
+## 📰 今日资讯 (2026/1/8)
 
 ### 🔥 GitHub 热门项目
-- [protocolbuffers / protobuf](https://github.com/protocolbuffers / protobuf) - Protocol Buffers - Google's data interchange format
+- [thedotmack / claude-mem](https://github.com/thedotmack / claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+- [google / googletest](https://github.com/google / googletest) - GoogleTest - Google Testing and Mocking Framework
 - [Lissy93 / web-check](https://github.com/Lissy93 / web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
-- [microsoft / PowerToys](https://github.com/microsoft / PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 
 ### 📚 技术文章精选
-- [从LLM出发：由浅入深探索AI开发的全流程与简单实践（全文3w字）](https://blog.csdn.net/Z_oioihoii/article/details/146279996)
-- [豆包新模型与 PromptPilot 实操体验测评，AI 辅助创作的新范式探索](https://blog.csdn.net/beautifulmemory/article/details/149882342)
-- [开源的 AI + IoT 云边一体化解决方案](https://blog.csdn.net/mopmgerg54mo/article/details/150273327)
+- [海光DCU部署全攻略：开箱、配置到AI训练的最佳实践｜2026工程化版本](https://blog.csdn.net/liu1983robin/article/details/156519047)
+- [RockyLinux 10 正式发布：更快、更稳、更安全、更AI！](https://blog.csdn.net/hnpmilgh/article/details/148600071)
+- [边缘AI：解锁终端设备的智能潜能](https://blog.csdn.net/IRpickstars/article/details/156681396)
 
 ### 🛡️ 安全资讯
-- [AGI的终极形态，是分布式集体智能？](https://cloud.tencent.com/developer/article/2611660)
-- [L20显卡机型(例如PNV5b等)安装不上grid16.2驱动](https://cloud.tencent.com/developer/article/2611823)
-- [当我100%把编程交给AI：在python-office项目中的6个实战场景与代码演示](https://cloud.tencent.com/developer/article/2611817)
+- [我与2025：这一年我走出了自己的节奏](https://cloud.tencent.com/developer/article/2611925)
+- [智能革命席卷全民：2026-2030人工智能十大趋势推演](https://cloud.tencent.com/developer/article/2611980)
+- [腾讯云大模型审校解决方案，让媒体内容生产“快”而“准”](https://cloud.tencent.com/developer/article/2612468)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
