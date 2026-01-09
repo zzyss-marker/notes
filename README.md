@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │    │    │  1 │  2 │  3 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  4 │  5 │  6 │  7 │ ⭐ │  9 │ 10 │
+│  4 │  5 │  6 │  7 │  8 │ ⭐ │ 10 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年1月8日
+🌟 今天是2026年1月9日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/1/8)
+## 📰 今日资讯 (2026/1/9)
 
 ### 🔥 GitHub 热门项目
-- [thedotmack / claude-mem](https://github.com/thedotmack / claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-- [google / googletest](https://github.com/google / googletest) - GoogleTest - Google Testing and Mocking Framework
-- [Lissy93 / web-check](https://github.com/Lissy93 / web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+- [ChromeDevTools / chrome-devtools-mcp](https://github.com/ChromeDevTools / chrome-devtools-mcp) - Chrome DevTools for coding agents
+- [anthropics / claude-code](https://github.com/anthropics / claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+- [nothings / stb](https://github.com/nothings / stb) - stb single-file public domain libraries for C/C++
 
 ### 📚 技术文章精选
-- [海光DCU部署全攻略：开箱、配置到AI训练的最佳实践｜2026工程化版本](https://blog.csdn.net/liu1983robin/article/details/156519047)
-- [RockyLinux 10 正式发布：更快、更稳、更安全、更AI！](https://blog.csdn.net/hnpmilgh/article/details/148600071)
-- [边缘AI：解锁终端设备的智能潜能](https://blog.csdn.net/IRpickstars/article/details/156681396)
+- [告别重复解释！手把手教你打造专属 AI 编程知识库](https://blog.csdn.net/leoisaking/article/details/155421871)
+- [DeepSeek深度起底：这家人工智能公司可能给代码打了玻尿酸？](https://blog.csdn.net/effort123_/article/details/147598351)
+- [AI IDE+AI辅助编程，真能让程序员“告别996“吗？](https://blog.csdn.net/2301_79139273/article/details/153139261)
 
 ### 🛡️ 安全资讯
-- [我与2025：这一年我走出了自己的节奏](https://cloud.tencent.com/developer/article/2611925)
-- [智能革命席卷全民：2026-2030人工智能十大趋势推演](https://cloud.tencent.com/developer/article/2611980)
-- [腾讯云大模型审校解决方案，让媒体内容生产“快”而“准”](https://cloud.tencent.com/developer/article/2612468)
+- [产品月报｜AI 工作台 SRE 数字分身支持前端性能监控资源、APM 应用拓扑功能增强...](https://cloud.tencent.com/developer/article/2612873)
+- [原创分享计划2026年1月特别激励活动](https://cloud.tencent.com/developer/article/2612556)
+- [还在 draw.io 里拖拖拽拽？让 AI 替你画架构图](https://cloud.tencent.com/developer/article/2612920)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
