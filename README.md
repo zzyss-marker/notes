@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │    │    │  1 │  2 │  3 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  4 │  5 │  6 │  7 │  8 │ ⭐ │ 10 │
+│  4 │  5 │  6 │  7 │  8 │  9 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年1月9日
+🌟 今天是2026年1月10日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/1/9)
+## 📰 今日资讯 (2026/1/10)
 
 ### 🔥 GitHub 热门项目
 - [ChromeDevTools / chrome-devtools-mcp](https://github.com/ChromeDevTools / chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [anthropics / claude-code](https://github.com/anthropics / claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- [nothings / stb](https://github.com/nothings / stb) - stb single-file public domain libraries for C/C++
+- [obra / superpowers](https://github.com/obra / superpowers) - Claude Code superpowers: core skills library
 
 ### 📚 技术文章精选
-- [告别重复解释！手把手教你打造专属 AI 编程知识库](https://blog.csdn.net/leoisaking/article/details/155421871)
-- [DeepSeek深度起底：这家人工智能公司可能给代码打了玻尿酸？](https://blog.csdn.net/effort123_/article/details/147598351)
-- [AI IDE+AI辅助编程，真能让程序员“告别996“吗？](https://blog.csdn.net/2301_79139273/article/details/153139261)
+- [最近使用AI工具的一些总结](https://blog.csdn.net/qq_42992876/article/details/154187576)
+- [从 Camera 到 NPU：一张图理解端侧多媒体 + AI 的数据流](https://blog.csdn.net/sinat_28461591/article/details/154578496)
+- [三步快速对接谷歌最新Gemini3教程：阿波罗AI+Cherry Studio](https://blog.csdn.net/lyztyycode/article/details/155034123)
 
 ### 🛡️ 安全资讯
-- [产品月报｜AI 工作台 SRE 数字分身支持前端性能监控资源、APM 应用拓扑功能增强...](https://cloud.tencent.com/developer/article/2612873)
 - [原创分享计划2026年1月特别激励活动](https://cloud.tencent.com/developer/article/2612556)
 - [还在 draw.io 里拖拖拽拽？让 AI 替你画架构图](https://cloud.tencent.com/developer/article/2612920)
+- [Kiro六大要义：重新定义 AI 时代的编程效率边界](https://cloud.tencent.com/developer/article/2612842)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
