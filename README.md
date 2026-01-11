@@ -32,9 +32,9 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │    │    │    │    │  1 │  2 │  3 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  4 │  5 │  6 │  7 │  8 │  9 │ ⭐ │
+│  4 │  5 │  6 │  7 │  8 │  9 │ 10 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │
+│ ⭐ │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年1月10日
+🌟 今天是2026年1月11日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/1/10)
+## 📰 今日资讯 (2026/1/11)
 
 ### 🔥 GitHub 热门项目
-- [ChromeDevTools / chrome-devtools-mcp](https://github.com/ChromeDevTools / chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [anthropics / claude-code](https://github.com/anthropics / claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- [obra / superpowers](https://github.com/obra / superpowers) - Claude Code superpowers: core skills library
+- [ChromeDevTools / chrome-devtools-mcp](https://github.com/ChromeDevTools / chrome-devtools-mcp) - Chrome DevTools for coding agents
+- [github / awesome-copilot](https://github.com/github / awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 
 ### 📚 技术文章精选
-- [最近使用AI工具的一些总结](https://blog.csdn.net/qq_42992876/article/details/154187576)
-- [从 Camera 到 NPU：一张图理解端侧多媒体 + AI 的数据流](https://blog.csdn.net/sinat_28461591/article/details/154578496)
-- [三步快速对接谷歌最新Gemini3教程：阿波罗AI+Cherry Studio](https://blog.csdn.net/lyztyycode/article/details/155034123)
+- [Java+AI：2025年开发者的技术融合与职业新机遇](https://blog.csdn.net/apq123456789/article/details/149180066)
+- [开源项目：Z-Image 轻量高效的开源 AI 图像生成模型](https://blog.csdn.net/lishangke/article/details/156142930)
+- [Qbot智能量化交易平台完整安装指南：从零开始部署你的AI投资助手](https://blog.csdn.net/gitblog_00381/article/details/155873498)
 
 ### 🛡️ 安全资讯
-- [原创分享计划2026年1月特别激励活动](https://cloud.tencent.com/developer/article/2612556)
-- [还在 draw.io 里拖拖拽拽？让 AI 替你画架构图](https://cloud.tencent.com/developer/article/2612920)
 - [Kiro六大要义：重新定义 AI 时代的编程效率边界](https://cloud.tencent.com/developer/article/2612842)
+- [AI 辅助重构 20 万行代码：渐进式重建代码秩序](https://cloud.tencent.com/developer/article/2612872)
+- [「我不是程序员」写给小白的Claude Code免费入门教程](https://cloud.tencent.com/developer/article/2612858)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
