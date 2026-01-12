@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  4 │  5 │  6 │  7 │  8 │  9 │ 10 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │
+│ 11 │ ⭐ │ 13 │ 14 │ 15 │ 16 │ 17 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年1月11日
+🌟 今天是2026年1月12日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,17 +111,17 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/1/11)
+## 📰 今日资讯 (2026/1/12)
 
 ### 🔥 GitHub 热门项目
-- [anthropics / claude-code](https://github.com/anthropics / claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- [ChromeDevTools / chrome-devtools-mcp](https://github.com/ChromeDevTools / chrome-devtools-mcp) - Chrome DevTools for coding agents
-- [github / awesome-copilot](https://github.com/github / awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
+- [anomalyco / opencode](https://github.com/anomalyco / opencode) - The open source coding agent.
+- [obra / superpowers](https://github.com/obra / superpowers) - Claude Code superpowers: core skills library
+- [frankbria / ralph-claude-code](https://github.com/frankbria / ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
 
 ### 📚 技术文章精选
-- [Java+AI：2025年开发者的技术融合与职业新机遇](https://blog.csdn.net/apq123456789/article/details/149180066)
-- [开源项目：Z-Image 轻量高效的开源 AI 图像生成模型](https://blog.csdn.net/lishangke/article/details/156142930)
-- [Qbot智能量化交易平台完整安装指南：从零开始部署你的AI投资助手](https://blog.csdn.net/gitblog_00381/article/details/155873498)
+- [AI数字人：繁荣背后的伦理困境与法律迷局（8/10）](https://blog.csdn.net/beautifulmemory/article/details/147504101)
+- [【AI智能体】Coze 打造专属定制国风图片智能体实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/154277724)
+- [AI数据饕餮与创意饥荒：初级开发者的生存手册——老程序员的搞笑指南](https://blog.csdn.net/qq_33650655/article/details/151085284)
 
 ### 🛡️ 安全资讯
 - [Kiro六大要义：重新定义 AI 时代的编程效率边界](https://cloud.tencent.com/developer/article/2612842)
@@ -132,5 +132,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
