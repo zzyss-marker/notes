@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  4 │  5 │  6 │  7 │  8 │  9 │ 10 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 11 │ 12 │ ⭐ │ 14 │ 15 │ 16 │ 17 │
+│ 11 │ 12 │ 13 │ ⭐ │ 15 │ 16 │ 17 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年1月13日
+🌟 今天是2026年1月14日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/1/13)
+## 📰 今日资讯 (2026/1/14)
 
 ### 🔥 GitHub 热门项目
-- [DioxusLabs / dioxus](https://github.com/DioxusLabs / dioxus) - Fullstack app framework for web, desktop, and mobile.
-- [NanmiCoder / MediaCrawler](https://github.com/NanmiCoder / MediaCrawler) - 小红书���记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
-- [frankbria / ralph-claude-code](https://github.com/frankbria / ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
+- [obra / superpowers](https://github.com/obra / superpowers) - Claude Code superpowers: core skills library
+- [icloud-photos-downloader / icloud_photos_downloader](https://github.com/icloud-photos-downloader / icloud_photos_downloader) - A command-line tool to download photos from iCloud
+- [blakeblackshear / frigate](https://github.com/blakeblackshear / frigate) - NVR with realtime local object detection for IP cameras
 
 ### 📚 技术文章精选
-- [数字化转型—AI+制造业的十大应用场景](https://blog.csdn.net/qq_40821260/article/details/153137085)
-- [(第四篇)Spring AI 核心技术攻坚：多轮对话与记忆机制，打造有上下文的 AI](https://blog.csdn.net/qq_40303030/article/details/154840362)
-- [建议收藏！2025年最好用的14个免费AI工具，包括DeepSeek、豆包、腾讯ima...(全是干货)](https://blog.csdn.net/qq_20124743/article/details/147573344)
+- [做了一块可以调用百度云语音识别api和tts api的esp32 s3开发板，支持跑ai小智机器人的源码，基于idf5.5.1库编译，分享下](https://blog.csdn.net/net3m33/article/details/156270511)
+- [【博客之星2025年度总评选】2025年度技术博客总结：从Python基础到AI前沿的进阶之旅](https://blog.csdn.net/weixin_44299027/article/details/156332409)
+- [论文效率革命：查下清AI（Paperii）全流程AI工具，正成为科研人的「隐形战友」](https://blog.csdn.net/2505_94495771/article/details/156432127)
 
 ### 🛡️ 安全资讯
-- [Claude Code中文教程：100%免费，从入门到精通](https://cloud.tencent.com/developer/article/2612856)
-- [Agent全面爆发！万字长文详解上下文工程](https://cloud.tencent.com/developer/article/2613127)
-- [当残差不再是直线：DeepSeek 的 mHC 如何把 Hyper-Connections 拉回稳定区](https://cloud.tencent.com/developer/article/2613515)
+- [如何画好一张架构图丨终极典藏版](https://cloud.tencent.com/developer/article/2614078)
+- [护航过半TOP 100银行！腾讯云稳守「年终决算」大考](https://cloud.tencent.com/developer/article/2614391)
+- [当风口退去：华创资本熊伟铭万字详解 2026中国科技产业走向](https://cloud.tencent.com/developer/article/2614392)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
