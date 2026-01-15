@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  4 │  5 │  6 │  7 │  8 │  9 │ 10 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 11 │ 12 │ 13 │ ⭐ │ 15 │ 16 │ 17 │
+│ 11 │ 12 │ 13 │ 14 │ ⭐ │ 16 │ 17 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年1月14日
+🌟 今天是2026年1月15日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/1/14)
+## 📰 今日资讯 (2026/1/15)
 
 ### 🔥 GitHub 热门项目
 - [obra / superpowers](https://github.com/obra / superpowers) - Claude Code superpowers: core skills library
-- [icloud-photos-downloader / icloud_photos_downloader](https://github.com/icloud-photos-downloader / icloud_photos_downloader) - A command-line tool to download photos from iCloud
-- [blakeblackshear / frigate](https://github.com/blakeblackshear / frigate) - NVR with realtime local object detection for IP cameras
+- [twitter / the-algorithm](https://github.com/twitter / the-algorithm) - Source code for the X Recommendation Algorithm
+- [dev-sec / ansible-collection-hardening](https://github.com/dev-sec / ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 
 ### 📚 技术文章精选
-- [做了一块可以调用百度云语音识别api和tts api的esp32 s3开发板，支持跑ai小智机器人的源码，基于idf5.5.1库编译，分享下](https://blog.csdn.net/net3m33/article/details/156270511)
-- [【博客之星2025年度总评选】2025年度技术博客总结：从Python基础到AI前沿的进阶之旅](https://blog.csdn.net/weixin_44299027/article/details/156332409)
-- [论文效率革命：查下清AI（Paperii）全流程AI工具，正成为科研人的「隐形战友」](https://blog.csdn.net/2505_94495771/article/details/156432127)
+- [体制内公文写作必看：20个去“AI味”的DeepSeek指令(附示例)](https://blog.csdn.net/AIcailiaoxing/article/details/147798281)
+- [AI大模型学习之基础数学：正态分布-AI大模型中的概率统计基石](https://blog.csdn.net/martian665/article/details/147768768)
+- [科研利器！斯坦福大学力荐的五款学术搜索AI大模型，文献检索与深度综述一网打尽！](https://blog.csdn.net/2401_84495872/article/details/148743304)
 
 ### 🛡️ 安全资讯
-- [如何画好一张架构图丨终极典藏版](https://cloud.tencent.com/developer/article/2614078)
-- [护航过半TOP 100银行！腾讯云稳守「年终决算」大考](https://cloud.tencent.com/developer/article/2614391)
-- [当风口退去：华创资本熊伟铭万字详解 2026中国科技产业走向](https://cloud.tencent.com/developer/article/2614392)
+- [云直播2026开年焕新：AI加持，体验升级，全球视野再进阶！](https://cloud.tencent.com/developer/article/2615200)
+- [黄仁勋、杨元庆，给人工智能划了两个重点丨2026 CES观察](https://cloud.tencent.com/developer/article/2616192)
+- [Vibe Coding 提示词优化的四个实战策略](https://cloud.tencent.com/developer/article/2616212)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
