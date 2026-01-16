@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  4 │  5 │  6 │  7 │  8 │  9 │ 10 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 11 │ 12 │ 13 │ 14 │ ⭐ │ 16 │ 17 │
+│ 11 │ 12 │ 13 │ 14 │ 15 │ ⭐ │ 17 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年1月15日
+🌟 今天是2026年1月16日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/1/15)
+## 📰 今日资讯 (2026/1/16)
 
 ### 🔥 GitHub 热门项目
-- [obra / superpowers](https://github.com/obra / superpowers) - Claude Code superpowers: core skills library
-- [twitter / the-algorithm](https://github.com/twitter / the-algorithm) - Source code for the X Recommendation Algorithm
-- [dev-sec / ansible-collection-hardening](https://github.com/dev-sec / ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
+- [eigent-ai / eigent](https://github.com/eigent-ai / eigent) - Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
+- [blakeblackshear / frigate](https://github.com/blakeblackshear / frigate) - NVR with realtime local object detection for IP cameras
+- [obra / superpowers](https://github.com/obra / superpowers) - An agentic skills framework & software development methodology that works.
 
 ### 📚 技术文章精选
-- [体制内公文写作必看：20个去“AI味”的DeepSeek指令(附示例)](https://blog.csdn.net/AIcailiaoxing/article/details/147798281)
-- [AI大模型学习之基础数学：正态分布-AI大模型中的概率统计基石](https://blog.csdn.net/martian665/article/details/147768768)
-- [科研利器！斯坦福大学力荐的五款学术搜索AI大模型，文献检索与深度综述一网打尽！](https://blog.csdn.net/2401_84495872/article/details/148743304)
+- [Anthropic「Skills」是什么？——面向 AI 的“插件生态”（一）](https://blog.csdn.net/sinat_26917383/article/details/156391137)
+- [Trae Solo+豆包Version1.6+Seedream4.0打造“AI识菜通“](https://blog.csdn.net/IRpickstars/article/details/152893509)
+- [基于模型上下文协议（MCP）的可插拔式临床AI工具链Clinical DS研究（下）](https://blog.csdn.net/kkiron/article/details/155964826)
 
 ### 🛡️ 安全资讯
-- [云直播2026开年焕新：AI加持，体验升级，全球视野再进阶！](https://cloud.tencent.com/developer/article/2615200)
-- [黄仁勋、杨元庆，给人工智能划了两个重点丨2026 CES观察](https://cloud.tencent.com/developer/article/2616192)
-- [Vibe Coding 提示词优化的四个实战策略](https://cloud.tencent.com/developer/article/2616212)
+- [LLM推理中 KVCache 提示推理效率的几点应用](https://cloud.tencent.com/developer/article/2617703)
+- [智效跃迁，架构无界，第三届腾讯云架构师峰会圆满落幕！](https://cloud.tencent.com/developer/article/2617660)
+- [提示词技巧分享：一劳永逸版！](https://cloud.tencent.com/developer/article/2617667)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
