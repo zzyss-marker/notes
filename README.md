@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  4 │  5 │  6 │  7 │  8 │  9 │ 10 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 11 │ 12 │ 13 │ 14 │ 15 │ ⭐ │ 17 │
+│ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年1月16日
+🌟 今天是2026年1月17日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/1/16)
+## 📰 今日资讯 (2026/1/17)
 
 ### 🔥 GitHub 热门项目
-- [eigent-ai / eigent](https://github.com/eigent-ai / eigent) - Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
-- [blakeblackshear / frigate](https://github.com/blakeblackshear / frigate) - NVR with realtime local object detection for IP cameras
 - [obra / superpowers](https://github.com/obra / superpowers) - An agentic skills framework & software development methodology that works.
+- [Gentleman-Programming / Gentleman.Dots](https://github.com/Gentleman-Programming / Gentleman.Dots) - My personal configuration for LazyVim !
+- [google / langextract](https://github.com/google / langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 
 ### 📚 技术文章精选
-- [Anthropic「Skills」是什么？——面向 AI 的“插件生态”（一）](https://blog.csdn.net/sinat_26917383/article/details/156391137)
-- [Trae Solo+豆包Version1.6+Seedream4.0打造“AI识菜通“](https://blog.csdn.net/IRpickstars/article/details/152893509)
-- [基于模型上下文协议（MCP）的可插拔式临床AI工具链Clinical DS研究（下）](https://blog.csdn.net/kkiron/article/details/155964826)
+- [Resemble AI发布开源语音模型Chatterbox Turbo：让语音助手不再像个机器人](https://blog.csdn.net/linshantang/article/details/156576365)
+- [AIGC时代——语义化AI驱动器：提示词的未来图景与技术深潜](https://blog.csdn.net/qq_32682301/article/details/147687218)
+- [openEuler在AI图像分类场景下的性能深度评测与优化实践](https://blog.csdn.net/weixin_37800531/article/details/155542297)
 
 ### 🛡️ 安全资讯
-- [LLM推理中 KVCache 提示推理效率的几点应用](https://cloud.tencent.com/developer/article/2617703)
-- [智效跃迁，架构无界，第三届腾讯云架构师峰会圆满落幕！](https://cloud.tencent.com/developer/article/2617660)
-- [提示词技巧分享：一劳永逸版！](https://cloud.tencent.com/developer/article/2617667)
+- [2026大模型伦理深度观察：理解AI、信任AI、与AI共处](https://cloud.tencent.com/developer/article/2617924)
+- [腾讯云架构师北京同盟资源导航](https://cloud.tencent.com/developer/article/2617814)
+- [银行 SRE 模式：推广实用策略盘点](https://cloud.tencent.com/developer/article/2617922)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
