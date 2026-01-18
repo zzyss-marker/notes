@@ -34,9 +34,9 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  4 │  5 │  6 │  7 │  8 │  9 │ 10 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │ ⭐ │
+│ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │
+│ ⭐ │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 25 │ 26 │ 27 │ 28 │ 29 │ 30 │ 31 │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年1月17日
+🌟 今天是2026年1月18日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/1/17)
+## 📰 今日资讯 (2026/1/18)
 
 ### 🔥 GitHub 热门项目
+- [eigent-ai / eigent](https://github.com/eigent-ai / eigent) - Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
 - [obra / superpowers](https://github.com/obra / superpowers) - An agentic skills framework & software development methodology that works.
-- [Gentleman-Programming / Gentleman.Dots](https://github.com/Gentleman-Programming / Gentleman.Dots) - My personal configuration for LazyVim !
-- [google / langextract](https://github.com/google / langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+- [puckeditor / puck](https://github.com/puckeditor / puck) - The visual editor for React with AI superpowers
 
 ### 📚 技术文章精选
-- [Resemble AI发布开源语音模型Chatterbox Turbo：让语音助手不再像个机器人](https://blog.csdn.net/linshantang/article/details/156576365)
-- [AIGC时代——语义化AI驱动器：提示词的未来图景与技术深潜](https://blog.csdn.net/qq_32682301/article/details/147687218)
-- [openEuler在AI图像分类场景下的性能深度评测与优化实践](https://blog.csdn.net/weixin_37800531/article/details/155542297)
+- [你的硬盘和 AI 的内存有什么区别？一文读懂全球存储芯片格局（GPU NAND Flash DRAM HBM ）](https://blog.csdn.net/weixin_48979633/article/details/156610816)
+- [彻底摆脱API依赖：OpenCode本地AI模型配置全攻略](https://blog.csdn.net/gitblog_00903/article/details/153712449)
+- [AI接管浏览器：Claude Code+Chrome MCP自动化完全指南](https://blog.csdn.net/apo0625/article/details/151048511)
 
 ### 🛡️ 安全资讯
-- [2026大模型伦理深度观察：理解AI、信任AI、与AI共处](https://cloud.tencent.com/developer/article/2617924)
 - [腾讯云架构师北京同盟资源导航](https://cloud.tencent.com/developer/article/2617814)
 - [银行 SRE 模式：推广实用策略盘点](https://cloud.tencent.com/developer/article/2617922)
+- [如何写好 TAPD 需求单（AI辅助版）](https://cloud.tencent.com/developer/article/2617907)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
