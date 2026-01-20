@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 18 │ ⭐ │ 20 │ 21 │ 22 │ 23 │ 24 │
+│ 18 │ 19 │ ⭐ │ 21 │ 22 │ 23 │ 24 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 25 │ 26 │ 27 │ 28 │ 29 │ 30 │ 31 │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年1月19日
+🌟 今天是2026年1月20日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/1/19)
+## 📰 今日资讯 (2026/1/20)
 
 ### 🔥 GitHub 热门项目
+- [OpenBMB / VoxCPM](https://github.com/OpenBMB / VoxCPM) - VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning
+- [google / langextract](https://github.com/google / langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [iOfficeAI / AionUi](https://github.com/iOfficeAI / AionUi) - Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!
-- [yt-dlp / yt-dlp](https://github.com/yt-dlp / yt-dlp) - A feature-rich command-line audio/video downloader
-- [nautechsystems / nautilus_trader](https://github.com/nautechsystems / nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
 
 ### 📚 技术文章精选
-- [【AI大模型前沿】MedReason：大规模医学推理数据集、借用知识图谱将大模型打造成医术专家](https://blog.csdn.net/xiaobing259/article/details/147877622)
-- [【保姆级教程】10分钟把手机变成AI Agent：自动刷课、回消息，学不会我“退网”！](https://blog.csdn.net/lwcwam/article/details/156805782)
-- [新一代 AI 编程助手：Trae 插件全方位解析，让开发效率翻倍](https://blog.csdn.net/m0_64125549/article/details/155523025)
+- [脉脉独家【AI创作者xAMA】｜当豆包手机遭遇“全网封杀”：AI学会操作手机，我们的饭碗还保得住吗？](https://blog.csdn.net/2503_91389547/article/details/156123101)
+- [Antigravity 上手指南：打造 VS Code 风格的 AI IDE](https://blog.csdn.net/weixin_38754564/article/details/155117975)
+- [【人工智能】Transformers之Pipeline（二十二）：零样本文本分类（zero-shot-classification）](https://blog.csdn.net/weixin_48007632/article/details/143573526)
 
 ### 🛡️ 安全资讯
-- [银行 SRE 模式：推广实用策略盘点](https://cloud.tencent.com/developer/article/2617922)
-- [如何写好 TAPD 需求单（AI辅助版）](https://cloud.tencent.com/developer/article/2617907)
-- [2026大模型伦理深度观察：理解AI、信任AI、与AI共处](https://cloud.tencent.com/developer/article/2617924)
+- [什么是技术架构、数据架构、业务架构、应用架构和代码架构？](https://cloud.tencent.com/developer/article/2618587)
+- [Anthropic发布Cowork，普通人的Agent大航海时代来了！](https://cloud.tencent.com/developer/article/2618604)
+- [OpenCode 打造快速知识性总结实践](https://cloud.tencent.com/developer/article/2618791)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
