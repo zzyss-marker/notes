@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 18 │ 19 │ ⭐ │ 21 │ 22 │ 23 │ 24 │
+│ 18 │ 19 │ 20 │ ⭐ │ 22 │ 23 │ 24 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 25 │ 26 │ 27 │ 28 │ 29 │ 30 │ 31 │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年1月20日
+🌟 今天是2026年1月21日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/1/20)
+## 📰 今日资讯 (2026/1/21)
 
 ### 🔥 GitHub 热门项目
-- [OpenBMB / VoxCPM](https://github.com/OpenBMB / VoxCPM) - VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning
-- [google / langextract](https://github.com/google / langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+- [microsoft / agent-lightning](https://github.com/microsoft / agent-lightning) - The absolute trainer to light up AI agents.
 - [iOfficeAI / AionUi](https://github.com/iOfficeAI / AionUi) - Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!
+- [google / langextract](https://github.com/google / langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 
 ### 📚 技术文章精选
-- [脉脉独家【AI创作者xAMA】｜当豆包手机遭遇“全网封杀”：AI学会操作手机，我们的饭碗还保得住吗？](https://blog.csdn.net/2503_91389547/article/details/156123101)
-- [Antigravity 上手指南：打造 VS Code 风格的 AI IDE](https://blog.csdn.net/weixin_38754564/article/details/155117975)
-- [【人工智能】Transformers之Pipeline（二十二）：零样本文本分类（zero-shot-classification）](https://blog.csdn.net/weixin_48007632/article/details/143573526)
+- [【后端】【工具】从 “Vibe PPT“ 到 “蕉幻“：一个原生 AI PPT 生成应用的深度解析](https://blog.csdn.net/xiezhiyi007/article/details/156027961)
+- [人工智能从入门到精通：神经网络优化策略与工程实践](https://blog.csdn.net/xcLeigh/article/details/156895413)
+- [CNNIC 2025 生成式 AI 报告深度解读：技术突破、应用落地与开发者机遇](https://blog.csdn.net/weixin_67440240/article/details/155942080)
 
 ### 🛡️ 安全资讯
-- [什么是技术架构、数据架构、业务架构、应用架构和代码架构？](https://cloud.tencent.com/developer/article/2618587)
-- [Anthropic发布Cowork，普通人的Agent大航海时代来了！](https://cloud.tencent.com/developer/article/2618604)
-- [OpenCode 打造快速知识性总结实践](https://cloud.tencent.com/developer/article/2618791)
+- [双料第一！腾讯专有云位列中国专有云市场领导者](https://cloud.tencent.com/developer/article/2619316)
+- [腾讯云架构师技术同盟×腾讯云智能顾问「卓越架构师计划」最佳实践合集](https://cloud.tencent.com/developer/article/2619315)
+- [Elasticsearch 搜索实战 | 告别 LIKE：亿级数据毫秒返回的秘密](https://cloud.tencent.com/developer/article/2618949)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
