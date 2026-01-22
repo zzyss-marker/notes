@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 18 │ 19 │ 20 │ ⭐ │ 22 │ 23 │ 24 │
+│ 18 │ 19 │ 20 │ 21 │ ⭐ │ 23 │ 24 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 25 │ 26 │ 27 │ 28 │ 29 │ 30 │ 31 │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年1月21日
+🌟 今天是2026年1月22日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/1/21)
+## 📰 今日资讯 (2026/1/22)
 
 ### 🔥 GitHub 热门项目
-- [microsoft / agent-lightning](https://github.com/microsoft / agent-lightning) - The absolute trainer to light up AI agents.
-- [iOfficeAI / AionUi](https://github.com/iOfficeAI / AionUi) - Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!
-- [google / langextract](https://github.com/google / langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+- [tambo-ai / tambo](https://github.com/tambo-ai / tambo) - Generative UI SDK for React
+- [EveryInc / compound-engineering-plugin](https://github.com/EveryInc / compound-engineering-plugin) - Official Claude Code compound engineering plugin
+- [twitter / the-algorithm](https://github.com/twitter / the-algorithm) - Source code for the X Recommendation Algorithm
 
 ### 📚 技术文章精选
-- [【后端】【工具】从 “Vibe PPT“ 到 “蕉幻“：一个原生 AI PPT 生成应用的深度解析](https://blog.csdn.net/xiezhiyi007/article/details/156027961)
-- [人工智能从入门到精通：神经网络优化策略与工程实践](https://blog.csdn.net/xcLeigh/article/details/156895413)
-- [CNNIC 2025 生成式 AI 报告深度解读：技术突破、应用落地与开发者机遇](https://blog.csdn.net/weixin_67440240/article/details/155942080)
+- [【毕业设计选题】深度学习与YOLO人工智能毕设选题大全攻略（附源代码+设计报告+讲解+定制的）](https://blog.csdn.net/xuejunlw/article/details/155738565)
+- [（第六篇）Spring AI 核心技术攻坚：多模态模型集成与全场景落地实战](https://blog.csdn.net/qq_40303030/article/details/155783338)
+- [专利相关链接（AI辅助）](https://blog.csdn.net/jiuvyt/article/details/146197807)
 
 ### 🛡️ 安全资讯
-- [双料第一！腾讯专有云位列中国专有云市场领导者](https://cloud.tencent.com/developer/article/2619316)
-- [腾讯云架构师技术同盟×腾讯云智能顾问「卓越架构师计划」最佳实践合集](https://cloud.tencent.com/developer/article/2619315)
+- [给大模型配一本“速查手册”：DeepSeek 的 Engram 到底解决了什么问题？](https://cloud.tencent.com/developer/article/2618889)
 - [Elasticsearch 搜索实战 | 告别 LIKE：亿级数据毫秒返回的秘密](https://cloud.tencent.com/developer/article/2618949)
+- [2026 年 AI 趋势深度研究报告 - by AnyGen](https://cloud.tencent.com/developer/article/2619310)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
