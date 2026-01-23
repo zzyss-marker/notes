@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 18 │ 19 │ 20 │ 21 │ ⭐ │ 23 │ 24 │
+│ 18 │ 19 │ 20 │ 21 │ 22 │ ⭐ │ 24 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 25 │ 26 │ 27 │ 28 │ 29 │ 30 │ 31 │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年1月22日
+🌟 今天是2026年1月23日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/1/22)
+## 📰 今日资讯 (2026/1/23)
 
 ### 🔥 GitHub 热门项目
-- [tambo-ai / tambo](https://github.com/tambo-ai / tambo) - Generative UI SDK for React
-- [EveryInc / compound-engineering-plugin](https://github.com/EveryInc / compound-engineering-plugin) - Official Claude Code compound engineering plugin
+- [remotion-dev / remotion](https://github.com/remotion-dev / remotion) - 🎥 Make videos programmatically with React
+- [block / goose](https://github.com/block / goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [twitter / the-algorithm](https://github.com/twitter / the-algorithm) - Source code for the X Recommendation Algorithm
 
 ### 📚 技术文章精选
-- [【毕业设计选题】深度学习与YOLO人工智能毕设选题大全攻略（附源代码+设计报告+讲解+定制的）](https://blog.csdn.net/xuejunlw/article/details/155738565)
-- [（第六篇）Spring AI 核心技术攻坚：多模态模型集成与全场景落地实战](https://blog.csdn.net/qq_40303030/article/details/155783338)
-- [专利相关链接（AI辅助）](https://blog.csdn.net/jiuvyt/article/details/146197807)
+- [小智 AI 实现原理揭秘：从低功耗芯片到云端智能大脑的完美协作](https://blog.csdn.net/qq8864/article/details/153878299)
+- [豆包新模型与 PromptPilot 实操体验测评，AI 辅助创作的新范式探索](https://blog.csdn.net/beautifulmemory/article/details/149882342)
+- [职场进阶&AI创作双buff！脉脉平台全解析+【AI创作者xAMA】活动指南](https://blog.csdn.net/2401_86326742/article/details/156193068)
 
 ### 🛡️ 安全资讯
-- [给大模型配一本“速查手册”：DeepSeek 的 Engram 到底解决了什么问题？](https://cloud.tencent.com/developer/article/2618889)
-- [Elasticsearch 搜索实战 | 告别 LIKE：亿级数据毫秒返回的秘密](https://cloud.tencent.com/developer/article/2618949)
-- [2026 年 AI 趋势深度研究报告 - by AnyGen](https://cloud.tencent.com/developer/article/2619310)
+- [腾讯云ADP国内首发AI原生Widget：一句话秒级生成交互组件，重塑Agent使用体验](https://cloud.tencent.com/developer/article/2620076)
+- [期货行业走进腾讯，共同探讨 CTP 核心系统与 TDSQL 数据库落地实践](https://cloud.tencent.com/developer/article/2620572)
+- [finLLM-Eval大模型金融场景幻觉专业评测方案](https://cloud.tencent.com/developer/article/2620571)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
