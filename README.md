@@ -36,16 +36,16 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 11 │ 12 │ 13 │ 14 │ 15 │ 16 │ 17 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │ ⭐ │
+│ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 25 │ 26 │ 27 │ 28 │ 29 │ 30 │ 31 │
+│ ⭐ │ 26 │ 27 │ 28 │ 29 │ 30 │ 31 │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年1月24日
+🌟 今天是2026年1月25日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,20 +111,20 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/1/24)
+## 📰 今日资讯 (2026/1/25)
 
 ### 🔥 GitHub 热门项目
 - [remotion-dev / remotion](https://github.com/remotion-dev / remotion) - 🎥 Make videos programmatically with React
-- [microsoft / VibeVoice](https://github.com/microsoft / VibeVoice) - Open-Source Frontier Voice AI
-- [block / goose](https://github.com/block / goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [VectifyAI / PageIndex](https://github.com/VectifyAI / PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+- [OpenBMB / UltraRAG](https://github.com/OpenBMB / UltraRAG) - UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
 
 ### 📚 技术文章精选
-- [人工智能的“巨脑”：AI大模型的崛起、影响与未来](https://blog.csdn.net/fyy31/article/details/156193184)
-- [AI 对话高效输入指令攻略（四）：AI+Apache ECharts：生成各种专业图表](https://blog.csdn.net/Pocker_Spades_A/article/details/149937054)
-- [写在前面：为什么你用了这么多 AI，却依然没变强？](https://blog.csdn.net/m0_37482190/article/details/156910106)
+- [【粉丝福利社】人人都是AI程序员：TRAE+Cursor从0到1全栈实战](https://blog.csdn.net/aa2528877987/article/details/157257549)
+- [AI 的智能体专栏：手把手教你用百宝箱，打造专属文生图智能体幻绘精灵](https://blog.csdn.net/weixin_43151418/article/details/150524257)
+- [【OpenAI 把 AI 玩明白了】：自主推理 + 动态知识图谱，这 4 个技术突破要颠覆行业](https://blog.csdn.net/user340/article/details/156544118)
 
 ### 🛡️ 安全资讯
-- [巨人网络 X 腾讯云：2500万次AI对局！《超自然行动组》推动AI原生玩法规模化落地](https://cloud.tencent.com/developer/article/2621008)
+- [万字详解大模型应用发展：RAG、MCP、Agent的爆发之旅](https://cloud.tencent.com/developer/article/2620562)
 - [Elasticsearch 搜索实战 | 为啥非要把"表"叫"索引"？这设计绝了](https://cloud.tencent.com/developer/article/2620748)
 - [AI发现的25个好故事](https://cloud.tencent.com/developer/article/2621700)
 
