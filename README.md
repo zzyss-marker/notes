@@ -38,14 +38,14 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │ 26 │ 27 │ 28 │ 29 │ 30 │ 31 │
+│ 25 │ ⭐ │ 27 │ 28 │ 29 │ 30 │ 31 │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年1月25日
+🌟 今天是2026年1月26日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/1/25)
+## 📰 今日资讯 (2026/1/26)
 
 ### 🔥 GitHub 热门项目
-- [remotion-dev / remotion](https://github.com/remotion-dev / remotion) - 🎥 Make videos programmatically with React
+- [Blaizzy / mlx-audio](https://github.com/Blaizzy / mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
 - [VectifyAI / PageIndex](https://github.com/VectifyAI / PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-- [OpenBMB / UltraRAG](https://github.com/OpenBMB / UltraRAG) - UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
+- [remotion-dev / remotion](https://github.com/remotion-dev / remotion) - 🎥 Make videos programmatically with React
 
 ### 📚 技术文章精选
-- [【粉丝福利社】人人都是AI程序员：TRAE+Cursor从0到1全栈实战](https://blog.csdn.net/aa2528877987/article/details/157257549)
-- [AI 的智能体专栏：手把手教你用百宝箱，打造专属文生图智能体幻绘精灵](https://blog.csdn.net/weixin_43151418/article/details/150524257)
-- [【OpenAI 把 AI 玩明白了】：自主推理 + 动态知识图谱，这 4 个技术突破要颠覆行业](https://blog.csdn.net/user340/article/details/156544118)
+- [【开源】基于DINOv3的以图搜图系统，告别手动翻图！AI帮你一秒找到相似图片](https://blog.csdn.net/qq_42589613/article/details/156449292)
+- [【人工智能】Transformers之Pipeline（十八）：文本生成（text-generation）](https://blog.csdn.net/weixin_48007632/article/details/142214070)
+- [终极免费AI桌面应用Chatbox完整使用指南：快速上手与高效配置](https://blog.csdn.net/gitblog_00254/article/details/156178692)
 
 ### 🛡️ 安全资讯
 - [万字详解大模型应用发展：RAG、MCP、Agent的爆发之旅](https://cloud.tencent.com/developer/article/2620562)
-- [Elasticsearch 搜索实战 | 为啥非要把"表"叫"索引"？这设计绝了](https://cloud.tencent.com/developer/article/2620748)
 - [AI发现的25个好故事](https://cloud.tencent.com/developer/article/2621700)
+- [新春氛围担当，“财神驾到”小游戏，轻松解锁直播流量密码](https://cloud.tencent.com/developer/article/2621958)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
