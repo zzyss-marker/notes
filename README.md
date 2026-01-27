@@ -38,14 +38,14 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 25 │ ⭐ │ 27 │ 28 │ 29 │ 30 │ 31 │
+│ 25 │ 26 │ ⭐ │ 28 │ 29 │ 30 │ 31 │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年1月26日
+🌟 今天是2026年1月27日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/1/26)
+## 📰 今日资讯 (2026/1/27)
 
 ### 🔥 GitHub 热门项目
 - [Blaizzy / mlx-audio](https://github.com/Blaizzy / mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
 - [VectifyAI / PageIndex](https://github.com/VectifyAI / PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-- [remotion-dev / remotion](https://github.com/remotion-dev / remotion) - 🎥 Make videos programmatically with React
+- [supermemoryai / supermemory](https://github.com/supermemoryai / supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
 
 ### 📚 技术文章精选
-- [【开源】基于DINOv3的以图搜图系统，告别手动翻图！AI帮你一秒找到相似图片](https://blog.csdn.net/qq_42589613/article/details/156449292)
-- [【人工智能】Transformers之Pipeline（十八）：文本生成（text-generation）](https://blog.csdn.net/weixin_48007632/article/details/142214070)
-- [终极免费AI桌面应用Chatbox完整使用指南：快速上手与高效配置](https://blog.csdn.net/gitblog_00254/article/details/156178692)
+- [【2025】VSCode终极AI插件清单：一键生成完整项目的革命性工作流（实战测评）](https://blog.csdn.net/cainiao080605/article/details/148824343)
+- [从0到1：Dify AI智能体部署与使用全攻略（1/6）](https://blog.csdn.net/beautifulmemory/article/details/148643018)
+- [医疗AI语义潜空间分析研究：进展与应用](https://blog.csdn.net/kkiron/article/details/149693130)
 
 ### 🛡️ 安全资讯
-- [万字详解大模型应用发展：RAG、MCP、Agent的爆发之旅](https://cloud.tencent.com/developer/article/2620562)
-- [AI发现的25个好故事](https://cloud.tencent.com/developer/article/2621700)
-- [新春氛围担当，“财神驾到”小游戏，轻松解锁直播流量密码](https://cloud.tencent.com/developer/article/2621958)
+- [腾讯技术面：数据库核心八股终极典藏版](https://cloud.tencent.com/developer/article/2622218)
+- [反思软件工程，超越Vibe Coding](https://cloud.tencent.com/developer/article/2621957)
+- [Windows系统SSD磁盘显示为HDD](https://cloud.tencent.com/developer/article/2622311)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
