@@ -38,14 +38,14 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 25 │ 26 │ ⭐ │ 28 │ 29 │ 30 │ 31 │
+│ 25 │ 26 │ 27 │ ⭐ │ 29 │ 30 │ 31 │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年1月27日
+🌟 今天是2026年1月28日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/1/27)
+## 📰 今日资讯 (2026/1/28)
 
 ### 🔥 GitHub 热门项目
-- [Blaizzy / mlx-audio](https://github.com/Blaizzy / mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
-- [VectifyAI / PageIndex](https://github.com/VectifyAI / PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+- [badlogic / pi-mono](https://github.com/badlogic / pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [supermemoryai / supermemory](https://github.com/supermemoryai / supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+- [Blaizzy / mlx-audio](https://github.com/Blaizzy / mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
 
 ### 📚 技术文章精选
-- [【2025】VSCode终极AI插件清单：一键生成完整项目的革命性工作流（实战测评）](https://blog.csdn.net/cainiao080605/article/details/148824343)
-- [从0到1：Dify AI智能体部署与使用全攻略（1/6）](https://blog.csdn.net/beautifulmemory/article/details/148643018)
-- [医疗AI语义潜空间分析研究：进展与应用](https://blog.csdn.net/kkiron/article/details/149693130)
+- [基于AI的智能开发环境—Trae在Web开发中的应用实战与性能评估【Trae项目实战】](https://blog.csdn.net/weixin_52908342/article/details/145775367)
+- [AI的提示词专栏：“Temperature” 与 “Top-P” 参数对 Prompt 结果的影响](https://blog.csdn.net/weixin_43151418/article/details/153318087)
+- [SimpleMem：让AI智能体拥有“过目不忘“的高效记忆系统](https://blog.csdn.net/shibing624/article/details/156772393)
 
 ### 🛡️ 安全资讯
-- [腾讯技术面：数据库核心八股终极典藏版](https://cloud.tencent.com/developer/article/2622218)
-- [反思软件工程，超越Vibe Coding](https://cloud.tencent.com/developer/article/2621957)
-- [Windows系统SSD磁盘显示为HDD](https://cloud.tencent.com/developer/article/2622311)
+- [【运维自动化-标准运维】如何创建循环流程](https://cloud.tencent.com/developer/article/2622907)
+- [腾讯云ADP升级：做深平台、做厚内容、做强应用，构筑Agent产业合作新生态](https://cloud.tencent.com/developer/article/2622940)
+- [让吐槽有回声，把热爱变成共创：腾讯云TDP这一年](https://cloud.tencent.com/developer/article/2622921)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
