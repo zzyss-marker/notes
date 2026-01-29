@@ -38,14 +38,14 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 25 │ 26 │ 27 │ ⭐ │ 29 │ 30 │ 31 │
+│ 25 │ 26 │ 27 │ 28 │ ⭐ │ 30 │ 31 │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年1月28日
+🌟 今天是2026年1月29日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/1/28)
+## 📰 今日资讯 (2026/1/29)
 
 ### 🔥 GitHub 热门项目
+- [moltbot / moltbot](https://github.com/moltbot / moltbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [badlogic / pi-mono](https://github.com/badlogic / pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
-- [supermemoryai / supermemory](https://github.com/supermemoryai / supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
-- [Blaizzy / mlx-audio](https://github.com/Blaizzy / mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
+- [hashicorp / vault](https://github.com/hashicorp / vault) - A tool for secrets management, encryption as a service, and privileged access management
 
 ### 📚 技术文章精选
-- [基于AI的智能开发环境—Trae在Web开发中的应用实战与性能评估【Trae项目实战】](https://blog.csdn.net/weixin_52908342/article/details/145775367)
-- [AI的提示词专栏：“Temperature” 与 “Top-P” 参数对 Prompt 结果的影响](https://blog.csdn.net/weixin_43151418/article/details/153318087)
-- [SimpleMem：让AI智能体拥有“过目不忘“的高效记忆系统](https://blog.csdn.net/shibing624/article/details/156772393)
+- [AI管家如何实现100%准确的智能助手开发](https://blog.csdn.net/AgatePanther34/article/details/156628446)
+- [学习SpringAI这一篇就够了](https://blog.csdn.net/weixin_44147535/article/details/148928790)
+- [AI 模型高效化：推理加速与训练优化的技术原理与理论解析](https://blog.csdn.net/deepever/article/details/147309404)
 
 ### 🛡️ 安全资讯
-- [【运维自动化-标准运维】如何创建循环流程](https://cloud.tencent.com/developer/article/2622907)
-- [腾讯云ADP升级：做深平台、做厚内容、做强应用，构筑Agent产业合作新生态](https://cloud.tencent.com/developer/article/2622940)
-- [让吐槽有回声，把热爱变成共创：腾讯云TDP这一年](https://cloud.tencent.com/developer/article/2622921)
+- [【数据湖仓】腾讯云发布面向AI的数据湖方案：TCLake+EMR打造AI-Ready数据底座](https://cloud.tencent.com/developer/article/2623822)
+- [港科大熊辉｜AI时代的职场新坐标——为什么你应该去"数据稀疏"的地方?](https://cloud.tencent.com/developer/article/2623821)
+- [卸载WinDefend报错：The referenced assembly could not be found. Error: 0x80073701](https://cloud.tencent.com/developer/article/2623883)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
