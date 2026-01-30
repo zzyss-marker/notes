@@ -38,14 +38,14 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 18 │ 19 │ 20 │ 21 │ 22 │ 23 │ 24 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 25 │ 26 │ 27 │ 28 │ ⭐ │ 30 │ 31 │
+│ 25 │ 26 │ 27 │ 28 │ 29 │ ⭐ │ 31 │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年1月29日
+🌟 今天是2026年1月30日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/1/29)
+## 📰 今日资讯 (2026/1/30)
 
 ### 🔥 GitHub 热门项目
 - [moltbot / moltbot](https://github.com/moltbot / moltbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-- [badlogic / pi-mono](https://github.com/badlogic / pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
-- [hashicorp / vault](https://github.com/hashicorp / vault) - A tool for secrets management, encryption as a service, and privileged access management
+- [asgeirtj / system_prompts_leaks](https://github.com/asgeirtj / system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+- [MoonshotAI / kimi-cli](https://github.com/MoonshotAI / kimi-cli) - Kimi Code CLI is your next CLI agent.
 
 ### 📚 技术文章精选
-- [AI管家如何实现100%准确的智能助手开发](https://blog.csdn.net/AgatePanther34/article/details/156628446)
-- [学习SpringAI这一篇就够了](https://blog.csdn.net/weixin_44147535/article/details/148928790)
-- [AI 模型高效化：推理加速与训练优化的技术原理与理论解析](https://blog.csdn.net/deepever/article/details/147309404)
+- [猫头虎AI分享｜一款智能量化交易系统：QuantCell，从数据收集到策略执行全流程自动化](https://blog.csdn.net/qq_44866828/article/details/150503527)
+- [脉脉独家【AI创作者xAMA】| 开启智能创作新时代](https://blog.csdn.net/2503_91389547/article/details/156653392)
+- [机器学习065:深度学习【模型框架】PyTorch vs TensorFlow：给初学者的AI框架选择指南](https://blog.csdn.net/weixin_38526314/article/details/156422378)
 
 ### 🛡️ 安全资讯
-- [【数据湖仓】腾讯云发布面向AI的数据湖方案：TCLake+EMR打造AI-Ready数据底座](https://cloud.tencent.com/developer/article/2623822)
-- [港科大熊辉｜AI时代的职场新坐标——为什么你应该去"数据稀疏"的地方?](https://cloud.tencent.com/developer/article/2623821)
-- [卸载WinDefend报错：The referenced assembly could not be found. Error: 0x80073701](https://cloud.tencent.com/developer/article/2623883)
+- [腾讯云架构师技术同盟成长值体系：伴您从学习探索到被看见](https://cloud.tencent.com/developer/article/2625145)
+- [EdgeOne DDoS 高防服务正式上线，企业级安全防护触手可及！](https://cloud.tencent.com/developer/article/2625282)
+- [腾云出海，扬帆远航 | 2026腾讯云合作伙伴大会出海专场三亚启航，共探全球增长新范式](https://cloud.tencent.com/developer/article/2625283)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
