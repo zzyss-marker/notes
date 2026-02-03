@@ -30,7 +30,7 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  1 │ ⭐ │  3 │  4 │  5 │  6 │  7 │
+│  1 │  2 │ ⭐ │  4 │  5 │  6 │  7 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -43,7 +43,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年2月2日
+🌟 今天是2026年2月3日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -109,26 +109,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/2/2)
+## 📰 今日资讯 (2026/2/3)
 
 ### 🔥 GitHub 热门项目
-- [openclaw / openclaw](https://github.com/openclaw / openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [thedotmack / claude-mem](https://github.com/thedotmack / claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 - [ThePrimeagen / 99](https://github.com/ThePrimeagen / 99) - Neovim AI agent done right
-- [pedramamini / Maestro](https://github.com/pedramamini / Maestro) - Agent Orchestration Command Center
+- [termux / termux-app](https://github.com/termux / termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
 ### 📚 技术文章精选
-- [AI 模型评测平台 LMArena 公布了最新的 AI 编程大模型排名](https://blog.csdn.net/weixin_43822578/article/details/154792543)
-- [目前最火的 AI 助手 Clawdbot 又又又改名了 并且发布新版本](https://blog.csdn.net/qq_31470439/article/details/157546993)
-- [“AI痕迹太重怎么办？”15个提示词教你降低AIGC率，让写作更像人！](https://blog.csdn.net/AcademicIdeas/article/details/148608249)
+- [人工智能从入门到精通：计算机视觉基础与图像识别实战](https://blog.csdn.net/xcLeigh/article/details/156767535)
+- [飞算JavaAI：革新Java开发体验的智能助手](https://blog.csdn.net/2301_76341691/article/details/150388841)
+- [三步快速对接谷歌最新Gemini3教程：阿波罗AI+Cherry Studio](https://blog.csdn.net/lyztyycode/article/details/155034123)
 
 ### 🛡️ 安全资讯
-- [腾云出海，扬帆远航 | 2026腾讯云合作伙伴大会出海专场三亚启航，共探全球增长新范式](https://cloud.tencent.com/developer/article/2625283)
-- [“痛点”到“通点”！一份让 AI 真正落地产生真金白银的实战指南](https://cloud.tencent.com/developer/article/2625285)
-- [Python学习方案](https://cloud.tencent.com/developer/article/2625297)
+- [腾讯云架构师合肥同盟资源导航](https://cloud.tencent.com/developer/article/2625373)
+- [腾讯云架构师深圳同盟资源导航](https://cloud.tencent.com/developer/article/2625348)
+- [腾讯云架构师上海同盟资源导航](https://cloud.tencent.com/developer/article/2625338)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
