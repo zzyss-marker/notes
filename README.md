@@ -30,7 +30,7 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  1 │  2 │ ⭐ │  4 │  5 │  6 │  7 │
+│  1 │  2 │  3 │ ⭐ │  5 │  6 │  7 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -43,7 +43,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年2月3日
+🌟 今天是2026年2月4日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -109,22 +109,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/2/3)
+## 📰 今日资讯 (2026/2/4)
 
 ### 🔥 GitHub 热门项目
 - [thedotmack / claude-mem](https://github.com/thedotmack / claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-- [ThePrimeagen / 99](https://github.com/ThePrimeagen / 99) - Neovim AI agent done right
-- [termux / termux-app](https://github.com/termux / termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
+- [masoncl / review-prompts](https://github.com/masoncl / review-prompts) - AI review prompts
+- [openai / skills](https://github.com/openai / skills) - Skills Catalog for Codex
 
 ### 📚 技术文章精选
-- [人工智能从入门到精通：计算机视觉基础与图像识别实战](https://blog.csdn.net/xcLeigh/article/details/156767535)
-- [飞算JavaAI：革新Java开发体验的智能助手](https://blog.csdn.net/2301_76341691/article/details/150388841)
-- [三步快速对接谷歌最新Gemini3教程：阿波罗AI+Cherry Studio](https://blog.csdn.net/lyztyycode/article/details/155034123)
+- [Antigravity：一个能完全替代 Cursor 的谷歌 AI 编程工具，目前还是免费阶段，不去试试吗](https://blog.csdn.net/2401_88055648/article/details/155112333)
+- [M系列Mac保姆级教程：Clawdbot安装+API配置，30分钟解锁AI自动化！](https://blog.csdn.net/art_code/article/details/157459241)
+- [【AI智能体】N8N Data table实现自定义表单数据增删改查实战详解](https://blog.csdn.net/zhangcongyi420/article/details/156430592)
 
 ### 🛡️ 安全资讯
-- [腾讯云架构师合肥同盟资源导航](https://cloud.tencent.com/developer/article/2625373)
-- [腾讯云架构师深圳同盟资源导航](https://cloud.tencent.com/developer/article/2625348)
-- [腾讯云架构师上海同盟资源导航](https://cloud.tencent.com/developer/article/2625338)
+- [蔡司光学×腾讯健康 ：国内首个青少年近视防控智能体正式上线！](https://cloud.tencent.com/developer/article/2625563)
+- [EdgeOne 第四季度产品动态｜ 免费证书、边缘函数、Pages 等重磅能力升级](https://cloud.tencent.com/developer/article/2625589)
+- [爆火的clawd.bot：来龙去脉、实用价值与深层启发](https://cloud.tencent.com/developer/article/2625301)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
