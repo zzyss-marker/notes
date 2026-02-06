@@ -30,7 +30,7 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  1 │  2 │  3 │  4 │ ⭐ │  6 │  7 │
+│  1 │  2 │  3 │  4 │  5 │ ⭐ │  7 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -43,7 +43,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年2月5日
+🌟 今天是2026年2月6日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -109,26 +109,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/2/5)
+## 📰 今日资讯 (2026/2/6)
 
 ### 🔥 GitHub 热门项目
-- [thedotmack / claude-mem](https://github.com/thedotmack / claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+- [bytedance / UI-TARS-desktop](https://github.com/bytedance / UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [openai / skills](https://github.com/openai / skills) - Skills Catalog for Codex
-- [disler / claude-code-hooks-mastery](https://github.com/disler / claude-code-hooks-mastery) - Master Claude Code Hooks
+- [thedotmack / claude-mem](https://github.com/thedotmack / claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 
 ### 📚 技术文章精选
-- [当AI把用户数据当“食材“：初级开发者如何成为创意“主厨“](https://blog.csdn.net/qq_33650655/article/details/151346424)
-- [ollama模型评估指南：如何选择最适合的AI模型](https://blog.csdn.net/gitblog_00715/article/details/151808577)
-- [基于飞算JavaAI的在线图书借阅平台设计与实现（深度实践版）](https://blog.csdn.net/2301_80863610/article/details/151295847)
+- [人工智能从入门到精通：AI 在金融领域的应用开发与实战](https://blog.csdn.net/xcLeigh/article/details/157029619)
+- [AI 简史：从神经元到现代大模型](https://blog.csdn.net/jarodyv/article/details/144699658)
+- [AI视频生成技术原理与行业应用 - AI视频技术原理与架构](https://blog.csdn.net/hwhsong/article/details/155889441)
 
 ### 🛡️ 安全资讯
-- [腾讯云程伟：拒绝AI焦虑，企业智能体如何从“工具”到“生产力”？](https://cloud.tencent.com/developer/article/2627191)
-- [【运维自动化-节点管理】节点管理跟配置平台的联动关系](https://cloud.tencent.com/developer/article/2627251)
 - [解构Clawdbot：本地架构、记忆管理、Agent 编排与上下文组装原理](https://cloud.tencent.com/developer/article/2627190)
+- [玩转OpenClaw(Moltbot) | 使用Docker部署OpenClaw并绑定域名HTTPS开启公网访问](https://cloud.tencent.com/developer/article/2626270)
+- [腾讯云高弹性架构与AI原生玩法护航《超自然行动组》DAU破千万](https://cloud.tencent.com/developer/article/2627371)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
