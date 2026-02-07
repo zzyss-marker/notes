@@ -30,7 +30,7 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  1 │  2 │  3 │  4 │  5 │ ⭐ │  7 │
+│  1 │  2 │  3 │  4 │  5 │  6 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -43,7 +43,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年2月6日
+🌟 今天是2026年2月7日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -109,26 +109,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/2/6)
+## 📰 今日资讯 (2026/2/7)
 
 ### 🔥 GitHub 热门项目
-- [bytedance / UI-TARS-desktop](https://github.com/bytedance / UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [openai / skills](https://github.com/openai / skills) - Skills Catalog for Codex
-- [thedotmack / claude-mem](https://github.com/thedotmack / claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+- [bytedance / UI-TARS-desktop](https://github.com/bytedance / UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+- [nvm-sh / nvm](https://github.com/nvm-sh / nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 
 ### 📚 技术文章精选
-- [人工智能从入门到精通：AI 在金融领域的应用开发与实战](https://blog.csdn.net/xcLeigh/article/details/157029619)
-- [AI 简史：从神经元到现代大模型](https://blog.csdn.net/jarodyv/article/details/144699658)
-- [AI视频生成技术原理与行业应用 - AI视频技术原理与架构](https://blog.csdn.net/hwhsong/article/details/155889441)
+- [如何用AI解决Cursor认证被阻止问题](https://blog.csdn.net/EmeraldEagle36/article/details/155739859)
+- [解决AI编程助手“半途而废“：Ralph Loop让AI持续工作直到真正完成](https://blog.csdn.net/2401_84204207/article/details/156862239)
+- [玩转硅基 API：“AI 女友”调用全攻略，手把手教你搭建](https://blog.csdn.net/m0_72606784/article/details/156094749)
 
 ### 🛡️ 安全资讯
 - [解构Clawdbot：本地架构、记忆管理、Agent 编排与上下文组装原理](https://cloud.tencent.com/developer/article/2627190)
 - [玩转OpenClaw(Moltbot) | 使用Docker部署OpenClaw并绑定域名HTTPS开启公网访问](https://cloud.tencent.com/developer/article/2626270)
-- [腾讯云高弹性架构与AI原生玩法护航《超自然行动组》DAU破千万](https://cloud.tencent.com/developer/article/2627371)
+- [AI是人的延伸，人是AI的尺度](https://cloud.tencent.com/developer/article/2627372)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
