@@ -30,9 +30,9 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  1 │  2 │  3 │  4 │  5 │  6 │ ⭐ │
+│  1 │  2 │  3 │  4 │  5 │  6 │  7 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
+│ ⭐ │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -43,7 +43,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年2月7日
+🌟 今天是2026年2月8日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -109,26 +109,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/2/7)
+## 📰 今日资讯 (2026/2/8)
 
 ### 🔥 GitHub 热门项目
+- [KeygraphHQ / shannon](https://github.com/KeygraphHQ / shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
 - [openai / skills](https://github.com/openai / skills) - Skills Catalog for Codex
-- [bytedance / UI-TARS-desktop](https://github.com/bytedance / UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-- [nvm-sh / nvm](https://github.com/nvm-sh / nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- [microsoft / litebox](https://github.com/microsoft / litebox) - A security-focused library OS supporting kernel- and user-mode execution
 
 ### 📚 技术文章精选
-- [如何用AI解决Cursor认证被阻止问题](https://blog.csdn.net/EmeraldEagle36/article/details/155739859)
-- [解决AI编程助手“半途而废“：Ralph Loop让AI持续工作直到真正完成](https://blog.csdn.net/2401_84204207/article/details/156862239)
-- [玩转硅基 API：“AI 女友”调用全攻略，手把手教你搭建](https://blog.csdn.net/m0_72606784/article/details/156094749)
+- [银河麒麟 V11（AI 增强版）安装华为昇腾300I Duo卡部署Qwen大模型，Cloudera CDP 7.3（或类 CDP 的 CMP 7.13 平台，如华为鲲鹏 ARM 版）操作指南和脚本](https://blog.csdn.net/yumgpkpm/article/details/154947870)
+- [Lada本地一键启动包：AI视频马赛克去除神器](https://blog.csdn.net/2401_86439035/article/details/154754309)
+- [Obsidian接入AI完整配置指南](https://blog.csdn.net/weixin_61802027/article/details/156341978)
 
 ### 🛡️ 安全资讯
-- [解构Clawdbot：本地架构、记忆管理、Agent 编排与上下文组装原理](https://cloud.tencent.com/developer/article/2627190)
-- [玩转OpenClaw(Moltbot) | 使用Docker部署OpenClaw并绑定域名HTTPS开启公网访问](https://cloud.tencent.com/developer/article/2626270)
-- [AI是人的延伸，人是AI的尺度](https://cloud.tencent.com/developer/article/2627372)
+- [存储成本直降70%！TDSQL Boundless 助力能源行业打造无限归档数据底座](https://cloud.tencent.com/developer/article/2627405)
+- [Clawdbot 一键部署实战：从云服务器到 QQ 机器人全流程指南](https://cloud.tencent.com/developer/article/2627231)
+- [言出法随 -- Chaterm如何通过ASR精准操作K8S](https://cloud.tencent.com/developer/article/2627409)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
