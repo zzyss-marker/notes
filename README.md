@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  1 │  2 │  3 │  4 │  5 │  6 │  7 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  8 │ ⭐ │ 10 │ 11 │ 12 │ 13 │ 14 │
+│  8 │  9 │ ⭐ │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -43,7 +43,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年2月9日
+🌟 今天是2026年2月10日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -109,26 +109,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/2/9)
+## 📰 今日资讯 (2026/2/10)
 
 ### 🔥 GitHub 热门项目
 - [KeygraphHQ / shannon](https://github.com/KeygraphHQ / shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
+- [virattt / dexter](https://github.com/virattt / dexter) - An autonomous agent for deep financial research
 - [pydantic / monty](https://github.com/pydantic / monty) - A minimal, secure Python interpreter written in Rust for use by AI
-- [openai / skills](https://github.com/openai / skills) - Skills Catalog for Codex
 
 ### 📚 技术文章精选
-- [IDEA 插件 Trae AI 全攻略](https://blog.csdn.net/jam_yin/article/details/150395264)
-- [深度复盘 2026 年 AI PPT 工具：工具间的效率分水岭与职场适配度报告](https://blog.csdn.net/qzoffice/article/details/157224705)
-- [飞算 Java AI：程序员代码助力神器](https://blog.csdn.net/qq_61024956/article/details/149044113)
+- [SCU安全项目2 小小白的思路梳理总结](https://blog.csdn.net/pu_001128_pu/article/details/156576284)
+- [KingbaseES数据库：开发基础教程，从部署到安全的全方位实践](https://blog.csdn.net/weixin_43151418/article/details/150648770)
+- [从监听风险到绝对隐私：Zoom偷听门后，Briefing+CPolar重新定义远程会议安全标准](https://blog.csdn.net/2401_82648291/article/details/153253335)
 
 ### 🛡️ 安全资讯
-- [玩转OpenClaw(Moltbot) | 使用Docker部署OpenClaw并绑定域名HTTPS开启公网访问](https://cloud.tencent.com/developer/article/2626270)
-- [言出法随 -- Chaterm如何通过ASR精准操作K8S](https://cloud.tencent.com/developer/article/2627409)
-- [Clawdbot 一键部署实战：从云服务器到 QQ 机器人全流程指南](https://cloud.tencent.com/developer/article/2627231)
+- [从 Clawdbot 到 Moltbook：当 AI 开始长期运行并彼此社交](https://cloud.tencent.com/developer/article/2627720)
+- [袁晓辉：AI不应只为精英而来，而应为每一个人而来](https://cloud.tencent.com/developer/article/2628041)
+- [腾讯云上新大模型API服务，助力OpenClaw高效运行](https://cloud.tencent.com/developer/article/2628040)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
