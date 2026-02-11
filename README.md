@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  1 │  2 │  3 │  4 │  5 │  6 │  7 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  8 │  9 │ ⭐ │ 11 │ 12 │ 13 │ 14 │
+│  8 │  9 │ 10 │ ⭐ │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -43,7 +43,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年2月10日
+🌟 今天是2026年2月11日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -109,26 +109,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/2/10)
+## 📰 今日资讯 (2026/2/11)
 
 ### 🔥 GitHub 热门项目
+- [google / langextract](https://github.com/google / langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+- [iOfficeAI / AionUi](https://github.com/iOfficeAI / AionUi) - Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
 - [KeygraphHQ / shannon](https://github.com/KeygraphHQ / shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
-- [virattt / dexter](https://github.com/virattt / dexter) - An autonomous agent for deep financial research
-- [pydantic / monty](https://github.com/pydantic / monty) - A minimal, secure Python interpreter written in Rust for use by AI
 
 ### 📚 技术文章精选
-- [SCU安全项目2 小小白的思路梳理总结](https://blog.csdn.net/pu_001128_pu/article/details/156576284)
-- [KingbaseES数据库：开发基础教程，从部署到安全的全方位实践](https://blog.csdn.net/weixin_43151418/article/details/150648770)
-- [从监听风险到绝对隐私：Zoom偷听门后，Briefing+CPolar重新定义远程会议安全标准](https://blog.csdn.net/2401_82648291/article/details/153253335)
+- [通义千问插件：IDEA 中 Java 开发的 AI 赋能实战录](https://blog.csdn.net/weixin_66243333/article/details/155543035)
+- [【Convbased】 —— 下一代实时 AI 变声平台](https://blog.csdn.net/2501_93577798/article/details/154761937)
+- [【AI Agent Skills】重塑 AI Agent 竞争力：Skills 体系的核心价值、构建方法与未来方向](https://blog.csdn.net/weixin_45793745/article/details/156518039)
 
 ### 🛡️ 安全资讯
-- [从 Clawdbot 到 Moltbook：当 AI 开始长期运行并彼此社交](https://cloud.tencent.com/developer/article/2627720)
-- [袁晓辉：AI不应只为精英而来，而应为每一个人而来](https://cloud.tencent.com/developer/article/2628041)
-- [腾讯云上新大模型API服务，助力OpenClaw高效运行](https://cloud.tencent.com/developer/article/2628040)
+- [热点技术有奖征文 | 玩转 OpenClaw 云端创意实践赛🪐](https://cloud.tencent.com/developer/article/2627198)
+- [2025腾讯云开发者社区年度报告暨表彰总结](https://cloud.tencent.com/developer/article/2628020)
+- [2026前沿科技趋势：塑造自己的下一个版本](https://cloud.tencent.com/developer/article/2628450)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
