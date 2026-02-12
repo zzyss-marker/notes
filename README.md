@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  1 │  2 │  3 │  4 │  5 │  6 │  7 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  8 │  9 │ 10 │ ⭐ │ 12 │ 13 │ 14 │
+│  8 │  9 │ 10 │ 11 │ ⭐ │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -43,7 +43,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年2月11日
+🌟 今天是2026年2月12日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -109,26 +109,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/2/11)
+## 📰 今日资讯 (2026/2/12)
 
 ### 🔥 GitHub 热门项目
 - [google / langextract](https://github.com/google / langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
-- [iOfficeAI / AionUi](https://github.com/iOfficeAI / AionUi) - Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
-- [KeygraphHQ / shannon](https://github.com/KeygraphHQ / shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
+- [github / gh-aw](https://github.com/github / gh-aw) - GitHub Agentic Workflows
+- [microsoft / PowerToys](https://github.com/microsoft / PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 
 ### 📚 技术文章精选
-- [通义千问插件：IDEA 中 Java 开发的 AI 赋能实战录](https://blog.csdn.net/weixin_66243333/article/details/155543035)
-- [【Convbased】 —— 下一代实时 AI 变声平台](https://blog.csdn.net/2501_93577798/article/details/154761937)
-- [【AI Agent Skills】重塑 AI Agent 竞争力：Skills 体系的核心价值、构建方法与未来方向](https://blog.csdn.net/weixin_45793745/article/details/156518039)
+- [初识Langchain之AI语言大模型](https://blog.csdn.net/fyy31/article/details/156064119)
+- [[AI]从零开始的DeepSeek本地部署及本地API调用教程](https://blog.csdn.net/c858845275/article/details/145544208)
+- [B站：从二次元到AI创新孵化器的华丽转身 | Google Cloud峰会见闻](https://blog.csdn.net/2503_92624912/article/details/157479011)
 
 ### 🛡️ 安全资讯
-- [热点技术有奖征文 | 玩转 OpenClaw 云端创意实践赛🪐](https://cloud.tencent.com/developer/article/2627198)
 - [2025腾讯云开发者社区年度报告暨表彰总结](https://cloud.tencent.com/developer/article/2628020)
+- [150 万个智能体在人间为所欲为](https://cloud.tencent.com/developer/article/2628452)
 - [2026前沿科技趋势：塑造自己的下一个版本](https://cloud.tencent.com/developer/article/2628450)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
