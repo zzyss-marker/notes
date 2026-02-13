@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  1 │  2 │  3 │  4 │  5 │  6 │  7 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  8 │  9 │ 10 │ 11 │ ⭐ │ 13 │ 14 │
+│  8 │  9 │ 10 │ 11 │ 12 │ ⭐ │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -43,7 +43,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年2月12日
+🌟 今天是2026年2月13日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -109,17 +109,17 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/2/12)
+## 📰 今日资讯 (2026/2/13)
 
 ### 🔥 GitHub 热门项目
+- [tambo-ai / tambo](https://github.com/tambo-ai / tambo) - Generative UI SDK for React
+- [danielmiessler / Personal_AI_Infrastructure](https://github.com/danielmiessler / Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
 - [google / langextract](https://github.com/google / langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
-- [github / gh-aw](https://github.com/github / gh-aw) - GitHub Agentic Workflows
-- [microsoft / PowerToys](https://github.com/microsoft / PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 
 ### 📚 技术文章精选
-- [初识Langchain之AI语言大模型](https://blog.csdn.net/fyy31/article/details/156064119)
-- [[AI]从零开始的DeepSeek本地部署及本地API调用教程](https://blog.csdn.net/c858845275/article/details/145544208)
-- [B站：从二次元到AI创新孵化器的华丽转身 | Google Cloud峰会见闻](https://blog.csdn.net/2503_92624912/article/details/157479011)
+- [AI：2026年算力、智能体与产业落地——解读 OpenAI Podcast 第12期](https://blog.csdn.net/qq_41185868/article/details/157334364)
+- [【AI大模型前沿】阿里通义千问 Qwen3-Coder：开启智能代码生成与代理式编程新时代](https://blog.csdn.net/xiaobing259/article/details/151155213)
+- [AI大模型核心概念解析：Token 究竟是什么？](https://blog.csdn.net/qq_41893274/article/details/155678730)
 
 ### 🛡️ 安全资讯
 - [2025腾讯云开发者社区年度报告暨表彰总结](https://cloud.tencent.com/developer/article/2628020)
