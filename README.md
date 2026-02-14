@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  1 │  2 │  3 │  4 │  5 │  6 │  7 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  8 │  9 │ 10 │ 11 │ 12 │ ⭐ │ 14 │
+│  8 │  9 │ 10 │ 11 │ 12 │ 13 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -43,7 +43,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年2月13日
+🌟 今天是2026年2月14日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -109,26 +109,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/2/13)
+## 📰 今日资讯 (2026/2/14)
 
 ### 🔥 GitHub 热门项目
-- [tambo-ai / tambo](https://github.com/tambo-ai / tambo) - Generative UI SDK for React
+- [SynkraAI / aios-core](https://github.com/SynkraAI / aios-core) - Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
+- [ChromeDevTools / chrome-devtools-mcp](https://github.com/ChromeDevTools / chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [danielmiessler / Personal_AI_Infrastructure](https://github.com/danielmiessler / Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
-- [google / langextract](https://github.com/google / langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 
 ### 📚 技术文章精选
-- [AI：2026年算力、智能体与产业落地——解读 OpenAI Podcast 第12期](https://blog.csdn.net/qq_41185868/article/details/157334364)
-- [【AI大模型前沿】阿里通义千问 Qwen3-Coder：开启智能代码生成与代理式编程新时代](https://blog.csdn.net/xiaobing259/article/details/151155213)
-- [AI大模型核心概念解析：Token 究竟是什么？](https://blog.csdn.net/qq_41893274/article/details/155678730)
+- [进阶使用指南 | 即梦AI生图操作技巧解析](https://blog.csdn.net/weixin_42972322/article/details/150850580)
+- [Obsidian接入AI完整配置指南](https://blog.csdn.net/weixin_61802027/article/details/156341978)
+- [谷歌最强 AI 开放翻译模型 TranslateGemma：手机也能跑？](https://blog.csdn.net/linshantang/article/details/157131851)
 
 ### 🛡️ 安全资讯
-- [2025腾讯云开发者社区年度报告暨表彰总结](https://cloud.tencent.com/developer/article/2628020)
 - [150 万个智能体在人间为所欲为](https://cloud.tencent.com/developer/article/2628452)
 - [2026前沿科技趋势：塑造自己的下一个版本](https://cloud.tencent.com/developer/article/2628450)
+- [DeepSeek-OCR-2 开源 OCR 模型的技术](https://cloud.tencent.com/developer/article/2628496)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
