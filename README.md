@@ -32,9 +32,9 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  1 │  2 │  3 │  4 │  5 │  6 │  7 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  8 │  9 │ 10 │ 11 │ 12 │ 13 │ ⭐ │
+│  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
+│ ⭐ │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -43,7 +43,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年2月14日
+🌟 今天是2026年2月15日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -109,26 +109,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/2/14)
+## 📰 今日资讯 (2026/2/15)
 
 ### 🔥 GitHub 热门项目
+- [tambo-ai / tambo](https://github.com/tambo-ai / tambo) - Generative UI SDK for React
 - [SynkraAI / aios-core](https://github.com/SynkraAI / aios-core) - Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
-- [ChromeDevTools / chrome-devtools-mcp](https://github.com/ChromeDevTools / chrome-devtools-mcp) - Chrome DevTools for coding agents
-- [danielmiessler / Personal_AI_Infrastructure](https://github.com/danielmiessler / Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
+- [rowboatlabs / rowboat](https://github.com/rowboatlabs / rowboat) - Open-source AI coworker, with memory
 
 ### 📚 技术文章精选
-- [进阶使用指南 | 即梦AI生图操作技巧解析](https://blog.csdn.net/weixin_42972322/article/details/150850580)
-- [Obsidian接入AI完整配置指南](https://blog.csdn.net/weixin_61802027/article/details/156341978)
-- [谷歌最强 AI 开放翻译模型 TranslateGemma：手机也能跑？](https://blog.csdn.net/linshantang/article/details/157131851)
+- [VSCode AI Copilot 智能补全失效？（错误修正终极手册）](https://blog.csdn.net/Instrulink/article/details/155737018)
+- [Patch Position Embedding (PPE) 在医疗 AI 中的应用编程分析](https://blog.csdn.net/kkiron/article/details/148715820)
+- [用快马AI平台5分钟开发合规健康证生成器：从需求到上线](https://blog.csdn.net/SilvermistRaven28/article/details/154283526)
 
 ### 🛡️ 安全资讯
-- [150 万个智能体在人间为所欲为](https://cloud.tencent.com/developer/article/2628452)
 - [2026前沿科技趋势：塑造自己的下一个版本](https://cloud.tencent.com/developer/article/2628450)
 - [DeepSeek-OCR-2 开源 OCR 模型的技术](https://cloud.tencent.com/developer/article/2628496)
+- [姚顺雨在腾讯的第一篇论文，吹响了冲进AI下半场的号角](https://cloud.tencent.com/developer/article/2628448)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
