@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
+│ 15 │ ⭐ │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -43,7 +43,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年2月15日
+🌟 今天是2026年2月16日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -109,26 +109,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/2/15)
+## 📰 今日资讯 (2026/2/16)
 
 ### 🔥 GitHub 热门项目
-- [tambo-ai / tambo](https://github.com/tambo-ai / tambo) - Generative UI SDK for React
-- [SynkraAI / aios-core](https://github.com/SynkraAI / aios-core) - Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
+- [nautechsystems / nautilus_trader](https://github.com/nautechsystems / nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
+- [steipete / gogcli](https://github.com/steipete / gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts.
 - [rowboatlabs / rowboat](https://github.com/rowboatlabs / rowboat) - Open-source AI coworker, with memory
 
 ### 📚 技术文章精选
-- [VSCode AI Copilot 智能补全失效？（错误修正终极手册）](https://blog.csdn.net/Instrulink/article/details/155737018)
-- [Patch Position Embedding (PPE) 在医疗 AI 中的应用编程分析](https://blog.csdn.net/kkiron/article/details/148715820)
-- [用快马AI平台5分钟开发合规健康证生成器：从需求到上线](https://blog.csdn.net/SilvermistRaven28/article/details/154283526)
+- [GitHub上3个超牛的AI开源项目，赶紧来挖宝！](https://blog.csdn.net/2401_85343303/article/details/155450988)
+- [PyTorch生成式人工智能（4）——卷积神经网络(Convolutional Neural Network, CNN)详解](https://blog.csdn.net/LOVEmy134611/article/details/146259639)
+- [脉脉独家【AI创作者xAMA第二期】| 揭秘效率革命](https://blog.csdn.net/2503_91389547/article/details/157399703)
 
 ### 🛡️ 安全资讯
-- [2026前沿科技趋势：塑造自己的下一个版本](https://cloud.tencent.com/developer/article/2628450)
-- [DeepSeek-OCR-2 开源 OCR 模型的技术](https://cloud.tencent.com/developer/article/2628496)
 - [姚顺雨在腾讯的第一篇论文，吹响了冲进AI下半场的号角](https://cloud.tencent.com/developer/article/2628448)
+- [开发利器 openCode + Oh My OpenCode 四大核心智能体：Sisyphus、Prometheus、Atlas 与 Hephaestus](https://cloud.tencent.com/developer/article/2628498)
+- [EdgeOne Pages 全栈能力再升级，正式支持 TanStack Start 及 Vike 框架](https://cloud.tencent.com/developer/article/2628716)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-安全不是产品，而是过程。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
