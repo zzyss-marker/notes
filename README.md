@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 15 │ ⭐ │ 17 │ 18 │ 19 │ 20 │ 21 │
+│ 15 │ 16 │ ⭐ │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -43,7 +43,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年2月16日
+🌟 今天是2026年2月17日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -109,20 +109,20 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/2/16)
+## 📰 今日资讯 (2026/2/17)
 
 ### 🔥 GitHub 热门项目
+- [alibaba / zvec](https://github.com/alibaba / zvec) - A lightweight, lightning-fast, in-process vector database
 - [nautechsystems / nautilus_trader](https://github.com/nautechsystems / nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
-- [steipete / gogcli](https://github.com/steipete / gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts.
 - [rowboatlabs / rowboat](https://github.com/rowboatlabs / rowboat) - Open-source AI coworker, with memory
 
 ### 📚 技术文章精选
-- [GitHub上3个超牛的AI开源项目，赶紧来挖宝！](https://blog.csdn.net/2401_85343303/article/details/155450988)
-- [PyTorch生成式人工智能（4）——卷积神经网络(Convolutional Neural Network, CNN)详解](https://blog.csdn.net/LOVEmy134611/article/details/146259639)
-- [脉脉独家【AI创作者xAMA第二期】| 揭秘效率革命](https://blog.csdn.net/2503_91389547/article/details/157399703)
+- [阿里开源新AI code工具：qoder功能介绍](https://blog.csdn.net/sinat_26917383/article/details/150607547)
+- [Clawdbot全面实测：如何用一台Mac mini搭建7×24小时“全职AI员工“，让你躺着也能出活](https://blog.csdn.net/a3363196/article/details/157465819)
+- [告别SQL恐惧症：我用飞算JavaAI的SQL Chat，把数据库变成了“聊天室”](https://blog.csdn.net/sinat_41617212/article/details/157904707)
 
 ### 🛡️ 安全资讯
-- [姚顺雨在腾讯的第一篇论文，吹响了冲进AI下半场的号角](https://cloud.tencent.com/developer/article/2628448)
+- [2026前沿科技趋势：塑造自己的下一个版本](https://cloud.tencent.com/developer/article/2628450)
 - [开发利器 openCode + Oh My OpenCode 四大核心智能体：Sisyphus、Prometheus、Atlas 与 Hephaestus](https://cloud.tencent.com/developer/article/2628498)
 - [EdgeOne Pages 全栈能力再升级，正式支持 TanStack Start 及 Vike 框架](https://cloud.tencent.com/developer/article/2628716)
 
@@ -130,5 +130,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
