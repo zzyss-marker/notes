@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 15 │ 16 │ ⭐ │ 18 │ 19 │ 20 │ 21 │
+│ 15 │ 16 │ 17 │ ⭐ │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -43,7 +43,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年2月17日
+🌟 今天是2026年2月18日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -109,17 +109,17 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/2/17)
+## 📰 今日资讯 (2026/2/18)
 
 ### 🔥 GitHub 热门项目
-- [alibaba / zvec](https://github.com/alibaba / zvec) - A lightweight, lightning-fast, in-process vector database
-- [nautechsystems / nautilus_trader](https://github.com/nautechsystems / nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
-- [rowboatlabs / rowboat](https://github.com/rowboatlabs / rowboat) - Open-source AI coworker, with memory
+- [p-e-w / heretic](https://github.com/p-e-w / heretic) - Fully automatic censorship removal for language models
+- [seerr-team / seerr](https://github.com/seerr-team / seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
+- [obra / superpowers](https://github.com/obra / superpowers) - An agentic skills framework & software development methodology that works.
 
 ### 📚 技术文章精选
-- [阿里开源新AI code工具：qoder功能介绍](https://blog.csdn.net/sinat_26917383/article/details/150607547)
-- [Clawdbot全面实测：如何用一台Mac mini搭建7×24小时“全职AI员工“，让你躺着也能出活](https://blog.csdn.net/a3363196/article/details/157465819)
-- [告别SQL恐惧症：我用飞算JavaAI的SQL Chat，把数据库变成了“聊天室”](https://blog.csdn.net/sinat_41617212/article/details/157904707)
+- [当AI把用户数据当薯片嚼得嘎嘣脆，初级开发的创意真会被压成“二进制压缩包”吗？—— 老码农的脑洞防蒸发指南](https://blog.csdn.net/qq_33650655/article/details/151054927)
+- [Java程序员必备AI神器 Spring Al Aibaba-第二弹](https://blog.csdn.net/tuyuan2012/article/details/156428970)
+- [AI的提示词专栏：人设设定（Character Prompt）让模型 “扮演” 某角色](https://blog.csdn.net/weixin_43151418/article/details/153250790)
 
 ### 🛡️ 安全资讯
 - [2026前沿科技趋势：塑造自己的下一个版本](https://cloud.tencent.com/developer/article/2628450)
