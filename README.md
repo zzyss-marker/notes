@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 15 │ 16 │ 17 │ ⭐ │ 19 │ 20 │ 21 │
+│ 15 │ 16 │ 17 │ 18 │ ⭐ │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -43,7 +43,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年2月18日
+🌟 今天是2026年2月19日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -109,26 +109,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/2/18)
+## 📰 今日资讯 (2026/2/19)
 
 ### 🔥 GitHub 热门项目
+- [alibaba / zvec](https://github.com/alibaba / zvec) - A lightweight, lightning-fast, in-process vector database
 - [p-e-w / heretic](https://github.com/p-e-w / heretic) - Fully automatic censorship removal for language models
-- [seerr-team / seerr](https://github.com/seerr-team / seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
-- [obra / superpowers](https://github.com/obra / superpowers) - An agentic skills framework & software development methodology that works.
+- [OpenCTI-Platform / opencti](https://github.com/OpenCTI-Platform / opencti) - Open Cyber Threat Intelligence Platform
 
 ### 📚 技术文章精选
-- [当AI把用户数据当薯片嚼得嘎嘣脆，初级开发的创意真会被压成“二进制压缩包”吗？—— 老码农的脑洞防蒸发指南](https://blog.csdn.net/qq_33650655/article/details/151054927)
-- [Java程序员必备AI神器 Spring Al Aibaba-第二弹](https://blog.csdn.net/tuyuan2012/article/details/156428970)
-- [AI的提示词专栏：人设设定（Character Prompt）让模型 “扮演” 某角色](https://blog.csdn.net/weixin_43151418/article/details/153250790)
+- [程序人生-Hello’s P2P](https://blog.csdn.net/JZ645918/article/details/156511967)
+- [掌握程序人生，学习成长成就职业生涯辉煌](https://blog.csdn.net/universsky2015/article/details/149516705)
+- [程序人生-Hello’s P2P 哈尔滨工业大学计算机系统大作业](https://blog.csdn.net/2301_81365128/article/details/147993130)
 
 ### 🛡️ 安全资讯
-- [2026前沿科技趋势：塑造自己的下一个版本](https://cloud.tencent.com/developer/article/2628450)
 - [开发利器 openCode + Oh My OpenCode 四大核心智能体：Sisyphus、Prometheus、Atlas 与 Hephaestus](https://cloud.tencent.com/developer/article/2628498)
 - [EdgeOne Pages 全栈能力再升级，正式支持 TanStack Start 及 Vike 框架](https://cloud.tencent.com/developer/article/2628716)
+- [一键管控 AI 爬虫，腾讯 EdgeOne 基础 Bot 管理能力免费开放](https://cloud.tencent.com/developer/article/2628827)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
