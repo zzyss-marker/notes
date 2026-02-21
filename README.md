@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 15 │ 16 │ 17 │ 18 │ 19 │ ⭐ │ 21 │
+│ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -43,7 +43,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年2月20日
+🌟 今天是2026年2月21日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -109,17 +109,17 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/2/20)
+## 📰 今日资讯 (2026/2/21)
 
 ### 🔥 GitHub 热门项目
-- [obra / superpowers](https://github.com/obra / superpowers) - An agentic skills framework & software development methodology that works.
-- [RichardAtCT / claude-code-telegram](https://github.com/RichardAtCT / claude-code-telegram) - A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.
-- [open-mercato / open-mercato](https://github.com/open-mercato / open-mercato) - AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!
+- [vxcontrol / pentagi](https://github.com/vxcontrol / pentagi) - ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+- [blackboardsh / electrobun](https://github.com/blackboardsh / electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
+- [HailToDodongo / pyrite64](https://github.com/HailToDodongo / pyrite64) - N64 Game-Engine and Editor using libdragon & tiny3d
 
 ### 📚 技术文章精选
-- [【CTF-APK】基于TRAE和jadx的MCP实现AI逆向分析APK文件（含python安装及pip换源和更新）](https://blog.csdn.net/qq_37400312/article/details/156515588)
-- [Java程序员的职业加速器：飞算JavaAI一键生成完整工程代码，轻松应对开发挑战](https://blog.csdn.net/qq_44866828/article/details/148909094)
-- [深入解析 Rust + LLM 开发：手把手教你写一个 AI 运维助手](https://blog.csdn.net/K48932/article/details/157478302)
+- [人工智能从入门到精通：数据可视化基础与应用](https://blog.csdn.net/COLLINSXU/article/details/157095886)
+- [黑马AI大模型神经网络与深度学习课程笔记(个人记录、仅供参考)](https://blog.csdn.net/2301_80558092/article/details/155753050)
+- [零基础学AI大模型之嵌入模型性能优化](https://blog.csdn.net/chandfy/article/details/153792556)
 
 ### 🛡️ 安全资讯
 - [EdgeOne Pages 全栈能力再升级，正式支持 TanStack Start 及 Vike 框架](https://cloud.tencent.com/developer/article/2628716)
@@ -130,5 +130,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
