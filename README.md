@@ -34,16 +34,16 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ ⭐ │
+│ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │
+│ ⭐ │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年2月21日
+🌟 今天是2026年2月22日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -109,26 +109,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/2/21)
+## 📰 今日资讯 (2026/2/22)
 
 ### 🔥 GitHub 热门项目
 - [vxcontrol / pentagi](https://github.com/vxcontrol / pentagi) - ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-- [blackboardsh / electrobun](https://github.com/blackboardsh / electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
-- [HailToDodongo / pyrite64](https://github.com/HailToDodongo / pyrite64) - N64 Game-Engine and Editor using libdragon & tiny3d
+- [abhigyanpatwari / GitNexus](https://github.com/abhigyanpatwari / GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+- [obra / superpowers](https://github.com/obra / superpowers) - An agentic skills framework & software development methodology that works.
 
 ### 📚 技术文章精选
-- [人工智能从入门到精通：数据可视化基础与应用](https://blog.csdn.net/COLLINSXU/article/details/157095886)
-- [黑马AI大模型神经网络与深度学习课程笔记(个人记录、仅供参考)](https://blog.csdn.net/2301_80558092/article/details/155753050)
-- [零基础学AI大模型之嵌入模型性能优化](https://blog.csdn.net/chandfy/article/details/153792556)
+- [DeepSeek：你的AI界“瑞士军刀”，能写代码会聊天，还能帮你少掉头发！](https://blog.csdn.net/effort123_/article/details/147694459)
+- [HexStrike AI MCP Agents v6.0把 AI 装进渗透测试流水线的「多智能体」](https://blog.csdn.net/weixin_43114209/article/details/152310685)
+- [2026最新openclaw（clawbot/moltbot）真正在自己个人电脑上搭建部署，配置飞书远程远程让AI助理操控电脑完成任务，以及结合ollama无限token实现7*24小时工作（附配置）](https://blog.csdn.net/u014374009/article/details/157617985)
 
 ### 🛡️ 安全资讯
-- [EdgeOne Pages 全栈能力再升级，正式支持 TanStack Start 及 Vike 框架](https://cloud.tencent.com/developer/article/2628716)
-- [一键管控 AI 爬虫，腾讯 EdgeOne 基础 Bot 管理能力免费开放](https://cloud.tencent.com/developer/article/2628827)
 - [【腾讯云代码分析】开源协议扫描（2026版）](https://cloud.tencent.com/developer/article/2628834)
+- [通过云api接口GetMonitorData读取分区磁盘空间利用率，有两种办法](https://cloud.tencent.com/developer/article/2628884)
+- [禁用Windows Management Instrumentation服务引起无法更新补丁等异常](https://cloud.tencent.com/developer/article/2628867)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
