@@ -36,14 +36,14 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 22 │ ⭐ │ 24 │ 25 │ 26 │ 27 │ 28 │
+│ 22 │ 23 │ ⭐ │ 25 │ 26 │ 27 │ 28 │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年2月23日
+🌟 今天是2026年2月24日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -109,20 +109,20 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/2/23)
+## 📰 今日资讯 (2026/2/24)
 
 ### 🔥 GitHub 热门项目
+- [x1xhlol / system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol / system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 - [huggingface / skills](https://github.com/huggingface / skills) - 
-- [vxcontrol / pentagi](https://github.com/vxcontrol / pentagi) - ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-- [anthropics / claude-code](https://github.com/anthropics / claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+- [OpenBB-finance / OpenBB](https://github.com/OpenBB-finance / OpenBB) - Financial data platform for analysts, quants and AI agents.
 
 ### 📚 技术文章精选
-- [视频增强与AI画质提升：ComfyUI插件实现视频超分辨率全指南](https://blog.csdn.net/gitblog_00575/article/details/157380640)
-- [掌握 Claude Code Hooks：让 AI 变得更聪明！](https://blog.csdn.net/weixin_44626085/article/details/157805546)
-- [AI视频生成模型从无到有：构建、实现与调试完全指南](https://blog.csdn.net/sixpp/article/details/156768704)
+- [AI 帮我写单测：pytest 覆盖率提升 40% 的协作日志](https://blog.csdn.net/IRpickstars/article/details/151394492)
+- [60天高效掌握AI大模型的系统学习计划,大模型入门到精通，为金三银四开始准备了！](https://blog.csdn.net/2401_84204413/article/details/157652287)
+- [LLM - 将业务 SOP 变成 AI 能力：用 Skill + MCP 驱动 Spring AI 应用落地不完全指南](https://blog.csdn.net/yangshangwei/article/details/156736320)
 
 ### 🛡️ 安全资讯
-- [禁用Windows Management Instrumentation服务引起无法更新补丁等异常](https://cloud.tencent.com/developer/article/2628867)
+- [“声”动峡谷，乐趣拉满！揭秘驱动王者荣耀魔音系统的Tencent Games GVoice AI音色引擎](https://cloud.tencent.com/developer/article/2628829)
 - [推开AI的门](https://cloud.tencent.com/developer/article/2629003)
 - [nirsoft.net访问不了的两种情况](https://cloud.tencent.com/developer/article/2629113)
 
@@ -130,5 +130,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
