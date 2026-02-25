@@ -36,14 +36,14 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 22 │ 23 │ ⭐ │ 25 │ 26 │ 27 │ 28 │
+│ 22 │ 23 │ 24 │ ⭐ │ 26 │ 27 │ 28 │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年2月24日
+🌟 今天是2026年2月25日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -109,26 +109,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/2/24)
+## 📰 今日资讯 (2026/2/25)
 
 ### 🔥 GitHub 热门项目
-- [x1xhlol / system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol / system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 - [huggingface / skills](https://github.com/huggingface / skills) - 
+- [muratcankoylan / Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan / Agent-Skills-for-Context-Engineering) - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 - [OpenBB-finance / OpenBB](https://github.com/OpenBB-finance / OpenBB) - Financial data platform for analysts, quants and AI agents.
 
 ### 📚 技术文章精选
-- [AI 帮我写单测：pytest 覆盖率提升 40% 的协作日志](https://blog.csdn.net/IRpickstars/article/details/151394492)
-- [60天高效掌握AI大模型的系统学习计划,大模型入门到精通，为金三银四开始准备了！](https://blog.csdn.net/2401_84204413/article/details/157652287)
-- [LLM - 将业务 SOP 变成 AI 能力：用 Skill + MCP 驱动 Spring AI 应用落地不完全指南](https://blog.csdn.net/yangshangwei/article/details/156736320)
+- [AI 文生图：主流动漫风格及提示词示例](https://blog.csdn.net/qq_41176800/article/details/146970599)
+- [Spring AI系列——开发MCP Server和MCP Client（SSE方式）](https://blog.csdn.net/anqixiang/article/details/155990708)
+- [PyTorch生成式人工智能（10）——CyclelGAN详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/146259921)
 
 ### 🛡️ 安全资讯
-- [“声”动峡谷，乐趣拉满！揭秘驱动王者荣耀魔音系统的Tencent Games GVoice AI音色引擎](https://cloud.tencent.com/developer/article/2628829)
-- [推开AI的门](https://cloud.tencent.com/developer/article/2629003)
-- [nirsoft.net访问不了的两种情况](https://cloud.tencent.com/developer/article/2629113)
+- [我给自己部署了一个 7×24 小时的 AI 私人助理（Clawdbot 完整部署指南）](https://cloud.tencent.com/developer/article/2629259)
+- [一周 10 万 Star 的 OpenClaw，我花 4 天把它变成了 80+技能的私人全能助手](https://cloud.tencent.com/developer/article/2629267)
+- [OpenClaw 2.6 调教实录：从崩溃 4671 次到省 50% token](https://cloud.tencent.com/developer/article/2629271)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
