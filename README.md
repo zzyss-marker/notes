@@ -36,14 +36,14 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 22 │ 23 │ 24 │ 25 │ ⭐ │ 27 │ 28 │
+│ 22 │ 23 │ 24 │ 25 │ 26 │ ⭐ │ 28 │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年2月26日
+🌟 今天是2026年2月27日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -109,26 +109,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/2/26)
+## 📰 今日资讯 (2026/2/27)
 
 ### 🔥 GitHub 热门项目
-- [D4Vinci / Scrapling](https://github.com/D4Vinci / Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
-- [huggingface / skills](https://github.com/huggingface / skills) - 
-- [abhigyanpatwari / GitNexus](https://github.com/abhigyanpatwari / GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+- [clockworklabs / SpacetimeDB](https://github.com/clockworklabs / SpacetimeDB) - Development at the speed of light
+- [obra / superpowers](https://github.com/obra / superpowers) - An agentic skills framework & software development methodology that works.
+- [muratcankoylan / Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan / Agent-Skills-for-Context-Engineering) - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
 ### 📚 技术文章精选
-- [OpenCode：开源 AI Coding Agent 技术与行业分析](https://blog.csdn.net/fyfugoyfa/article/details/157844145)
-- [Claude Code 配置教程：如何通过修改 settings.json 优化 AI 编程体验](https://blog.csdn.net/sys025/article/details/157101296)
-- [扒开 Claude Code 的底裤：为什么你的 AI Agent 总是半途而废？](https://blog.csdn.net/shibing624/article/details/157700761)
+- [60 秒上手 Ollama：本地 AI 部署完全指南](https://blog.csdn.net/devilsxg1/article/details/157513169)
+- [【AI编程工具】-手把手带你体验 Trae AI的Skills（对小白非常友好）](https://blog.csdn.net/zxc18344522713/article/details/157642556)
+- [AI智能体的牢笼：大模型沙箱（SandBox）技术深度解析](https://blog.csdn.net/m0_63309778/article/details/151970698)
 
 ### 🛡️ 安全资讯
-- [MiniMax M2.5深度评测详解：更快更强更智能](https://cloud.tencent.com/developer/article/2630016)
-- [DeepSeek 新模型上线实测：1M 上下文背后，是进化还是取舍？](https://cloud.tencent.com/developer/article/2630128)
-- [从 OpenClaw 到 AI 女友：手把手教你打造专属数字伴侣](https://cloud.tencent.com/developer/article/2630188)
+- [豆包大模型 Seed-2.0 正式发布，带来哪些新功能和体验升级？](https://cloud.tencent.com/developer/article/2630161)
+- [Claude Opus 4.6 能否从单兵作战到多智能体协作](https://cloud.tencent.com/developer/article/2630366)
+- [10分钟打造你的AI选股系统：OpenClaw每日自动筛选5支潜力股](https://cloud.tencent.com/developer/article/2630427)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
