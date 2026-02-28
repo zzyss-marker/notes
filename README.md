@@ -36,14 +36,14 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 22 │ 23 │ 24 │ 25 │ 26 │ ⭐ │ 28 │
+│ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │ ⭐ │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年2月27日
+🌟 今天是2026年2月28日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -109,22 +109,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/2/27)
+## 📰 今日资讯 (2026/2/28)
 
 ### 🔥 GitHub 热门项目
-- [clockworklabs / SpacetimeDB](https://github.com/clockworklabs / SpacetimeDB) - Development at the speed of light
-- [obra / superpowers](https://github.com/obra / superpowers) - An agentic skills framework & software development methodology that works.
-- [muratcankoylan / Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan / Agent-Skills-for-Context-Engineering) - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
+- [ruvnet / wifi-densepose](https://github.com/ruvnet / wifi-densepose) - Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers
+- [bytedance / deer-flow](https://github.com/bytedance / deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
+- [moonshine-ai / moonshine](https://github.com/moonshine-ai / moonshine) - Fast and accurate automatic speech recognition (ASR) for edge devices
 
 ### 📚 技术文章精选
-- [60 秒上手 Ollama：本地 AI 部署完全指南](https://blog.csdn.net/devilsxg1/article/details/157513169)
-- [【AI编程工具】-手把手带你体验 Trae AI的Skills（对小白非常友好）](https://blog.csdn.net/zxc18344522713/article/details/157642556)
-- [AI智能体的牢笼：大模型沙箱（SandBox）技术深度解析](https://blog.csdn.net/m0_63309778/article/details/151970698)
+- [10月实测：2025年最好用的12款ai写小说工具（含优劣对比）](https://blog.csdn.net/EdwardAITooL/article/details/154028584)
+- [$19.99 订阅值不值？Google AI Pro 全面评测以及订阅会员权益功能解析详情](https://blog.csdn.net/2501_90831828/article/details/155392665)
+- [当 AI 走上春晚：一场“全民智能时代”背后的工程真相](https://blog.csdn.net/weixin_52908342/article/details/158071922)
 
 ### 🛡️ 安全资讯
-- [豆包大模型 Seed-2.0 正式发布，带来哪些新功能和体验升级？](https://cloud.tencent.com/developer/article/2630161)
-- [Claude Opus 4.6 能否从单兵作战到多智能体协作](https://cloud.tencent.com/developer/article/2630366)
-- [10分钟打造你的AI选股系统：OpenClaw每日自动筛选5支潜力股](https://cloud.tencent.com/developer/article/2630427)
+- [windows rdp远程弹窗中的"证书错误"如何消除](https://cloud.tencent.com/developer/article/2631248)
+- [腾讯云数据安全态势管理入选亚太地区代表性供应商](https://cloud.tencent.com/developer/article/2631289)
+- [2026年人工智能+的共识与分歧](https://cloud.tencent.com/developer/article/2631290)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
