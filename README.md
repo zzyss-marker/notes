@@ -26,24 +26,26 @@
 
 <!-- CALENDAR_START -->
 ```
-📅 2026年2月
+📅 2026年3月
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  1 │  2 │  3 │  4 │  5 │  6 │  7 │
+│ ⭐ │  2 │  3 │  4 │  5 │  6 │  7 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │ ⭐ │
+│ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │
+├────┼────┼────┼────┼────┼────┼────┤
+│ 29 │ 30 │ 31 │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年2月28日
+🌟 今天是2026年3月1日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -109,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/2/28)
+## 📰 今日资讯 (2026/3/1)
 
 ### 🔥 GitHub 热门项目
 - [ruvnet / wifi-densepose](https://github.com/ruvnet / wifi-densepose) - Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers
-- [bytedance / deer-flow](https://github.com/bytedance / deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
-- [moonshine-ai / moonshine](https://github.com/moonshine-ai / moonshine) - Fast and accurate automatic speech recognition (ASR) for edge devices
+- [moeru-ai / airi](https://github.com/moeru-ai / airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+- [anthropics / claude-code](https://github.com/anthropics / claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
 ### 📚 技术文章精选
-- [10月实测：2025年最好用的12款ai写小说工具（含优劣对比）](https://blog.csdn.net/EdwardAITooL/article/details/154028584)
-- [$19.99 订阅值不值？Google AI Pro 全面评测以及订阅会员权益功能解析详情](https://blog.csdn.net/2501_90831828/article/details/155392665)
-- [当 AI 走上春晚：一场“全民智能时代”背后的工程真相](https://blog.csdn.net/weixin_52908342/article/details/158071922)
+- [JAVA项目实战：用飞算 JavaAI 高效开发电商系统核心功能模块](https://blog.csdn.net/weixin_43151418/article/details/151081090)
+- [数字人技术实战：从零构建实时交互式AI虚拟人系统](https://blog.csdn.net/2401_86326742/article/details/157725871)
+- [【征文计划】码上分享：基于 Rokid CXR-M SDK 构建「AI远程协作助手」实战全记录](https://blog.csdn.net/weixin_44976692/article/details/153324632)
 
 ### 🛡️ 安全资讯
-- [windows rdp远程弹窗中的"证书错误"如何消除](https://cloud.tencent.com/developer/article/2631248)
 - [腾讯云数据安全态势管理入选亚太地区代表性供应商](https://cloud.tencent.com/developer/article/2631289)
 - [2026年人工智能+的共识与分歧](https://cloud.tencent.com/developer/article/2631290)
+- [腾讯云 × OpenClaw：手把手搭建你“能干活”的AI Agent](https://cloud.tencent.com/developer/article/2630955)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
