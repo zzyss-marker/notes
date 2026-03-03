@@ -30,7 +30,7 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  1 │ ⭐ │  3 │  4 │  5 │  6 │  7 │
+│  1 │  2 │ ⭐ │  4 │  5 │  6 │  7 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年3月2日
+🌟 今天是2026年3月3日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,20 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/3/2)
+## 📰 今日资讯 (2026/3/3)
 
 ### 🔥 GitHub 热门项目
-- [moeru-ai / airi](https://github.com/moeru-ai / airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
 - [ruvnet / wifi-densepose](https://github.com/ruvnet / wifi-densepose) - WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
-- [ruvnet / ruflo](https://github.com/ruvnet / ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+- [moeru-ai / airi](https://github.com/moeru-ai / airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+- [anthropics / prompt-eng-interactive-tutorial](https://github.com/anthropics / prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
 
 ### 📚 技术文章精选
-- [Kiro 与 Cursor 使用对比：AI 编程助手的深度体验](https://blog.csdn.net/phantom_111/article/details/157657943)
-- [解密xxxxxl19d18–19：AI如何自动生成复杂代码结构](https://blog.csdn.net/IndigoNight21/article/details/155601512)
-- [PentestGPT深度解析：AI驱动的智能渗透测试完整指南](https://blog.csdn.net/gitblog_00762/article/details/156290675)
+
 
 ### 🛡️ 安全资讯
-- [腾讯云 × OpenClaw：手把手搭建你“能干活”的AI Agent](https://cloud.tencent.com/developer/article/2630955)
-- [Server2003不兼容云上的nfs协议的文件存储](https://cloud.tencent.com/developer/article/2631568)
 - [分享一个专利: 一种在吃鸡游戏中模仿历史胜利玩家打法并对当前玩家进行打法推荐的方案](https://cloud.tencent.com/developer/article/2631559)
+- [EET 易加密工具介绍](https://cloud.tencent.com/developer/article/2631823)
+- [深入解析：AI 智能体（Agent）是如何解决问题的？](https://cloud.tencent.com/developer/article/2631816)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
