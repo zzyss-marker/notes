@@ -30,7 +30,7 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  1 │  2 │ ⭐ │  4 │  5 │  6 │  7 │
+│  1 │  2 │  3 │ ⭐ │  5 │  6 │  7 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年3月3日
+🌟 今天是2026年3月4日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,24 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/3/3)
+## 📰 今日资讯 (2026/3/4)
 
 ### 🔥 GitHub 热门项目
-- [ruvnet / wifi-densepose](https://github.com/ruvnet / wifi-densepose) - WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
+- [ruvnet / RuView](https://github.com/ruvnet / RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
+- [K-Dense-AI / claude-scientific-skills](https://github.com/K-Dense-AI / claude-scientific-skills) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
 - [moeru-ai / airi](https://github.com/moeru-ai / airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-- [anthropics / prompt-eng-interactive-tutorial](https://github.com/anthropics / prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
 
 ### 📚 技术文章精选
-
+- [Agent的评估（《Demystifying evals for AI agents》中文解读）](https://blog.csdn.net/qq_43814415/article/details/156833997)
+- [LLM - 从 MCP 到 Skills：2025 年 AI Agent 的工程实践全景解析](https://blog.csdn.net/yangshangwei/article/details/156448771)
+- [人工智能大模型的未来趋势与进阶学习路径](https://blog.csdn.net/xcLeigh/article/details/157217007)
 
 ### 🛡️ 安全资讯
-- [分享一个专利: 一种在吃鸡游戏中模仿历史胜利玩家打法并对当前玩家进行打法推荐的方案](https://cloud.tencent.com/developer/article/2631559)
-- [EET 易加密工具介绍](https://cloud.tencent.com/developer/article/2631823)
-- [深入解析：AI 智能体（Agent）是如何解决问题的？](https://cloud.tencent.com/developer/article/2631816)
+- [深入解析 Vercel Skill：跨 Agent 的技能包管理器](https://cloud.tencent.com/developer/article/2631927)
+- [2028年全球智力危机：当人类智力不再稀缺，中产阶级的黄昏到来？](https://cloud.tencent.com/developer/article/2631691)
+- [OneRec](https://cloud.tencent.com/developer/article/2631851)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+安全不是产品，而是过程。
 <!-- DAILY_INFO_END -->
