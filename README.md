@@ -30,7 +30,7 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  1 │  2 │  3 │  4 │ ⭐ │  6 │  7 │
+│  1 │  2 │  3 │  4 │  5 │ ⭐ │  7 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年3月5日
+🌟 今天是2026年3月6日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/3/5)
+## 📰 今日资讯 (2026/3/6)
 
 ### 🔥 GitHub 热门项目
-- [KeygraphHQ / shannon](https://github.com/KeygraphHQ / shannon) - Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
 - [msitarzewski / agency-agents](https://github.com/msitarzewski / agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-- [aquasecurity / trivy](https://github.com/aquasecurity / trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [TheCraigHewitt / seomachine](https://github.com/TheCraigHewitt / seomachine) - A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
+- [KeygraphHQ / shannon](https://github.com/KeygraphHQ / shannon) - Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
 
 ### 📚 技术文章精选
-- [电脑端 搜狗输入法自动弹皮肤推荐、AI旺仔关闭方法](https://blog.csdn.net/MrHHHHHH/article/details/147286188)
-- [人工智能：深度学习：1.pytorch概述(1)](https://blog.csdn.net/2401_87568987/article/details/157728385)
-- [医疗AI新范式：当数理模型开始“计算”生命，传统大模型面临重构（五）](https://blog.csdn.net/kkiron/article/details/157799669)
+- [开源 AI 网络搜索工具：OpenWebSearch MCP 全新升级，支持多引擎 + 流式响应！](https://blog.csdn.net/weixin_45801664/article/details/149000138)
+- [AI开发新范式——规范驱动开发（SDD）：通过OpenSpec实现增量开发【SDD第三讲】](https://blog.csdn.net/renhongliang1/article/details/155826895)
+- [AI agent：介绍 PicoClaw 安装，使用说明](https://blog.csdn.net/belldeep/article/details/158206197)
 
 ### 🛡️ 安全资讯
-- [如何从零开始实现一个 AI Agent 框架（理论+实践）](https://cloud.tencent.com/developer/article/2631821)
-- [微信也能用 OpenClaw！腾讯云 IM 手把手教你如何实现](https://cloud.tencent.com/developer/article/2631818)
-- [胡延平：人的重建，从不仰望AI开始](https://cloud.tencent.com/developer/article/2632666)
+- [Token太贵，中国开源模型一夜之间霸榜了](https://cloud.tencent.com/developer/article/2632931)
+- [200行代码实现Claude Code青春版](https://cloud.tencent.com/developer/article/2633222)
+- [什么是Web4.0？普通人的机会在哪里？](https://cloud.tencent.com/developer/article/2633491)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
