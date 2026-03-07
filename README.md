@@ -30,7 +30,7 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  1 │  2 │  3 │  4 │  5 │ ⭐ │  7 │
+│  1 │  2 │  3 │  4 │  5 │  6 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年3月6日
+🌟 今天是2026年3月7日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,24 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/3/6)
+## 📰 今日资讯 (2026/3/7)
 
 ### 🔥 GitHub 热门项目
-- [msitarzewski / agency-agents](https://github.com/msitarzewski / agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-- [TheCraigHewitt / seomachine](https://github.com/TheCraigHewitt / seomachine) - A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
-- [KeygraphHQ / shannon](https://github.com/KeygraphHQ / shannon) - Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
+- [moeru-ai / airi](https://github.com/moeru-ai / airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+- [QwenLM / Qwen-Agent](https://github.com/QwenLM / Qwen-Agent) - Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
+- [microsoft / hve-core](https://github.com/microsoft / hve-core) - A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots
 
 ### 📚 技术文章精选
-- [开源 AI 网络搜索工具：OpenWebSearch MCP 全新升级，支持多引擎 + 流式响应！](https://blog.csdn.net/weixin_45801664/article/details/149000138)
-- [AI开发新范式——规范驱动开发（SDD）：通过OpenSpec实现增量开发【SDD第三讲】](https://blog.csdn.net/renhongliang1/article/details/155826895)
-- [AI agent：介绍 PicoClaw 安装，使用说明](https://blog.csdn.net/belldeep/article/details/158206197)
+
 
 ### 🛡️ 安全资讯
-- [Token太贵，中国开源模型一夜之间霸榜了](https://cloud.tencent.com/developer/article/2632931)
-- [200行代码实现Claude Code青春版](https://cloud.tencent.com/developer/article/2633222)
-- [什么是Web4.0？普通人的机会在哪里？](https://cloud.tencent.com/developer/article/2633491)
+- [深入解析OpenClaw上下文窗口压缩方案 ：一切都是为了效果与省钱](https://cloud.tencent.com/developer/article/2633655)
+- [用 OpenClaw 做视频：播放量从几十涨到 9000，成本一毛钱](https://cloud.tencent.com/developer/article/2633924)
+- [用OpenClaw搭了16个AI Agent，一个人运营13个自媒体平台](https://cloud.tencent.com/developer/article/2633959)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
