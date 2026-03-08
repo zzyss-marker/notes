@@ -30,9 +30,9 @@
 ┌────┬────┬────┬────┬────┬────┬────┐
 │ 日 │ 一 │ 二 │ 三 │ 四 │ 五 │ 六 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  1 │  2 │  3 │  4 │  5 │  6 │ ⭐ │
+│  1 │  2 │  3 │  4 │  5 │  6 │  7 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
+│ ⭐ │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年3月7日
+🌟 今天是2026年3月8日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,24 +111,24 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/3/7)
+## 📰 今日资讯 (2026/3/8)
 
 ### 🔥 GitHub 热门项目
-- [moeru-ai / airi](https://github.com/moeru-ai / airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-- [QwenLM / Qwen-Agent](https://github.com/QwenLM / Qwen-Agent) - Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
-- [microsoft / hve-core](https://github.com/microsoft / hve-core) - A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots
+- [666ghj / MiroFish](https://github.com/666ghj / MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+- [openai / skills](https://github.com/openai / skills) - Skills Catalog for Codex
+- [msitarzewski / agency-agents](https://github.com/msitarzewski / agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
 ### 📚 技术文章精选
 
 
 ### 🛡️ 安全资讯
 - [深入解析OpenClaw上下文窗口压缩方案 ：一切都是为了效果与省钱](https://cloud.tencent.com/developer/article/2633655)
-- [用 OpenClaw 做视频：播放量从几十涨到 9000，成本一毛钱](https://cloud.tencent.com/developer/article/2633924)
 - [用OpenClaw搭了16个AI Agent，一个人运营13个自媒体平台](https://cloud.tencent.com/developer/article/2633959)
+- [【运维自动化-节点管理】直连区域和非直连区域的agent如何安装](https://cloud.tencent.com/developer/article/2634460)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
