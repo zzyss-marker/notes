@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  1 │  2 │  3 │  4 │  5 │  6 │  7 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
+│  8 │ ⭐ │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年3月8日
+🌟 今天是2026年3月9日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,20 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/3/8)
+## 📰 今日资讯 (2026/3/9)
 
 ### 🔥 GitHub 热门项目
+- [GoogleCloudPlatform / generative-ai](https://github.com/GoogleCloudPlatform / generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
 - [666ghj / MiroFish](https://github.com/666ghj / MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
-- [openai / skills](https://github.com/openai / skills) - Skills Catalog for Codex
-- [msitarzewski / agency-agents](https://github.com/msitarzewski / agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+- [shadcn-ui / ui](https://github.com/shadcn-ui / ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 
 ### 📚 技术文章精选
-
+- [10分钟，教你用OpenClaw+Chrome插件生成一份AI每日简报](https://blog.csdn.net/liyue071714118/article/details/157760323)
+- [无需Mac Mini！使用ClawdBot（Moltbot）& AWS EC2的搭建你的24小时AI搭子](https://blog.csdn.net/rralucard123/article/details/157468949)
+- [如何把 AI 大语言模型接入个人项目](https://blog.csdn.net/qq_41898196/article/details/158238684)
 
 ### 🛡️ 安全资讯
 - [深入解析OpenClaw上下文窗口压缩方案 ：一切都是为了效果与省钱](https://cloud.tencent.com/developer/article/2633655)
+- [GLM、MiniMax、Kimi、豆包、千问，国产模型Coding Plan怎么选？一文全套短评](https://cloud.tencent.com/developer/article/2633452)
 - [用OpenClaw搭了16个AI Agent，一个人运营13个自媒体平台](https://cloud.tencent.com/developer/article/2633959)
-- [【运维自动化-节点管理】直连区域和非直连区域的agent如何安装](https://cloud.tencent.com/developer/article/2634460)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
