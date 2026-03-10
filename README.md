@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  1 │  2 │  3 │  4 │  5 │  6 │  7 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  8 │ ⭐ │ 10 │ 11 │ 12 │ 13 │ 14 │
+│  8 │  9 │ ⭐ │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年3月9日
+🌟 今天是2026年3月10日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/3/9)
+## 📰 今日资讯 (2026/3/10)
 
 ### 🔥 GitHub 热门项目
 - [GoogleCloudPlatform / generative-ai](https://github.com/GoogleCloudPlatform / generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
+- [openclaw / openclaw](https://github.com/openclaw / openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [666ghj / MiroFish](https://github.com/666ghj / MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
-- [shadcn-ui / ui](https://github.com/shadcn-ui / ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 
 ### 📚 技术文章精选
-- [10分钟，教你用OpenClaw+Chrome插件生成一份AI每日简报](https://blog.csdn.net/liyue071714118/article/details/157760323)
-- [无需Mac Mini！使用ClawdBot（Moltbot）& AWS EC2的搭建你的24小时AI搭子](https://blog.csdn.net/rralucard123/article/details/157468949)
-- [如何把 AI 大语言模型接入个人项目](https://blog.csdn.net/qq_41898196/article/details/158238684)
+- [【Coze - AI Agent 开发平台】-- 你真的了解 Coze 吗](https://blog.csdn.net/sanfengerwang/article/details/155952050)
+- [【AI智能体】Coze 抓取小红书爆款视频写入飞书多维表实战详解](https://blog.csdn.net/zhangcongyi420/article/details/157400155)
+- [AI 基建：我直接上了个 evomap，吃口热饭！](https://blog.csdn.net/jsw110/article/details/158273249)
 
 ### 🛡️ 安全资讯
-- [深入解析OpenClaw上下文窗口压缩方案 ：一切都是为了效果与省钱](https://cloud.tencent.com/developer/article/2633655)
-- [GLM、MiniMax、Kimi、豆包、千问，国产模型Coding Plan怎么选？一文全套短评](https://cloud.tencent.com/developer/article/2633452)
-- [用OpenClaw搭了16个AI Agent，一个人运营13个自媒体平台](https://cloud.tencent.com/developer/article/2633959)
+- [RAG优化字典：20种RAG优化方法全解析](https://cloud.tencent.com/developer/article/2634637)
+- [提效 77%：GooseFS 写缓存及其在自动驾驶数据处理中的应用](https://cloud.tencent.com/developer/article/2634977)
+- [腾讯云 MetaInsight：一键告别多模态 RAG 基建复杂流程](https://cloud.tencent.com/developer/article/2634970)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
