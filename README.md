@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  1 │  2 │  3 │  4 │  5 │  6 │  7 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  8 │  9 │ ⭐ │ 11 │ 12 │ 13 │ 14 │
+│  8 │  9 │ 10 │ ⭐ │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年3月10日
+🌟 今天是2026年3月11日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/3/10)
+## 📰 今日资讯 (2026/3/11)
 
 ### 🔥 GitHub 热门项目
-- [GoogleCloudPlatform / generative-ai](https://github.com/GoogleCloudPlatform / generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
-- [openclaw / openclaw](https://github.com/openclaw / openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [msitarzewski / agency-agents](https://github.com/msitarzewski / agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 - [666ghj / MiroFish](https://github.com/666ghj / MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+- [NousResearch / hermes-agent](https://github.com/NousResearch / hermes-agent) - The agent that grows with you
 
 ### 📚 技术文章精选
-- [【Coze - AI Agent 开发平台】-- 你真的了解 Coze 吗](https://blog.csdn.net/sanfengerwang/article/details/155952050)
-- [【AI智能体】Coze 抓取小红书爆款视频写入飞书多维表实战详解](https://blog.csdn.net/zhangcongyi420/article/details/157400155)
-- [AI 基建：我直接上了个 evomap，吃口热饭！](https://blog.csdn.net/jsw110/article/details/158273249)
+- [2025CTF逆向工程“新范式”：当Jadx装上AI大脑,逆向效率提升](https://blog.csdn.net/2201_75642447/article/details/156061436)
+- [daily_stock_analysis部署教程：Kubernetes集群中高可用金融AI服务](https://blog.csdn.net/weixin_42515392/article/details/157519907)
+- [我用 Python 写了个GitHub AI Agent，每天自动帮我挖掘 GitHub 热门项目，还能举一反三！](https://blog.csdn.net/2301_79503034/article/details/158581652)
 
 ### 🛡️ 安全资讯
-- [RAG优化字典：20种RAG优化方法全解析](https://cloud.tencent.com/developer/article/2634637)
-- [提效 77%：GooseFS 写缓存及其在自动驾驶数据处理中的应用](https://cloud.tencent.com/developer/article/2634977)
-- [腾讯云 MetaInsight：一键告别多模态 RAG 基建复杂流程](https://cloud.tencent.com/developer/article/2634970)
+- [数据为翼，云端赋能——腾讯云存储联合艾欧智能发布具身智能数据平台](https://cloud.tencent.com/developer/article/2634982)
+- [腾讯云 Data Platform 构建 Agent Memory Lake：让智能体拥有无限记忆](https://cloud.tencent.com/developer/article/2634974)
+- [云上 OpenClaw（原 Clawdbot）数据持久存储指南](https://cloud.tencent.com/developer/article/2634967)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
