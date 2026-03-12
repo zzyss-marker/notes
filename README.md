@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  1 │  2 │  3 │  4 │  5 │  6 │  7 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  8 │  9 │ 10 │ ⭐ │ 12 │ 13 │ 14 │
+│  8 │  9 │ 10 │ 11 │ ⭐ │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年3月11日
+🌟 今天是2026年3月12日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/3/11)
+## 📰 今日资讯 (2026/3/12)
 
 ### 🔥 GitHub 热门项目
 - [msitarzewski / agency-agents](https://github.com/msitarzewski / agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 - [666ghj / MiroFish](https://github.com/666ghj / MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
-- [NousResearch / hermes-agent](https://github.com/NousResearch / hermes-agent) - The agent that grows with you
+- [promptfoo / promptfoo](https://github.com/promptfoo / promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
 
 ### 📚 技术文章精选
-- [2025CTF逆向工程“新范式”：当Jadx装上AI大脑,逆向效率提升](https://blog.csdn.net/2201_75642447/article/details/156061436)
-- [daily_stock_analysis部署教程：Kubernetes集群中高可用金融AI服务](https://blog.csdn.net/weixin_42515392/article/details/157519907)
-- [我用 Python 写了个GitHub AI Agent，每天自动帮我挖掘 GitHub 热门项目，还能举一反三！](https://blog.csdn.net/2301_79503034/article/details/158581652)
+- [VSCode AI Copilot 智能补全失效？（错误修正终极手册）](https://blog.csdn.net/Instrulink/article/details/155737018)
+- [TRAE IDE 从入门到精通：打造你的 AI 超级开发伙伴](https://blog.csdn.net/xiaohui2015/article/details/157907800)
+- [5分钟打一个，AI生成Spine动画！简直了...](https://blog.csdn.net/6346289/article/details/148644793)
 
 ### 🛡️ 安全资讯
-- [数据为翼，云端赋能——腾讯云存储联合艾欧智能发布具身智能数据平台](https://cloud.tencent.com/developer/article/2634982)
-- [腾讯云 Data Platform 构建 Agent Memory Lake：让智能体拥有无限记忆](https://cloud.tencent.com/developer/article/2634974)
-- [云上 OpenClaw（原 Clawdbot）数据持久存储指南](https://cloud.tencent.com/developer/article/2634967)
+- [如何创建插件市场](https://cloud.tencent.com/developer/article/2635043)
+- [极速部署、安全可控，腾讯云ADP上线OpenClaw企业级服务](https://cloud.tencent.com/developer/article/2634993)
+- [首家！腾讯云WeData率先通过中国信通院数智一体化平台（DIOps）技术要求专项测试](https://cloud.tencent.com/developer/article/2635356)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
