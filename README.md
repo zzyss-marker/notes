@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  1 │  2 │  3 │  4 │  5 │  6 │  7 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  8 │  9 │ 10 │ 11 │ ⭐ │ 13 │ 14 │
+│  8 │  9 │ 10 │ 11 │ 12 │ ⭐ │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年3月12日
+🌟 今天是2026年3月13日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/3/12)
+## 📰 今日资讯 (2026/3/13)
 
 ### 🔥 GitHub 热门项目
-- [msitarzewski / agency-agents](https://github.com/msitarzewski / agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-- [666ghj / MiroFish](https://github.com/666ghj / MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
-- [promptfoo / promptfoo](https://github.com/promptfoo / promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
+- [microsoft / BitNet](https://github.com/microsoft / BitNet) - Official inference framework for 1-bit LLMs
+- [fishaudio / fish-speech](https://github.com/fishaudio / fish-speech) - SOTA Open Source TTS
+- [langflow-ai / openrag](https://github.com/langflow-ai / openrag) - OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.
 
 ### 📚 技术文章精选
-- [VSCode AI Copilot 智能补全失效？（错误修正终极手册）](https://blog.csdn.net/Instrulink/article/details/155737018)
-- [TRAE IDE 从入门到精通：打造你的 AI 超级开发伙伴](https://blog.csdn.net/xiaohui2015/article/details/157907800)
-- [5分钟打一个，AI生成Spine动画！简直了...](https://blog.csdn.net/6346289/article/details/148644793)
+- [AI看不懂图片？我把Transformer塞进“九宫格”，CV/NLP从此一家亲！](https://blog.csdn.net/zxc18344522713/article/details/158351162)
+- [Aspen 15.0 升级亮点：AI 建模 + 绿氢适配，新手也能玩转流程模拟下载安装](https://blog.csdn.net/2502_94695747/article/details/156864927)
+- [MCP 是什么？为什么它是 AI 落地的 “超级翻译官”？从作用到原理一文吃透](https://blog.csdn.net/CSDN_224022/article/details/152271697)
 
 ### 🛡️ 安全资讯
-- [如何创建插件市场](https://cloud.tencent.com/developer/article/2635043)
-- [极速部署、安全可控，腾讯云ADP上线OpenClaw企业级服务](https://cloud.tencent.com/developer/article/2634993)
-- [首家！腾讯云WeData率先通过中国信通院数智一体化平台（DIOps）技术要求专项测试](https://cloud.tencent.com/developer/article/2635356)
+- [最懂大模型的人也逃不过杀猪盘？API生意背后的灰产链条](https://cloud.tencent.com/developer/article/2635824)
+- [阿里云在线迁移到镜像，用其新买或重装系统的机器进不了系统，开机后一直转圈](https://cloud.tencent.com/developer/article/2636071)
+- [传统工作流 vs 现代工作流对比分析](https://cloud.tencent.com/developer/article/2636219)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
