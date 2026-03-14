@@ -32,7 +32,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  1 │  2 │  3 │  4 │  5 │  6 │  7 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  8 │  9 │ 10 │ 11 │ 12 │ ⭐ │ 14 │
+│  8 │  9 │ 10 │ 11 │ 12 │ 13 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年3月13日
+🌟 今天是2026年3月14日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/3/13)
+## 📰 今日资讯 (2026/3/14)
 
 ### 🔥 GitHub 热门项目
 - [microsoft / BitNet](https://github.com/microsoft / BitNet) - Official inference framework for 1-bit LLMs
-- [fishaudio / fish-speech](https://github.com/fishaudio / fish-speech) - SOTA Open Source TTS
 - [langflow-ai / openrag](https://github.com/langflow-ai / openrag) - OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.
+- [lightpanda-io / browser](https://github.com/lightpanda-io / browser) - Lightpanda: the headless browser designed for AI and automation
 
 ### 📚 技术文章精选
-- [AI看不懂图片？我把Transformer塞进“九宫格”，CV/NLP从此一家亲！](https://blog.csdn.net/zxc18344522713/article/details/158351162)
-- [Aspen 15.0 升级亮点：AI 建模 + 绿氢适配，新手也能玩转流程模拟下载安装](https://blog.csdn.net/2502_94695747/article/details/156864927)
-- [MCP 是什么？为什么它是 AI 落地的 “超级翻译官”？从作用到原理一文吃透](https://blog.csdn.net/CSDN_224022/article/details/152271697)
+- [低代码 AI 平台Coze 详解](https://blog.csdn.net/xie__jin__cheng/article/details/156980757)
+- [AI时代，一文彻底搞懂天天被提到的Agent是什么？](https://blog.csdn.net/l01011_/article/details/146495533)
+- [人工智能：自然语言处理在客户服务领域的应用与实战](https://blog.csdn.net/COLLINSXU/article/details/157685816)
 
 ### 🛡️ 安全资讯
-- [最懂大模型的人也逃不过杀猪盘？API生意背后的灰产链条](https://cloud.tencent.com/developer/article/2635824)
-- [阿里云在线迁移到镜像，用其新买或重装系统的机器进不了系统，开机后一直转圈](https://cloud.tencent.com/developer/article/2636071)
-- [传统工作流 vs 现代工作流对比分析](https://cloud.tencent.com/developer/article/2636219)
+- [腾讯云windows云服务器配置openclaw](https://cloud.tencent.com/developer/article/2636326)
+- [百万 Credits 悬赏 · 秀出你的 WorkBuddy Claw 实战](https://cloud.tencent.com/developer/article/2635883)
+- [腾讯云OpenClaw龙虾社资源群](https://cloud.tencent.com/developer/article/2636265)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
