@@ -32,9 +32,9 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  1 │  2 │  3 │  4 │  5 │  6 │  7 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│  8 │  9 │ 10 │ 11 │ 12 │ 13 │ ⭐ │
+│  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
+│ ⭐ │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年3月14日
+🌟 今天是2026年3月15日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/3/14)
+## 📰 今日资讯 (2026/3/15)
 
 ### 🔥 GitHub 热门项目
-- [microsoft / BitNet](https://github.com/microsoft / BitNet) - Official inference framework for 1-bit LLMs
-- [langflow-ai / openrag](https://github.com/langflow-ai / openrag) - OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.
-- [lightpanda-io / browser](https://github.com/lightpanda-io / browser) - Lightpanda: the headless browser designed for AI and automation
+- [volcengine / OpenViking](https://github.com/volcengine / OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
+- [anthropics / claude-plugins-official](https://github.com/anthropics / claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
+- [dimensionalOS / dimos](https://github.com/dimensionalOS / dimos) - The Dimensional Framework
 
 ### 📚 技术文章精选
-- [低代码 AI 平台Coze 详解](https://blog.csdn.net/xie__jin__cheng/article/details/156980757)
-- [AI时代，一文彻底搞懂天天被提到的Agent是什么？](https://blog.csdn.net/l01011_/article/details/146495533)
-- [人工智能：自然语言处理在客户服务领域的应用与实战](https://blog.csdn.net/COLLINSXU/article/details/157685816)
+- [AI 绘画神器爆改指南：kohya_ss 一文速通 LoRA 训练与对比解析！](https://blog.csdn.net/2301_76341691/article/details/150610759)
+- [【GitHub项目推荐--Moyin Creator（魔因漫创）：AI影视生产级全流程创作工具】⭐⭐⭐](https://blog.csdn.net/j8267643/article/details/158581160)
+- [AI agent：介绍 ZeroClaw 安装，使用](https://blog.csdn.net/belldeep/article/details/158156664)
 
 ### 🛡️ 安全资讯
-- [腾讯云windows云服务器配置openclaw](https://cloud.tencent.com/developer/article/2636326)
 - [百万 Credits 悬赏 · 秀出你的 WorkBuddy Claw 实战](https://cloud.tencent.com/developer/article/2635883)
 - [腾讯云OpenClaw龙虾社资源群](https://cloud.tencent.com/developer/article/2636265)
+- [20000月薪养得起“龙虾”吗？五个值得关注的误读](https://cloud.tencent.com/developer/article/2636351)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
