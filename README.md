@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
+│ 15 │ ⭐ │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年3月15日
+🌟 今天是2026年3月16日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/3/15)
+## 📰 今日资讯 (2026/3/16)
 
 ### 🔥 GitHub 热门项目
+- [lightpanda-io / browser](https://github.com/lightpanda-io / browser) - Lightpanda: the headless browser designed for AI and automation
+- [Crosstalk-Solutions / project-nomad](https://github.com/Crosstalk-Solutions / project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
 - [volcengine / OpenViking](https://github.com/volcengine / OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
-- [anthropics / claude-plugins-official](https://github.com/anthropics / claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
-- [dimensionalOS / dimos](https://github.com/dimensionalOS / dimos) - The Dimensional Framework
 
 ### 📚 技术文章精选
-- [AI 绘画神器爆改指南：kohya_ss 一文速通 LoRA 训练与对比解析！](https://blog.csdn.net/2301_76341691/article/details/150610759)
-- [【GitHub项目推荐--Moyin Creator（魔因漫创）：AI影视生产级全流程创作工具】⭐⭐⭐](https://blog.csdn.net/j8267643/article/details/158581160)
-- [AI agent：介绍 ZeroClaw 安装，使用](https://blog.csdn.net/belldeep/article/details/158156664)
+- [[AI提效-26]-6款主流AI办公工具实测对比｜豆包/千问/Kimi等，哪款真能帮你省时间？](https://blog.csdn.net/HiWangWenBing/article/details/158317422)
+- [人工智能与机器学习在软件工程中的应用：探索AL和ML技术如何改变软件的开发方式](https://blog.csdn.net/2301_79156290/article/details/158101313)
+- [配置即资产：从12345政务热线分拨助手看智能体工作流的导出与导入，不用写代码，也能让AI业务流随身携带](https://blog.csdn.net/m0_55394328/article/details/158663949)
 
 ### 🛡️ 安全资讯
-- [百万 Credits 悬赏 · 秀出你的 WorkBuddy Claw 实战](https://cloud.tencent.com/developer/article/2635883)
-- [腾讯云OpenClaw龙虾社资源群](https://cloud.tencent.com/developer/article/2636265)
-- [20000月薪养得起“龙虾”吗？五个值得关注的误读](https://cloud.tencent.com/developer/article/2636351)
+- [windows安装openclaw，不用choco安装基础环境，用scoop](https://cloud.tencent.com/developer/article/2637399)
+- [担心“小龙虾”不安全？一句话给 Agent 做安全体检](https://cloud.tencent.com/developer/article/2637365)
+- [为什么powershell_ise终端跟普通powershell终端里执行相同命令的回显有差异](https://cloud.tencent.com/developer/article/2637867)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
