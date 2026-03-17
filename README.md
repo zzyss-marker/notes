@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 15 │ ⭐ │ 17 │ 18 │ 19 │ 20 │ 21 │
+│ 15 │ 16 │ ⭐ │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年3月16日
+🌟 今天是2026年3月17日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/3/16)
+## 📰 今日资讯 (2026/3/17)
 
 ### 🔥 GitHub 热门项目
-- [lightpanda-io / browser](https://github.com/lightpanda-io / browser) - Lightpanda: the headless browser designed for AI and automation
+- [666ghj / MiroFish](https://github.com/666ghj / MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+- [thedotmack / claude-mem](https://github.com/thedotmack / claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 - [Crosstalk-Solutions / project-nomad](https://github.com/Crosstalk-Solutions / project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
-- [volcengine / OpenViking](https://github.com/volcengine / OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
 
 ### 📚 技术文章精选
-- [[AI提效-26]-6款主流AI办公工具实测对比｜豆包/千问/Kimi等，哪款真能帮你省时间？](https://blog.csdn.net/HiWangWenBing/article/details/158317422)
-- [人工智能与机器学习在软件工程中的应用：探索AL和ML技术如何改变软件的开发方式](https://blog.csdn.net/2301_79156290/article/details/158101313)
-- [配置即资产：从12345政务热线分拨助手看智能体工作流的导出与导入，不用写代码，也能让AI业务流随身携带](https://blog.csdn.net/m0_55394328/article/details/158663949)
+- [AI最新资讯（3.01）](https://blog.csdn.net/qq_45475497/article/details/158575329)
+- [基于ModelEngine快速搭建AI智能体，打造你的专属旅行顾问](https://blog.csdn.net/herosunly/article/details/155199298)
+- [$19.99 订阅值不值？Google AI Pro 全面评测以及订阅会员权益功能解析详情](https://blog.csdn.net/2501_90831828/article/details/155392665)
 
 ### 🛡️ 安全资讯
-- [windows安装openclaw，不用choco安装基础环境，用scoop](https://cloud.tencent.com/developer/article/2637399)
-- [担心“小龙虾”不安全？一句话给 Agent 做安全体检](https://cloud.tencent.com/developer/article/2637365)
-- [为什么powershell_ise终端跟普通powershell终端里执行相同命令的回显有差异](https://cloud.tencent.com/developer/article/2637867)
+- [腾讯云 OpenClaw 玩虾大赛 | 分享玩虾心得，最高赢 Mac mini🍎](https://cloud.tencent.com/developer/article/2638101)
+- [不写代码，用扣子编程部署 OpenClaw + 飞书机器人](https://cloud.tencent.com/developer/article/2638454)
+- [Qclaw：你的本地龙虾管家，一键管理 OpenClaw](https://cloud.tencent.com/developer/article/2638488)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
