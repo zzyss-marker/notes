@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 15 │ 16 │ ⭐ │ 18 │ 19 │ 20 │ 21 │
+│ 15 │ 16 │ 17 │ ⭐ │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年3月17日
+🌟 今天是2026年3月18日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/3/17)
+## 📰 今日资讯 (2026/3/18)
 
 ### 🔥 GitHub 热门项目
-- [666ghj / MiroFish](https://github.com/666ghj / MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
-- [thedotmack / claude-mem](https://github.com/thedotmack / claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-- [Crosstalk-Solutions / project-nomad](https://github.com/Crosstalk-Solutions / project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
+- [obra / superpowers](https://github.com/obra / superpowers) - An agentic skills framework & software development methodology that works.
+- [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io / build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+- [abhigyanpatwari / GitNexus](https://github.com/abhigyanpatwari / GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
 
 ### 📚 技术文章精选
-- [AI最新资讯（3.01）](https://blog.csdn.net/qq_45475497/article/details/158575329)
-- [基于ModelEngine快速搭建AI智能体，打造你的专属旅行顾问](https://blog.csdn.net/herosunly/article/details/155199298)
-- [$19.99 订阅值不值？Google AI Pro 全面评测以及订阅会员权益功能解析详情](https://blog.csdn.net/2501_90831828/article/details/155392665)
+- [AI的提示词专栏：用结构化 JSON 提示模型返回可解析的数据](https://blog.csdn.net/weixin_43151418/article/details/153260215)
+- [AI能赚钱？别被割韭菜了！深度拆解：为什么你学了100个AI工具却赚不到1分钱](https://blog.csdn.net/sinat_41617212/article/details/157844855)
+- [pycharm安装通义灵码插件，让ai给你写代码](https://blog.csdn.net/weixin_48636525/article/details/149230121)
 
 ### 🛡️ 安全资讯
-- [腾讯云 OpenClaw 玩虾大赛 | 分享玩虾心得，最高赢 Mac mini🍎](https://cloud.tencent.com/developer/article/2638101)
-- [不写代码，用扣子编程部署 OpenClaw + 飞书机器人](https://cloud.tencent.com/developer/article/2638454)
-- [Qclaw：你的本地龙虾管家，一键管理 OpenClaw](https://cloud.tencent.com/developer/article/2638488)
+- [腾讯WorkBuddy重大升级：直连微信，全量开放](https://cloud.tencent.com/developer/article/2637991)
+- [腾讯版🦞上岗！WorkBuddy Claw 重磅公测，5,000 Credits 免费送！](https://cloud.tencent.com/developer/article/2638721)
+- [全网最细！OpenClaw本地部署教程和常见问题汇总](https://cloud.tencent.com/developer/article/2638166)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
