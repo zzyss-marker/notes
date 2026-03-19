@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 15 │ 16 │ 17 │ ⭐ │ 19 │ 20 │ 21 │
+│ 15 │ 16 │ 17 │ 18 │ ⭐ │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年3月18日
+🌟 今天是2026年3月19日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/3/18)
+## 📰 今日资讯 (2026/3/19)
 
 ### 🔥 GitHub 热门项目
+- [jarrodwatts / claude-hud](https://github.com/jarrodwatts / claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [obra / superpowers](https://github.com/obra / superpowers) - An agentic skills framework & software development methodology that works.
-- [codecrafters-io / build-your-own-x](https://github.com/codecrafters-io / build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [abhigyanpatwari / GitNexus](https://github.com/abhigyanpatwari / GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+- [unslothai / unsloth](https://github.com/unslothai / unsloth) - Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
 
 ### 📚 技术文章精选
-- [AI的提示词专栏：用结构化 JSON 提示模型返回可解析的数据](https://blog.csdn.net/weixin_43151418/article/details/153260215)
-- [AI能赚钱？别被割韭菜了！深度拆解：为什么你学了100个AI工具却赚不到1分钱](https://blog.csdn.net/sinat_41617212/article/details/157844855)
-- [pycharm安装通义灵码插件，让ai给你写代码](https://blog.csdn.net/weixin_48636525/article/details/149230121)
+- [终于，我把 Openclaw 加 Seed2.0 Skills 做 AI 漫剧搞定了](https://blog.csdn.net/qq_43270074/article/details/158578658)
+- [详解Agent Skills：让AI拥有更多专业能力（什么是Agent Skills？如何创建？如何使用？如何获取？）](https://blog.csdn.net/xiaoqiangclub/article/details/157129860)
+- [Python 驱动浏览器自动化：Playwright + AI 的 2026 最佳实践](https://blog.csdn.net/qq_34252622/article/details/157729343)
 
 ### 🛡️ 安全资讯
-- [腾讯WorkBuddy重大升级：直连微信，全量开放](https://cloud.tencent.com/developer/article/2637991)
-- [腾讯版🦞上岗！WorkBuddy Claw 重磅公测，5,000 Credits 免费送！](https://cloud.tencent.com/developer/article/2638721)
-- [全网最细！OpenClaw本地部署教程和常见问题汇总](https://cloud.tencent.com/developer/article/2638166)
+- [腾讯自研虾再进化！一键微信直连、自动化定时任务，养虾门槛又降！](https://cloud.tencent.com/developer/article/2638720)
+- [腾讯小龙虾一站式服务日全国百场巡回（持续更新中🔥）](https://cloud.tencent.com/developer/article/2638185)
+- [刚刚，腾讯云Coding Plan全新上架！](https://cloud.tencent.com/developer/article/2638167)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
