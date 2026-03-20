@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 15 │ 16 │ 17 │ 18 │ ⭐ │ 20 │ 21 │
+│ 15 │ 16 │ 17 │ 18 │ 19 │ ⭐ │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年3月19日
+🌟 今天是2026年3月20日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/3/19)
+## 📰 今日资讯 (2026/3/20)
 
 ### 🔥 GitHub 热门项目
-- [jarrodwatts / claude-hud](https://github.com/jarrodwatts / claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
+- [opendataloader-project / opendataloader-pdf](https://github.com/opendataloader-project / opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+- [langchain-ai / open-swe](https://github.com/langchain-ai / open-swe) - An Open-Source Asynchronous Coding Agent
 - [obra / superpowers](https://github.com/obra / superpowers) - An agentic skills framework & software development methodology that works.
-- [unslothai / unsloth](https://github.com/unslothai / unsloth) - Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
 
 ### 📚 技术文章精选
-- [终于，我把 Openclaw 加 Seed2.0 Skills 做 AI 漫剧搞定了](https://blog.csdn.net/qq_43270074/article/details/158578658)
-- [详解Agent Skills：让AI拥有更多专业能力（什么是Agent Skills？如何创建？如何使用？如何获取？）](https://blog.csdn.net/xiaoqiangclub/article/details/157129860)
-- [Python 驱动浏览器自动化：Playwright + AI 的 2026 最佳实践](https://blog.csdn.net/qq_34252622/article/details/157729343)
+- [AI 视频争霸：通义万相 2.1 凭啥让画面质量和稳定性远超同行？](https://blog.csdn.net/weixin_73295475/article/details/146039922)
+- [2026年写论文最好用的AI模型TOP榜出炉！究竟哪家能拔得](https://blog.csdn.net/2501_94356116/article/details/157766401)
+- [AI赋能原则9解读思考：高智能 AI 时代的人类生存与发展之道-协同进化](https://blog.csdn.net/xiaofeng10330111/article/details/155390688)
 
 ### 🛡️ 安全资讯
-- [腾讯自研虾再进化！一键微信直连、自动化定时任务，养虾门槛又降！](https://cloud.tencent.com/developer/article/2638720)
-- [腾讯小龙虾一站式服务日全国百场巡回（持续更新中🔥）](https://cloud.tencent.com/developer/article/2638185)
-- [刚刚，腾讯云Coding Plan全新上架！](https://cloud.tencent.com/developer/article/2638167)
+- [大学生必领福利：GitHub 学生包申请详细步骤](https://cloud.tencent.com/developer/article/2638999)
+- [拒绝 Token 刺客！巧用 COS 向量桶给 OpenClaw 装上智能路由，Token 狂降92%！](https://cloud.tencent.com/developer/article/2639114)
+- [CodeBuddy 一周更新亮点｜WorkBuddy 支持企微长链接，IDE 新增 Agents 模式，CLI 强化远程协作能力](https://cloud.tencent.com/developer/article/2639204)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
