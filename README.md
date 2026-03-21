@@ -34,7 +34,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 15 │ 16 │ 17 │ 18 │ 19 │ ⭐ │ 21 │
+│ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │
 ├────┼────┼────┼────┼────┼────┼────┤
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年3月20日
+🌟 今天是2026年3月21日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/3/20)
+## 📰 今日资讯 (2026/3/21)
 
 ### 🔥 GitHub 热门项目
-- [opendataloader-project / opendataloader-pdf](https://github.com/opendataloader-project / opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+- [jarrodwatts / claude-hud](https://github.com/jarrodwatts / claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [langchain-ai / open-swe](https://github.com/langchain-ai / open-swe) - An Open-Source Asynchronous Coding Agent
 - [obra / superpowers](https://github.com/obra / superpowers) - An agentic skills framework & software development methodology that works.
 
 ### 📚 技术文章精选
-- [AI 视频争霸：通义万相 2.1 凭啥让画面质量和稳定性远超同行？](https://blog.csdn.net/weixin_73295475/article/details/146039922)
-- [2026年写论文最好用的AI模型TOP榜出炉！究竟哪家能拔得](https://blog.csdn.net/2501_94356116/article/details/157766401)
-- [AI赋能原则9解读思考：高智能 AI 时代的人类生存与发展之道-协同进化](https://blog.csdn.net/xiaofeng10330111/article/details/155390688)
+- [普通人拍电影的时代来了！即梦AI Seedance 2.0视频模型使用教程](https://blog.csdn.net/ai979092/article/details/157909588)
+- [【AI智能体】Coze 抓取小红书爆款视频写入飞书多维表实战详解](https://blog.csdn.net/zhangcongyi420/article/details/157400155)
+- [AI表格如何复制](https://blog.csdn.net/aihuangwu/article/details/157185215)
 
 ### 🛡️ 安全资讯
-- [大学生必领福利：GitHub 学生包申请详细步骤](https://cloud.tencent.com/developer/article/2638999)
-- [拒绝 Token 刺客！巧用 COS 向量桶给 OpenClaw 装上智能路由，Token 狂降92%！](https://cloud.tencent.com/developer/article/2639114)
 - [CodeBuddy 一周更新亮点｜WorkBuddy 支持企微长链接，IDE 新增 Agents 模式，CLI 强化远程协作能力](https://cloud.tencent.com/developer/article/2639204)
+- [实测鹅厂OpenClaw生态：从办公到研发，解锁AI智能体全场景效能](https://cloud.tencent.com/developer/article/2639667)
+- [一站式接入小红书：我用 Openclaw 跑通了从写稿到发布的全流程](https://cloud.tencent.com/developer/article/2639113)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
