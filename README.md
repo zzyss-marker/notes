@@ -34,9 +34,9 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │  8 │  9 │ 10 │ 11 │ 12 │ 13 │ 14 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ ⭐ │
+│ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │
+│ ⭐ │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 29 │ 30 │ 31 │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年3月21日
+🌟 今天是2026年3月22日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/3/21)
+## 📰 今日资讯 (2026/3/22)
 
 ### 🔥 GitHub 热门项目
-- [jarrodwatts / claude-hud](https://github.com/jarrodwatts / claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
-- [langchain-ai / open-swe](https://github.com/langchain-ai / open-swe) - An Open-Source Asynchronous Coding Agent
-- [obra / superpowers](https://github.com/obra / superpowers) - An agentic skills framework & software development methodology that works.
+- [FujiwaraChoki / MoneyPrinterV2](https://github.com/FujiwaraChoki / MoneyPrinterV2) - Automate the process of making money online.
+- [systemd / systemd](https://github.com/systemd / systemd) - The systemd System and Service Manager
+- [aquasecurity / trivy](https://github.com/aquasecurity / trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
 ### 📚 技术文章精选
-- [普通人拍电影的时代来了！即梦AI Seedance 2.0视频模型使用教程](https://blog.csdn.net/ai979092/article/details/157909588)
-- [【AI智能体】Coze 抓取小红书爆款视频写入飞书多维表实战详解](https://blog.csdn.net/zhangcongyi420/article/details/157400155)
-- [AI表格如何复制](https://blog.csdn.net/aihuangwu/article/details/157185215)
+- [【AI】学习大语言模型原理必看的 10 篇论文](https://blog.csdn.net/2401_87342824/article/details/159044351)
+- [Palantir与AI本体论介绍及实例](https://blog.csdn.net/HeartForever2025/article/details/158100596)
+- [腾讯云CodeBuddy AI IDE+CloudBase AI ToolKit打造理财小助手网页](https://blog.csdn.net/IRpickstars/article/details/149928291)
 
 ### 🛡️ 安全资讯
-- [CodeBuddy 一周更新亮点｜WorkBuddy 支持企微长链接，IDE 新增 Agents 模式，CLI 强化远程协作能力](https://cloud.tencent.com/developer/article/2639204)
 - [实测鹅厂OpenClaw生态：从办公到研发，解锁AI智能体全场景效能](https://cloud.tencent.com/developer/article/2639667)
 - [一站式接入小红书：我用 Openclaw 跑通了从写稿到发布的全流程](https://cloud.tencent.com/developer/article/2639113)
+- [别再手动录发票了！用腾讯龙虾Skills，让财务提前 2 小时下班](https://cloud.tencent.com/developer/article/2639669)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+代码写得越急，程序跑得越慢。
 <!-- DAILY_INFO_END -->
