@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ ⭐ │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │
+│ 22 │ ⭐ │ 24 │ 25 │ 26 │ 27 │ 28 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 29 │ 30 │ 31 │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年3月22日
+🌟 今天是2026年3月23日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,17 +111,17 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/3/22)
+## 📰 今日资讯 (2026/3/23)
 
 ### 🔥 GitHub 热门项目
 - [FujiwaraChoki / MoneyPrinterV2](https://github.com/FujiwaraChoki / MoneyPrinterV2) - Automate the process of making money online.
-- [systemd / systemd](https://github.com/systemd / systemd) - The systemd System and Service Manager
-- [aquasecurity / trivy](https://github.com/aquasecurity / trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [TauricResearch / TradingAgents](https://github.com/TauricResearch / TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
+- [vxcontrol / pentagi](https://github.com/vxcontrol / pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 
 ### 📚 技术文章精选
-- [【AI】学习大语言模型原理必看的 10 篇论文](https://blog.csdn.net/2401_87342824/article/details/159044351)
-- [Palantir与AI本体论介绍及实例](https://blog.csdn.net/HeartForever2025/article/details/158100596)
-- [腾讯云CodeBuddy AI IDE+CloudBase AI ToolKit打造理财小助手网页](https://blog.csdn.net/IRpickstars/article/details/149928291)
+- [医疗大模型LoRA微调实战：我用40行代码让AI学会看病](https://blog.csdn.net/sinat_41617212/article/details/156277117)
+- [2026年Gemini学生认证实战指南：如何将免费Pro权限转化为AI求职核武器！](https://blog.csdn.net/u014411348/article/details/157541599)
+- [DSO.ai：基于AI的搜索优化型EDA工具介绍](https://blog.csdn.net/weixin_45791458/article/details/157735793)
 
 ### 🛡️ 安全资讯
 - [实测鹅厂OpenClaw生态：从办公到研发，解锁AI智能体全场景效能](https://cloud.tencent.com/developer/article/2639667)
@@ -132,5 +132,5 @@
 获取知乎每日精选失败
 
 ### 💡 每日一句
-代码写得越急，程序跑得越慢。
+编程是一门艺术，调试是一场修行。
 <!-- DAILY_INFO_END -->
