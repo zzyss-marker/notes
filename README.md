@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 22 │ ⭐ │ 24 │ 25 │ 26 │ 27 │ 28 │
+│ 22 │ 23 │ ⭐ │ 25 │ 26 │ 27 │ 28 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 29 │ 30 │ 31 │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年3月23日
+🌟 今天是2026年3月24日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/3/23)
+## 📰 今日资讯 (2026/3/24)
 
 ### 🔥 GitHub 热门项目
 - [FujiwaraChoki / MoneyPrinterV2](https://github.com/FujiwaraChoki / MoneyPrinterV2) - Automate the process of making money online.
-- [TauricResearch / TradingAgents](https://github.com/TauricResearch / TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
-- [vxcontrol / pentagi](https://github.com/vxcontrol / pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+- [bytedance / deer-flow](https://github.com/bytedance / deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
+- [Crosstalk-Solutions / project-nomad](https://github.com/Crosstalk-Solutions / project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
 
 ### 📚 技术文章精选
-- [医疗大模型LoRA微调实战：我用40行代码让AI学会看病](https://blog.csdn.net/sinat_41617212/article/details/156277117)
-- [2026年Gemini学生认证实战指南：如何将免费Pro权限转化为AI求职核武器！](https://blog.csdn.net/u014411348/article/details/157541599)
-- [DSO.ai：基于AI的搜索优化型EDA工具介绍](https://blog.csdn.net/weixin_45791458/article/details/157735793)
+- [OpenCode环境变量终极配置指南：告别AI连接失败的烦恼](https://blog.csdn.net/gitblog_01125/article/details/156102492)
+- [AI毕业论文写作指令全攻略：50条高效生成指令助你零基础完成高质原创论文](https://blog.csdn.net/2501_93361204/article/details/154567565)
+- [Flutter for OpenHarmony：Flutter 三方库 dart_mcp — 开启鸿蒙端的 AI Agent 通信协议新纪元（适配鸿蒙 HarmonyOS Next ohos）](https://blog.csdn.net/cannonjinx/article/details/158356993)
 
 ### 🛡️ 安全资讯
-- [实测鹅厂OpenClaw生态：从办公到研发，解锁AI智能体全场景效能](https://cloud.tencent.com/developer/article/2639667)
-- [一站式接入小红书：我用 Openclaw 跑通了从写稿到发布的全流程](https://cloud.tencent.com/developer/article/2639113)
-- [别再手动录发票了！用腾讯龙虾Skills，让财务提前 2 小时下班](https://cloud.tencent.com/developer/article/2639669)
+- [数仓产品如何构筑数据安全防线？腾讯云TCHouse系列全方位解析](https://cloud.tencent.com/developer/article/2644157)
+- [数仓合规性全解析：腾讯云数据仓库如何为企业数据安全保驾护航](https://cloud.tencent.com/developer/article/2644138)
+- [数仓权限管理全解析：腾讯云数据仓库如何保障数据安全？](https://cloud.tencent.com/developer/article/2644186)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
