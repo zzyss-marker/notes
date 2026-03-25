@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 22 │ 23 │ ⭐ │ 25 │ 26 │ 27 │ 28 │
+│ 22 │ 23 │ 24 │ ⭐ │ 26 │ 27 │ 28 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 29 │ 30 │ 31 │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年3月24日
+🌟 今天是2026年3月25日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/3/24)
+## 📰 今日资讯 (2026/3/25)
 
 ### 🔥 GitHub 热门项目
-- [FujiwaraChoki / MoneyPrinterV2](https://github.com/FujiwaraChoki / MoneyPrinterV2) - Automate the process of making money online.
+- [pascalorg / editor](https://github.com/pascalorg / editor) - 
 - [bytedance / deer-flow](https://github.com/bytedance / deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
-- [Crosstalk-Solutions / project-nomad](https://github.com/Crosstalk-Solutions / project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
+- [supermemoryai / supermemory](https://github.com/supermemoryai / supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
 
 ### 📚 技术文章精选
-- [OpenCode环境变量终极配置指南：告别AI连接失败的烦恼](https://blog.csdn.net/gitblog_01125/article/details/156102492)
-- [AI毕业论文写作指令全攻略：50条高效生成指令助你零基础完成高质原创论文](https://blog.csdn.net/2501_93361204/article/details/154567565)
-- [Flutter for OpenHarmony：Flutter 三方库 dart_mcp — 开启鸿蒙端的 AI Agent 通信协议新纪元（适配鸿蒙 HarmonyOS Next ohos）](https://blog.csdn.net/cannonjinx/article/details/158356993)
+- [技术拆解：P2P组网如何一键远程AI](https://blog.csdn.net/2302_78391795/article/details/159314524)
+- [快马ai助力：快速创建适配imtoken dapp浏览器的区块链小游戏应用](https://blog.csdn.net/CrystalwaveEagle34/article/details/158896715)
+- [【AI】学习大语言模型原理必看的 10 篇论文](https://blog.csdn.net/2401_87342824/article/details/159044351)
 
 ### 🛡️ 安全资讯
-- [数仓产品如何构筑数据安全防线？腾讯云TCHouse系列全方位解析](https://cloud.tencent.com/developer/article/2644157)
-- [数仓合规性全解析：腾讯云数据仓库如何为企业数据安全保驾护航](https://cloud.tencent.com/developer/article/2644138)
-- [数仓权限管理全解析：腾讯云数据仓库如何保障数据安全？](https://cloud.tencent.com/developer/article/2644186)
+- [数仓产品如何赋能千行百业？腾讯云数据仓库全解析](https://cloud.tencent.com/developer/article/2644575)
+- [探秘数据仓库：哪些产品能轻松应对复杂多表连接与物化视图？](https://cloud.tencent.com/developer/article/2644609)
+- [SkillHub：面向中国用户的OpenClaw AI技能镜像与聚合社区平台](https://cloud.tencent.com/developer/article/2644089)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-编程是一门艺术，调试是一场修行。
+没有破解不了的程序，只有不够深入的学习。
 <!-- DAILY_INFO_END -->
