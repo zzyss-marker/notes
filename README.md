@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 22 │ 23 │ 24 │ ⭐ │ 26 │ 27 │ 28 │
+│ 22 │ 23 │ 24 │ 25 │ ⭐ │ 27 │ 28 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 29 │ 30 │ 31 │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年3月25日
+🌟 今天是2026年3月26日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/3/25)
+## 📰 今日资讯 (2026/3/26)
 
 ### 🔥 GitHub 热门项目
-- [pascalorg / editor](https://github.com/pascalorg / editor) - 
-- [bytedance / deer-flow](https://github.com/bytedance / deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
-- [supermemoryai / supermemory](https://github.com/supermemoryai / supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+- [mvanhorn / last30days-skill](https://github.com/mvanhorn / last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+- [bytedance / deer-flow](https://github.com/bytedance / deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
+- [BerriAI / litellm](https://github.com/BerriAI / litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]
 
 ### 📚 技术文章精选
-- [技术拆解：P2P组网如何一键远程AI](https://blog.csdn.net/2302_78391795/article/details/159314524)
-- [快马ai助力：快速创建适配imtoken dapp浏览器的区块链小游戏应用](https://blog.csdn.net/CrystalwaveEagle34/article/details/158896715)
-- [【AI】学习大语言模型原理必看的 10 篇论文](https://blog.csdn.net/2401_87342824/article/details/159044351)
+- [人工智能：大语言模型（LLM）原理与应用实战](https://blog.csdn.net/xcLeigh/article/details/157512658)
+- [腾讯云CodeBuddy AI IDE+CloudBase AI ToolKit打造理财小助手网页](https://blog.csdn.net/IRpickstars/article/details/149928291)
+- [这款AI舆情监控工具爆火了！Github上斩获14700+stars](https://blog.csdn.net/2401_82469710/article/details/154943354)
 
 ### 🛡️ 安全资讯
-- [数仓产品如何赋能千行百业？腾讯云数据仓库全解析](https://cloud.tencent.com/developer/article/2644575)
-- [探秘数据仓库：哪些产品能轻松应对复杂多表连接与物化视图？](https://cloud.tencent.com/developer/article/2644609)
-- [SkillHub：面向中国用户的OpenClaw AI技能镜像与聚合社区平台](https://cloud.tencent.com/developer/article/2644089)
+- [CloudQ企业微信智能机器人接入指南](https://cloud.tencent.com/developer/article/2645033)
+- [用微软的ctstraffic.exe、ntttcp.exe工具测试内网带宽](https://cloud.tencent.com/developer/article/2645227)
+- [2026年数据仓库选型指南：哪些产品真正支持MVCC多版本并发控制？](https://cloud.tencent.com/developer/article/2645231)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-没有破解不了的程序，只有不够深入的学习。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
