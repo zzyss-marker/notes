@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 22 │ 23 │ 24 │ 25 │ ⭐ │ 27 │ 28 │
+│ 22 │ 23 │ 24 │ 25 │ 26 │ ⭐ │ 28 │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 29 │ 30 │ 31 │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年3月26日
+🌟 今天是2026年3月27日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/3/26)
+## 📰 今日资讯 (2026/3/27)
 
 ### 🔥 GitHub 热门项目
 - [mvanhorn / last30days-skill](https://github.com/mvanhorn / last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-- [bytedance / deer-flow](https://github.com/bytedance / deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
-- [BerriAI / litellm](https://github.com/BerriAI / litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]
+- [Yeachan-Heo / oh-my-claudecode](https://github.com/Yeachan-Heo / oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
+- [virattt / dexter](https://github.com/virattt / dexter) - An autonomous agent for deep financial research
 
 ### 📚 技术文章精选
-- [人工智能：大语言模型（LLM）原理与应用实战](https://blog.csdn.net/xcLeigh/article/details/157512658)
-- [腾讯云CodeBuddy AI IDE+CloudBase AI ToolKit打造理财小助手网页](https://blog.csdn.net/IRpickstars/article/details/149928291)
-- [这款AI舆情监控工具爆火了！Github上斩获14700+stars](https://blog.csdn.net/2401_82469710/article/details/154943354)
+- [Strix AI安全测试工具：新手快速上手终极指南](https://blog.csdn.net/gitblog_01147/article/details/155808888)
+- [宝塔面板部署 OpenClaw（Clawdbot）实战指南：从零到云端 AI 助理](https://blog.csdn.net/weixin_52908342/article/details/157615698)
+- [飞算JavaAI炫技赛：一天完成学生成绩综合统计分析系统开发(含源码）](https://blog.csdn.net/2301_76341691/article/details/151155025)
 
 ### 🛡️ 安全资讯
-- [CloudQ企业微信智能机器人接入指南](https://cloud.tencent.com/developer/article/2645033)
-- [用微软的ctstraffic.exe、ntttcp.exe工具测试内网带宽](https://cloud.tencent.com/developer/article/2645227)
-- [2026年数据仓库选型指南：哪些产品真正支持MVCC多版本并发控制？](https://cloud.tencent.com/developer/article/2645231)
+- [NVIDIA DLSS 5技术要点、前景及英伟达重大技术革新解析](https://cloud.tencent.com/developer/article/2645523)
+- [CloudQ QClaw接入指南](https://cloud.tencent.com/developer/article/2645489)
+- [SQL开发者的福音：腾讯云数据仓库如何让数据分析更简单？](https://cloud.tencent.com/developer/article/2645877)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-今天的努力是明天的铺垫。
+最好的防御就是深入的理解。
 <!-- DAILY_INFO_END -->
