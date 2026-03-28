@@ -36,7 +36,7 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 22 │ 23 │ 24 │ 25 │ 26 │ ⭐ │ 28 │
+│ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │ ⭐ │
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 29 │ 30 │ 31 │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
@@ -45,7 +45,7 @@
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年3月27日
+🌟 今天是2026年3月28日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,22 +111,22 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/3/27)
+## 📰 今日资讯 (2026/3/28)
 
 ### 🔥 GitHub 热门项目
 - [mvanhorn / last30days-skill](https://github.com/mvanhorn / last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-- [Yeachan-Heo / oh-my-claudecode](https://github.com/Yeachan-Heo / oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
-- [virattt / dexter](https://github.com/virattt / dexter) - An autonomous agent for deep financial research
+- [hacksider / Deep-Live-Cam](https://github.com/hacksider / Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+- [SakanaAI / AI-Scientist-v2](https://github.com/SakanaAI / AI-Scientist-v2) - The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
 
 ### 📚 技术文章精选
-- [Strix AI安全测试工具：新手快速上手终极指南](https://blog.csdn.net/gitblog_01147/article/details/155808888)
-- [宝塔面板部署 OpenClaw（Clawdbot）实战指南：从零到云端 AI 助理](https://blog.csdn.net/weixin_52908342/article/details/157615698)
-- [飞算JavaAI炫技赛：一天完成学生成绩综合统计分析系统开发(含源码）](https://blog.csdn.net/2301_76341691/article/details/151155025)
+- [2026 AI办公实战：3个真实案例，从加班到高效的普通人破局路](https://blog.csdn.net/Tong20061011/article/details/159118355)
+- [语义解析革命：飞算JavaAI三层架构重塑企业级代码生成链路](https://blog.csdn.net/m0_74385041/article/details/150289635)
+- [【AI大模型前沿】XVERSE-Ent：元象开源的泛娱乐中英双语底座大模型](https://blog.csdn.net/xiaobing259/article/details/158878883)
 
 ### 🛡️ 安全资讯
-- [NVIDIA DLSS 5技术要点、前景及英伟达重大技术革新解析](https://cloud.tencent.com/developer/article/2645523)
-- [CloudQ QClaw接入指南](https://cloud.tencent.com/developer/article/2645489)
-- [SQL开发者的福音：腾讯云数据仓库如何让数据分析更简单？](https://cloud.tencent.com/developer/article/2645877)
+- [告别“黑箱”养虾！腾讯云可观测平台给您的 OpenClaw 装上“透视眼”](https://cloud.tencent.com/developer/article/2646926)
+- [数仓产品与BI工具集成全解析：如何选择最适合的数据分析方案？](https://cloud.tencent.com/developer/article/2646935)
+- [告别“黑箱”养虾！腾讯云可观测平台给您的 OpenClaw 装上“透视眼”](https://cloud.tencent.com/developer/article/2646928)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
