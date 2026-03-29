@@ -36,16 +36,16 @@
 ├────┼────┼────┼────┼────┼────┼────┤
 │ 15 │ 16 │ 17 │ 18 │ 19 │ 20 │ 21 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │ ⭐ │
+│ 22 │ 23 │ 24 │ 25 │ 26 │ 27 │ 28 │
 ├────┼────┼────┼────┼────┼────┼────┤
-│ 29 │ 30 │ 31 │    │    │    │    │
+│ ⭐ │ 30 │ 31 │    │    │    │    │
 └────┴────┴────┴────┴────┴────┴────┘
 ```
 
 ```
 📊 今日状态
 ─────────────────────────
-🌟 今天是2026年3月28日
+🌟 今天是2026年3月29日
 🌈 今天又是元气满满的一天
 ─────────────────────────
 ```
@@ -111,26 +111,26 @@
 
 <!-- DAILY_INFO_START -->
 
-## 📰 今日资讯 (2026/3/28)
+## 📰 今日资讯 (2026/3/29)
 
 ### 🔥 GitHub 热门项目
-- [mvanhorn / last30days-skill](https://github.com/mvanhorn / last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [hacksider / Deep-Live-Cam](https://github.com/hacksider / Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+- [obra / superpowers](https://github.com/obra / superpowers) - An agentic skills framework & software development methodology that works.
 - [SakanaAI / AI-Scientist-v2](https://github.com/SakanaAI / AI-Scientist-v2) - The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
 
 ### 📚 技术文章精选
-- [2026 AI办公实战：3个真实案例，从加班到高效的普通人破局路](https://blog.csdn.net/Tong20061011/article/details/159118355)
-- [语义解析革命：飞算JavaAI三层架构重塑企业级代码生成链路](https://blog.csdn.net/m0_74385041/article/details/150289635)
-- [【AI大模型前沿】XVERSE-Ent：元象开源的泛娱乐中英双语底座大模型](https://blog.csdn.net/xiaobing259/article/details/158878883)
+- [Mac Studio M3 Ultra跑大模型实测：家用AI超算的性价比之选](https://blog.csdn.net/IronwoodStag78/article/details/154829322)
+- [【技术加速器】当 AI Coding 从“辅助”走向“主力”：Claude Code 与 Skills 的真实使用笔记](https://blog.csdn.net/2401_82452722/article/details/158036983)
+- [AI本地部署工具哪家强？7款热门工具横向对比](https://blog.csdn.net/ainnle/article/details/145679181)
 
 ### 🛡️ 安全资讯
 - [告别“黑箱”养虾！腾讯云可观测平台给您的 OpenClaw 装上“透视眼”](https://cloud.tencent.com/developer/article/2646926)
-- [数仓产品与BI工具集成全解析：如何选择最适合的数据分析方案？](https://cloud.tencent.com/developer/article/2646935)
-- [告别“黑箱”养虾！腾讯云可观测平台给您的 OpenClaw 装上“透视眼”](https://cloud.tencent.com/developer/article/2646928)
+- [数据仓库性能核心揭秘：哪些产品真正具备RBO/CBO智能查询优化器？](https://cloud.tencent.com/developer/article/2647007)
+- [当小龙虾学会视频处理：腾讯云媒体处理 tencent-mps Skill 正式上线 OpenClaw](https://cloud.tencent.com/developer/article/2646938)
 
 ### 🌟 知乎每日精选
 获取知乎每日精选失败
 
 ### 💡 每日一句
-最好的防御就是深入的理解。
+今天的努力是明天的铺垫。
 <!-- DAILY_INFO_END -->
